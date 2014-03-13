@@ -127,7 +127,7 @@ class TestDocument(unittest.TestCase):  # pylint: disable=R0904
     def test_new(self):
         """Verify a new document can be created with defaults."""
         MockDocument._new.reset_mock()
-        path = os.path.join(EMPTY, '.demo.yml')
+        path = os.path.join(EMPTY, '.doorstop.yml')
         document = MockDocument.new(EMPTY, root=FILES, prefix='NEW', digits=2)
         self.assertEqual('NEW', document.prefix)
         self.assertEqual(2, document.digits)

@@ -9,7 +9,7 @@ import markdown
 from demo.common import DemoError
 from demo import settings
 
-CSS = os.path.join(os.path.dirname(__file__), 'files', 'demo.css')
+CSS = os.path.join(os.path.dirname(__file__), 'files', 'doorstop.css')
 
 
 def publish(document, path, ext=None, ignored=None, **kwargs):

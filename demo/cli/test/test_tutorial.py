@@ -13,10 +13,10 @@ import logging
 from demo.cli.test import ENV, REASON, ROOT
 
 if os.name == 'nt':
-    PATH = os.path.join(ROOT, 'env', 'Scripts', 'demo.exe')
+    PATH = os.path.join(ROOT, 'env', 'Scripts', 'doorstop-demo.exe')
     DEMO = os.path.normpath(PATH)
 else:
-    PATH = os.path.join(ROOT, 'env', 'bin', 'demo')
+    PATH = os.path.join(ROOT, 'env', 'bin', 'doorstop-demo')
     DEMO = os.path.normpath(PATH)
 
 
@@ -43,11 +43,11 @@ class TestBase(unittest.TestCase):  # pylint: disable=R0904
 
     @staticmethod
     def demo(args=""):
-        """Call 'demo' with a string of arguments."""
-        print("$ demo {}".format(args))
+        """Call 'doorstop-demo' with a string of arguments."""
+        print("$ doorstop-demo {}".format(args))
         cmd = "{} {} -v".format(DEMO, args)
         if subprocess.call(cmd, shell=True, stderr=subprocess.PIPE) != 0:
-            raise AssertionError("command failed: demo {}".format(args))
+            raise AssertionError("command failed: doorstop-demo {}".format(args))
 
 
 @unittest.skipUnless(os.getenv(ENV), REASON)  # pylint: disable=R0904

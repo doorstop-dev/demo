@@ -91,7 +91,7 @@ apidocs/$(PACKAGE)/index.html: $(SOURCES)
 	$(PYTHON) $(PDOC) --html --overwrite $(PACKAGE) --html-dir apidocs
 
 .PHONY: req
-req: env docs/gen/*.gen.*
+req: .depends-ci docs/gen/*.gen.*
 docs/gen/*.gen.*: */*/*.yml */*/*/*.yml */*/*/*/*.yml
 	$(BIN)/doorstop
 	- mkdir docs/gen

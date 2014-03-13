@@ -12,21 +12,21 @@ from demo.gui import main as gui
 
 class TestMain(unittest.TestCase):  # pylint: disable=R0904
 
-    """Integration tests for the 'doorstop-gui' command."""
+    """Integration tests for the 'doorstop-demo-gui' command."""
 
-    @patch('doorstop.gui.main._run', Mock(return_value=True))
+    @patch('demo.gui.main._run', Mock(return_value=True))
     def test_gui(self):
-        """Verify 'doorstop-gui' launches the GUI."""
+        """Verify 'doorstop-demo-gui' launches the GUI."""
         self.assertIs(None, main([]))
 
-    @patch('doorstop.gui.main._run', Mock(return_value=False))
+    @patch('demo.gui.main._run', Mock(return_value=False))
     def test_exit(self):
-        """Verify 'doorstop-gui' treats False as an error ."""
+        """Verify 'doorstop-demo-gui' treats False as an error ."""
         self.assertRaises(SystemExit, main, [])
 
-    @patch('doorstop.gui.main._run', Mock(side_effect=KeyboardInterrupt))
+    @patch('demo.gui.main._run', Mock(side_effect=KeyboardInterrupt))
     def test_interrupt(self):
-        """Verify 'doorstop-gui' treats KeyboardInterrupt as an error."""
+        """Verify 'doorstop-demo-gui' treats KeyboardInterrupt as an error."""
         self.assertRaises(SystemExit, main, [])
 
 
@@ -42,7 +42,7 @@ class TestImport(unittest.TestCase):  # pylint: disable=R0904
         self.assertIsInstance(gui.tk, Mock)
 
 
-@patch('doorstop.gui.main._run', Mock(return_value=True))  # pylint: disable=R0904
+@patch('demo.gui.main._run', Mock(return_value=True))  # pylint: disable=R0904
 class TestLogging(unittest.TestCase):  # pylint: disable=R0904
 
     """Integration tests for the Doorstop GUI logging."""

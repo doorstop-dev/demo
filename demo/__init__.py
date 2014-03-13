@@ -3,8 +3,8 @@
 __project__ = 'Doorstop'
 __version__ = '0.2'
 
-CLI = 'demo-demo'
-GUI = 'demo-demo-gui'
+CLI = 'doorstop-demo'
+GUI = 'doorstop-demo-gui'
 VERSION = __project__ + '-' + __version__
 
 try:

@@ -15,8 +15,8 @@ class Document(BaseFileObject):  # pylint: disable=R0902,R0904
 
     """Represents a document directory containing an outline of items."""
 
-    CONFIG = '.demo.yml'
-    SKIP = '.demo.skip'  # indicates this document should be skipped
+    CONFIG = '.doorstop.yml'
+    SKIP = '.doorstop.skip'  # indicates this document should be skipped
 
     DEFAULT_PREFIX = 'REQ'
     DEFAULT_SEP = ''

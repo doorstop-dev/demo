@@ -195,7 +195,7 @@ class TestTree(unittest.TestCase):  # pylint: disable=R0904
         """Verify an item can be added to a document."""
         self.tree.add('REQ')
         mock_add.assert_called_once_with()
-        path = os.path.join(FILES, '.demo.yml')
+        path = os.path.join(FILES, '.doorstop.yml')
         mock_lock.assert_called_once_with(path)
 
     def test_add_unknown_prefix(self):
