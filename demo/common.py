@@ -1,4 +1,4 @@
-"""Common exceptions, classes, and functions for Doorstop."""
+"""Common exceptions, classes, and functions for DoorstopDemo."""
 
 import argparse
 import logging
@@ -12,17 +12,17 @@ MAX_VERBOSITY = 4
 
 class DemoError(Exception):
 
-    """Generic Doorstop error."""
+    """Generic DoorstopDemo error."""
 
 
 class DemoWarning(DemoError, Warning):
 
-    """Generic Doorstop warning."""
+    """Generic DoorstopDemo warning."""
 
 
 class DemoInfo(DemoError, Warning):
 
-    """Generic Doorstop info."""
+    """Generic DoorstopDemo info."""
 
 
 class HelpFormatter(argparse.HelpFormatter):

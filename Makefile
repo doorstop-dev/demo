@@ -62,7 +62,8 @@ depends: .depends-ci .depends-dev
 .PHONY: .depends-ci
 .depends-ci: .virtualenv Makefile $(DEPENDS_CI)
 $(DEPENDS_CI): Makefile
-	$(PIP) install Doorstop pep8 pep257 nose coverage
+	$(PIP) install pep8 pep257 nose coverage
+	$(PIP) install git+git://github.com/jacebrowning/doorstop.git@master
 	touch $(DEPENDS_CI)  # flag to indicate dependencies are installed
 
 .PHONY: .depends-dev
@@ -74,7 +75,7 @@ $(DEPENDS_DEV): Makefile
 # Documentation ##############################################################
 
 .PHONY: doc
-doc: readme apidocs req
+doc: readme apidocs html
 
 .PHONY: readme
 readme: .depends-ci docs/README-github.html docs/README-pypi.html
@@ -90,29 +91,27 @@ apidocs: .depends-ci apidocs/$(PACKAGE)/index.html
 apidocs/$(PACKAGE)/index.html: $(SOURCES)
 	$(PYTHON) $(PDOC) --html --overwrite $(PACKAGE) --html-dir apidocs
 
-.PHONY: req
-req: .depends-ci docs/gen/*.gen.*
-docs/gen/*.gen.*: */*/*.yml */*/*/*.yml */*/*/*/*.yml
+.PHONY: doorstop
+doorstop: .depends-ci
 	$(BIN)/doorstop
-	- mkdir docs/gen
-	$(BIN)/doorstop publish REQ docs/gen/Requirements.gen.txt
-	$(BIN)/doorstop publish TUT docs/gen/Tutorials.gen.txt
-	$(BIN)/doorstop publish HLT docs/gen/HighLevelTests.gen.txt
-	$(BIN)/doorstop publish LLT docs/gen/LowLevelTests.gen.txt
-	$(BIN)/doorstop publish REQ docs/gen/Requirements.gen.html
-	$(BIN)/doorstop publish TUT docs/gen/Tutorials.gen.html
-	$(BIN)/doorstop publish HLT docs/gen/HighLevelTests.gen.html
-	$(BIN)/doorstop publish LLT docs/gen/LowLevelTests.gen.html
+
+.PHONY: html
+html: .depends-ci docs/gen/*.html
+docs/gen/*.html: $(shell find . -name '*.yml')
+	mkdir -p docs/gen
+	$(BIN)/doorstop publish SYS docs/gen/SYS.html
+	$(BIN)/doorstop publish HLR docs/gen/HLR.html
+	$(BIN)/doorstop publish LLR docs/gen/LLR.html
+	$(BIN)/doorstop publish HLT docs/gen/HLT.html
+	$(BIN)/doorstop publish LLT docs/gen/LLT.html
 
 .PHONY: read
 read: doc
-	$(OPEN) docs/gen/LowLevelTests.gen.html
-	$(OPEN) docs/gen/HighLevelTests.gen.html
-	$(OPEN) docs/gen/Tutorials.gen.html
-	$(OPEN) docs/gen/Requirements.gen.html
-	$(OPEN) apidocs/$(PACKAGE)/index.html
-	$(OPEN) docs/README-pypi.html
-	$(OPEN) docs/README-github.html
+	$(OPEN) docs/gen/LLT.html
+	$(OPEN) docs/gen/HLT.html
+	$(OPEN) docs/gen/LLR.html
+	$(OPEN) docs/gen/HLR.html
+	$(OPEN) docs/gen/SYS.html
 
 # Static Analysis ############################################################
 
@@ -144,12 +143,8 @@ test: env .depends-ci
 tests: env .depends-ci
 	TEST_INTEGRATION=1 $(NOSE) --verbose --stop --cover-package=$(PACKAGE)
 
-.PHONY: tutorial
-tutorial: env
-	$(PYTHON) $(PACKAGE)/cli/test/test_tutorial.py
-
 .PHONY: ci
-ci: req pep8 pep257 test tests
+ci: doorstop pep8 pep257 test tests
 
 # Cleanup ####################################################################
 
@@ -212,6 +207,6 @@ dev:
 
 # Demo #######################################################################
 
-.PHONY: rand
-rand: env depends
+.PHONY: random
+random: env .depends-ci
 	$(PYTHON) randomize.py

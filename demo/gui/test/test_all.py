@@ -1,4 +1,4 @@
-"""Integration tests for the doorstop.cli package."""
+"""Integration tests for the demo.cli package."""
 
 import unittest
 from unittest.mock import patch, Mock
@@ -45,7 +45,7 @@ class TestImport(unittest.TestCase):  # pylint: disable=R0904
 @patch('demo.gui.main._run', Mock(return_value=True))  # pylint: disable=R0904
 class TestLogging(unittest.TestCase):  # pylint: disable=R0904
 
-    """Integration tests for the Doorstop GUI logging."""
+    """Integration tests for the DoorstopDemo GUI logging."""
 
     def test_verbose_1(self):
         """Verify verbose level 1 can be set."""

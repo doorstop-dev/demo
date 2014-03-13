@@ -1,4 +1,4 @@
-"""Representation of items in a Doorstop document."""
+"""Representation of items in a DoorstopDemo document."""
 
 import os
 import re
@@ -448,7 +448,7 @@ class Item(BaseFileObject):  # pylint: disable=R0904
                 if prefix != document.parent:
                     # this is only 'info' because a document is allowed
                     # to contain items with a different prefix, but
-                    # Doorstop will not create items like this
+                    # DoorstopDemo will not create items like this
                     msg = "linked to non-parent item: {}".format(identifier)
                     yield DemoInfo(msg)
 

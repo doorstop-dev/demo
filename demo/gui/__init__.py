@@ -1,1 +1,1 @@
-"""Graphical interface for Doorstop."""
+"""Graphical interface for DoorstopDemo."""

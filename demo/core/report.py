@@ -1,4 +1,4 @@
-"""Doorstop reporting functionality."""
+"""DoorstopDemo reporting functionality."""
 
 import os
 import textwrap

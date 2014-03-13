@@ -105,17 +105,17 @@ class TestModule(unittest.TestCase):  # pylint: disable=R0904
     def test_find_document(self):
         """Verify documents can be found using a convenience function."""
         # Cache miss
-        document = core.find_document('req')
+        document = core.find_document('sys')
         self.assertIsNot(None, document)
         # Cache hit
-        document2 = core.find_document('req')
+        document2 = core.find_document('sys')
         self.assertIs(document2, document)
 
     def test_find_item(self):
         """Verify items can be found using a convenience function."""
         # Cache miss
-        item = core.find_item('req1')
+        item = core.find_item('sys1')
         self.assertIsNot(None, item)
         # Cache hit
-        item2 = core.find_item('req1')
+        item2 = core.find_item('sys1')
         self.assertIs(item2, item)

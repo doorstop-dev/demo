@@ -1,7 +1,7 @@
 """Package for demo."""
 
-__project__ = 'Doorstop'
-__version__ = '0.2'
+__project__ = 'DoorstopDemo'
+__version__ = '0.0.0'
 
 CLI = 'doorstop-demo'
 GUI = 'doorstop-demo-gui'

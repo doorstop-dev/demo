@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""Graphical interface for Doorstop."""
+"""Graphical interface for DoorstopDemo."""
 
 import sys
 from unittest.mock import Mock
@@ -134,12 +134,12 @@ class Listbox2(tk.Listbox):  # pragma: no cover, manual test, pylint: disable=R0
 
 class Application(ttk.Frame):  # pragma: no cover, manual test, pylint: disable=R0901,R0902,R0904
 
-    """Graphical application for Doorstop."""
+    """Graphical application for DoorstopDemo."""
 
     def __init__(self, root, cwd, project):
         ttk.Frame.__init__(self, root)
 
-        # Create Doorstop variables
+        # Create DoorstopDemo variables
         self.cwd = cwd
         self.tree = None
         self.document = None

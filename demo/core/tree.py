@@ -1,4 +1,4 @@
-"""Compiles the Doorstop document hierarchy."""
+"""Compiles the DoorstopDemo document hierarchy."""
 
 import os
 import sys

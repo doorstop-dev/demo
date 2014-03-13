@@ -3,7 +3,6 @@ DoorstopDemo
 
 [![Build Status](https://travis-ci.org/jacebrowning/doorstop-demo.png?branch=master)](https://travis-ci.org/jacebrowning/doorstop-demo)
 [![Coverage Status](https://coveralls.io/repos/jacebrowning/doorstop-demo/badge.png?branch=master)](https://coveralls.io/r/jacebrowning/doorstop-demo?branch=master)
-[![PyPI Version](https://badge.fury.io/py/Doorstop.png)](http://badge.fury.io/py/Doorstop)
 
 This is a copy of Doorstop using random requirements as a demonstration.
 
@@ -21,107 +20,29 @@ Requirements
 Installation
 ------------
 
-Doorstop can be installed with 'pip':
+DoorstopDemo can be installed in a virtualenv from source:
 
-    $ pip install Doorstop
-
-Or directly from source:
-
-    $ git clone https://github.com/jacebrowning/doorstop.git
-    $ cd doorstop
-    $ python setup.py install
-
-After installation, Doorstop is available on the command-line:
-
-    $ doorstop --help
-
-And the package is available under the name 'doorstop':
-
-    $ python
-    >>> import doorstop
-    >>> doorstop.__version__
+    $ git clone https://github.com/jacebrowning/doorstop-demo.git
+    $ cd doorstop-demo
+    $ make
 
 
 
-Document Creation
-=================
+Basic Usage
+===========
 
-Parent Document
----------------
+To generate new random requirements:
 
-After configuring version control, a new parent document can be created:
+    $ make random
 
-    $ doorstop new REQ ./reqs
-    created document: REQ (@/reqs)
+To validate the requirements:
 
-Items can be added to the document and edited:
+    $ make doorstop
 
-    $ doorstop add REQ
-    added item: REQ001 (@/reqs/REQ001.yml)
+To generate HTML:
 
-    $ doorstop edit REQ1
-    opened item: REQ001 (@/reqs/REQ001.yml)
+    $ make html
 
+To open the generated HTML in a browser:
 
-Child Documents
----------------
-
-Additional documents can be created that link to other documents:
-
-    $ doorstop new TST ./reqs/tests --parent REQ
-    created document: TST (@/reqs/tests)
-
-Items can be added and linked to parent items:
-
-    $ doorstop add TST
-    added item: TST001 (@/reqs/tests/TST001.yml)
-
-    $ doorstop link TST1 REQ1
-    linked item: TST001 (@/reqs/tests/TST001.yml) -> REQ001 (@/reqs/REQ001.yml)
-
-
-
-Document Validation
-===================
-
-To check a document hierarchy for consistency, run the main command:
-
-    $ doorstop
-    valid tree: REQ <- [ TST ]
-
-
-
-Document Publishing
-===================
-
-A text report of a document can be displayed:
-
-    $ doorstop publish TST
-    1       TST001
-
-            Verify the foobar will foo and bar.
-
-            Links: REQ001
-
-Other formats are also supported:
-
-    $ doorstop publish TST --html
-    <!DOCTYPE html>
-    ...
-    <body>
-    <h1>1 (TST001)</h1>
-    <p>Verify the foobar will foo and bar.</p>
-    <p><em>Links: REQ001</em></p>
-    </body>
-    </html>
-
-Or a file can be created using one of the supported extensions:
-
-    $ doorstop publish TST path/to/tst.md
-    publishing TST to path/to/tst.md...
-
-Supported formats:
-
--   Text: **.txt**
--   Markdown: **.md**
--   HTML: **.html**
+    $ make read
