@@ -15,6 +15,7 @@ env
 apidocs
 docs/*.html
 *.rst
+gen/*.*
 
 # Google Drive
 *.gdoc

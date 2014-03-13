@@ -166,7 +166,7 @@ clean-all: clean .clean-env
 
 .PHONY: .clean-doc
 .clean-doc:
-	rm -rf apidocs docs/README*.html README.rst
+	rm -rf apidocs docs/README*.html README.rst docs/gen/*
 
 .PHONY: .clean-test
 .clean-test:
