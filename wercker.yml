@@ -38,6 +38,7 @@ deploy:
     - script:
         name: deploy to github pages
         code: |-
+          cd docs/gen
           git init
           git add .
           git commit -m "deploy commit from $WERCKER_STARTED_BY"
