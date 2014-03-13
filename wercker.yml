@@ -3,11 +3,10 @@ box: flenter/multi-python@0.0.4
 build:
   # The steps that will be executed on build
   steps:
+    - flenter/py-virtualenv
     - script:
         name: create virtualenv
-        code: |
-          pip install virtualenv
-          make env
+        code: make env
     - script:
         name: install package
         code: make
