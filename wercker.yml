@@ -1,7 +1,5 @@
 box: flenter/multi-python@0.0.4
-# Build definition
 build:
-  # The steps that will be executed on build
   steps:
     - flenter/py-virtualenv
     - script:
@@ -22,3 +20,25 @@ build:
     - script:
         name: run integration tests
         code: make tests
+deploy:
+  steps:
+    - script:
+        name: install dependencies
+        code: make .depends-dev
+    - script:
+        name: generate documentation
+        code: make apidocs html
+    - script:
+        name: configure git
+        code: |-
+          git config --global user.email "pleasemailus@wercker.com"
+          git config --global user.name "wercker"
+          # remove current .git folder
+          rm -rf .git
+    - script:
+        name: deploy to github pages
+        code: |-
+          git init
+          git add .
+          git commit -m "deploy commit from $WERCKER_STARTED_BY"
+          git push -f $GIT_REMOTE master:gh-pages
