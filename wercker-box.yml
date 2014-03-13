@@ -1,0 +1,10 @@
+name: doorstop-demo
+version: 0.0.1
+inherits: wercker/ubuntu12.04-webessentials@0.0.3
+type: service
+platform: ubuntu@12.04
+description: wercker box for a Doorstop deomonstration
+keywords:
+  - doorstop
+  - python
+  - html
