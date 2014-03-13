@@ -5,7 +5,9 @@ build:
   steps:
     - script:
         name: create virtualenv
-        code: make env
+        code: |
+          pip install virtualenv
+          make env
     - script:
         name: install package
         code: make
