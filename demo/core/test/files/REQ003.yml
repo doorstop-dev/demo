@@ -1,0 +1,9 @@
+active: true
+derived: false
+level: 1.2
+links:
+- REQ001
+normative: true
+ref: REF123
+text: |
+  Hello, world!
