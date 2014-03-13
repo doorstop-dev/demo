@@ -210,8 +210,8 @@ upload: .git-no-changes env depends doc
 dev:
 	python setup.py develop
 
-# Execution ##################################################################
+# Demo #######################################################################
 
-.PHONY: gui
-gui: env
-	$(BIN)/$(PACKAGE)-gui$(EXE)
+.PHONY: rand
+rand: env depends
+	$(PYTHON) randomize.py

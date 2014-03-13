@@ -3,6 +3,7 @@
 	<name>DoorstopDemo</name>
 	<comment></comment>
 	<projects>
+		<project>Doorstop</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

@@ -1,8 +1,0 @@
-active: true
-derived: false
-level: 3.4
-links: []
-normative: true
-ref: ''
-text: |
-  Doorstop **shall** be scalable to support thousands of requirements.
