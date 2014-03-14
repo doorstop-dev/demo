@@ -1,4 +1,4 @@
-box: flenter/multi-python@0.0.4
+box: josh/python
 build:
   steps:
     - flenter/py-virtualenv
