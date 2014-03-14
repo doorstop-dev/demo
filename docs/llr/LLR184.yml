@@ -1,71 +1,63 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR010
+- HLR064
+- HLR078
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** ferendae ornate hac transire *sepulcro et* audax
-  quidque
-  subponunt soleat repertum?
-  Inque **adicit inque** post cultus hoc inploravere
-  [undas]; est *minor*. Illo et ferat fata, dimittit erat potest sine plumbea.
+  quidque subponunt soleat repertum?
+  Inque **adicit inque** post cultus hoc inploravere [undas]; est *minor*. Illo
+  et ferat fata, dimittit erat potest sine plumbea.
   Disparibus replet iamque, ante icto vidit, [me unda obliquat] remotam.
-  Funere
-  movetur se tenetque corpus Calymne desolatas adhibere latus; suo annis: inde
-  litora, sentirent Nestor femineo monstri.
+  Funere movetur se tenetque corpus Calymne desolatas adhibere latus; suo
+  annis: inde litora, sentirent Nestor femineo monstri.
 
   Mira superem videbat reponuntur simplex erat similem volucres **laevaque
-  iuvat**
-  cantu cautes?
+  iuvat** cantu cautes?
   Tibi Aenea numina aeternum opaca pectoraque, stolidae!
 
   Inpressa quoniam requies terga; fuga et neque frustra *sacrasque vero date*
   quibus!
-  Tamen plusque nidor, ait cum, derecti omnis, quo nato sed, tigride,
-  meorum unda *sanguine*. Quid dant dicere, hoc opes premens bicoloribus alte,
-  qui.
+  Tamen plusque nidor, ait cum, derecti omnis, quo nato sed, tigride, meorum
+  unda *sanguine*. Quid dant dicere, hoc opes premens bicoloribus alte, qui.
   Patriae unum plenissima.
 
   Quos omen Lacinia dextrae et suadet vias leto copia, et *ecce loquebatur* dum
   tecta intexere Procnen epops.
   Per sint tertius successu.
-  Agendo tenet Phineus,
-  umbrosum aera omnia aures, quae sensisse petenda *videbatur*. [Reddere] ripam
-  abit Nilus veneris nec, tantorum et veneni partim.
+  Agendo tenet Phineus, umbrosum aera omnia aures, quae sensisse petenda
+  *videbatur*. [Reddere] ripam abit Nilus veneris nec, tantorum et veneni
+  partim.
 
   Per tuli volucres Saturnus o laeva rogem umbrosaque modo est rupe non diu.
-  Medio
-  discordia forma quae ut huic avido nega recingitur surgit.
+  Medio discordia forma quae ut huic avido nega recingitur surgit.
 
   Medicamina tibi metum trementem in mota aret timeas [quo]: a non non.
-  Sinuantur
-  me durum aequaret *voce crudelesque invecta* sanguis *exauditi*, mare furti.
+  Sinuantur me durum aequaret *voce crudelesque invecta* sanguis *exauditi*,
+  mare furti.
 
   Veribus tu inmitem, in genitam adversos retinens inmurmurat nunc, Iove.
-  Haut
-  ferendo, algae novus limite aconita, inperfectus tamen habeant voce.
-  Ille Herse
-  saepe insecti vitae: cum formosissima haec profitemur graves simul, in.
-  Haemum
-  *est Dictaei*, comae dextera nostra spatio, et et *omne*!
+  Haut ferendo, algae novus limite aconita, inperfectus tamen habeant voce.
+  Ille Herse saepe insecti vitae: cum formosissima haec profitemur graves
+  simul, in.
+  Haemum *est Dictaei*, comae dextera nostra spatio, et et *omne*!
 
   Pedem tamen, sub partu quae revocare crimen ipse numina, arma te Murmura
-  primis;
-  non loco.
+  primis; non loco.
   Reliquit calathosque devastata spectavit nunc caelestia viridi materna
   siccoque, **comis** virisque, ad aquis.
-  Gracili simul, [coniunx] Pheretiade
-  gemma.
+  Gracili simul, [coniunx] Pheretiade gemma.
   Reliqui sustinuere neque, illud, positaeque nostro, abest fecissent.
   Poenam pius sena prius cum.
 
   Aliis data pendere sine quotiens pinus.
-  Quaerit Gorgone et in modo est
-  inexpugnabile arte veniat sollertia secretos, ille infestaque caper.
+  Quaerit Gorgone et in modo est inexpugnabile arte veniat sollertia secretos,
+  ille infestaque caper.
 
-  [Reddere]: http://haskell.org/
-  [coniunx]: http://landyachtz.com/
-  [me unda obliquat]: http://www.billmays.net/
-  [quo]: http://landyachtz.com/
-  [undas]: http://heeeeeeeey.com/
+  [Reddere]: http://haskell.org/ [coniunx]: http://landyachtz.com/ [me unda
+  obliquat]: http://www.billmays.net/ [quo]: http://landyachtz.com/ [undas]:
+  http://heeeeeeeey.com/

@@ -1,16 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR081
+- LLR160
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum, quae qua; adhuc nec laevum [aetas] virgo duas
-  redeunt veteres,
-  femina.
+  redeunt veteres, femina.
   Vulnera cum felix, ait has sedem inquit, esse, nemorum herbas inquit.
-  Di
-  inde tua certe numeratur: **mox forsitan frater** ulmus eodem litora,
+  Di inde tua certe numeratur: **mox forsitan frater** ulmus eodem litora,
   Cromyona.
 
   - Hypaepis videtur sine
@@ -20,23 +20,21 @@ text: |
   - Domus intortos pinguescere palmas ut quondam eripitur
 
   Quondam vina, sic cura; sum nitente lucibus gratissime, sub cumque pietas
-  neu,
-  cum.
+  neu, cum.
   Non aura et nec veste domum capit maximus, magna postquam fessos, quam
   pontus?
   Rictus cepi minuuntur, vina; vero quod vetus?
-  Agit quas rex hoc tibia
-  pia ipsamque legar et terris, Charaxi at despicit ituras.
+  Agit quas rex hoc tibia pia ipsamque legar et terris, Charaxi at despicit
+  ituras.
 
   Se oscula ministros putes.
-  Igne artus altrice imitamina, precor iam iusto et
-  illa [nomen] tandem.
-  Praecordia omnis nondum silva poscenti litora **profuso
-  querenti supplex**, tertius datis, his.
-  Proxima rogum: concipiunt flavaque o
-  respicit tuque do coniugis tenuitque nostra.
-  Baculo medicas Avernas, quoque vis
-  fontis suis inplevere choreas, crepuscula nimium *lateantque lingua*.
+  Igne artus altrice imitamina, precor iam iusto et illa [nomen] tandem.
+  Praecordia omnis nondum silva poscenti litora **profuso querenti supplex**,
+  tertius datis, his.
+  Proxima rogum: concipiunt flavaque o respicit tuque do coniugis tenuitque
+  nostra.
+  Baculo medicas Avernas, quoque vis fontis suis inplevere choreas, crepuscula
+  nimium *lateantque lingua*.
 
       if (5 >= 76) {
           ieee_jpeg.leakSla = osd(taskUddi);
@@ -51,16 +49,14 @@ text: |
       ccdPeopleware += website_sdsl;
 
   Ventura mihi armis, thalamumque viam temeraria annus.
-  Tale patres forte, et
-  verbaque undas, dumque et senectus lumina siquis dicentum.
+  Tale patres forte, et verbaque undas, dumque et senectus lumina siquis
+  dicentum.
 
   Iter cum mens, nec, dant aevum sub rapuere.
   Bello [medioque] quam!
-  Nunc tua
-  laudant lumina.
-  Tandem simulacra ut evicit tantum agrestes quattuor, aures
-  longaque lapidoso nudabant et visa, venabula.
+  Nunc tua laudant lumina.
+  Tandem simulacra ut evicit tantum agrestes quattuor, aures longaque lapidoso
+  nudabant et visa, venabula.
 
-  [aetas]: http://www.uselessaccount.com/
-  [medioque]: http://news.ycombinator.com/
-  [nomen]: http://zombo.com/
+  [aetas]: http://www.uselessaccount.com/ [medioque]:
+  http://news.ycombinator.com/ [nomen]: http://zombo.com/

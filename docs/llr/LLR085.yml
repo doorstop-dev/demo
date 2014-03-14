@@ -1,7 +1,12 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR019
+- HLR048
+- HLR053
+- HLR060
+- HLR096
 normative: true
 ref: ''
 text: |
@@ -18,8 +23,7 @@ text: |
   Cadmo manibus verba nam filis classe, hospite quae et semel tridente corna
   clarique illos, non.
   Dicere inscius, lac summa vult sine penates, matre.
-  Et
-  profugus fonti dea proxima satumque, iam colebat relicto.
+  Et profugus fonti dea proxima satumque, iam colebat relicto.
   Formae roges.
 
       nntp_flash_target(symbolic * swipe + encoding_gibibyte_start,
@@ -31,11 +35,9 @@ text: |
 
   Potitur sic legem eunti modo moratur.
   Iam Tarpeias accipe?
-  Ab delabitur alas
-  credit ibi carus erat quod clipei, auxilium per.
-  Ille Venus, ipse sole iactum
-  ridentem es ut cervicis summo facioque signa viximus cervix et libido nescio
-  ponit, profuga.
+  Ab delabitur alas credit ibi carus erat quod clipei, auxilium per.
+  Ille Venus, ipse sole iactum ridentem es ut cervicis summo facioque signa
+  viximus cervix et libido nescio ponit, profuga.
 
   1. Figura capillis ut ex aerane
   2. Fictis nivea haberent laboris relinquam qui tenebat
@@ -45,11 +47,9 @@ text: |
 
   Copia levatus tuto acumine agrisque capillos omnia enim haerent supponitur
   [conplexa in veluti] Peleus, quantum dominatur, ignarus.
-  Telamon vincendo
-  choreas longior stipulis moenia pulsat inducitur verba, gentibus!
-  Eadem cuius et
-  animas vires, domoque saucius, iam primum cum pennis roger, Trinacriam
-  periclo
-  destituit.
+  Telamon vincendo choreas longior stipulis moenia pulsat inducitur verba,
+  gentibus!
+  Eadem cuius et animas vires, domoque saucius, iam primum cum pennis roger,
+  Trinacriam periclo destituit.
 
   [conplexa in veluti]: http://omgcatsinspace.tumblr.com/

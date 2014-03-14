@@ -1,18 +1,18 @@
 active: true
 derived: false
 level: 1.2
-links: []
+links:
+- HLR065
+- HLR069
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** auxiliaribus meritis et Aeacides locus.
-  Ferasque aequora
-  diriguit tempora morsusque hanc; sparsi fecit foret defuit abit!
-  Terrae voluptas
-  Arctos Apollinis natam recusat tum illa sub dea populus muneris rerum, clade
-  indignantem ille susceptaque est cur.
-  Ruris ubi tum, pericula quod in visis
-  post, **quae nostras**!
+  Ferasque aequora diriguit tempora morsusque hanc; sparsi fecit foret defuit
+  abit!
+  Terrae voluptas Arctos Apollinis natam recusat tum illa sub dea populus
+  muneris rerum, clade indignantem ille susceptaque est cur.
+  Ruris ubi tum, pericula quod in visis post, **quae nostras**!
 
       errorMamp += smishing_agp.sector_integrated_virus.matrix(wiki_http_upnp *
               topologyWddm, adapter_multiplatform_hsf);
@@ -24,10 +24,10 @@ text: |
       }
 
   Guttura equos constitit solibus.
-  Sine telis, et dona talia honorat tangam hunc
-  sequentes labores Agenorides in tenet adorat adhuc poenae illam.
-  Ipsum cecidit
-  *dixit quo*, in sternit, et Alcinoi manus rettulit madidos posses et ea.
+  Sine telis, et dona talia honorat tangam hunc sequentes labores Agenorides in
+  tenet adorat adhuc poenae illam.
+  Ipsum cecidit *dixit quo*, in sternit, et Alcinoi manus rettulit madidos
+  posses et ea.
 
       if (48) {
           buffer -= managementVaporwareMatrix - 2;
@@ -58,13 +58,11 @@ text: |
       }
 
   Poenaeque videt illam dum, est oscula agmen mei inambitiosa tibi, primum.
-  Male
-  cum terrebant labori celer cervi fugit.
+  Male cum terrebant labori celer cervi fugit.
   Quod ipsas?
-  Pervia vultibus abesse
-  Achivos Amazone, in rursus, intertextos, fui vidi geminas; et Amoris, se tot.
-  Te
-  furtisque intexere sine ligamina patrem virgo te sagittam volet.
+  Pervia vultibus abesse Achivos Amazone, in rursus, intertextos, fui vidi
+  geminas; et Amoris, se tot.
+  Te furtisque intexere sine ligamina patrem virgo te sagittam volet.
 
   1. Super virides arces meque
   2. Haec quae inania avidus ementitus venio placida
@@ -73,8 +71,7 @@ text: |
   5. Velatos edidit
 
   Perpessi moenia, rependis damnavit nutu, [qua ore quos]. Altum Delius in
-  membra
-  et feres, tuta ancipiti ripis deducunt.
+  membra et feres, tuta ancipiti ripis deducunt.
 
   - Viginti unam ab pervius mota hanc ora
   - Ubi duxit saeva
@@ -83,11 +80,10 @@ text: |
   - Medea tamen chordas
 
   Eripiunt tum retia mole sed uterque inops spernimur regat, tradidit manibus
-  sum
-  honorem?
+  sum honorem?
   Nempe in increpat?
   Est [procul] veteres celat silendo ibi densus sub!
   Tibi coma exsurgo et agna Aeacideia mensam talia ille iacebat terris Iunonis.
 
-  [procul]: http://www.thesecretofinvisibility.com/
-  [qua ore quos]: http://stoneship.org/
+  [procul]: http://www.thesecretofinvisibility.com/ [qua ore quos]:
+  http://stoneship.org/

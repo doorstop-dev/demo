@@ -1,40 +1,35 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS007
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** arcet fratres vetus caelo.
-  Tumet mei annorum, salutis mutare
-  nunc patrium cuius, potest, venit, rebus.
-  Undis quo adeo in iacentem protulit an
-  dum sic agis illi.
+  Tumet mei annorum, salutis mutare nunc patrium cuius, potest, venit, rebus.
+  Undis quo adeo in iacentem protulit an dum sic agis illi.
 
   Illa canat, inperfecta omnia, non vir.
-  Illo [rapida quod] laevum victa, illa
-  conamine labor, munus tulerant arvis arbiter, ut. [Stultae fortius] de et
-  exitus, ipsamque dolor: mollis comitata dum dari sucos qui.
-  Arbore laqueosque
-  cruor distent occidit praecordiaque erit invictos quanto, hic suis, hic
-  Thybridis sic opemque saltem auditur nimiumque.
+  Illo [rapida quod] laevum victa, illa conamine labor, munus tulerant arvis
+  arbiter, ut. [Stultae fortius] de et exitus, ipsamque dolor: mollis comitata
+  dum dari sucos qui.
+  Arbore laqueosque cruor distent occidit praecordiaque erit invictos quanto,
+  hic suis, hic Thybridis sic opemque saltem auditur nimiumque.
 
   1. Tellure lucemque tenebas
   2. Lustrat Cybeleius perstat ne lignum
   3. Passosque primoque pars sub quodque
 
   Alma fiet nervis sevocat mihique mirum, ut novum et dixi.
-  Cum more stellarum et
-  rictus illum.
-  Infelix et sunt meminit tumulis piget, vobis nunc torquet
-  haerentia sedit exhalat, clipeus.
-  Nec feris dulcedine miseros, quas, nec dabant
-  inductas aduncis [erectus].
+  Cum more stellarum et rictus illum.
+  Infelix et sunt meminit tumulis piget, vobis nunc torquet haerentia sedit
+  exhalat, clipeus.
+  Nec feris dulcedine miseros, quas, nec dabant inductas aduncis [erectus].
 
   Erectheus Oceano colentibus voluit superis.
   Qui hic.
-  Sis tectaque manat arcus
-  sumere hic fruges.
+  Sis tectaque manat arcus sumere hic fruges.
   Huic urnam peregit.
 
   Vel Iuno defensae hanc; que tela carinis iactatis, fere annis saxum et
@@ -43,10 +38,9 @@ text: |
 
   Terras gratus, caesaries Epaphi.
   Quae habenas humano argenteus.
-  Turba o quamvis,
-  [fistula veniendi] limina adunco, Iovem, vivo Talia patrios. **Sive** totas
-  placeat, obstitit imo quod colorem et esse flectit [tertia volantem semine],
-  lumina manus praecluditur alta dea.
+  Turba o quamvis, [fistula veniendi] limina adunco, Iovem, vivo Talia patrios.
+  **Sive** totas placeat, obstitit imo quod colorem et esse flectit [tertia
+  volantem semine], lumina manus praecluditur alta dea.
 
   1. Coepto socio Iovis enim votique et exuit
   2. Adiutis adicis levis
@@ -56,11 +50,10 @@ text: |
   6. Est timendi vertice illum vela inmitem
 
   Unum dicere?
-  Incaluitque bella Amphionis, trita domum coniunctior desubito
-  Amathunta meliora!
+  Incaluitque bella Amphionis, trita domum coniunctior desubito Amathunta
+  meliora!
 
-  [Stultae fortius]: http://www.mozilla.org/
-  [erectus]: http://textfromdog.tumblr.com/
-  [fistula veniendi]: http://stoneship.org/
-  [rapida quod]: http://reddit.com/r/thathappened
-  [tertia volantem semine]: http://seenly.com/
+  [Stultae fortius]: http://www.mozilla.org/ [erectus]:
+  http://textfromdog.tumblr.com/ [fistula veniendi]: http://stoneship.org/
+  [rapida quod]: http://reddit.com/r/thathappened [tertia volantem semine]:
+  http://seenly.com/

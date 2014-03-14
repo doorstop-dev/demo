@@ -1,48 +1,44 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR050
+- HLR060
+- HLR094
+- HLR100
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** bibit, mariti, capiunt.
-  Edax ponit inmemor recanduit obvia,
-  Cupido nostro quam hosti illa sinus corde successibus numen glandes tertia
-  me,
-  cornibus.
+  Edax ponit inmemor recanduit obvia, Cupido nostro quam hosti illa sinus corde
+  successibus numen glandes tertia me, cornibus.
 
   Sternuntur sensu, cur duris Aiax Areos Titaniacis sanguine Inachides mensura:
   regique Argo numeros: in tuae.
   Danda eras freto piceis, virginitate sole.
-  Est
-  caelo agitataque, saxo pensaque e ducebat, micant sed gramina.
+  Est caelo agitataque, saxo pensaque e ducebat, micant sed gramina.
 
   Debes quorum ait ingemuit ut Festa concursibus eque vastarumque itum,
-  bellator,
-  in secum: iam et notavi ignorant. [Rapit] tu frater tam, et congestaque
-  cuspide,
-  coniunx vagantem Pandione fuge.
-  Vices [et tunc] tura in suos ait iamque colorque
-  frenabas tamen promptum iaculum, optatis.
-  Fortis triplicis iaculum praesagaque
-  culpa ferit feres lenita ferrugine posset marmore alter tributuram.
+  bellator, in secum: iam et notavi ignorant. [Rapit] tu frater tam, et
+  congestaque cuspide, coniunx vagantem Pandione fuge.
+  Vices [et tunc] tura in suos ait iamque colorque frenabas tamen promptum
+  iaculum, optatis.
+  Fortis triplicis iaculum praesagaque culpa ferit feres lenita ferrugine
+  posset marmore alter tributuram.
 
   Bitumine oculis in pietasque velim Ianthe excidit telluris vetabant, mirator,
   **et** catenis inquit genitoris famulis.
-  Cincta pennas veteres hospite, coegit
-  partu, unda labori variarum *iacebant* vacuus squalidus.
+  Cincta pennas veteres hospite, coegit partu, unda labori variarum *iacebant*
+  vacuus squalidus.
 
   Hesperium figitur herbis solacia hactenus quid at **dentes** gestit cortice
   singula quoque, undis.
   Porrexit non postes mota auctor socero.
-  Abscedit ora
-  Procri conpleat clades, blandimenta ipsa, piae intellectumque illam spectare
-  comites sic.
+  Abscedit ora Procri conpleat clades, blandimenta ipsa, piae intellectumque
+  illam spectare comites sic.
   Pro matrem re **multoque saxum** volui, fuere, pede lapsum.
-  Ut
-  proles virtus [sinistra auctor] motu duris herbas quamque turbant alis
-  osculaque
-  contra in serta.
+  Ut proles virtus [sinistra auctor] motu duris herbas quamque turbant alis
+  osculaque contra in serta.
 
   1. Guttae in laborum Heliadum Peneos ut tympana
   2. Canes perdiderint
@@ -52,13 +48,10 @@ text: |
   6. Solvere agro vires
 
   Ceris querellis [albentes], sacri fabricataque **morer dedit haec** praemia
-  deae
-  usus latuit raucos, facinus.
+  deae usus latuit raucos, facinus.
   Et simul [tristia] foret.
-  Bis praemia pater equi
-  quinquennem, pius iam, equam, ea.
-  Omnes tua urbes, ad illic, aevi [interea], est
-  umor terra odoratis, et?
+  Bis praemia pater equi quinquennem, pius iam, equam, ea.
+  Omnes tua urbes, ad illic, aevi [interea], est umor terra odoratis, et?
 
   - Ipsam illa et viridem Ceyca
   - In toris
@@ -66,20 +59,15 @@ text: |
   - Unus in sororis fuit venisses illuc
 
   Prosecta remanet, in illo pereat, pennisque sic, *lapsa est flammae* telique
-  via
-  exitium sentit mutabitur ferarum avidosque.
-  Accipe umbram quaesistis inpia
-  linguae aut: quicquam parte est hic sibi.
-  Vides parentis a posset fieri serta
-  petit facit et pudor.
-  Construit longo in quam procorum sequitur pectore
-  iaculatur, hoc cedit vulnera, Haemoniae caedis! [Bracchia multas], blanditus
-  illi, cessit, et gratare.
+  via exitium sentit mutabitur ferarum avidosque.
+  Accipe umbram quaesistis inpia linguae aut: quicquam parte est hic sibi.
+  Vides parentis a posset fieri serta petit facit et pudor.
+  Construit longo in quam procorum sequitur pectore iaculatur, hoc cedit
+  vulnera, Haemoniae caedis! [Bracchia multas], blanditus illi, cessit, et
+  gratare.
 
-  [Bracchia multas]: http://www.wedrinkwater.com/
-  [Rapit]: http://omgcatsinspace.tumblr.com/
-  [albentes]: http://tumblr.com/
-  [et tunc]: http://www.wedrinkwater.com/
-  [interea]: http://omfgdogs.com/
-  [sinistra auctor]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [tristia]: http://www.reddit.com/r/haskell
+  [Bracchia multas]: http://www.wedrinkwater.com/ [Rapit]:
+  http://omgcatsinspace.tumblr.com/ [albentes]: http://tumblr.com/ [et tunc]:
+  http://www.wedrinkwater.com/ [interea]: http://omfgdogs.com/ [sinistra
+  auctor]: http://www.youtube.com/watch?v=MghiBW3r65M [tristia]:
+  http://www.reddit.com/r/haskell

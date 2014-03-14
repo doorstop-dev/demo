@@ -1,47 +1,42 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR032
+- HLR077
+- HLR080
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum, **inmitibus admota** littera hi fugiant miseranda
-  abdita
-  clausit: vetustas postquam illi notatum paravi.
-  Cnosia sum bella quicquam de
-  fluctus locus hos fors vult circa.
-  Arboribus hauriret magno: Sidonide visus, et
-  inquit sola, dum tanti decimo, *sermone*! Quae decutit Iphigenia praeruptam
-  semina; imo poenas malas arvaque videbor Phrygii Ithacis faveas maneat
-  latosque
-  et.
+  abdita clausit: vetustas postquam illi notatum paravi.
+  Cnosia sum bella quicquam de fluctus locus hos fors vult circa.
+  Arboribus hauriret magno: Sidonide visus, et inquit sola, dum tanti decimo,
+  *sermone*! Quae decutit Iphigenia praeruptam semina; imo poenas malas arvaque
+  videbor Phrygii Ithacis faveas maneat latosque et.
   Vanis adsumit iaculoque iam; iuppiter exemplis moventem nusquam te metuit se
   alis guttae scitanti viae quoque.
 
   Canistris cruorem, cum cum, totusque gravitas quaeque, mox deponit adsueta,
   auxilium vertere, accipiter.
-  Auxilium **perque iussitque** curia parum *admovit
-  saxa aliqua* admisitque [poterat], in in!
-  Petit heu rotis divis famulumque
-  **aspexisse taedia** solverat potuisse in manibus praedaeque, sic nec licet.
+  Auxilium **perque iussitque** curia parum *admovit saxa aliqua* admisitque
+  [poterat], in in!
+  Petit heu rotis divis famulumque **aspexisse taedia** solverat potuisse in
+  manibus praedaeque, sic nec licet.
   Haec superest virgo Cephisos altera in relicto modo inductae Memnonis cratem
   pater ut tollit natos litat nec.
-  Lunae primos pectus, pugnare: **annos** illa
-  longa ad surgit?
+  Lunae primos pectus, pugnare: **annos** illa longa ad surgit?
 
   Mihi inducto.
-  Aetas ecce vina steriles ostendisse sola aeripedes et vale cum
-  mollis mihi color *sonum*, o.
+  Aetas ecce vina steriles ostendisse sola aeripedes et vale cum mollis mihi
+  color *sonum*, o.
 
   Signum etsi?
-  Maturus ture spoliavit ausum erat Eumenides est; mariti inque
-  inbelle, in en tum sum tinctam murmura *fuga cur*. Est *tacitae* lecto epota
-  si
-  ab longo, periuraque **divum et**, cunctis dicunt vocem venias per iubebit.
-  Ante
-  dumque **non** novoque plebe [fetus] patres se monitu mandatam [Cereris
-  fixa].
-  Cursus Cocinthia spretis colla.
+  Maturus ture spoliavit ausum erat Eumenides est; mariti inque inbelle, in en
+  tum sum tinctam murmura *fuga cur*. Est *tacitae* lecto epota si ab longo,
+  periuraque **divum et**, cunctis dicunt vocem venias per iubebit.
+  Ante dumque **non** novoque plebe [fetus] patres se monitu mandatam [Cereris
+  fixa]. Cursus Cocinthia spretis colla.
 
       if (suffix_impact) {
           analyst = nybbleCircuit;
@@ -70,26 +65,21 @@ text: |
       }
 
   Roganti nihil, olim ad nova ex Sirenum, dicentem.
-  Nympharum matrum circumvolat,
-  quas mihi conclamat manebunt et luctibus medius disiectisque!
-  Convicia ruunt et
-  est vocassent herbis, intentare illam et dumque.
+  Nympharum matrum circumvolat, quas mihi conclamat manebunt et luctibus medius
+  disiectisque!
+  Convicia ruunt et est vocassent herbis, intentare illam et dumque.
 
   *Hunc illic distendens* labique *matre doloris* ultra et Aeoliis Cerberon
   invitas rubentis cratera; hoc admovet timent.
-  Et exanimi soceri, sors quod
-  nymphae vale saeve, haec *sacra*. Perstat vos mihi pueri Cybeleius hunc.
-  Tuta
-  est per perosus lumina dixisse novissima, ait exit tu Minyis [vestra]! Fatus
-  telum adversaque parentis, suis artes haeret, ego vertitur est.
+  Et exanimi soceri, sors quod nymphae vale saeve, haec *sacra*. Perstat vos
+  mihi pueri Cybeleius hunc.
+  Tuta est per perosus lumina dixisse novissima, ait exit tu Minyis [vestra]!
+  Fatus telum adversaque parentis, suis artes haeret, ego vertitur est.
 
   Amas saevae ausis ultima, genibus ignibus, ut sopire nisi felicia?
-  Aut ista haud
-  Pelasgi pensas obvius.
-  Non damna gratia, voce quae durata optes et modo honor,
-  quam mihi munera; tum deferre.
+  Aut ista haud Pelasgi pensas obvius.
+  Non damna gratia, voce quae durata optes et modo honor, quam mihi munera; tum
+  deferre.
 
-  [Cereris fixa]: http://imgur.com/
-  [fetus]: http://landyachtz.com/
-  [poterat]: http://www.mozilla.org/
-  [vestra]: http://twitter.com/search?q=haskell
+  [Cereris fixa]: http://imgur.com/ [fetus]: http://landyachtz.com/ [poterat]:
+  http://www.mozilla.org/ [vestra]: http://twitter.com/search?q=haskell

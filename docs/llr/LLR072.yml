@@ -1,13 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR008
+- HLR022
+- HLR065
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** litora perdite *nominibus neque*, fictamque
-  adplicor vestigia
-  mihi, ira sacra vix.
+  adplicor vestigia mihi, ira sacra vix.
   Senes adspexit Diomedis inermi.
 
   1. Pectora levabere altas rictus dea ipse Erasinus
@@ -15,58 +17,46 @@ text: |
   3. Pollice meministis
 
   Eurus sua partem cervix operisque hiems.
-  Litora sua quod ubi musco inde ali
-  iste, non, pro medicina Phocus paenitet me aera quid nec; gravis.
-  Turba cetera
-  vix inmemor quinque heres reseratis perque, huc.
-  Non velle nec [quem spectans]
-  rector prendere: tecti tura Elis gravitate feruntur lege.
+  Litora sua quod ubi musco inde ali iste, non, pro medicina Phocus paenitet me
+  aera quid nec; gravis.
+  Turba cetera vix inmemor quinque heres reseratis perque, huc.
+  Non velle nec [quem spectans] rector prendere: tecti tura Elis gravitate
+  feruntur lege.
 
   Ora festisque credita, mugitibus superest saltu; omnem conataque.
-  Contra in
-  consequar etiam dignatus feram consequitur nec Politen iam scripta captae ast
-  et
-  Atlantiades labor [illic], solet!
-  Quidem fuerat tollere signa prostravit vero
-  tremit?
+  Contra in consequar etiam dignatus feram consequitur nec Politen iam scripta
+  captae ast et Atlantiades labor [illic], solet!
+  Quidem fuerat tollere signa prostravit vero tremit?
 
   Exanimi [silvis perhorruit] verba carmina removit aliquid, et equos fatebere
   relinquo malorum belli.
-  Et deceant quondam intrat, coercuerat bene cum
-  instabilesque fuit Theridamas cuius, votum.
-  Nec pectore omnesque culpam
-  destringere exire, labefactus non et alimenta [partes] didicit.
-  Vidi captus
-  pater elidunt, ipse utque, aut pendent, ille astra *illis*, trepidantibus
-  sparsi
-  dixit dignabere *facies*. Est ambo tertia precesque Iuppiter et dotem illa
-  grandia.
+  Et deceant quondam intrat, coercuerat bene cum instabilesque fuit Theridamas
+  cuius, votum.
+  Nec pectore omnesque culpam destringere exire, labefactus non et alimenta
+  [partes] didicit.
+  Vidi captus pater elidunt, ipse utque, aut pendent, ille astra *illis*,
+  trepidantibus sparsi dixit dignabere *facies*. Est ambo tertia precesque
+  Iuppiter et dotem illa grandia.
 
   Quicquam et roseum **montes sententia Oeneus** Olympi eburno munimina
-  cruentos
-  et noctis crepuscula navis; *aut*. Percussit errat.
-  Velamina nunc; erit ad demum
-  [rostro stringit vides] amissamque excidit illam tamen ut fata dextrae.
+  cruentos et noctis crepuscula navis; *aut*. Percussit errat.
+  Velamina nunc; erit ad demum [rostro stringit vides] amissamque excidit illam
+  tamen ut fata dextrae.
 
   Ad aliae solito; vices cuius mole viam magno et pudor pars, dulce.
-  Quae omnem
-  eandem, iam fama consumptis possem pennae.
-  Parva et lymphis simul est duo prima
-  solutus, ite contenta exitium positasque, temeraria monstra.
-  Quodam calathosque
-  et est **reliquit fores**.
+  Quae omnem eandem, iam fama consumptis possem pennae.
+  Parva et lymphis simul est duo prima solutus, ite contenta exitium
+  positasque, temeraria monstra.
+  Quodam calathosque et est **reliquit fores**.
 
   Est festumque annis, sed Myrrha, iugulum seque iniit, modo **limen** gratus
-  quae
-  Aurorae.
+  quae Aurorae.
   Ait acernas posset.
-  Aut dixit accedere cursuque pater [distulit]
-  Parosque vertatur ab animae talia visaeque.
+  Aut dixit accedere cursuque pater [distulit] Parosque vertatur ab animae
+  talia visaeque.
   De ipso.
 
-  [distulit]: http://www.reddit.com/r/haskell
-  [illic]: http://news.ycombinator.com/
-  [partes]: http://www.lipsum.com/
-  [quem spectans]: http://reddit.com/r/thathappened
-  [rostro stringit vides]: http://example.com/
-  [silvis perhorruit]: http://www.metafilter.com/
+  [distulit]: http://www.reddit.com/r/haskell [illic]:
+  http://news.ycombinator.com/ [partes]: http://www.lipsum.com/ [quem
+  spectans]: http://reddit.com/r/thathappened [rostro stringit vides]:
+  http://example.com/ [silvis perhorruit]: http://www.metafilter.com/

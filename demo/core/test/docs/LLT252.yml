@@ -1,39 +1,36 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR170
 normative: true
 ref: ''
 text: |
   Lorem *markdownum* ferox placatoque sceptri Aeneae, et Venerem ex ferro
   deflentem tigridis quodque sepulcris visus.
-  Forti sustinuisse loqui quam scite
-  solum passa curru, in nimiis nostra inimica novercae et fugam.
+  Forti sustinuisse loqui quam scite solum passa curru, in nimiis nostra
+  inimica novercae et fugam.
 
   Ad fertur Perseu **ut**, iactavit et *tacito* refugerit adverti agmen:
-  quoniam,
-  ore silent?
+  quoniam, ore silent?
   Ibis et Amphissos Lotis.
-  Nova tofis mutavit par nocebit cum patrium,
-  aras gentes sex vides simillima ad mando nec adesset siqua captus.
+  Nova tofis mutavit par nocebit cum patrium, aras gentes sex vides simillima
+  ad mando nec adesset siqua captus.
 
   Sive [neque potentes] intellegit arbor Erycina **difficilem** mirarique nec
   laesaque missos, oscula vitiorum ad adest, vulneribus iungi.
-  Matrem sororia
-  Cythno aut numinis ducar videre, perisset, et. **Et valeant**.
+  Matrem sororia Cythno aut numinis ducar videre, perisset, et. **Et valeant**.
 
   **Successor** aetatem Solis, lectusque est **Iovis** pes proles socii
   comitantibus [sinunt primoque] Hecaten carne.
-  Baucisque amanti. **Magnae
-  habere**, pro Phaethontida conatur vicina vectabantur axis claudit!
+  Baucisque amanti. **Magnae habere**, pro Phaethontida conatur vicina
+  vectabantur axis claudit!
 
   Nunc iamque sibi putate, fuit induruit lingua quaerit maternis perenni tibi
   vetito, modo?
-  Et minacia patri Amphitrite moverat, votis niveis. [Erigitur data]
-  est; aut percutit, pulsat duplicataque notavit inanem his lingua, quem
-  fateor;
-  tamen cingebant [nempe]. Annos unus ut membra parcite, et tuum de ausit, nec
-  iubet!
+  Et minacia patri Amphitrite moverat, votis niveis. [Erigitur data] est; aut
+  percutit, pulsat duplicataque notavit inanem his lingua, quem fateor; tamen
+  cingebant [nempe]. Annos unus ut membra parcite, et tuum de ausit, nec iubet!
 
   1. Maris factum
   2. Deus fertilitatis clausis
@@ -42,14 +39,12 @@ text: |
 
   Maris laturus tibi, est dignos nubes iuveni exhalarunt sorbentur vae, te,
   religaret.
-  Agendum parantem cupit caedit pressit Cycni subiectum auro,
-  tumefecit, qui abdita perdidit; laevum quoque, Tartessia amnes.
-  Nam Ithaceque
-  ignibus canos placere.
-  Ille quae posuit, est armenta aura trepidantes in enim:
-  sit undis venerat ferre!
-  Nec neque cinerem atque populisque arces artes tecta
-  [nec] patet haec.
+  Agendum parantem cupit caedit pressit Cycni subiectum auro, tumefecit, qui
+  abdita perdidit; laevum quoque, Tartessia amnes.
+  Nam Ithaceque ignibus canos placere.
+  Ille quae posuit, est armenta aura trepidantes in enim: sit undis venerat
+  ferre!
+  Nec neque cinerem atque populisque arces artes tecta [nec] patet haec.
 
   - Eodem insequitur
   - Ante quis nulla Cereris
@@ -60,12 +55,11 @@ text: |
   Mando et Procnen heros caelebs erat prosternit crimen *nepoti*. Fides illa
   vestra, in **post non solidis**? Fidem poterisne ut sensit atro flumen me
   inquit, tamen: si!
-  Nisi cognita ictu non excidit umbras ramosque, qui est ipse
-  velamina duos surrexere ducem auxiliumque solibus.
+  Nisi cognita ictu non excidit umbras ramosque, qui est ipse velamina duos
+  surrexere ducem auxiliumque solibus.
   Aut in iaculis?
 
-  [Erigitur data]: http://news.ycombinator.com/
-  [nec]: http://www.uselessaccount.com/
-  [nempe]: http://kimjongunlookingatthings.tumblr.com/
-  [neque potentes]: http://gifctrl.com/
-  [sinunt primoque]: http://zeus.ugent.be/
+  [Erigitur data]: http://news.ycombinator.com/ [nec]:
+  http://www.uselessaccount.com/ [nempe]:
+  http://kimjongunlookingatthings.tumblr.com/ [neque potentes]:
+  http://gifctrl.com/ [sinunt primoque]: http://zeus.ugent.be/

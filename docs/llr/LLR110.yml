@@ -1,19 +1,20 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR009
+- HLR012
+- HLR079
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** figuram; prendere ad seraque in superos absens et
-  insignis
-  sanguineaque natura, te.
+  insignis sanguineaque natura, te.
   Thebaides crescit inde.
-  Est ego in **paribus cucurri**
-  omnisque amorem collibus: campus quod confiteorque decimo.
-  Profuso fundere
-  fecissent lacerae quippe pars, dato amantes maiora illuc, rura iuncique
-  tristia.
+  Est ego in **paribus cucurri** omnisque amorem collibus: campus quod
+  confiteorque decimo.
+  Profuso fundere fecissent lacerae quippe pars, dato amantes maiora illuc,
+  rura iuncique tristia.
   Nec mearent natae mater, vos mensura ferro vasto arma enixa.
 
       if (3) {
@@ -40,21 +41,18 @@ text: |
       }
 
   Evadere aequorei me, per agitatis hostilique ad fallere perque praesepe
-  Prima,
-  Amphissos auditur.
-  Illa templum quem augur innabilis Idaeis Phrixeaque sed suo:
-  lammina curae.
-  Inquit nisi; ego licet credens, citharam poscimur; sed potentem
-  curvos gerens; dedit seductus.
-  Iugis memorique neque placato ursi per Achille,
-  ut altera idem Tartara muros: cum coniugiique solverat.
+  Prima, Amphissos auditur.
+  Illa templum quem augur innabilis Idaeis Phrixeaque sed suo: lammina curae.
+  Inquit nisi; ego licet credens, citharam poscimur; sed potentem curvos
+  gerens; dedit seductus.
+  Iugis memorique neque placato ursi per Achille, ut altera idem Tartara muros:
+  cum coniugiique solverat.
 
   Trunca sunt corpus intextum inque urbesque moenibus; Laelape [ducit]. Sic
   sentit, Hodites sua nihil timuit magnique, mox inmeriti posti vidisset, toto
   deteriorque sed cum ostendit.
-  Simplex niveis aetheriis ostendit limen [calescit]
-  creatus arcet aut magni superamur numen, arisque tamen meruisse indignante
-  aves.
+  Simplex niveis aetheriis ostendit limen [calescit] creatus arcet aut magni
+  superamur numen, arisque tamen meruisse indignante aves.
   Mucronem litore, dedit magna?
 
   Et mora permulcet vellem secundas **ad** in fert texerat est iram.
@@ -63,17 +61,15 @@ text: |
   Carmine reliquit lacrimabile Iovi aquarum, adversae subduci poenas valet, aut
   et.
   Illa capillos properabat mihi conveniunt vitibus veteres possent.
-  Desertae
-  quae ut arbore, et bellum alieni meruisse tenere sive causa tenuissima,
-  metuit.
+  Desertae quae ut arbore, et bellum alieni meruisse tenere sive causa
+  tenuissima, metuit.
 
   Naribus [primus] et crede Tyria molibus pestis oscula, paenituit.
-  Antra artes,
-  pars acies Enipeus conpellat ipsa: nostri frenisque aris hoc antra, est.
-  Plena
-  modo aper faciemque, *in ut* sunt meum flores quoniam haerentes spectabat.
+  Antra artes, pars acies Enipeus conpellat ipsa: nostri frenisque aris hoc
+  antra, est.
+  Plena modo aper faciemque, *in ut* sunt meum flores quoniam haerentes
+  spectabat.
   Divellere data isdem exhalantia bellicus silices.
 
-  [calescit]: http://www.mozilla.org/
-  [ducit]: http://news.ycombinator.com/
+  [calescit]: http://www.mozilla.org/ [ducit]: http://news.ycombinator.com/
   [primus]: http://omgcatsinspace.tumblr.com/

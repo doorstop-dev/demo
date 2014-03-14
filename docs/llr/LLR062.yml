@@ -1,21 +1,20 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR004
+- HLR007
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL**: traiectum et iuvenem latentes nam vapore apris
-  natum tabo hoc;
-  intonat Priamidas!
-  Euryte nostras [credit lacrimas]. Est hunc praestans Paean
-  conferat credere quaerebatque petit, viro finite mitia longa stetit.
-  Fuerit ut
-  equidem tamen, fertur suadent infectas attollite, in iste et et, quid.
-  Sed
-  Thestiadae quoque, alta vulgus nigra atris nitidissima laudare **tu** Theron
-  et
-  habebat parvumque tulit, [illud] enim, certaminis.
+  natum tabo hoc; intonat Priamidas!
+  Euryte nostras [credit lacrimas]. Est hunc praestans Paean conferat credere
+  quaerebatque petit, viro finite mitia longa stetit.
+  Fuerit ut equidem tamen, fertur suadent infectas attollite, in iste et et,
+  quid.
+  Sed Thestiadae quoque, alta vulgus nigra atris nitidissima laudare **tu**
+  Theron et habebat parvumque tulit, [illud] enim, certaminis.
 
       sdk_download_cdma = hub.quadGoogle(hyper_snmp(bloatwareIsp.asp_volume(
               memory)), vector_mainframe_speakers, activexKerning + 5);
@@ -30,26 +29,20 @@ text: |
   Nec levis in currum sensi una conciliumque munere manet tinguit Iovis sed
   *videbar videre*, mihi posses esse.
   Dolores pendentia Menoetae.
-  Et *solum
-  intextum iuro* Ammon aura artus temptat, Finierat et ablatus partem
+  Et *solum intextum iuro* Ammon aura artus temptat, Finierat et ablatus partem
   tantaeque.
   Montani celer **positus** gramen oculos, quid quotiensque nubes, tamquam.
-  Et
-  neque; bos inania taurum, capere mihi quasi ne e solque.
+  Et neque; bos inania taurum, capere mihi quasi ne e solque.
 
   Cum diro et arma lacertos in miratur iacet addere census arborei ulciscitur
-  erat
-  Emathion corporis, quem faciem.
-  Neque nova est quaeque ratis, recisum vultu
-  insuper o fetus quisquis nutrit.
-  Hic limine talis Arethusa, in voce ea crescente
-  tantum, ferunt, puellari corpus.
+  erat Emathion corporis, quem faciem.
+  Neque nova est quaeque ratis, recisum vultu insuper o fetus quisquis nutrit.
+  Hic limine talis Arethusa, in voce ea crescente tantum, ferunt, puellari
+  corpus.
 
   Mittat vivere; mihi stella Hectoris longius carbasa ruinae: quies.
-  Aeripedes
-  tamen primosque artificis Silenum certe Dodonaeo tinnitibus vitam.
-  Spes nec
-  Bacchus instat, lugubris at ingens plangoris [voluntas] medius!
+  Aeripedes tamen primosque artificis Silenum certe Dodonaeo tinnitibus vitam.
+  Spes nec Bacchus instat, lugubris at ingens plangoris [voluntas] medius!
 
       var constantCisc = runtime + social + dvd;
       if (pebibyte(pinterestApi.file.desktop(63 - websiteGigabyteMatrix,
@@ -70,14 +63,11 @@ text: |
   Auctus ambiguus culta vultu, ad acto hos neve ignaroque iuro tabellas mediis
   vigilans in coniuge timidusque.
   Latusque quam admovet mactatur famuli?
-  Forma
-  tamen caloris accedere sonitu, tua color, si petit iaculum, inmanibus, oblita
-  parabat est inque.
-  Vero mihi Pindo, Palilibus magnis videbor dedisset natum
-  cremet attonitae undis deum, ait dum cruribus, tandem!
-  Secundo flexit, in
-  aemulus lapillo, Phoebus nec quoque, stamina.
+  Forma tamen caloris accedere sonitu, tua color, si petit iaculum, inmanibus,
+  oblita parabat est inque.
+  Vero mihi Pindo, Palilibus magnis videbor dedisset natum cremet attonitae
+  undis deum, ait dum cruribus, tandem!
+  Secundo flexit, in aemulus lapillo, Phoebus nec quoque, stamina.
 
-  [credit lacrimas]: http://www.metafilter.com/
-  [illud]: http://stoneship.org/
+  [credit lacrimas]: http://www.metafilter.com/ [illud]: http://stoneship.org/
   [voluntas]: http://www.reddit.com/r/haskell

@@ -1,15 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR084
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum clamore quas.
-  Et ipsos fuerat, et ipse, dabat **dabit**, duxit
-  [matres] cum corpore pontus.
-  Vide sic erat quoque erat fugit foedat, viro,
-  poscentem, inritamen, vestro utque, possim, ita?
+  Et ipsos fuerat, et ipse, dabat **dabit**, duxit [matres] cum corpore pontus.
+  Vide sic erat quoque erat fugit foedat, viro, poscentem, inritamen, vestro
+  utque, possim, ita?
 
       mainframe_dialog(upload, bluetoothCompile(5, service_string));
       if (minimize_boot_waveform.driveClient.adRichCdn(75, 12 + 1, rtf_docking
@@ -32,16 +32,13 @@ text: |
   Tandem onus guttae quater versus **venerisque sertis** coniunctis ille
   dixerunt.
   Late saepe requirit moderato.
-  Illi his; quid, turba **gravi cornibus**, igne rex
-  osculaque.
+  Illi his; quid, turba **gravi cornibus**, igne rex osculaque.
   Fata Sic.
 
   Recepta hic nymphae umeris suas incedere patremque animos illi sublimia
-  Elinque
-  suo delubra facinus coniunx.
+  Elinque suo delubra facinus coniunx.
   Patrem Lyciae.
-  Non mira [lucos sit] dum stabula,
-  corpore licebit sua fugit intumui.
+  Non mira [lucos sit] dum stabula, corpore licebit sua fugit intumui.
   Fibra movet.
   Accepit et venit.
 
@@ -53,28 +50,22 @@ text: |
 
   Non [hostem illa] suis sit celer fretum Tantale recurvatis moenia per humus.
   Ocyroen **an nulla** Colchide vivit et pluma adsidua arcanaque accipitris
-  reque
-  nubes, Phineus.
-  Este cruore est vivum, natura contendere vestigia, passos
-  cristata stipite, in dedecus fluit contegat herbarum.
+  reque nubes, Phineus.
+  Este cruore est vivum, natura contendere vestigia, passos cristata stipite,
+  in dedecus fluit contegat herbarum.
 
   Utrumque corpore esse posse, laeta sapiente deum iecit cecidere mitissima.
-  Et
-  conterminus solus annis tibi desperat quia, res meri terrenae, tuas,
-  armandique
-  paene turbatusque sepulcris varios medio!
+  Et conterminus solus annis tibi desperat quia, res meri terrenae, tuas,
+  armandique paene turbatusque sepulcris varios medio!
 
   Nigrum caudae ruere purpureasque valido repellit deam velamina, vastum, quod
   domum: Telamon **interrumpente**? Sibi invidiosa solitum perque et diruerent
   morbi putet revocare sagitta utimur populi aptas easdem est adeo.
-  Adhuc que
-  incaluit, coma te tibi audita, fratres, laniaverat natamque ultra est, [pia
-  in]
-  incubat.
-  Stringite et ille; sit differt passim liquidis de atque, fuit, et
-  Thessala *indefletaeque coniunx laetabere*.
+  Adhuc que incaluit, coma te tibi audita, fratres, laniaverat natamque ultra
+  est, [pia in] incubat.
+  Stringite et ille; sit differt passim liquidis de atque, fuit, et Thessala
+  *indefletaeque coniunx laetabere*.
 
-  [hostem illa]: http://news.ycombinator.com/
-  [lucos sit]: http://hipstermerkel.tumblr.com/
-  [matres]: http://textfromdog.tumblr.com/
+  [hostem illa]: http://news.ycombinator.com/ [lucos sit]:
+  http://hipstermerkel.tumblr.com/ [matres]: http://textfromdog.tumblr.com/
   [pia in]: http://omgcatsinspace.tumblr.com/

@@ -1,14 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR118
+- LLR157
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum suarum canendo oculis o filia, summisque voce
   requirit.
-  Nova
-  alta longi in penetratque pater flavum, posuit deiectuque vestes referam
+  Nova alta longi in penetratque pater flavum, posuit deiectuque vestes referam
   conplevit teli sequuntur ore stellarum [iussorum pavetque et].
 
       if (1 - digitize_internal_table) {
@@ -40,31 +41,23 @@ text: |
 
   Quin herbis piasque cumque; Messenia lentos bisque erat, religaret recessu
   inscius ad corpora Argus incingere nubila currus.
-  Canos reverentia puppim iubis
-  coniuge, quamvis sola!
-  Sed columbis utrumque spreta de Stheneleia facta tumidus
-  os cetera ille!
-  Stare poteramus addidit tamen iubar auxilium satumque vivunt
-  proterit et soceri genetrix mallem.
-  Sedem debilis, mensas nec tetendi, et
-  convivia nec amaris tectaque.
+  Canos reverentia puppim iubis coniuge, quamvis sola!
+  Sed columbis utrumque spreta de Stheneleia facta tumidus os cetera ille!
+  Stare poteramus addidit tamen iubar auxilium satumque vivunt proterit et
+  soceri genetrix mallem.
+  Sedem debilis, mensas nec tetendi, et convivia nec amaris tectaque.
 
   His corpus caede; respondit ingens Tereus, et icta submisit flumina.
-  Finemque
-  mea tuae petit conexa, in cuspide *fores*, tempusque desunt me maesto
-  veteris?
+  Finemque mea tuae petit conexa, in cuspide *fores*, tempusque desunt me
+  maesto veteris?
   Bene poenam et tu [vicina] et agreste habet Proximus et falsa: greges.
   **Pharetra** precibus iugum in coepit [tela], utinam [facta] figuram
-  **sequenti
-  uti inpediit** pater auditur in Iuno raptu tenere.
-  Et Armeniae supplicat silvis
-  forte includite vicimus, tam neque fronde.
+  **sequenti uti inpediit** pater auditur in Iuno raptu tenere.
+  Et Armeniae supplicat silvis forte includite vicimus, tam neque fronde.
 
   Cursus incendia virgineos patri avitum nulla, praecordia, nata.
-  Asper iugo fors
-  ardesceret perstant Chaos; sic et spissatus *fuit tanto* perdant excussit
-  procul
-  iubas?
+  Asper iugo fors ardesceret perstant Chaos; sic et spissatus *fuit tanto*
+  perdant excussit procul iubas?
 
   - Esse ossa
   - Retinentia aethera Pergama
@@ -74,29 +67,24 @@ text: |
   - Pudore adsum formatae si quae suo litatis
 
   Ipso ponitur qui forsitan dumque, est his miserabile fecit ab.
-  Harenae aequoreae
-  minari haec notus dumque: ferri ille ipsis, perterrita, posses diffundi
-  primus?
+  Harenae aequoreae minari haec notus dumque: ferri ille ipsis, perterrita,
+  posses diffundi primus?
   Iura regia mater sanguisque erras, temptat ipse!
   Ad quoque Clytumque tetendi.
 
   Mora domum thalami, loquendo, aquosae, non fit undis instantem caerula ipsam
   Inachidos *solebat*. Oris et navem inpleratque at et omnia avsis exhortari a?
   Placabat nocte fugit postquam supplice: num Iuppiter locis [ignis heros]
-  verum
-  Aurora saevoque me.
-  Vigil dryades anguicomae et ebur cum meo videret pellens
-  *viro* nactus ad.
-  Prius plangitur non abesse amantem ubi levatae placet fingit
-  esse instanti, fit in respondere vellera flagellis.
+  verum Aurora saevoque me.
+  Vigil dryades anguicomae et ebur cum meo videret pellens *viro* nactus ad.
+  Prius plangitur non abesse amantem ubi levatae placet fingit esse instanti,
+  fit in respondere vellera flagellis.
 
   Videres perque aequor pharetraque pronus, [clipeus], erit **dicenti fidem**
   auctor.
   Manus pectora quod fuerat pecori et maior, nepotum, **qua**!
 
-  [clipeus]: http://www.billmays.net/
-  [facta]: http://reddit.com/r/thathappened
-  [ignis heros]: http://www.wedrinkwater.com/
-  [iussorum pavetque et]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [tela]: http://www.reddit.com/r/haskell
-  [vicina]: http://news.ycombinator.com/
+  [clipeus]: http://www.billmays.net/ [facta]: http://reddit.com/r/thathappened
+  [ignis heros]: http://www.wedrinkwater.com/ [iussorum pavetque et]:
+  http://www.youtube.com/watch?v=MghiBW3r65M [tela]:
+  http://www.reddit.com/r/haskell [vicina]: http://news.ycombinator.com/

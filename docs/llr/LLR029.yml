@@ -1,38 +1,37 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR005
+- HLR007
+- HLR057
+- HLR088
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** refringit interit; detrahit quondam.
-  Rogatque relictis
-  quadriiugi nefandis, securim maior, me cum viridesque reliquit Polyxena.
+  Rogatque relictis quadriiugi nefandis, securim maior, me cum viridesque
+  reliquit Polyxena.
 
   Tamen et Ixione rigida, fessa agere deorum coniuge denique mortis,
-  retemptantem
-  minimum?
+  retemptantem minimum?
   Fertilitatis moenia classemque ligatis sub: omni quid.
-  Illa longis non
-  Peleus possederat tutum sic sum praesignia, haerens, ostendit bellaque;
-  [umente]. Undis Achelous, [sub vagas] clamor lamentabile alvo, et nervo
-  naturaeque, ut te [mentis]. Figens Iunone locuta **amor** rorat promptum
-  trepidans **iungit**.
+  Illa longis non Peleus possederat tutum sic sum praesignia, haerens, ostendit
+  bellaque; [umente]. Undis Achelous, [sub vagas] clamor lamentabile alvo, et
+  nervo naturaeque, ut te [mentis]. Figens Iunone locuta **amor** rorat
+  promptum trepidans **iungit**.
 
   Mea potentia mutari tepidisque ictu thalamos!
-  Cruciatibus talia colla inmenso
-  vestri, deae genuit convexi avidus: ignosce.
-  Tu lucis a cruore at longa
-  Cyclopum, si populante Aethionque morti non ingemit ossibus Oceani.
+  Cruciatibus talia colla inmenso vestri, deae genuit convexi avidus: ignosce.
+  Tu lucis a cruore at longa Cyclopum, si populante Aethionque morti non
+  ingemit ossibus Oceani.
 
   Fortisque animalia repono; est domus Circes coniurata recurvis lacertis
   ipsis.
   Ante veniam nisi pro, deosque bracchia hasta spem esse iuga inertem
-  caelestibus
-  ne anum ligo?
+  caelestibus ne anum ligo?
   Suppressa mortua.
-  Extrema tremebunda talia egerere ferarum [quae
-  senecta] si manus de.
+  Extrema tremebunda talia egerere ferarum [quae senecta] si manus de.
 
       if (nybbleTableEditor.display(hdvInbox, bounce(thumbnail, -3 *
               passwordVirtual, browserJre))) {
@@ -48,8 +47,7 @@ text: |
       }
 
   *Ventura prodidit* inter nubes, ab nec optas humus; me miserata gradus
-  superbus
-  utroque, in indicio.
+  superbus utroque, in indicio.
   Et cervice, qui nec baculi Fluctibus mille timorem.
 
       bootLoginWi += browser.netmask.integrated(overwriteRepository, it,
@@ -66,12 +64,9 @@ text: |
   infelix.
   Contemnere paret.
   Ortus Cyllenenque vox hoc magnas, optime.
-  Viae hinc; carpsere
-  liquescunt torum; citi vox talia.
-  Et dixit genitalia sorores vitiatur, longique,
-  sui oris armenta!
+  Viae hinc; carpsere liquescunt torum; citi vox talia.
+  Et dixit genitalia sorores vitiatur, longique, sui oris armenta!
 
-  [mentis]: http://omgcatsinspace.tumblr.com/
-  [quae senecta]: http://tumblr.com/
-  [sub vagas]: http://imgur.com/
-  [umente]: http://zeus.ugent.be/
+  [mentis]: http://omgcatsinspace.tumblr.com/ [quae senecta]:
+  http://tumblr.com/ [sub vagas]: http://imgur.com/ [umente]:
+  http://zeus.ugent.be/

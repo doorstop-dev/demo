@@ -1,17 +1,20 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS001
+- SYS013
+- SYS018
+- SYS048
 normative: true
 ref: ''
 text: |
   Lorem [markdownum clamat] ortum telaque oetaeas, Faunigenaeque caerulea et
   minus, meo.
   Hoc ulnis tandem, ut possem prohibent paternam madent!
-  Huius anima
-  flores **pecudumque portat testantia**, aequoreo discrimine dulcis; visi.
-  Tityos
-  ostendit.
+  Huius anima flores **pecudumque portat testantia**, aequoreo discrimine
+  dulcis; visi.
+  Tityos ostendit.
 
       sms_tweet_icmp += -2;
       display *= winReader(tunnelingCode(e_rup_lock));
@@ -19,17 +22,15 @@ text: |
 
   Tunc qui animi iuppiter, quod vires tauros inpune, praedaeque adhuc ab oculos
   mediis apta ipse perforat resecuta ultima.
-  Tegebant facinusque sua pater vidisse
-  ineo dubitare tempestiva cacumine, *ora*. Caret qui laesae [et ergo], abit
-  pro
-  *floresque unum Est* inter se artus caliturasque felix.
+  Tegebant facinusque sua pater vidisse ineo dubitare tempestiva cacumine,
+  *ora*. Caret qui laesae [et ergo], abit pro *floresque unum Est* inter se
+  artus caliturasque felix.
 
   Nec quicquid interea eiaculatus remansit pacatum inque consistere fecit,
   quid.
   Me Pulchrior addit inventum mortalia vitatumque aquae subito Cycno Phantasos.
   Iliacos patrem deterruit flores ut reginam tange, crevit vana Priamoque.
-  Nihil
-  ille quoque caede.
+  Nihil ille quoque caede.
 
   1. Vim germane Auroram
   2. Tulit respice pendent cognorat ferox
@@ -40,22 +41,18 @@ text: |
 
   Corpore satis adero, quoque nec Sisyphe, qui paulatim, mentis subiecit
   incunabula illa.
-  Pastor hunc adflabitur sentiet quondam occupat egredere,
-  *servandam* superstes venti Deianira curvat nitenti sine iura nondum Amyntor
-  ternisque.
+  Pastor hunc adflabitur sentiet quondam occupat egredere, *servandam*
+  superstes venti Deianira curvat nitenti sine iura nondum Amyntor ternisque.
 
   [Tauri] exstantibus *ipse* membra, Cereris non languore dant more amanti, et
-  est
-  quod parentem humana.
+  est quod parentem humana.
   O semel adhuc et e materna oculis!
-  In et habebam ictu
-  Lacinia montes funera exhibuit obstipuit nec onere reddere iniuria iuvenum
-  loca
-  musco.
+  In et habebam ictu Lacinia montes funera exhibuit obstipuit nec onere reddere
+  iniuria iuvenum loca musco.
   Dixerat ipse nomen ubi parum est fama Numam saevi dumque quidem laedere
   nymphe [reducet]!
 
-  [Tauri]: http://www.reddit.com/r/haskell
-  [et ergo]: http://kimjongunlookingatthings.tumblr.com/
-  [markdownum clamat]: http://kimjongunlookingatthings.tumblr.com/
-  [reducet]: http://textfromdog.tumblr.com/
+  [Tauri]: http://www.reddit.com/r/haskell [et ergo]:
+  http://kimjongunlookingatthings.tumblr.com/ [markdownum clamat]:
+  http://kimjongunlookingatthings.tumblr.com/ [reducet]:
+  http://textfromdog.tumblr.com/

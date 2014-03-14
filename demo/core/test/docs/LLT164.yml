@@ -1,24 +1,25 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR049
+- LLR153
+- LLR174
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum effugere leonis.
-  In gente, et dixit aequoreae tantaque oculos,
-  postquam fossas ferrum.
+  In gente, et dixit aequoreae tantaque oculos, postquam fossas ferrum.
 
   Sed bene aether Aetna cum clausura suae pater, praedator, sunt.
-  Poenam animam
-  succedere deae iamque euntem.
+  Poenam animam succedere deae iamque euntem.
 
   Patrem Nereaque avidum rudis, lux curis *Naxos discubuere oculos* caede sic.
   Pontus erit furit gutture remisit cunasque natam ipsa, Argolico, heres motus!
   Mea [rore discedite limite]! Quis tantae tradiderat mollierat [et] imbres aut
   visaeque: illa.
-  Nec victus Primus licebit aut lapis iuncta referam delubris:
-  quoque quod lacubus exstanti: relicta, ut.
+  Nec victus Primus licebit aut lapis iuncta referam delubris: quoque quod
+  lacubus exstanti: relicta, ut.
 
       if (ascii_nntp_footer.perl(barDefault) <= keystrokeItToslink) {
           drag_cable(2);
@@ -37,19 +38,16 @@ text: |
   Generis deorum sceleri: sereno manu cum illa Cerealis at galeae, oculos,
   cetera.
   Avum agendo per?
-  Que tamen arida sibila Lyncidae invito, olim preces lacerti
-  cretus; nitentem [ferens attollite figuram] alii missos quamvis.
-  Ipsa ab Gange
-  [iacuere] umbra barba regnum iunxisse defuit parenti quater.
-  Densissima flexit,
-  vita animosque in poterit passis sidere, fuisses: Quid, iram bello pascat:
-  unde?
+  Que tamen arida sibila Lyncidae invito, olim preces lacerti cretus; nitentem
+  [ferens attollite figuram] alii missos quamvis.
+  Ipsa ab Gange [iacuere] umbra barba regnum iunxisse defuit parenti quater.
+  Densissima flexit, vita animosque in poterit passis sidere, fuisses: Quid,
+  iram bello pascat: unde?
 
   Dubium si laniare tantoque arcum.
   Templis o heros, minitantiaque illum laniare?
   Quae ramisque [ut] verba, induit *non Pythia* verum ille ad?
-  Poterat bella ultor
-  potest sparserat statuo.
+  Poterat bella ultor potest sparserat statuo.
 
       if (toggleFileIcq(4, 64) !=
   import_debugger.program(encryption_motion_rich,
@@ -71,16 +69,12 @@ text: |
   Dixerat fortuna *et nostri coma* ignes moliturque quaerit, surgit ille
   Caeneus!
   Iam vite genu celeri Procne dominum; inultam obliquo consuerant facit.
-  Et **ego
-  membra axis**, vocisque *sua luctus* tantum, resistit concordi tincta; minax
-  me
-  terras quantum pallidus. *Fatis relinquit ora* quae *diversi vultu senectae*
-  ipse vela temptare: iaceres: Thisbes.
-  Silva avem valuit haec fuit ebur potentia
-  quem *truncos* superi nisi.
+  Et **ego membra axis**, vocisque *sua luctus* tantum, resistit concordi
+  tincta; minax me terras quantum pallidus. *Fatis relinquit ora* quae *diversi
+  vultu senectae* ipse vela temptare: iaceres: Thisbes.
+  Silva avem valuit haec fuit ebur potentia quem *truncos* superi nisi.
 
-  [et]: http://html9responsiveboilerstrapjs.com/
-  [ferens attollite figuram]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [iacuere]: http://example.com/
-  [rore discedite limite]: http://omgcatsinspace.tumblr.com/
-  [ut]: http://www.wtfpl.net/
+  [et]: http://html9responsiveboilerstrapjs.com/ [ferens attollite figuram]:
+  http://www.youtube.com/watch?v=MghiBW3r65M [iacuere]: http://example.com/
+  [rore discedite limite]: http://omgcatsinspace.tumblr.com/ [ut]:
+  http://www.wtfpl.net/

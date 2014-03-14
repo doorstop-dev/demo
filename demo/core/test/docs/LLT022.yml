@@ -1,40 +1,36 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR006
+- LLR097
+- LLR193
 normative: true
 ref: ''
 text: |
   **Verify lorem markdownum** crus patriaeque vultu in *draconum concepit*
-  apulus.
-  *Quaedam* vario pati ritusque, dolori inque: cape quos currebam, eminus ea
-  fraternis, mutata.
-  Consternantur tuum congestaque dilaniat moriens *revellere
-  fluctus fluminis* Diana, fuit solet pondus prodidit eo haerent fulmina.
-  Aere
-  Philyreius ante nec nec quosque parte!
-  Patet singultibus talia terram tetigere
-  vinclo misisset Vulcania ignotas, eadem.
+  apulus. *Quaedam* vario pati ritusque, dolori inque: cape quos currebam,
+  eminus ea fraternis, mutata.
+  Consternantur tuum congestaque dilaniat moriens *revellere fluctus fluminis*
+  Diana, fuit solet pondus prodidit eo haerent fulmina.
+  Aere Philyreius ante nec nec quosque parte!
+  Patet singultibus talia terram tetigere vinclo misisset Vulcania ignotas,
+  eadem.
 
   Ait *fuit statuit*, tela genae [Tritona] quae terrarumque, tulit imis.
-  Saepe
-  pendentibus anum sed [gurgite] castae, an cum cesserunt caput; at?
-  Que est
-  [labor tantum pallentem], dixit fallaciter aere iterum *Procne*, fluctibus
-  alvum
-  spectasse Venus posset que Hersilie referens.
-  Iniuria tempora: auram domus ne
-  **spumis solebat** liquidas interea inquit, cognoscet Scylla, fiunt.
-  Causa tum,
-  semper.
+  Saepe pendentibus anum sed [gurgite] castae, an cum cesserunt caput; at?
+  Que est [labor tantum pallentem], dixit fallaciter aere iterum *Procne*,
+  fluctibus alvum spectasse Venus posset que Hersilie referens.
+  Iniuria tempora: auram domus ne **spumis solebat** liquidas interea inquit,
+  cognoscet Scylla, fiunt.
+  Causa tum, semper.
 
   Colloque mitte et requievit [scire]. A subiecta, ede utque mentiris celeres,
   [eos] non exprimit dubie.
   Mei suum imbri utile parte: arma: ante *dixit*, diu.
   Siste vincere est factis enim odium [quicquam], regina: volvitur [tenderet]?
   Credi referre putat arma siqua aut exstinguite amittere; tum haec illic
-  nobis,
-  reducto certe.
+  nobis, reducto certe.
 
   1. Albenti si moenibus factis
   2. Inde fremit quantus feruntur
@@ -45,12 +41,11 @@ text: |
 
   [Longis iniuria supersint] patris in loquendo Uranie: sors vixque, amores
   sepulchro.
-  Crine conticuere curru aethera, dubioque fervoribus necem Nixosque
-  obverterat terras.
-  A oraque sub [totumque vulgata]. Ope vertere muros ingreditur
-  quem confundit, [harena solum illa], qui et nominibus temptantes?
-  Gaudet
-  circumfluit visis, accipe patitur.
+  Crine conticuere curru aethera, dubioque fervoribus necem Nixosque obverterat
+  terras.
+  A oraque sub [totumque vulgata]. Ope vertere muros ingreditur quem confundit,
+  [harena solum illa], qui et nominibus temptantes?
+  Gaudet circumfluit visis, accipe patitur.
 
   1. Fuisses profanus Calaureae unus Tyrrhenaque dextra iuvenis
   2. Mentoque tibi
@@ -64,20 +59,15 @@ text: |
   tenore?
   Alter iaces, esse dixerat in erant demptum tendit, caede dixi arcuit manumque
   damno.
-  Quos quoque admonitu opposui in vidisset, opertum violabere Telamonius
-  filia.
+  Quos quoque admonitu opposui in vidisset, opertum violabere Telamonius filia.
 
   Sua dubio gelido revulsum accipe lumina non coniugis summa.
-  Iura amor sustinet
-  parsque flumineis futurus Salmacis!
+  Iura amor sustinet parsque flumineis futurus Salmacis!
 
   [Longis iniuria supersint]: http://kimjongunlookingatthings.tumblr.com/
-  [Tritona]: http://omfgdogs.com/
-  [eos]: http://gifctrl.com/
-  [gurgite]: http://heeeeeeeey.com/
-  [harena solum illa]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [labor tantum pallentem]: http://www.metafilter.com/
-  [quicquam]: http://www.uselessaccount.com/
-  [scire]: http://heeeeeeeey.com/
-  [tenderet]: http://www.reddit.com/r/haskell
+  [Tritona]: http://omfgdogs.com/ [eos]: http://gifctrl.com/ [gurgite]:
+  http://heeeeeeeey.com/ [harena solum illa]:
+  http://www.youtube.com/watch?v=MghiBW3r65M [labor tantum pallentem]:
+  http://www.metafilter.com/ [quicquam]: http://www.uselessaccount.com/
+  [scire]: http://heeeeeeeey.com/ [tenderet]: http://www.reddit.com/r/haskell
   [totumque vulgata]: http://landyachtz.com/

@@ -1,7 +1,12 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR007
+- HLR014
+- HLR015
+- HLR035
+- HLR063
 normative: true
 ref: ''
 text: |
@@ -56,15 +61,13 @@ text: |
   Undas tibi et moderamine quae vindicis illa species conrepta Phoebus.
   Praestructa cessant mihi: nube intellege inrita Pygmalion intravit **valebam
   genialis** numina tenuere cuius precor Pylos!
-  Et pars es pone stagnata ligones
-  meminere: Priami tenetur sine.
+  Et pars es pone stagnata ligones meminere: Priami tenetur sine.
   Veri novi quoque.
 
   Puer sine coniunx liquit hasta **adpellavere**, prodibant illis portant, ora
-  non
-  litore collem perspice cedere et [posses nostra]. Novae tangentia carmina.
-  Moly
-  habet iunxit lecto.
+  non litore collem perspice cedere et [posses nostra]. Novae tangentia
+  carmina.
+  Moly habet iunxit lecto.
   Caeni Iason inmeriti abest, aut [quae] instanti cibique.
 
   - Membra sacri
@@ -74,17 +77,13 @@ text: |
 
   Quos post ille cum non miserae sentit; sui sit roboris.
   Numine terrae.
-  Venti et
-  dicente nomine caligine census tempore ducis corpora rustica generoso si
-  chaos
-  Cyllenius natorum, Palladis de, te.
+  Venti et dicente nomine caligine census tempore ducis corpora rustica
+  generoso si chaos Cyllenius natorum, Palladis de, te.
 
   Instructamque aper regimen celebres disceditis somno culpavi!
-  Negat in pastoria
-  sic; enixa magni semper, meruisse, me socium, sic mea ex magis [monilia]!
+  Negat in pastoria sic; enixa magni semper, meruisse, me socium, sic mea ex
+  magis [monilia]!
 
-  [et comites]: http://omgcatsinspace.tumblr.com/
-  [flaventi]: http://tumblr.com/
-  [monilia]: http://zeus.ugent.be/
-  [posses nostra]: http://www.billmays.net/
-  [quae]: http://www.metafilter.com/
+  [et comites]: http://omgcatsinspace.tumblr.com/ [flaventi]:
+  http://tumblr.com/ [monilia]: http://zeus.ugent.be/ [posses nostra]:
+  http://www.billmays.net/ [quae]: http://www.metafilter.com/

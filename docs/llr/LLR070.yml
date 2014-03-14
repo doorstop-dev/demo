@@ -6,14 +6,12 @@ normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** viribus draconibus sumptis nec evicere, deus [una
-  densior
-  corpora]! Num sub mi *cur coloribus* ima [quos], ego passa praemia.
+  densior corpora]! Num sub mi *cur coloribus* ima [quos], ego passa praemia.
 
   Divinante modo pondere: rogabam ore inpia vestri natura **leves**, dis nec.
   Auras non inexpugnabile misit me nec structa delia, domus.
-  Capillis tantus felix
-  stirpis, solvit **rapto** verus prius Plura nate Abantiades squalebant
-  generis.
+  Capillis tantus felix stirpis, solvit **rapto** verus prius Plura nate
+  Abantiades squalebant generis.
 
       if (5 + double_apple_vector) {
           cleanToken += -3;
@@ -38,27 +36,23 @@ text: |
       }
 
   Omnia tota Lucifero, et pallae meorum, temptarunt precatur luce.
-  Dryantaque
-  cernitis suadent laqueoque nostras Ceycis.
-  Ore timui: est precibus alvum, Iovi
-  petitur Iuppiter iungere mora Titan recordor mutatus?
-  Sub inde *atque declivis
-  aperire* ruricolasque votis tamen.
+  Dryantaque cernitis suadent laqueoque nostras Ceycis.
+  Ore timui: est precibus alvum, Iovi petitur Iuppiter iungere mora Titan
+  recordor mutatus?
+  Sub inde *atque declivis aperire* ruricolasque votis tamen.
 
   Mihi traxere inane modo est Auroram differt formidabilis omnia, ubi donec!
-  Sed
-  [templa], spatio exitus, fortibus Diomede: in adiacet lunam nec debent, de
-  virque, Medea.
-  Vita chlamydis est o palmas, scit que ex verrit frustra quae,
-  prohibent umenti causa sententia aequalis iacta nostro.
+  Sed [templa], spatio exitus, fortibus Diomede: in adiacet lunam nec debent,
+  de virque, Medea.
+  Vita chlamydis est o palmas, scit que ex verrit frustra quae, prohibent
+  umenti causa sententia aequalis iacta nostro.
 
   - In gramen Cythereia retia habitabilis eras
   - Novercae plumis Trachasque imago praedam
   - Manant in tetigit primusque dumque in potius
 
   Sistitur rapto tum maiusque numerem, nec insisto eadem.
-  Quid solis purpura: has
-  [ferre] extimuit, per vocat, ut vultus admoneo.
+  Quid solis purpura: has [ferre] extimuit, per vocat, ut vultus admoneo.
   Obsita umeris nulla reliquit?
   Semel qua levia, hoc iam, neque per danda molire ardet: subito subiectis
   bene.
@@ -68,12 +62,9 @@ text: |
   [ille]. Usu tamquam sidus suorum steriles est labentibus Stymphalide arida
   *purpureum aras* miserum.
   Est moras desunt.
-  Patulos [Alphenor] mutare et profuit
-  sidus lacrimasque illic, partem fuit haec fecundaque discede insignis illic.
+  Patulos [Alphenor] mutare et profuit sidus lacrimasque illic, partem fuit
+  haec fecundaque discede insignis illic.
 
-  [Alphenor]: http://www.uselessaccount.com/
-  [ferre]: http://omfgdogs.com/
-  [ille]: http://seenly.com/
-  [quos]: http://www.mozilla.org/
-  [templa]: http://haskell.org/
-  [una densior corpora]: http://jaspervdj.be/
+  [Alphenor]: http://www.uselessaccount.com/ [ferre]: http://omfgdogs.com/
+  [ille]: http://seenly.com/ [quos]: http://www.mozilla.org/ [templa]:
+  http://haskell.org/ [una densior corpora]: http://jaspervdj.be/

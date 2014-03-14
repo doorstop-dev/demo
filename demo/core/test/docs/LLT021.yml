@@ -1,7 +1,10 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR023
+- LLR148
+- LLR180
 normative: true
 ref: ''
 text: |
@@ -9,10 +12,8 @@ text: |
   femina.
   Iuravimus **non fecit** caeruleos certis agitur, haec, pro indurata, *tum
   priori* fletibus tantaque eurus mihi tenet.
-  Sumpta ligat, in est utraque mihi,
-  coeperat fugit.
-  Qui iuvenes plantis Pythona altera, et agnovit negarunt,
-  surrexere pontusque!
+  Sumpta ligat, in est utraque mihi, coeperat fugit.
+  Qui iuvenes plantis Pythona altera, et agnovit negarunt, surrexere pontusque!
 
       dns_baseband_dhcp += supercomputer_memory_drive;
       if (delete_ppi_click) {
@@ -36,10 +37,9 @@ text: |
 
   Nebulas illis loquendo pectora [sospes loquenti] At morique coniunx Euboicus
   decepto.
-  E nervo nec per biformis Ialysios: *vos solum moverat* se dominam
-  namque, **versus** rerum os.
-  Inviso iuvenis paulatim, feralia possis Palatia
-  tegit, hoc silvae.
+  E nervo nec per biformis Ialysios: *vos solum moverat* se dominam namque,
+  **versus** rerum os.
+  Inviso iuvenis paulatim, feralia possis Palatia tegit, hoc silvae.
   Romule deficiunt videtur redire.
 
   - Hostes opus plangorem quos non
@@ -48,18 +48,13 @@ text: |
   - Alga decorata rettuleram Phorbas orbem paret
 
   Iam illa, velantque penates comites sua gente, nec quis silva revulsum.
-  Bis se
-  petisti temperiem sorores, et passuque vultus ad.
-  Ante mea fine notas unus
-  agitque etiamnunc proditus spolioque dederitis partim amplectitur gaudete
-  versus
-  vidit.
+  Bis se petisti temperiem sorores, et passuque vultus ad.
+  Ante mea fine notas unus agitque etiamnunc proditus spolioque dederitis
+  partim amplectitur gaudete versus vidit.
 
   Praemia sacra *damus* gyrum radiis, adsis ex fatis uno, ab lege.
-  Dominum
-  insequitur sortes, deam crine vacantem!
+  Dominum insequitur sortes, deam crine vacantem!
   Hoc arbor foliisque nimium quamvis, vel.
   Signis discordia totiens favet.
 
-  [fretum]: http://eelslap.com/
-  [sospes loquenti]: http://stoneship.org/
+  [fretum]: http://eelslap.com/ [sospes loquenti]: http://stoneship.org/

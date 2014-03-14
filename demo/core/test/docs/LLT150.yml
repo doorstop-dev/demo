@@ -1,13 +1,14 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR004
+- LLR164
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum [et] virgo reparata fulsit, manat dixit; dum.
-  Iuga iam: quoque
-  igne humi imperiis se vestigia fieret!
+  Iuga iam: quoque igne humi imperiis se vestigia fieret!
 
   1. Harenis patientia ursa
   2. Est quam ferre tellurem
@@ -17,13 +18,11 @@ text: |
 
   Solvit tradit abruptaque damnatur in numen credens tangi in acrior, sustinet
   haec illi annis ambrosia volatu; et mihi.
-  Domos ubi Molossa et fateri motus
-  presso, nubes, quid.
-  Si quoque timeo; cur occiderat mihi quid in fallit serta
-  urgetque sacra motis solo rediere?
-  Tenentis vultus pallet; se nisi cupressu
-  imago adulterium stridore notissima pavor utroque quia in limenque usus ortu
-  radice!
+  Domos ubi Molossa et fateri motus presso, nubes, quid.
+  Si quoque timeo; cur occiderat mihi quid in fallit serta urgetque sacra motis
+  solo rediere?
+  Tenentis vultus pallet; se nisi cupressu imago adulterium stridore notissima
+  pavor utroque quia in limenque usus ortu radice!
 
       path.checksum_core_card += barcraft.whitelist_radcab.left(5,
   time.kibibyte(
@@ -36,11 +35,10 @@ text: |
       var integerCharacter = halftone;
 
   Lino nate sibilat cum.
-  Cornua trahendo tentoria solus, haerens, vinci parantem
-  sacra tangi tibi ecce iacto canescere.
-  Patuitque este non sacro relinquit natus
-  de Eurylochumque poenas praecordiaque propiora dum, veloxque in ingentem
-  heros?
+  Cornua trahendo tentoria solus, haerens, vinci parantem sacra tangi tibi ecce
+  iacto canescere.
+  Patuitque este non sacro relinquit natus de Eurylochumque poenas
+  praecordiaque propiora dum, veloxque in ingentem heros?
 
   Ventique moles.
   Et ter sinistra serpit.

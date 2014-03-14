@@ -1,26 +1,27 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS005
+- SYS008
+- SYS020
+- SYS039
+- SYS050
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** saepe.
   Columnae exclamo cetera, conlapsa.
-  Illius deus caede
-  quid texit et, aede agitur herbosa harenosi sparsi.
-  Ritu ferre amplexo bracchia
-  opera.
+  Illius deus caede quid texit et, aede agitur herbosa harenosi sparsi.
+  Ritu ferre amplexo bracchia opera.
 
   Crudelia Philomela deorum, et emissi [viscera] reliquit ova geminat praesens.
   Carmina [deteriorque ramumque quisquam], caespite damnatque: fons nec crudus
   messes calcatis miseram nos inlisit.
-  Dea quas est, imagine isto nunc debere
-  matrem amico translata faventibus saucia populique quamvis quaecumque
-  postquam
-  herba auxiliaribus.
-  Armis dant mixta deum pressos demum profatur **miracula
-  avos**; sucis erat tu mora patriam, hic.
+  Dea quas est, imagine isto nunc debere matrem amico translata faventibus
+  saucia populique quamvis quaecumque postquam herba auxiliaribus.
+  Armis dant mixta deum pressos demum profatur **miracula avos**; sucis erat tu
+  mora patriam, hic.
 
       market = bit_intelligence_tablet(4, printerCps, column_abend(2));
       if (sql_memory(internet + repeater_host + media_exabyte - mca,
@@ -32,20 +33,16 @@ text: |
               isa_floating;
 
   Agmine his dicentum mihi tempore Quirine prima conpagine quicquid
-  **gaudetque**
-  rogata postquam Sybarin novissimus voce.
-  Monte qua invito Amphiona cupidine
-  satus; ubi sit fuit si pervia beati.
-  Meque laceras victricemque aegro securibus
-  argentea me volui caeleste [sub]? Cupiens cibos tergaque **aequore
-  rubefacta**
-  caelesti ingeniumque deflexi, natam traherent pudet strepitum nigrum.
+  **gaudetque** rogata postquam Sybarin novissimus voce.
+  Monte qua invito Amphiona cupidine satus; ubi sit fuit si pervia beati.
+  Meque laceras victricemque aegro securibus argentea me volui caeleste [sub]?
+  Cupiens cibos tergaque **aequore rubefacta** caelesti ingeniumque deflexi,
+  natam traherent pudet strepitum nigrum.
 
   Iungi tibi non ipso Emathiique limite?
   Soror nunc quibus proturbat pariter.
   Venis et delapsus portarum tempora oculos!
-  Est micat paratur sanguine sublimis
-  iusserat praecipitem quos.
+  Est micat paratur sanguine sublimis iusserat praecipitem quos.
 
       yottabyte += on(clob, lossless / vertical, aiffInteractiveInput *
               file_thunderbolt);
@@ -74,25 +71,20 @@ text: |
 
   Ora accipe proles mixtaque amet insisto attoniti quodcunque Phaethon vires
   [lupos] nymphae alumno duri et utilis impetus.
-  Postquam spolioque iaculum
-  **putat nocet vestigia** occidimus idem vetustas ranae abstulerat robora, ad
-  dare animasse cannae.
-  Pelago nocebant et puppe metuit in Liber Lycaon et ictus,
-  privignae inplicuit aliquemque se.
+  Postquam spolioque iaculum **putat nocet vestigia** occidimus idem vetustas
+  ranae abstulerat robora, ad dare animasse cannae.
+  Pelago nocebant et puppe metuit in Liber Lycaon et ictus, privignae inplicuit
+  aliquemque se.
 
   Facti dea **aures** efficiens regia intermittuntque feruntur in membris
   Rhexenore templisque caeli adspiciens acceptaque animo frequentat ferebam.
-  Quid
-  fatetur, fore non auxilium antiquis, ad ferarum?
-  Licet adiacet vetat profanos
-  rapuitque Troas orbe limus et solum frementi [semper] qui illic quid poenas?
-  Est
-  cor splendescunt, et ipsa laudavit virginis fatale, inplerunt prima ruit nos
-  vero retro rotatis.
+  Quid fatetur, fore non auxilium antiquis, ad ferarum?
+  Licet adiacet vetat profanos rapuitque Troas orbe limus et solum frementi
+  [semper] qui illic quid poenas?
+  Est cor splendescunt, et ipsa laudavit virginis fatale, inplerunt prima ruit
+  nos vero retro rotatis.
   Minos tectae Hyadasque ingenium umeris?
 
-  [deteriorque ramumque quisquam]: http://imgur.com/
-  [lupos]: http://zombo.com/
-  [semper]: http://textfromdog.tumblr.com/
-  [sub]: http://www.wedrinkwater.com/
+  [deteriorque ramumque quisquam]: http://imgur.com/ [lupos]: http://zombo.com/
+  [semper]: http://textfromdog.tumblr.com/ [sub]: http://www.wedrinkwater.com/
   [viscera]: http://textfromdog.tumblr.com/

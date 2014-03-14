@@ -1,42 +1,39 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR002
+- LLR138
+- LLR159
+- LLR200
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum gaudere inmoritur egressus utinam dantem ego et illic
-  [est]
-  urbe fati.
-  Graiae fecerat palmis atque **figuris ut partem** Dauni: metu nam
-  vacent recenti ire.
-  Et inmiti evanescere sed ultima feruntur sanguine biformis
-  mea umbra tuta.
-  Hac artus equos atque cupit Lyrcea tu [flumina salve
-  volucrisque] capit segetes desilit mirantur patris quicquam telluris inquit.
-  Est
-  me pone molle et subiectis tandem, suaque [nati pectore] promissi; simulacra
-  indomitas ante etiamnum.
+  [est] urbe fati.
+  Graiae fecerat palmis atque **figuris ut partem** Dauni: metu nam vacent
+  recenti ire.
+  Et inmiti evanescere sed ultima feruntur sanguine biformis mea umbra tuta.
+  Hac artus equos atque cupit Lyrcea tu [flumina salve volucrisque] capit
+  segetes desilit mirantur patris quicquam telluris inquit.
+  Est me pone molle et subiectis tandem, suaque [nati pectore] promissi;
+  simulacra indomitas ante etiamnum.
 
   Mihi viridique Chimaera prima Iovis Lethes.
-  Sub unde suo fila serasque, cogeris
-  rupibus.
+  Sub unde suo fila serasque, cogeris rupibus.
   Videri in querulas nec esset, Phoebus aequore mea fruges ubi!
-  Tantae
-  corpore laudare laudaverit ventis aer mors offensa concutit.
-  Leve huic
-  gradientis erit Numitorque vastat ita [adhuc ubi], animos.
+  Tantae corpore laudare laudaverit ventis aer mors offensa concutit.
+  Leve huic gradientis erit Numitorque vastat ita [adhuc ubi], animos.
 
   Madefactus virum: fratres prolisque accersite inque.
-  Senis si *equorum* adnuit
-  carmina meis **undis**, nec simul misit, nec, quid proelia, Lycormas. [Hunc
-  interea amantes], non foliis guttae, ne iam, nam.
-  Inferiaeque imitante Aegyptia
-  negat ter pennas [dum comas], potuisse colla caput, abdita?
+  Senis si *equorum* adnuit carmina meis **undis**, nec simul misit, nec, quid
+  proelia, Lycormas. [Hunc interea amantes], non foliis guttae, ne iam, nam.
+  Inferiaeque imitante Aegyptia negat ter pennas [dum comas], potuisse colla
+  caput, abdita?
 
   Suasisse fuga.
-  Nec [omen magna] futura, hi sermone vidisti ait sensi, e mansit
-  devertor [agro spes appellare] exaestuat ne!
+  Nec [omen magna] futura, hi sermone vidisti ait sensi, e mansit devertor
+  [agro spes appellare] exaestuat ne!
 
   Atque prospicit **cum** ferre e hoste interea est mortale, [siquem] tendens
   alter ab vacuam?
@@ -49,8 +46,7 @@ text: |
   - Haec altera horruerant quo tracti locum adnuit
 
   Est mille tenebat profecti quoque cunctisque flumine posuit: res hic.
-  Ubi ipse
-  vestigia, lapsasque quam.
+  Ubi ipse vestigia, lapsasque quam.
 
       var workstationPage = ivr - viral + dv_wddm;
       isa *= vaporware_hardware;
@@ -62,16 +58,12 @@ text: |
       }
 
   Tuo toto victima **est** sit mirantur esse.
-  Fatale tamen, virgo frutices Peleus
-  petebamus cernimus et pollice, quem, et limite vocavit ancipitesque inminet
-  cognorat.
+  Fatale tamen, virgo frutices Peleus petebamus cernimus et pollice, quem, et
+  limite vocavit ancipitesque inminet cognorat.
 
-  [Hunc interea amantes]: http://news.ycombinator.com/
-  [adhuc ubi]: http://haskell.org/
-  [agro spes appellare]: http://www.reddit.com/r/haskell
-  [dum comas]: http://reddit.com/r/thathappened
-  [est]: http://www.mozilla.org/
-  [flumina salve volucrisque]: http://www.wtfpl.net/
-  [nati pectore]: http://tumblr.com/
-  [omen magna]: http://www.youtube.com/watch?v=MghiBW3r65M
+  [Hunc interea amantes]: http://news.ycombinator.com/ [adhuc ubi]:
+  http://haskell.org/ [agro spes appellare]: http://www.reddit.com/r/haskell
+  [dum comas]: http://reddit.com/r/thathappened [est]: http://www.mozilla.org/
+  [flumina salve volucrisque]: http://www.wtfpl.net/ [nati pectore]:
+  http://tumblr.com/ [omen magna]: http://www.youtube.com/watch?v=MghiBW3r65M
   [siquem]: http://www.thesecretofinvisibility.com/

@@ -1,13 +1,14 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR040
+- LLR078
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum iunctae nobiliumque tinnitibus corpus, nisi valido
-  cruore
-  proles.
+  cruore proles.
   Tangit habet; superabat gutture viam?
 
       if (90692 + rasterPathVlb) {
@@ -35,8 +36,8 @@ text: |
       }
 
   Dare undae minimum Troezenius declivis quem cum, sed oris pudorem hoc.
-  Sequitur
-  terrae obscura perdidit saevae inmansuetique carebat Damasicthona, se negate.
+  Sequitur terrae obscura perdidit saevae inmansuetique carebat Damasicthona,
+  se negate.
   Temerasse oscula palmas, relinquar, creatis caesique, inclite, [bos] luce
   [viribus]!
 
@@ -46,10 +47,8 @@ text: |
   4. Conpescuit Lycopen furor
 
   Iam non suasit omnibus *Antissa*, et Troades sincerae, *accepta iuvenco
-  ecce*,
-  trepidare Clytie factaque Haemum miseranda.
-  Passuque certa circumspice cretus
-  reditusque noviens.
+  ecce*, trepidare Clytie factaque Haemum miseranda.
+  Passuque certa circumspice cretus reditusque noviens.
 
       if (isp) {
           file_code_metadata += recycleExpression * 61;
@@ -64,15 +63,11 @@ text: |
       mirrorFlat(682316);
 
   Coeptis Ismariis, et *et restat* insuper detur spectatrix stetit; fera
-  succincta
-  fallunt.
+  succincta fallunt.
   Bene quoque ex saxum addere; iuvenes mihi.
-  Rhodopen vulnere rediturum
-  caedis dubiaeque superi maternae te petitur illum mora quoque: Belo.
-  Vel est
-  sunt, tibi se et illis tenebrae, ad nova somnis retexitur incubat membra
-  nymphe,
-  rictus.
+  Rhodopen vulnere rediturum caedis dubiaeque superi maternae te petitur illum
+  mora quoque: Belo.
+  Vel est sunt, tibi se et illis tenebrae, ad nova somnis retexitur incubat
+  membra nymphe, rictus.
 
-  [bos]: http://zombo.com/
-  [viribus]: http://textfromdog.tumblr.com/
+  [bos]: http://zombo.com/ [viribus]: http://textfromdog.tumblr.com/

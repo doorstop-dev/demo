@@ -1,7 +1,9 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR031
+- HLR077
 normative: true
 ref: ''
 text: |
@@ -23,9 +25,8 @@ text: |
 
   Quam *dum tunc* et tertia, soli Astreus invictumque incumbere **stirpe fuit**
   vitiatas vestigia loquor Thessalidum et natam est concurrere.
-  De tuos in nato
-  sine hanc cupidine; erat corpora, taeda concordant vinco summa equus aequore
-  tantum.
+  De tuos in nato sine hanc cupidine; erat corpora, taeda concordant vinco
+  summa equus aequore tantum.
   Sub submisso nitentem fugientem partem, rursus undas ablatus, fixo.
 
       remote_minisite -= emulation;
@@ -35,22 +36,18 @@ text: |
 
   Promptas meruisse et cinisque ramus, murmur subiere *sic*; destringunt toto
   unguibus diruerent indomitae mariti et?
-  Nec agrestes [inmiti subiere] meum
-  vultu, cernit rarissima fuit gentis contulit Lyctia.
-  Legum Seditioque harenae
-  deam turbatum formae.
+  Nec agrestes [inmiti subiere] meum vultu, cernit rarissima fuit gentis
+  contulit Lyctia.
+  Legum Seditioque harenae deam turbatum formae.
   Gaudia dedit nuda data quando anxius super quod.
-  Et omnia
-  hederae nec flumen consule mercede et **tenebris victum**.
+  Et omnia hederae nec flumen consule mercede et **tenebris victum**.
 
   Haut sceptro tuae suasit ipsos, sum, socerque, sine diem inter, iam numeroque
   Minyae nocere tamen venturi.
   Solutis et viae.
-  Et iuvenes percussis in omnia tuo
-  sunt sceleris movit.
+  Et iuvenes percussis in omnia tuo sunt sceleris movit.
   Coma semper erat coniunctis: Epopeus atras.
-  Quae quid nec
-  commemorat quartusque fallite.
+  Quae quid nec commemorat quartusque fallite.
 
   Cum vidit aliquis, tenere, grave inter stipite, *inquit est* atque, esse
   muneris.

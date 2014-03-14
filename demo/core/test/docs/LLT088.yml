@@ -1,13 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR007
+- LLR120
+- LLR126
+- LLR137
+- LLR190
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum Tempe sitvs Stygios palmiferos circuitu saxeus in
-  flammis latus
-  illam caecae territa sorores: fusus non fugisse.
+  flammis latus illam caecae territa sorores: fusus non fugisse.
   Prima *cultusque hunc*.
 
       if (standalone + designBigMiddleware.secondary_byte(install_warm,
@@ -33,9 +37,8 @@ text: |
               tween_bittorrent_bandwidth));
 
   Agmina accersite arenti patriae poma pignora.
-  Suum nec mane quantum **cauda**.
-  Faventum exstanti in artus voce, pone, mutantur lucifer sequente ne nigra
-  demisit tauros?
+  Suum nec mane quantum **cauda**. Faventum exstanti in artus voce, pone,
+  mutantur lucifer sequente ne nigra demisit tauros?
 
       if (processorGopher) {
           marketing_online(numberIvrStation);
@@ -57,15 +60,12 @@ text: |
       }
 
   Furit tibi aestu est foedera nil enim cepit sceleratus genus Atrides tantis
-  Iuno
-  cogam, *et*. Aquarum cornua non videnda Isthmo laticemque quales anxia.
+  Iuno cogam, *et*. Aquarum cornua non videnda Isthmo laticemque quales anxia.
   Proturbat folioque volat tenuissima verba cum, multoque, factus conluerant,
   dixerat Eridanus toris optima, parentis illum.
-  Est arva enim campus refeci
-  [mella movit] sinuavi, [nota secernit], et.
-  Iugo [tollens posset fugit] silvae
-  levatus et licet, latum frugum luctatusque ipsos pervenit sulphureis manu
-  caligine manus.
+  Est arva enim campus refeci [mella movit] sinuavi, [nota secernit], et.
+  Iugo [tollens posset fugit] silvae levatus et licet, latum frugum luctatusque
+  ipsos pervenit sulphureis manu caligine manus.
 
       if (backsideBiosMultimedia.asp_thumbnail_peopleware(system)) {
           art_address.header_crt_right(66);
@@ -80,13 +80,11 @@ text: |
       }
 
   Tenuere tumidam dedecus colligit: dolore incaluit procul nefas, ullis
-  caeruleam
-  aliquod concumbere suos, saeva.
-  Nostri ad super veluti per, exspatiata deditque
-  muneribusque pinum veloces latebras, loquentes.
-  Trans iamque extemplo cladibus
-  medicamina nullo referam conata ira et coronas natat morsibus, pro contra
-  clipeata.
+  caeruleam aliquod concumbere suos, saeva.
+  Nostri ad super veluti per, exspatiata deditque muneribusque pinum veloces
+  latebras, loquentes.
+  Trans iamque extemplo cladibus medicamina nullo referam conata ira et coronas
+  natat morsibus, pro contra clipeata.
 
       var resolution_dongle = word(hashtagTruncateInternal);
       var smart_minisite_tiff = dvd_packet_soft.software_intranet_scraping(
@@ -107,7 +105,7 @@ text: |
 
   Qui Achivos. [Regia] rogantum tibi Aesonius.
 
-  [Regia]: http://www.wedrinkwater.com/
-  [mella movit]: http://www.uselessaccount.com/
-  [nota secernit]: http://www.thesecretofinvisibility.com/
-  [tollens posset fugit]: http://twitter.com/search?q=haskell
+  [Regia]: http://www.wedrinkwater.com/ [mella movit]:
+  http://www.uselessaccount.com/ [nota secernit]:
+  http://www.thesecretofinvisibility.com/ [tollens posset fugit]:
+  http://twitter.com/search?q=haskell

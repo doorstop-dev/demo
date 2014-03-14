@@ -1,13 +1,14 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS048
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL**, inde suo solet, nec Phoci, ubi pando pro.
-  Accepere pecori hoc
-  Pylios dumque dives longis sic, numero rubigine inanes: [alvum] cantusque.
+  Accepere pecori hoc Pylios dumque dives longis sic, numero rubigine inanes:
+  [alvum] cantusque.
 
   1. Fluidos vestra namque quota
   2. Insequitur lacrimas non morti acutis
@@ -21,32 +22,26 @@ text: |
   Proturbat die [si levabere] inponis et sortis diurnis glandes *opus*.
 
   Habenas est Syrtis adyto, terque hinc animaeque dominumque tenus.
-  Ergo non
-  radium, accepisse, iuventus foret miratur ver ut talia tu.
+  Ergo non radium, accepisse, iuventus foret miratur ver ut talia tu.
 
   Manu veni, crimine vidit primis, non heros et, spicula gemitum prius.
-  Vidi
-  pectore; neu aegram partes fugit: fine quo suco se munera sublime olorinis
-  sinus; illa.
+  Vidi pectore; neu aegram partes fugit: fine quo suco se munera sublime
+  olorinis sinus; illa.
   Tum aspexit nitidae.
 
   Inritata fatis solitos quem recordor falsa, auctor votis sit quid *mortalia*.
-  Et
-  te armentorum quod [Antiphates Neptunum post] consumptaque tremit requiescit
-  extrema trahitur fratris.
+  Et te armentorum quod [Antiphates Neptunum post] consumptaque tremit
+  requiescit extrema trahitur fratris.
 
   Auxiliumque luce sospite sentit fratres haec, et inque sentire mihi inque.
   Spatiumque credens?
-  Me et tamen si quod, liquidissimus cremavit autem valens
-  placidique verbaque primo saturata.
-  Dea stabat pestiferaque arbitrio summo potui
-  in, ante, **genitoris saltem**.
+  Me et tamen si quod, liquidissimus cremavit autem valens placidique verbaque
+  primo saturata.
+  Dea stabat pestiferaque arbitrio summo potui in, ante, **genitoris saltem**.
 
   Evaserat *capacibus*! Hoc huc dissipat, estis sanguine expertem ignis tamen
-  me
-  mors capillis saepe velle. [Antiquus] repens medio?
+  me mors capillis saepe velle. [Antiquus] repens medio?
 
-  [Antiphates Neptunum post]: http://zeus.ugent.be/
-  [Antiquus]: http://news.ycombinator.com/
-  [alvum]: http://heeeeeeeey.com/
-  [si levabere]: http://kimjongunlookingatthings.tumblr.com/
+  [Antiphates Neptunum post]: http://zeus.ugent.be/ [Antiquus]:
+  http://news.ycombinator.com/ [alvum]: http://heeeeeeeey.com/ [si levabere]:
+  http://kimjongunlookingatthings.tumblr.com/

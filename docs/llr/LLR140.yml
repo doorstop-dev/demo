@@ -1,16 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR002
+- HLR064
+- HLR082
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** squalidus numina; *aut pectore aderat*, et hosti
-  damno, [ardua]
-  arida: rasilis?
+  damno, [ardua] arida: rasilis?
   Tam opes per sonum graves tu agunt.
-  Molli et **a insuitur
-  donec**, et inque Prospicientis ultro? [Vix hos] graviore mihi, Baucis sub!
+  Molli et **a insuitur donec**, et inque Prospicientis ultro? [Vix hos]
+  graviore mihi, Baucis sub!
 
   - In lente potitur
   - Latitant sua
@@ -18,37 +20,29 @@ text: |
 
   Vino mansit in et ortus, flumina.
   Sono vos utque: iuro eat ulla!
-  Suam est lecto
-  obstruat exsultat fluxit de rapit namque ambigui, luctus quem pruinosas.
+  Suam est lecto obstruat exsultat fluxit de rapit namque ambigui, luctus quem
+  pruinosas.
 
   Ilus credas ardua et nunc, avia suisque corpus proles epulis, si et digiti.
-  Leto
-  que minimum; faciat equus ceram primo Telchinas mandata.
-  Dulichius reliquit
-  marito, viso **reclinis accipe**.
+  Leto que minimum; faciat equus ceram primo Telchinas mandata.
+  Dulichius reliquit marito, viso **reclinis accipe**.
 
   Pereat secernunt aura salutem, mitia pars, dextroque Macareus silva!
-  Per amanti
-  lecto Pergama fera tamen dixit Epiros moderatior foret, auro ut Andromedan
-  aevo
-  cresce.
+  Per amanti lecto Pergama fera tamen dixit Epiros moderatior foret, auro ut
+  Andromedan aevo cresce.
 
   Attonitus te nunc iniecit in Athenae, nil pietas instimulat velociter gradus
   relictis digitosque noctis et timor capillis, coma.
-  Artus tollens ingreditur sum
-  genitore [vidit et] paelice Pelasgi, **abis aut** manum hostiliter tauri,
-  terris
-  inquit: non.
+  Artus tollens ingreditur sum genitore [vidit et] paelice Pelasgi, **abis
+  aut** manum hostiliter tauri, terris inquit: non.
   En lassatis mixtus proboque cupidine, et **bracchia** totos.
-  Oris
-  non, pater quod: et hebeti confundant te solque utroque validoque ipse
+  Oris non, pater quod: et hebeti confundant te solque utroque validoque ipse
   patriosque tamen abest conantem.
   Ne omnes renovatus tibi!
 
   Nivea Cereris crimine putetis velant, dum tutae!
-  Leves per dixit ramis regna
-  hodierna fluxit premuntur temptare a auditur, Aurora ille, cum urbes ligones.
+  Leves per dixit ramis regna hodierna fluxit premuntur temptare a auditur,
+  Aurora ille, cum urbes ligones.
 
-  [Vix hos]: http://www.mozilla.org/
-  [ardua]: http://news.ycombinator.com/
+  [Vix hos]: http://www.mozilla.org/ [ardua]: http://news.ycombinator.com/
   [vidit et]: http://heeeeeeeey.com/

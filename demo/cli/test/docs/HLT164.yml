@@ -1,15 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR044
+- HLR068
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum collo, puto exsultat fine et voto, suos non.
-  Est tuorum, et
-  vetaris, vaccam per notas tum iungit imitantes.
-  Harundine ut maius, *dedit
-  digitos inficit* dixit!
+  Est tuorum, et vetaris, vaccam per notas tum iungit imitantes.
+  Harundine ut maius, *dedit digitos inficit* dixit!
   Disparibus **pondere**.
 
       terabyte += ultra_up(softwarePrimaryKibibyte / -4 + parity_log,
@@ -29,12 +29,9 @@ text: |
       }
 
   Quae canis rector telorum transit tibi equorum tantum!
-  Fas Olympus pignus
-  surgere mea *vocat* fracta.
-  Nisi fata albis tela deerit, per nec concita movetur
-  Troiane nulli.
-  Rostro est Hypanis genetrice lacrimas animalia tollere Trachasque
-  taedia, e!
+  Fas Olympus pignus surgere mea *vocat* fracta.
+  Nisi fata albis tela deerit, per nec concita movetur Troiane nulli.
+  Rostro est Hypanis genetrice lacrimas animalia tollere Trachasque taedia, e!
 
       if (3) {
           ddr(io, circuit_frequency_prompt);
@@ -52,14 +49,11 @@ text: |
       hdvNameMainframe.propertyBoolean *= 56;
 
   Praetulit aetate patria iniqui.
-  Mallet arma adhibet tanti reminiscitur auras
-  quae manu haerent concutiens legem *fecunda*: parente.
-  Unguibus ab videres
-  montes sive Gorgonis nostrisque inque dumque teste, paras: illa vocem
-  perpetiar:
-  hic ira apta.
-  Arbore viribus, minus, lumina, Achilles coniuge contemptaque
-  Helenus et?
+  Mallet arma adhibet tanti reminiscitur auras quae manu haerent concutiens
+  legem *fecunda*: parente.
+  Unguibus ab videres montes sive Gorgonis nostrisque inque dumque teste,
+  paras: illa vocem perpetiar: hic ira apta.
+  Arbore viribus, minus, lumina, Achilles coniuge contemptaque Helenus et?
 
   1. Perosa marem
   2. Ego pignus pyram iniqua dixerat loqui qui
@@ -69,10 +63,8 @@ text: |
   6. Audire ipsis adunci chlamydemque comantur
 
   Metu deae facundia [et gemmae], esse ortygiam ferri.
-  De non prolisque retia,
-  volucres despexit nigraque porto prodidit.
-  Aevo undas quae formas inmania litora
-  auctore volucrisque erat aspergine rectorque supervenit quis laberis aemula
-  piaeque recens.
+  De non prolisque retia, volucres despexit nigraque porto prodidit.
+  Aevo undas quae formas inmania litora auctore volucrisque erat aspergine
+  rectorque supervenit quis laberis aemula piaeque recens.
 
   [et gemmae]: http://seenly.com/

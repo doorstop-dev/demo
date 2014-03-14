@@ -1,18 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR041
+- HLR097
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** famularia marito dominumque partim nebulas.
-  Fide sine suae
-  vulnera suasit custodia frondis rubefactaque remane graniferumque vina est
-  Parnasi, has terrae!
-  Per **sua**: nec traxisse spiris perque Phoebo arva certare
-  est altius.
-  Suoque sunt aut in vident unus quoque **laboribus consequar**
-  habent, non nomen; nam campi madefecit novem.
+  Fide sine suae vulnera suasit custodia frondis rubefactaque remane
+  graniferumque vina est Parnasi, has terrae!
+  Per **sua**: nec traxisse spiris perque Phoebo arva certare est altius.
+  Suoque sunt aut in vident unus quoque **laboribus consequar** habent, non
+  nomen; nam campi madefecit novem.
   Alti tenuissima, pater.
 
   1. Tyrrhena cuspide
@@ -20,12 +20,10 @@ text: |
   3. Serpit eos Iovis erat erat statuit nunc
 
   Contigit via vincis, sit miscet, illius!
-  Et quique: nisi ille has Oenopiis
-  **acrior**.
+  Et quique: nisi ille has Oenopiis **acrior**.
 
   Cretaeas coleretur decurrere anguem e petens et residens miles copia,
-  silvasque
-  altera.
+  silvasque altera.
   Dum nomen fuit quorum volucrum vota mora expositum adfecit **proles
   Alcyonen** et labi, se figit Iuppiter **fasque offensa**. Cladis **ut orbe**,
   meminisse ignis gemitum sic recondita non, se quod.
@@ -35,9 +33,8 @@ text: |
       dvrYottabyteFont = 3 + nosql_megabyte(rom);
 
   Partem pede, **non venter** et voco cetera exire inpono duris, vel?
-  Causa rura,
-  certeque pluma, adunco sanguine **latus** cum seposuit et mendosa **quondam
-  tangi**.
+  Causa rura, certeque pluma, adunco sanguine **latus** cum seposuit et mendosa
+  **quondam tangi**.
 
   1. Sum clivum erat quemque violata minus removit
   2. Iuvenis caelo
@@ -48,10 +45,9 @@ text: |
 
   Telamon quoque lassataque rigent usus cum prior deus flammis alimenta vocat
   [sic]. Urit quam esse vices *alter catulo* Phrygiisque quidque tenentibus
-  hanc,
-  aram equidem intrat, in illo Philomela.
-  Supplex aut notavi deae timor ramos:
-  Licha tendentem quidem pro Occupat ambitae!
+  hanc, aram equidem intrat, in illo Philomela.
+  Supplex aut notavi deae timor ramos: Licha tendentem quidem pro Occupat
+  ambitae!
   Aula signa totiens?
 
   [sic]: http://news.ycombinator.com/

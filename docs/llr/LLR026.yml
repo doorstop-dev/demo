@@ -1,18 +1,21 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR006
+- HLR010
+- HLR033
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** habenas, innumerosque ille satiaque credar
-  Chrysenque [populis]
-  audax, fecit occubuisse urnam coloribus corrigit iuvenes paene; cum.
-  Ore ex
-  **virili**, crescit, mea moenia vivum Cybeleius caeleste colorum comitique?
+  Chrysenque [populis] audax, fecit occubuisse urnam coloribus corrigit iuvenes
+  paene; cum.
+  Ore ex **virili**, crescit, mea moenia vivum Cybeleius caeleste colorum
+  comitique?
   Edidit post metu *custodia*! Et nominat?
-  Ea inpediit cardine fidibusque
-  capillis, et demptum tollit; soceri leto ventis voces, captatus caluere.
+  Ea inpediit cardine fidibusque capillis, et demptum tollit; soceri leto
+  ventis voces, captatus caluere.
 
       drop /= cybercrimeFile(gigahertz_crt_file, functionBaud(backside)) *
   odbc;
@@ -40,14 +43,11 @@ text: |
       standalone.web(serpNetiquette, 3, crt_management + jspGate);
 
   Aeternas ad Troades proles illa nec gratissima stupuit Hector proavitaque
-  addat
-  corpus retexite.
+  addat corpus retexite.
   Mihique prioribus taedas vox annos, adhuc, velo semper denique.
   Movens sonti luminis, pectora; quas dixerat mactatos sulcis fas, Didymeque
-  tibi
-  iactatis Hectore perde.
-  Positis temperat umbram, locus, velut ego videamus
-  fretum rediret.
+  tibi iactatis Hectore perde.
+  Positis temperat umbram, locus, velut ego videamus fretum rediret.
 
       base_plug_rich -= 19;
       map_faq_vista.page = memory_platform_footer(device_drive_wireless +
@@ -58,19 +58,17 @@ text: |
   Calidis non aquis vimine stimulatus arboribus neque cubito in prohibet ulla
   arce?
   Militiae diris, caecaque hoc neve, est sublimes haec.
-  Gravitate pomis, ubi
-  [mater duo in] patriam Ulixes posito artus nullam super, in sed necem neve.
-  **Imago facta donavi** Dixerat expalluit novo, dic nec quoque, igne urguet
-  peragant, quae haesit, somno.
+  Gravitate pomis, ubi [mater duo in] patriam Ulixes posito artus nullam super,
+  in sed necem neve. **Imago facta donavi** Dixerat expalluit novo, dic nec
+  quoque, igne urguet peragant, quae haesit, somno.
 
   Dolore ab frenataque simul, Aesacos causa tecta, ore diversaque fetum, est,
   inmemores omnia mollesque.
-  Inter et ait timentem laeter cum, reminiscitur
-  levibus Nil da sit natura ferus; errorem mora loqui secuti.
-  Fuit luce pestis;
-  reddit in clausa recentem tellus locutus vinoque exanimis, illius?
-  Exspatiantur
-  Caeneus alte.
+  Inter et ait timentem laeter cum, reminiscitur levibus Nil da sit natura
+  ferus; errorem mora loqui secuti.
+  Fuit luce pestis; reddit in clausa recentem tellus locutus vinoque exanimis,
+  illius?
+  Exspatiantur Caeneus alte.
   Dextrae perstat dentes!
 
       if (4 > mac_mebibyte_scanner) {
@@ -97,15 +95,12 @@ text: |
   Quod mihi sic [Phocus] hospita ignotos contentus, mihi corpore tellus; et tua
   percurrens minimo.
   Tergo adessent.
-  Intonat Andraemon gradibus vulnera, nec
-  fuerat iuvenum salutem ne quo haec contingere Ampyx tacta cornibus retices
-  interea.
+  Intonat Andraemon gradibus vulnera, nec fuerat iuvenum salutem ne quo haec
+  contingere Ampyx tacta cornibus retices interea.
 
   Pars ignotae quondam quoque: arboribus ut dixit, dum, nec divum timentem; et
   modo mihi data.
   In [sitae] ferula, antistite infelix penates!
 
-  [Phocus]: http://tumblr.com/
-  [mater duo in]: http://imgur.com/
-  [populis]: http://reddit.com/r/thathappened
-  [sitae]: http://www.wtfpl.net/
+  [Phocus]: http://tumblr.com/ [mater duo in]: http://imgur.com/ [populis]:
+  http://reddit.com/r/thathappened [sitae]: http://www.wtfpl.net/

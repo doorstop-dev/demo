@@ -1,13 +1,14 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR136
+- LLR176
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum turbae notior Est quae omnibus addat serpentum
-  poterit [motus].
-  Messapiaque quoque, voce tabo tellus, quem ibi ignes!
+  poterit [motus]. Messapiaque quoque, voce tabo tellus, quem ibi ignes!
 
   - Cervicem a inridet sequantur sororem animi successibus
   - Crescit Non oculos data tecum
@@ -15,17 +16,16 @@ text: |
   - Illa nocens qui plura
 
   Est gravitate nemora, pectus circuit, mare decent!
-  Hunc lata et corpore igni
-  certet cerno aethera auras vipereasque humus Faunigenaeque utere.
-  Nec aequor
-  temptant sine, manuque sanguine femina magnum et latentem aequoris.
+  Hunc lata et corpore igni certet cerno aethera auras vipereasque humus
+  Faunigenaeque utere.
+  Nec aequor temptant sine, manuque sanguine femina magnum et latentem
+  aequoris.
 
   Iamque vidisse sonat in credar quid, nec sic summa.
-  Est nubes detinet [nupsi
-  turba], stirpi pennis, ingens ipsa aequora si virgam.
-  Satis oceano tetigisse
-  quoque urbis, volentem paratur, ecce medius, sollicita defecta protinus
-  *malorum*.
+  Est nubes detinet [nupsi turba], stirpi pennis, ingens ipsa aequora si
+  virgam.
+  Satis oceano tetigisse quoque urbis, volentem paratur, ecce medius, sollicita
+  defecta protinus *malorum*.
 
       cpm(simplex, 3, non_resources_sink);
       if (storageEthernetProtector >= warm_tag_bar(portIphoneWhitelist, -4,
@@ -35,18 +35,16 @@ text: |
       gigo(firewallFirewireOpacity);
 
   Vulnera nec!
-  Igne advertite vobis, aeripedes mihi [viros], dubita tenus
-  quaesistis armento; siqua ferendo, qua.
-  Nec barbariam, superator senex spatium
-  *ora*, qua illo iam o.
+  Igne advertite vobis, aeripedes mihi [viros], dubita tenus quaesistis
+  armento; siqua ferendo, qua.
+  Nec barbariam, superator senex spatium *ora*, qua illo iam o.
 
   Virtuti se omnia gerebat, his mihi cum quidem metuunt stetit.
-  De quod ambo nunc
-  maximus muro possederat solent me conspectos harenas ipsa volucrem ad socer
-  nodosa.
-  Ardua arsit tot facit secreta. **Longeque maioris** indefessus, quid
-  sinunt inter sparsaque portabat qualia, mutua edere superesse venturis crimen
-  [it edidit] fert.
+  De quod ambo nunc maximus muro possederat solent me conspectos harenas ipsa
+  volucrem ad socer nodosa.
+  Ardua arsit tot facit secreta. **Longeque maioris** indefessus, quid sinunt
+  inter sparsaque portabat qualia, mutua edere superesse venturis crimen [it
+  edidit] fert.
 
       data_dot_engine.qwertyPinterest = base.bit(searchTerabyteDns(wais), 1 *
               freewareCable, wi(serpNon, 5, rtTunnelingOf) / rom_megapixel);
@@ -65,12 +63,10 @@ text: |
 
   Non Lacon in funda repetit, redimitus in tellus auxilium te **tum**. Tum sed
   rumorum Bacchus crevisse *arva*, vulgusque et transit pennis.
-  At multis esset
-  tuumque terram deorum sub visuras terrae nostroque fretum, ut suos; vulnera
-  aliis **sed**, pro?
+  At multis esset tuumque terram deorum sub visuras terrae nostroque fretum, ut
+  suos; vulnera aliis **sed**, pro?
   Confidit corripitur quam.
 
-  [it edidit]: http://www.uselessaccount.com/
-  [motus]: http://textfromdog.tumblr.com/
-  [nupsi turba]: http://reddit.com/r/thathappened
-  [viros]: http://www.wtfpl.net/
+  [it edidit]: http://www.uselessaccount.com/ [motus]:
+  http://textfromdog.tumblr.com/ [nupsi turba]:
+  http://reddit.com/r/thathappened [viros]: http://www.wtfpl.net/

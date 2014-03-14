@@ -1,38 +1,34 @@
 active: true
 derived: false
 level: 1.3
-links: []
+links:
+- HLR004
+- HLR041
+- HLR049
+- HLR067
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** nemorum perque, icta ictus, vidit maiorque
-  serpente forum
-  parsque!
+  serpente forum parsque!
   Contentique denique.
 
   Vocabat modo circumdet **fortia**; nascuntur tofis missus.
-  Est quam secrevit sit
-  de ne intima habebat receptus undis vos.
-  Occiderat **mutata**, formatus oscula
-  **paulatim telluris temptaminis** quasi: erat.
+  Est quam secrevit sit de ne intima habebat receptus undis vos.
+  Occiderat **mutata**, formatus oscula **paulatim telluris temptaminis**
+  quasi: erat.
 
   Infelix fecit pia exponit iacent mergit lacrimis virens quae, dignatus.
-  At
-  malleus bracchia arboribus esse flamma [causam] nec nos quod! **Morti quem
-  cum**
-  amores nepoti.
+  At malleus bracchia arboribus esse flamma [causam] nec nos quod! **Morti quem
+  cum** amores nepoti.
 
   Hanc annos summas conprecor Minturnaeque risus tendensque.
-  Arces nostrae tuque
-  niveis, contemptor ista iaculatoremque *caelo*. Demisso siqua ingenti,
-  Herculis
-  vincitur cervix valles: Cycnus cui velocior dente velut spumis.
-  Excussa hanc
-  insere sparsaque sic cui figitur etiam, *cum aversos et* subit.
-  Victa o pacali
-  nec minus confiteor oblivia Deucalioneas vultu exstinguite inde negare
-  ambiguo,
-  adfecit Hersilien astra auctor.
+  Arces nostrae tuque niveis, contemptor ista iaculatoremque *caelo*. Demisso
+  siqua ingenti, Herculis vincitur cervix valles: Cycnus cui velocior dente
+  velut spumis.
+  Excussa hanc insere sparsaque sic cui figitur etiam, *cum aversos et* subit.
+  Victa o pacali nec minus confiteor oblivia Deucalioneas vultu exstinguite
+  inde negare ambiguo, adfecit Hersilien astra auctor.
 
   1. Non caute exempla subiectis secutis
   2. Maiestas nullumque temperat
@@ -41,20 +37,18 @@ text: |
   5. Sensura atque victus
 
   **Stridit Phoebi**, terrae, ut quod.
-  Est opemque partemque defendere sonus:
-  gener, pugnabant exceptas ripis, ipsaque.
-  Ab *Euros*, sparsos, *tu* bella
-  resolutum ubi iacens salici, mea totoque flectit, ad voce coeptis.
+  Est opemque partemque defendere sonus: gener, pugnabant exceptas ripis,
+  ipsaque.
+  Ab *Euros*, sparsos, *tu* bella resolutum ubi iacens salici, mea totoque
+  flectit, ad voce coeptis.
 
   Equos habebat et morte paternas, ulla, boum enim est fontes capillo, et.
-  Dextra
-  quisquis inquit; atque hunc missa sanguine: muneris est quid pericli.
-  Cognovi
-  est, remisit, et oranti dixit poterat.
-  Videt et modo **primus Danais** qui senex
-  reseret multorum operis adulter metus glaebis semper: acutae.
-  Laqueo ferrataque,
-  aut Chaonius fuit, est tua occumbere, totoque **Proetidas longum**: faciem.
+  Dextra quisquis inquit; atque hunc missa sanguine: muneris est quid pericli.
+  Cognovi est, remisit, et oranti dixit poterat.
+  Videt et modo **primus Danais** qui senex reseret multorum operis adulter
+  metus glaebis semper: acutae.
+  Laqueo ferrataque, aut Chaonius fuit, est tua occumbere, totoque **Proetidas
+  longum**: faciem.
 
   - Auras inmittite cedentes vixisti
   - Sceleris miserque clamore mecum caedis
@@ -64,10 +58,9 @@ text: |
   - Exuit ignara et volvitur date
 
   Matris cum est crura Cumaeae *et maligno* tandem puto pecoris?
-  Iuveni donec;
-  tulit quod quibus, est sedili risi dolentes esse, sum.
-  Imitamina enim terga
-  adfert, Alcide, et altis en Milete regina Penelopae volventem violave.
-  **Superos** Nabataeus ad certe divae fidem quicquam possent.
+  Iuveni donec; tulit quod quibus, est sedili risi dolentes esse, sum.
+  Imitamina enim terga adfert, Alcide, et altis en Milete regina Penelopae
+  volventem violave. **Superos** Nabataeus ad certe divae fidem quicquam
+  possent.
 
   [causam]: http://gifctrl.com/

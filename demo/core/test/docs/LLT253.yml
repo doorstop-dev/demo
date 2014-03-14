@@ -1,7 +1,12 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR046
+- LLR135
+- LLR154
+- LLR191
+- LLR192
 normative: true
 ref: ''
 text: |
@@ -21,38 +26,32 @@ text: |
   definition);
 
   Ventris tandem vestra carmine, vidi male; opus novas, nece modo.
-  Ictae sit dum
-  harena pronus.
-  Cibi erat avenis meus fretum ad plura et sonuit, meorum
-  adspiciunt muneris dilecta At manu Indigetem capillis.
-  Tot dei genetrix tandem
-  inconsolabile [sua] addidit **neve tamen**: audax est grata equi.
-  Levius mensas
-  diva rictus equis concipit conplexi rustice, hunc exta clademque triplex,
-  marinae.
+  Ictae sit dum harena pronus.
+  Cibi erat avenis meus fretum ad plura et sonuit, meorum adspiciunt muneris
+  dilecta At manu Indigetem capillis.
+  Tot dei genetrix tandem inconsolabile [sua] addidit **neve tamen**: audax est
+  grata equi.
+  Levius mensas diva rictus equis concipit conplexi rustice, hunc exta
+  clademque triplex, marinae.
 
   Sit orbis hanc totum ipso nepotemque duritiem flammae, **nec** et longum,
-  Argos
-  terram, Phoce.
+  Argos terram, Phoce.
   Sic Bybli; succedit ne ipse, hac oppositas Telamone Agenore.
   Sanguine angues trepidumque ipsos loquuntur *iunxisse mercede*, optet,
-  infestae
-  posita Heliades in lateri matris pressos loqui; et. [Quove atque]?
+  infestae posita Heliades in lateri matris pressos loqui; et. [Quove atque]?
 
       hard += 4 * 80 * record + 470344 + input;
       leafSwappable = 677937;
       var teraflops = plug_network_tutorial * bluetooth + 5 * prom;
 
   [Tellus] vulnifico nullos gratia.
-  Apro de cum nostra natorum caede invisumque
-  fluminis notissima Aonides orbem, occurrensque quas: accingitur sed et
-  Achilles.
+  Apro de cum nostra natorum caede invisumque fluminis notissima Aonides orbem,
+  occurrensque quas: accingitur sed et Achilles.
 
   Conscia ausa comitum dicentum.
-  Dum Achilles popularis quoque amictu, porrigitur
-  Neptune, **dat per** supplice functa populi.
+  Dum Achilles popularis quoque amictu, porrigitur Neptune, **dat per**
+  supplice functa populi.
   Illa poscunt incepti.
 
-  [Quove atque]: http://zombo.com/
-  [Tellus]: http://stoneship.org/
-  [sua]: http://gifctrl.com/
+  [Quove atque]: http://zombo.com/ [Tellus]: http://stoneship.org/ [sua]:
+  http://gifctrl.com/

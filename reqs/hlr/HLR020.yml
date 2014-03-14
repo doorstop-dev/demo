@@ -1,15 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS005
+- SYS027
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** rector; et fecit et meritis hostem.
-  Diva *donec*, veni volat,
-  spes debent nusquam forma, vinxerat certaminis.
-  Densum dicitur tenebat si
-  Thaumas numerare natumque petis instabat, campi ignes nulli.
+  Diva *donec*, veni volat, spes debent nusquam forma, vinxerat certaminis.
+  Densum dicitur tenebat si Thaumas numerare natumque petis instabat, campi
+  ignes nulli.
 
   - In Venerem
   - Parvus mihi flebam
@@ -40,8 +41,8 @@ text: |
   petit.
   Undas Capaneusque corpora potest, factum, quid vix non reclinis tibi
   Munychiosque necem, occupat omnes.
-  Qua exul qui hunc protinus unum, dotalem quas
-  servat laetus anhelitus et fluctus albus parentum usus.
+  Qua exul qui hunc protinus unum, dotalem quas servat laetus anhelitus et
+  fluctus albus parentum usus.
 
   - Contingit hoc lanas tot letum rex habebat
   - O foret levabere
@@ -51,14 +52,11 @@ text: |
   - Tutissimus ante fertur terram de nullam fulvis
 
   A triste, minuit et medioque in coepere poteram inquirit, est.
-  Tot brevissimus,
-  non nequit exercere in mearum percussus sanguine nymphae, fluit nullum et
-  Ceyca,
-  dentes.
-  Degravat virtus, capacem, indignamque illis tribuere dimovit
-  **harenae**, olentes, victor quot nate piscosamque hominis tenus dominique.
+  Tot brevissimus, non nequit exercere in mearum percussus sanguine nymphae,
+  fluit nullum et Ceyca, dentes.
+  Degravat virtus, capacem, indignamque illis tribuere dimovit **harenae**,
+  olentes, victor quot nate piscosamque hominis tenus dominique.
   Nervis parvumque *praebet* dea, maius cum audiat tauri et undas respicit
-  caeli
-  Triptolemus igne nequiquam.
+  caeli Triptolemus igne nequiquam.
 
   [quod]: http://seenly.com/

@@ -1,16 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR010
+- HLR027
+- HLR055
+- HLR060
+- HLR068
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** [videbat Ichnobatesque] pars ait est, saltus:
   inscius.
-  Ipse
-  crine vulnere et nescit.
-  Iram levat, iungit isto victus illiusque unam
-  *vulgique*.
+  Ipse crine vulnere et nescit.
+  Iram levat, iungit isto victus illiusque unam *vulgique*.
 
       scriptStationSwitch(websiteLossless.bar(136470, thick_oop -
               client_file_server), operatingUddiCompact);
@@ -42,23 +45,20 @@ text: |
       }
 
   Vipereos manibus adicit.
-  Certare innumeras in dixit socios credo iuvit nervi
-  nec, per est.
+  Certare innumeras in dixit socios credo iuvit nervi nec, per est.
   Saniemque suis!
-  Aeternum ad quoque vivere fassusque; quid volentem
-  in adest.
+  Aeternum ad quoque vivere fassusque; quid volentem in adest.
 
   Enim illa precesque doctus armarat spatiumque ipsis et viri adsere Alcathoen
   distat has.
-  Quis foedera iacent, ferarum et errent Philomela victus quod colit
-  secant his vocat est Tantalus, cepisse.
+  Quis foedera iacent, ferarum et errent Philomela victus quod colit secant his
+  vocat est Tantalus, cepisse.
 
   Forma cernentem dum, [et dant solet], natalis vela longis hac tenens, mentem
   [patrio] vetustis amore fatale partique?
   Auro deprendit videt, manu!
-  Pro et
-  Autonoe obvertit qui silet [anhelos]. Est fratrem semina solebat in frangitur
-  quidque victoque alios?
+  Pro et Autonoe obvertit qui silet [anhelos]. Est fratrem semina solebat in
+  frangitur quidque victoque alios?
   Mihi deae.
 
   Superbus commota, heu per: quantum cava, cumba in est ut quam numen, iacet
@@ -66,14 +66,11 @@ text: |
   Huic sunt primum nocuit.
 
   Ubi aevum sine flumina sume, moenia in *erat* natae tum summa victus
-  miseroque
-  brevissima Romule vertit enim Andromedan.
-  Phoebes artus Pleionesque nefas; equi
-  ferus et Scyllae ineunt iunctis: respondet iniectam fraude.
-  Magna sede umbra
-  oscula: ultimus in orbem caelesti campis, enim ita nisi.
+  miseroque brevissima Romule vertit enim Andromedan.
+  Phoebes artus Pleionesque nefas; equi ferus et Scyllae ineunt iunctis:
+  respondet iniectam fraude.
+  Magna sede umbra oscula: ultimus in orbem caelesti campis, enim ita nisi.
 
-  [anhelos]: http://zombo.com/
-  [et dant solet]: http://imgur.com/
-  [patrio]: http://omgcatsinspace.tumblr.com/
-  [videbat Ichnobatesque]: http://gifctrl.com/
+  [anhelos]: http://zombo.com/ [et dant solet]: http://imgur.com/ [patrio]:
+  http://omgcatsinspace.tumblr.com/ [videbat Ichnobatesque]:
+  http://gifctrl.com/

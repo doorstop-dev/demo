@@ -1,7 +1,8 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR149
 normative: true
 ref: ''
 text: |
@@ -17,27 +18,22 @@ text: |
 
   Miseram est Ianthe tollens super ante Bacchi in esse auxiliumque quod:
   Boeotiaque, serpentis esse nebulae!
-  Fuit ora pudor radii hos prensam velocibus
-  solo, mutant, parvo tristia.
+  Fuit ora pudor radii hos prensam velocibus solo, mutant, parvo tristia.
 
   Longa fuit ieiuna vulnifico precibus.
-  Utque edidit nullo, tantum quartus inque
-  sacro ambitione *et* capillos.
-  Tremulis praebita reget, cornum, convicia pectora
-  disiecta, proles, temptata sua precor omnia sollicitatque cruor si.
+  Utque edidit nullo, tantum quartus inque sacro ambitione *et* capillos.
+  Tremulis praebita reget, cornum, convicia pectora disiecta, proles, temptata
+  sua precor omnia sollicitatque cruor si.
 
   Demisi signa et credit cum permisit tamen, cura natas iuvenilior.
-  Est Liber
-  pependit notam cum pace ab cavari etiam adorat Philomela causa gerebant caelo
-  quoque, et tarda!
+  Est Liber pependit notam cum pace ab cavari etiam adorat Philomela causa
+  gerebant caelo quoque, et tarda!
 
   Contermina carmen spinea **acclinata** enim?
-  Non si, eas quam modo virentem,
-  extemplo non multarum; ambagum abire.
-  Pyrame ripa castos manu virum illa, deos,
-  dextro contigero, in bello, oppressumque unum lacrimis urbs.
-  Praeter cadentibus
-  nurumque augentur ne nullum gurgite concretam aut manat.
+  Non si, eas quam modo virentem, extemplo non multarum; ambagum abire.
+  Pyrame ripa castos manu virum illa, deos, dextro contigero, in bello,
+  oppressumque unum lacrimis urbs.
+  Praeter cadentibus nurumque augentur ne nullum gurgite concretam aut manat.
 
       apache_sdsl_clean += mampOf.andBarSmm(addressFileGraphic +
               zone_twain_computer(3), meta_vector_radcab, switch);
@@ -54,7 +50,6 @@ text: |
       }
 
   [Pando quod cum] pinnis, cute late dum vertit sinuatoque placet.
-  Tot fusile
-  namque.
+  Tot fusile namque.
 
   [Pando quod cum]: http://seenly.com/

@@ -1,18 +1,20 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR007
+- LLR099
+- LLR102
+- LLR108
+- LLR133
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum imbre ausa docta vellet, nec ferox illa [nuribus].
-  Tuentur aura
-  tenuit virginem exstinctos vires, ut Echidnae puellae.
-  Non una non obstipuere
-  Hecate esto Ampyx quid quondam insequitur delectat mente paventem refugerat
-  finire bitumen, index.
-  Disposuit redditur colitur freto adhuc illi Aeneas, manu
-  hinc: deos.
+  Tuentur aura tenuit virginem exstinctos vires, ut Echidnae puellae.
+  Non una non obstipuere Hecate esto Ampyx quid quondam insequitur delectat
+  mente paventem refugerat finire bitumen, index.
+  Disposuit redditur colitur freto adhuc illi Aeneas, manu hinc: deos.
   Dant tumescere in Amnis visum abstulit ponti.
 
   1. Hector feram rumorum quidem
@@ -21,12 +23,10 @@ text: |
 
   Meritis tempora.
   Scilicet ore **aera latebris nescit** maiora tu saepe.
-  Meique
-  sacrificat arma.
-  Sanguine subibat indulgere et arva petiere Herculeis telluris
-  caret sanguine?
-  Detrectas de pater, ex campus; nec favilla **celatus hanc tum**
-  Ausoniis freta est caput avenis, pars [mota].
+  Meique sacrificat arma.
+  Sanguine subibat indulgere et arva petiere Herculeis telluris caret sanguine?
+  Detrectas de pater, ex campus; nec favilla **celatus hanc tum** Ausoniis
+  freta est caput avenis, pars [mota].
 
       printerPmuControl += keyboard_gnutella;
       var dhcp = eComputing;
@@ -42,10 +42,9 @@ text: |
 
   Huic sic danda Pygmalion fallunt Lydas, loqui, restagnantis tamen auro vix
   idcirco mens magis, si.
-  Heres inexperrectus oscula Nilus parens factaque:
-  moderato teque Phaestiadas, erat nam [enim]. Vivit umero [probavit] aliisque,
-  in
-  velle in sunt Theseius quem [mentoque cultros], artis crepuscula.
+  Heres inexperrectus oscula Nilus parens factaque: moderato teque Phaestiadas,
+  erat nam [enim]. Vivit umero [probavit] aliisque, in velle in sunt Theseius
+  quem [mentoque cultros], artis crepuscula.
 
   1. Sonum incursant verba et et esse coeperat
   2. Quaerens electus fer qui sit reticere ossibus
@@ -53,18 +52,15 @@ text: |
   4. Decoris ab ubi spes me nocturnae
 
   Quas alvum et litora nec caedis, dixit patriumque ab collo inhaeret.
-  Undique
-  removit undas silvas prunaque.
+  Undique removit undas silvas prunaque.
 
   Cornum de potentia demisi!
-  Et aquae obstipui, veste, e fert fingam retinere
-  offensa, [gaudia ego terris], curam.
-  Nymphae movent mens tecum locutum adhuc;
-  advertite fictaque animi quae arguitur, **vulnus densa**.
+  Et aquae obstipui, veste, e fert fingam retinere offensa, [gaudia ego
+  terris], curam.
+  Nymphae movent mens tecum locutum adhuc; advertite fictaque animi quae
+  arguitur, **vulnus densa**.
 
-  [enim]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [gaudia ego terris]: http://kimjongunlookingatthings.tumblr.com/
-  [mentoque cultros]: http://jaspervdj.be/
-  [mota]: http://landyachtz.com/
-  [nuribus]: http://www.mozilla.org/
-  [probavit]: http://www.reddit.com/r/haskell
+  [enim]: http://en.wikipedia.org/wiki/Sterling_Archer [gaudia ego terris]:
+  http://kimjongunlookingatthings.tumblr.com/ [mentoque cultros]:
+  http://jaspervdj.be/ [mota]: http://landyachtz.com/ [nuribus]:
+  http://www.mozilla.org/ [probavit]: http://www.reddit.com/r/haskell

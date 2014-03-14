@@ -1,18 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR005
+- HLR018
 normative: true
 ref: ''
 text: |
   Lorem *markdownum non* culpa, cum altis, sera sine perpessi: unum resupinus
   ultima, in Troum gente adhuc.
-  Mota patiar nimium dicta parvo Triopeida piscem
-  sententia rubentem tulisti!
-  Trunci mortalia obscurus satiatur fusus **fruticosa
-  lapides semihomines** tacto [insidiisque temptat] discedere obverterat.
-  Qui
-  Arethusa memores, ille pascat gaudet et nostra, tauri!
+  Mota patiar nimium dicta parvo Triopeida piscem sententia rubentem tulisti!
+  Trunci mortalia obscurus satiatur fusus **fruticosa lapides semihomines**
+  tacto [insidiisque temptat] discedere obverterat.
+  Qui Arethusa memores, ille pascat gaudet et nostra, tauri!
   Huic regalia pelagi.
 
   1. Dum qui frondescere olivae
@@ -20,55 +20,47 @@ text: |
   3. Certe vaga lumina lacu cunctos
 
   Ego arripit morte simul, aut nec cum bene inane donec; sit victrix luminis
-  fuit,
-  videre.
+  fuit, videre.
   Revocamina excipit frementes obside verso male, ubi non iubeatis, signa.
 
   Prius amorem et a redeunt fontes et marisque fidumque montibus *veluti*:
   erravit.
-  Ferunt usque, cetera nocte invita [dolentes opis] nympha [cuspide]
-  terra in dei et illum revulsum corpore.
-  Felix patulos iunxit montes *Aesoniden
-  fama*, sinit inornatos orantem.
-  Neque das cingere se remugis summo et sermone,
-  satyrique tributuram sonant resupinus aguntur: sitim quod Troezena fumo.
+  Ferunt usque, cetera nocte invita [dolentes opis] nympha [cuspide] terra in
+  dei et illum revulsum corpore.
+  Felix patulos iunxit montes *Aesoniden fama*, sinit inornatos orantem.
+  Neque das cingere se remugis summo et sermone, satyrique tributuram sonant
+  resupinus aguntur: sitim quod Troezena fumo.
 
   Supplevit magnosque et *venerem loqui* articulos reginam [illa] sagittas huc
   cinnamaque *filia*. *Lutea iacent*, pennis ecce spectacula Tirynthius flecti
   statuunt agros, manu?
-  Natus nil motu nec arserunt erat pelle cepi Cragon torvae
-  cogi est obliquo, auresque, quem?
-  Postquam adsidua, luctantiaque oculos tamen
-  non **ieiunia color tacuit** numine, mox ut.
+  Natus nil motu nec arserunt erat pelle cepi Cragon torvae cogi est obliquo,
+  auresque, quem?
+  Postquam adsidua, luctantiaque oculos tamen non **ieiunia color tacuit**
+  numine, mox ut.
 
   Tenes graditur in mutua portaque et inque!
-  In subiecta, plangore, durus in
-  vulgares invitat.
-  Qui utraque ut vestros contraria circa, Clyton vale eripiet
-  *auctor recultae* et [descendi voces]. Philemona corde et erit infamia est
-  mente
-  ferunt unda indigno corpora inferius partes fluminibus.
+  In subiecta, plangore, durus in vulgares invitat.
+  Qui utraque ut vestros contraria circa, Clyton vale eripiet *auctor recultae*
+  et [descendi voces]. Philemona corde et erit infamia est mente ferunt unda
+  indigno corpora inferius partes fluminibus.
 
   Corpora trementia studio Lycei verba qui *hactenus* ulla, animos huius
   despexitque **conscia**. Auras fert leves velamine nunc cognitus Inarimen
-  deae
-  capitis est icta care, fecit Colchis res secedit rarissima.
-  Achaia quattuor
-  publica, lumbis anhelitus vulgus tristisque, patrio palmas est, adii neve?
+  deae capitis est icta care, fecit Colchis res secedit rarissima.
+  Achaia quattuor publica, lumbis anhelitus vulgus tristisque, patrio palmas
+  est, adii neve?
   Satyri recentem, nostroque revocatus Morphea pectore; plumis vidit angustis
   mala.
-  Fugae ait miserabilis si tecum, incisa iterumque est felix et tertius
-  passim; ignoscere frustra cortice?
+  Fugae ait miserabilis si tecum, incisa iterumque est felix et tertius passim;
+  ignoscere frustra cortice?
 
   Ignoscite virginibus esset, cum duobus.
-  Portans **sed coronas** omnis tamen
-  nigris omnes?
-  Es quoque quaque, vis illud ibat ducitur, utque natam colore,
-  *non*. *Volunt Phaethusa* purgamina nescio patitur Illa tamen procumbere
-  quaeris, fecit nec quid.
+  Portans **sed coronas** omnis tamen nigris omnes?
+  Es quoque quaque, vis illud ibat ducitur, utque natam colore, *non*. *Volunt
+  Phaethusa* purgamina nescio patitur Illa tamen procumbere quaeris, fecit nec
+  quid.
 
-  [cuspide]: http://kimjongunlookingatthings.tumblr.com/
-  [descendi voces]: http://www.billmays.net/
-  [dolentes opis]: http://www.metafilter.com/
-  [illa]: http://tumblr.com/
-  [insidiisque temptat]: http://zombo.com/
+  [cuspide]: http://kimjongunlookingatthings.tumblr.com/ [descendi voces]:
+  http://www.billmays.net/ [dolentes opis]: http://www.metafilter.com/ [illa]:
+  http://tumblr.com/ [insidiisque temptat]: http://zombo.com/

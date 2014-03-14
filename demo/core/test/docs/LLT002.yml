@@ -1,35 +1,33 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR040
+- LLR065
+- LLR068
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum Iovi.
-  Sicaniam quod verbaque saepe arbitrium quicquam nullae
-  vulnus?
+  Sicaniam quod verbaque saepe arbitrium quicquam nullae vulnus?
   Igne Luna [Nedymnum], modo constitit quaedam!
 
   Non mente et ut sumus demersit Aquilone tuum.
-  Licet senectae inritans et, suis
-  hospes sub Orion est, silices aper orbem.
+  Licet senectae inritans et, suis hospes sub Orion est, silices aper orbem.
   Glomerari comas caelo dubita et dies!
 
   Lapillos fuerat bracchia, acies, puerile concipiunt male iungere magnos
-  vincere
-  sit, seu bracchia abit arvis.
-  Ante Notus parvi sacer, adolescere noluit; loqui
-  purgamina sidera.
-  Tergumque operire effice, inter, superi fenestris veterem suo
-  Iuppiter latuitque derexit ipsumque.
+  vincere sit, seu bracchia abit arvis.
+  Ante Notus parvi sacer, adolescere noluit; loqui purgamina sidera.
+  Tergumque operire effice, inter, superi fenestris veterem suo Iuppiter
+  latuitque derexit ipsumque.
 
   Adducitque curvos territa velit.
-  Erit relicta praebet populos circumflua
-  Oenopiis insula etiam, huius annis latet illum haberet e!
-  Ilice **instruit
-  morerne temporis**, duo erat confertur deceperat.
-  Esse novem [anxia] genus
-  aetate, istis nodosaque te nocte, *redeuntque magicae postquam* furentem.
+  Erit relicta praebet populos circumflua Oenopiis insula etiam, huius annis
+  latet illum haberet e!
+  Ilice **instruit morerne temporis**, duo erat confertur deceperat.
+  Esse novem [anxia] genus aetate, istis nodosaque te nocte, *redeuntque
+  magicae postquam* furentem.
   Congreditur licet, cuius vana semper, illa fratrem oscula nec demum.
 
       lte(leaf_port.key.portalMacintosh(statusTwitter, resolution, 937913) +
@@ -55,14 +53,11 @@ text: |
       }
 
   Cum dat Macareus nuper faciente: obstat danti, mille.
-  Is ista formosus perdite
-  **ferarum** vinci discrimina restare.
-  Unda incepto fessa ut, bibulas distat et
-  **brevis illis anxia** egi, carere; domus?
+  Is ista formosus perdite **ferarum** vinci discrimina restare.
+  Unda incepto fessa ut, bibulas distat et **brevis illis anxia** egi, carere;
+  domus?
 
   Negabo adsis ad dinumerat imago, puteisque discordibus parva Deucalioneas.
-  Amens
-  designat, e confinia lucis!
+  Amens designat, e confinia lucis!
 
-  [Nedymnum]: http://twitter.com/search?q=haskell
-  [anxia]: http://example.com/
+  [Nedymnum]: http://twitter.com/search?q=haskell [anxia]: http://example.com/

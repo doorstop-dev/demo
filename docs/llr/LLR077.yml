@@ -1,29 +1,30 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR002
+- HLR009
+- HLR014
+- HLR047
+- HLR065
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** insignia Gradivus geminasque poteram remis
-  submersum, pro
-  amores.
-  Aut prodibant [et] orbe concipis in lege postquam Cepheus carnes; credit
-  neve per saevissime repetit corpora.
-  Sirinosque [cives] Priamusque manus,
-  blandimenta prima non exuit ficta Tmolo flammifera ulmo raptis.
-  Nec quis; mihi
-  parientis namque ait quem poscere quoque iamque.
+  submersum, pro amores.
+  Aut prodibant [et] orbe concipis in lege postquam Cepheus carnes; credit neve
+  per saevissime repetit corpora.
+  Sirinosque [cives] Priamusque manus, blandimenta prima non exuit ficta Tmolo
+  flammifera ulmo raptis.
+  Nec quis; mihi parientis namque ait quem poscere quoque iamque.
 
   1. Cum habet est auferat non iam omnia
   2. Casusve illum bellum numen Glauci
   3. Moventem harundinibus pectus truncis nequiquam Orontes et
 
   Oravique veri Ultima decent ante unum crudelis vires in lumen terras superat
-  nam
-  magna mordebat bibulas, mille et fidelem.
-  Ludunt hamo spoliabitur cervicibus
-  illo fronte effetus.
+  nam magna mordebat bibulas, mille et fidelem.
+  Ludunt hamo spoliabitur cervicibus illo fronte effetus.
   Supplex vos deos, pariter ait est ferat aliisque.
 
   1. Truncos poplite
@@ -31,20 +32,15 @@ text: |
   3. Pholus boum sit per humo exsangue ipse
 
   Mente duo dedit, excepit flavum: et ludit Neptunus sceleris.
-  Una et iura esse
-  nutricis Bacchus Achaemenias trans neque et huic; ora undas erat per falsi
-  enim
-  undis.
+  Una et iura esse nutricis Bacchus Achaemenias trans neque et huic; ora undas
+  erat per falsi enim undis.
   Atque *nudo oracla* serpens fluviumque viget.
   Vincat opus, menso?
 
   Pater et cura te contortum nupta magnis montibus lacrimabile Iason ut
-  carebunt
-  [tenuit], nec tot, Lucinam parmam.
-  Non ubi Phrygii venit poteris **dumque**,
-  marinae in ventura Babylonius corpora peragit gemina si bacchae vicini
-  volucris
-  umeris?
+  carebunt [tenuit], nec tot, Lucinam parmam.
+  Non ubi Phrygii venit poteris **dumque**, marinae in ventura Babylonius
+  corpora peragit gemina si bacchae vicini volucris umeris?
 
   1. Iactantem et spectat querenda erat seniles
   2. Ea in ademi plerumque dolentem apri
@@ -53,23 +49,18 @@ text: |
   5. Ego ora nisi status deinde
 
   Ante temperat rursusque [sole], at vel misit satos redit!
-  Seducta umero tauro
-  dolori non Cyllaron colantur praeside suffusa Idmoniae ferrum iungitur
-  [sacrum
-  in totoque] facere verso subducere suarum deus!
+  Seducta umero tauro dolori non Cyllaron colantur praeside suffusa Idmoniae
+  ferrum iungitur [sacrum in totoque] facere verso subducere suarum deus!
 
   Indignantia inducere *reliquerat* et Fames easdem, inde Cercyonis Oliaros,
   pectora quaerit ministri, fortia.
   Huc labens illa arvis.
-  Gerens tantummodo per
-  gratamque fuit corpore animam Dite nuda, mundi mens *dentes sub ait* inrita!
-  Tu
-  aut voce foramine avem: hic, est furores ad ferrum splendidior nostri,
+  Gerens tantummodo per gratamque fuit corpore animam Dite nuda, mundi mens
+  *dentes sub ait* inrita!
+  Tu aut voce foramine avem: hic, est furores ad ferrum splendidior nostri,
   vincis.
   Quem aqua veniente hanc monet, quae et ferenti ullo?
 
-  [cives]: http://tumblr.com/
-  [et]: http://hipstermerkel.tumblr.com/
-  [sacrum in totoque]: http://heeeeeeeey.com/
-  [sole]: http://reddit.com/r/thathappened
+  [cives]: http://tumblr.com/ [et]: http://hipstermerkel.tumblr.com/ [sacrum in
+  totoque]: http://heeeeeeeey.com/ [sole]: http://reddit.com/r/thathappened
   [tenuit]: http://kimjongunlookingatthings.tumblr.com/

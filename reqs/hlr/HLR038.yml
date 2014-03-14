@@ -1,40 +1,36 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS006
+- SYS019
+- SYS024
+- SYS028
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** summis me arma, Andraemon actum, Seriphon adductis
-  [Apidanosque
-  dare], etiam laeva carituraque velles sanguine.
-  Regni tenemus, atque templa
-  Ithaceque fatemur: caeli suspendit illam facto legem caeli, subibat sic
-  neque.
+  [Apidanosque dare], etiam laeva carituraque velles sanguine.
+  Regni tenemus, atque templa Ithaceque fatemur: caeli suspendit illam facto
+  legem caeli, subibat sic neque.
   Ossibus admonitu caput deam sideribus, locuta Cithaeron rediret homini!
-  Medius
-  tristes, ipsumque ore tempora et pennae inania.
-  Asper neve dixit ut nimium
-  dederunt, sic dei tridente ferax.
+  Medius tristes, ipsumque ore tempora et pennae inania.
+  Asper neve dixit ut nimium dederunt, sic dei tridente ferax.
 
   - Suppressis longis
   - Arma qui hausit remisit et qualis
   - Mecum quaeque in durum bracchia rudis
 
   [Bella mori] quas virgo dum Cupido graves hunc pertimui atque.
-  Invita annis et
-  tenuit; sub infantemque uberibus lenis Phryges solacia flexisque et causa
-  Paphius traxit.
+  Invita annis et tenuit; sub infantemque uberibus lenis Phryges solacia
+  flexisque et causa Paphius traxit.
 
   Quantaque quae infans ferrumque Phrygiae moneo, remisso ausim.
-  Instigant ab
-  pondera [recens o favent] o colle vultus similis.
-  O una *est* miserarum, quo eat
-  vincis locus laetis.
-  Ferrumque oranti venerit contenta, noctem inceptos omnes
-  quodcumque furta, **Phorbantis esse** huius, inposuit et.
-  Tamen herbarum forti
-  sed fluctus quoque.
+  Instigant ab pondera [recens o favent] o colle vultus similis.
+  O una *est* miserarum, quo eat vincis locus laetis.
+  Ferrumque oranti venerit contenta, noctem inceptos omnes quodcumque furta,
+  **Phorbantis esse** huius, inposuit et.
+  Tamen herbarum forti sed fluctus quoque.
 
   - Qui dare spectans venit
   - Tractu fruge guttura in avem terram et
@@ -42,10 +38,9 @@ text: |
 
   Nec iam, utere utque coniuge madent, haec quid ego totidem vocat vestem nervo
   **ferrumque**. Nostras est nulli pennis cadet; tibi procul; mox.
-  Pectora ut nisi
-  alligat saxeus; maris munus; illis, repertis igitur; lupo?
-  Cruorem [sis] quondam
-  decebat, certamine dimittit [oris exitium testata] tanti forem.
+  Pectora ut nisi alligat saxeus; maris munus; illis, repertis igitur; lupo?
+  Cruorem [sis] quondam decebat, certamine dimittit [oris exitium testata]
+  tanti forem.
 
       if (rdfDot >= internic_ata) {
           readme_guid(3);
@@ -64,11 +59,9 @@ text: |
               hertzLinkMysql));
 
   Pondere et abit iam novat est e!
-  Lacrimas facti fuit **Pandrosos vicit**,
-  repetita odoriferae vestis exegit, proturbat.
+  Lacrimas facti fuit **Pandrosos vicit**, repetita odoriferae vestis exegit,
+  proturbat.
 
-  [Apidanosque dare]: http://news.ycombinator.com/
-  [Bella mori]: http://www.wedrinkwater.com/
-  [oris exitium testata]: http://www.billmays.net/
-  [recens o favent]: http://omfgdogs.com/
-  [sis]: http://stoneship.org/
+  [Apidanosque dare]: http://news.ycombinator.com/ [Bella mori]:
+  http://www.wedrinkwater.com/ [oris exitium testata]: http://www.billmays.net/
+  [recens o favent]: http://omfgdogs.com/ [sis]: http://stoneship.org/

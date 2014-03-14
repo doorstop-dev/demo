@@ -1,13 +1,14 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR101
+- LLR109
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum latebris voveo contraria plangere fluxit.
-  Nascendi idem namque,
-  ratibusque descendi.
+  Nascendi idem namque, ratibusque descendi.
   Eam quos sub plumas est posset illi agnae ex pectore?
   Terrore eligit quem qui, **dixit placatoque ictu** abstinuit auras ambiguis
   capillos ingemuere urbesque situs crevit ista.
@@ -35,8 +36,7 @@ text: |
   ingenti.
   Peleus virgaque amori: mihi mihi in sidera, funda, hamadryadas detegit et qua
   iubent non.
-  Tale dubitant votaque edidit pulchro invenerit armorum pacali:
-  iactata?
+  Tale dubitant votaque edidit pulchro invenerit armorum pacali: iactata?
 
       if (wheel) {
           microcomputerTooltip -= slashdot_blob / 49;
@@ -54,8 +54,8 @@ text: |
 
   Placet sinamus, inbutum verba tergum, forte et [colat], me aptos, utque
   repertum.
-  Greges una carminaque vobis adspiciam flumina: quem haut sit
-  perterrita audito fusile intorquet cultum.
+  Greges una carminaque vobis adspiciam flumina: quem haut sit perterrita
+  audito fusile intorquet cultum.
 
   - Umbras vocem solem qui morte visa
   - Veste nitidum carmina pertulit
@@ -66,32 +66,26 @@ text: |
 
   Inminet deam primaque perstat me **hos** dicitur voce; nec porta reddidit
   spectacula iuncta.
-  Tollite aevi, at iuvenem stetit aperire orbes labori,
-  proximus vultus; quo Fama nec flavum tenens est succensa.
-  Viscera auctore
-  adversum me caeloque titulus in vestis spectacula unus: quod lilia vestibus
-  peregit posuistis imagine nam vocabat.
+  Tollite aevi, at iuvenem stetit aperire orbes labori, proximus vultus; quo
+  Fama nec flavum tenens est succensa.
+  Viscera auctore adversum me caeloque titulus in vestis spectacula unus: quod
+  lilia vestibus peregit posuistis imagine nam vocabat.
 
   Est magis; pecudes quos albo fecunda mulces esse.
   Nam audet quater.
-  Illa pars
-  tellurem retinere late, corpore nec visis, adspexere.
-  Squalentia **Hectora**,
-  Phorbas mora, dat praebita lumina inobservatus.
-  Rura [quoque] tantum quid
-  undique, tenebas, **huius civilibus atque** concepit pressaeque.
+  Illa pars tellurem retinere late, corpore nec visis, adspexere.
+  Squalentia **Hectora**, Phorbas mora, dat praebita lumina inobservatus.
+  Rura [quoque] tantum quid undique, tenebas, **huius civilibus atque**
+  concepit pressaeque.
 
   Demugitaeque refugit sedes claustraque summo medium evadere partem *vidi*.
-  Petit
-  ipse veras eras noctes, ait astris sumusve pontus illis, et fugit vestes
-  *hostisque* et hominum hominis fas.
-  Milite villae ilia cetera, melioris, tu quod
-  gravis fulmina retinere deus ne *arbore aderat*? Media brevissimus in volat
-  nobis Palati ipsumque et haec se **aer quae dimotis** parvum.
-  Nudaque nil
-  [Hercule obicit] inmunis Hodites sinistro nostras forma mollibus et *novem
-  cervice*.
+  Petit ipse veras eras noctes, ait astris sumusve pontus illis, et fugit
+  vestes *hostisque* et hominum hominis fas.
+  Milite villae ilia cetera, melioris, tu quod gravis fulmina retinere deus ne
+  *arbore aderat*? Media brevissimus in volat nobis Palati ipsumque et haec se
+  **aer quae dimotis** parvum.
+  Nudaque nil [Hercule obicit] inmunis Hodites sinistro nostras forma mollibus
+  et *novem cervice*.
 
-  [Hercule obicit]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [colat]: http://reddit.com/r/thathappened
-  [quoque]: http://www.wedrinkwater.com/
+  [Hercule obicit]: http://www.youtube.com/watch?v=MghiBW3r65M [colat]:
+  http://reddit.com/r/thathappened [quoque]: http://www.wedrinkwater.com/

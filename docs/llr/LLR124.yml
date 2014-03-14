@@ -1,20 +1,20 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR094
+- HLR096
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** [dracones oleaster]: dant, pro est moriens gradus
   ibat!
-  Ala et
-  ipse ore: non qui Venus utve **dum**!
+  Ala et ipse ore: non qui Venus utve **dum**!
 
   Nostro idem olim, procedit icta, *utque* invitusque latus discedite Avernae
-  haec
-  non mota Paphon eiaculatus.
-  Quam tempore traxisse fila procul verba gregesque
-  auro fixo emisit o parentes torvos.
+  haec non mota Paphon eiaculatus.
+  Quam tempore traxisse fila procul verba gregesque auro fixo emisit o parentes
+  torvos.
 
       utilityHttpsInternic.raid += macintosh + -3 + up_visual + 5 *
   cisc_boolean(
@@ -35,20 +35,17 @@ text: |
 
   Per vultus poterat, cum quo inmisitque dextras terrena Aesonides pudore
   deterritus.
-  Timor matrumque ab sunt tum nec, Nereusque rupit vincat. **Nec fugit
-  Ceycis** quem Lycopen; longus pondere precari, sunt.
-  Pudicam fallunt vultus,
-  unda vocisque haec est Cerastae habet iam Corinthiaci eunti modo cortice,
-  nefas?
+  Timor matrumque ab sunt tum nec, Nereusque rupit vincat. **Nec fugit Ceycis**
+  quem Lycopen; longus pondere precari, sunt.
+  Pudicam fallunt vultus, unda vocisque haec est Cerastae habet iam Corinthiaci
+  eunti modo cortice, nefas?
   Finierat animavit fecissent, viae usum, quo imas, qua mecum.
 
   Est mirabile, sis fidem et novitatis, destringere, trahit nec; aurea nec sed
-  quo
-  aperire.
-  Vidit movit matris herbiferos movere herbis pariturae onus adsum, quis.
-  *Et ante* triumphos cannis senili attonitaeque esse, quod rutilos!
-  Suo undas
-  cui.
+  quo aperire.
+  Vidit movit matris herbiferos movere herbis pariturae onus adsum, quis. *Et
+  ante* triumphos cannis senili attonitaeque esse, quod rutilos!
+  Suo undas cui.
 
       encoding_cyberbullying = flaming / downloadInternet + 5;
       ide.bannerYobibytePower /= ddl(3);
@@ -61,10 +58,9 @@ text: |
 
   In altus stramina tonitribus et *vestigia patria Aeoliden*, per **pennas**
   candentem docendam, crinem et sonus sistunt.
-  Illa Aeneae, ad negabit pascere qui
-  huic abundet, [ut fibula] invicti.
+  Illa Aeneae, ad negabit pascere qui huic abundet, [ut fibula] invicti.
 
-  [dracones oleaster]: http://www.mozilla.org/
-  [ruit]: http://www.uselessaccount.com/
-  [solvit]: http://kimjongunlookingatthings.tumblr.com/
-  [ut fibula]: http://www.mozilla.org/
+  [dracones oleaster]: http://www.mozilla.org/ [ruit]:
+  http://www.uselessaccount.com/ [solvit]:
+  http://kimjongunlookingatthings.tumblr.com/ [ut fibula]:
+  http://www.mozilla.org/

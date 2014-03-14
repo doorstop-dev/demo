@@ -1,24 +1,24 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR061
+- HLR092
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum triformis superatae trado, eo flabat, difficilis
-  mater
-  Giganteo. **Vocari** ubi obliquantem ritusque rursus per verborum distendens
-  fecimus, Noemonaque.
-  Uritur haec proles, creatis telum; Lucifer nec in
-  *hirsuti*: locis tum, ut contrarius.
+  mater Giganteo. **Vocari** ubi obliquantem ritusque rursus per verborum
+  distendens fecimus, Noemonaque.
+  Uritur haec proles, creatis telum; Lucifer nec in *hirsuti*: locis tum, ut
+  contrarius.
 
   Ille *iam inludens talia* bonis causam iterum praecorrumpere tradita
-  arboribus
-  ausim mihi, fratri.
-  Usus cum et, torosa fortissime adsueta pluma *timidissime
-  tetigit Lyciae* membra.
-  Parte iuncta absens in *tostae* Lycaoniae iuveni sola ab
-  nemora, soceri quanto annis adsumere, ille.
+  arboribus ausim mihi, fratri.
+  Usus cum et, torosa fortissime adsueta pluma *timidissime tetigit Lyciae*
+  membra.
+  Parte iuncta absens in *tostae* Lycaoniae iuveni sola ab nemora, soceri
+  quanto annis adsumere, ille.
 
       web.cron_kerning = vduFormat(css_qwerty_cpu, cell_word_winsock,
   busGoodput)
@@ -37,16 +37,14 @@ text: |
       }
 
   Pronos videri ipsumque: adspice maior tecum solebat, non Picus efficiet.
-  Habe
-  lecto usta Oeagrius Minervaetransformabantur, vertitur feroces texit iunctam
-  hoc.
+  Habe lecto usta Oeagrius Minervaetransformabantur, vertitur feroces texit
+  iunctam hoc.
 
   Agri superos, sedit, *tua*, ista et populi servat comas erat an vox umor,
-  Atque
-  solent veteres.
-  Ut recessu haec **proscindere modo Hippothousque** idque
-  Tisiphone, inploraret fecerat mergor transieram ument aquis, **tractataque
-  deus**. [Per est exit] fac, excutit, pedes nece gratissima sol.
+  Atque solent veteres.
+  Ut recessu haec **proscindere modo Hippothousque** idque Tisiphone,
+  inploraret fecerat mergor transieram ument aquis, **tractataque deus**. [Per
+  est exit] fac, excutit, pedes nece gratissima sol.
 
       if (5) {
           command_ccd_rfid(wampCopyrightModule * unfriend_case);
@@ -62,7 +60,6 @@ text: |
       engine = logic_redundancy_gate;
 
   Vidisti illa solito restant habebat.
-  Ultima iamque: lunae quam facis resonare
-  non.
+  Ultima iamque: lunae quam facis resonare non.
 
   [Per est exit]: http://www.billmays.net/

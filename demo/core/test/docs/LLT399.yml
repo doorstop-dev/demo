@@ -1,35 +1,35 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR013
+- LLR098
+- LLR100
+- LLR158
+- LLR183
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum cinnama.
-  Vosque pro nunc retrahebat hortatibus se inquit nec
-  precibus erat differt maris esse invitam.
-  Mihi subit: vilior me borean in
-  carina; dubitas tam [pro erat] pars gregis, quae ab inplevere haec.
-  Potuit
-  vultum; alto litora, quaesita, portasque sinu undecimus, est tauros, quid
-  facta
-  ictus gnatis concumbere.
-  Sustulit volucres, stolidae, numquam amnem concipit
-  aliamve, posse idem excitus perhorruit.
+  Vosque pro nunc retrahebat hortatibus se inquit nec precibus erat differt
+  maris esse invitam.
+  Mihi subit: vilior me borean in carina; dubitas tam [pro erat] pars gregis,
+  quae ab inplevere haec.
+  Potuit vultum; alto litora, quaesita, portasque sinu undecimus, est tauros,
+  quid facta ictus gnatis concumbere.
+  Sustulit volucres, stolidae, numquam amnem concipit aliamve, posse idem
+  excitus perhorruit.
 
   Domum orant latos quid et tenentem et rectior excutit *terrae formamque*
-  stabat
-  moriturae ausus, ira esset.
-  Est studeat Boebes velles satisque hirsutis tempora
-  ferro caput ora indignatus, parato pater. *Nunc caelum* se Iuppiter paventem,
-  ne
-  sacra.
+  stabat moriturae ausus, ira esset.
+  Est studeat Boebes velles satisque hirsutis tempora ferro caput ora
+  indignatus, parato pater. *Nunc caelum* se Iuppiter paventem, ne sacra.
 
   Telum aliae, mixtaeque umbraeque duxit flectere, et Gyaroque, foedat polluit,
   pensaque positoque et?
   Quod *feroces* Icarus.
-  Dies nisi sine, et redit certamine
-  et cineres Atrides et utque praeduraque prima.
+  Dies nisi sine, et redit certamine et cineres Atrides et utque praeduraque
+  prima.
 
       if (gnutella + adBankFirmware + -2) {
           virtualization(bare(softwareIcannBackbone), fileMediaSoftware);
@@ -68,13 +68,11 @@ text: |
   Visa esse pro Graiorum utque parente placuit Diomedeos animam Aeoliden nurus.
   Aera sed siquis [terque pendebat] flamma, **placare muneribus**, ore mea
   iactatis mihi tamen nubilibus circueunt.
-  Neve quam foret quod perdidit quaeque
-  sustinet, concipit, umero Stygia sedebat pharetras adnuerat fallat altae in
-  nunc.
+  Neve quam foret quod perdidit quaeque sustinet, concipit, umero Stygia
+  sedebat pharetras adnuerat fallat altae in nunc.
   Quaeritur de haud sparserat suis.
-  Gaudens stridore regale Menelae diversa,
-  terrestribus aurea ab pro Carpathius stagnum duc?
+  Gaudens stridore regale Menelae diversa, terrestribus aurea ab pro Carpathius
+  stagnum duc?
 
-  [moenia]: http://landyachtz.com/
-  [pro erat]: http://textfromdog.tumblr.com/
+  [moenia]: http://landyachtz.com/ [pro erat]: http://textfromdog.tumblr.com/
   [terque pendebat]: http://twitter.com/search?q=haskell

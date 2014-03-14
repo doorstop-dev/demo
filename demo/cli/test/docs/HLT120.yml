@@ -1,27 +1,24 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR048
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum professa ore neque Aurora nam?
-  Removit invidiamque ante
-  nodosque, adflata, qui tot intrare animos rursus et saepe tersere feret: cum
-  domum, eminus!
-  Urnam nomen quod Pelion deieci, thalami cum satis petit, erat
-  sanctis proles **vulnera de** nescia [retractant] posito [ira]. Dextera mihi
-  gaudia consilii Saturnia possedit dei Hectoreis rapto [auras]; ne quos cum
-  longa.
+  Removit invidiamque ante nodosque, adflata, qui tot intrare animos rursus et
+  saepe tersere feret: cum domum, eminus!
+  Urnam nomen quod Pelion deieci, thalami cum satis petit, erat sanctis proles
+  **vulnera de** nescia [retractant] posito [ira]. Dextera mihi gaudia consilii
+  Saturnia possedit dei Hectoreis rapto [auras]; ne quos cum longa.
 
   Quam altis: quae cum virili praemia diversa.
-  Mutet nec, cruor demittite
-  modulatur oscula et redderet vestra hoc stamen tellure arquato tuum aera
-  lascivitque vates; opprimere.
-  Feliciter patet non, et tauri quidem Saturnius
-  ultra displicet dea numen *nomen*, genetrixque.
-  Quis micuerunt attonitusque
-  adest quod est virginea ima.
+  Mutet nec, cruor demittite modulatur oscula et redderet vestra hoc stamen
+  tellure arquato tuum aera lascivitque vates; opprimere.
+  Feliciter patet non, et tauri quidem Saturnius ultra displicet dea numen
+  *nomen*, genetrixque.
+  Quis micuerunt attonitusque adest quod est virginea ima.
   Erat quandoquidem nempe sacerdotes Clymenen.
 
   - Et in oro aut silvas quae nomen
@@ -52,15 +49,12 @@ text: |
       installSnmpBar.matrix_asp_storage = text_hypertext(-1);
 
   Satis quaerit, et rudi eundem et Philemon poterat passaque fluviis natos.
-  Aer
-  inde tergo partem properatus saxum **sociis terga** numeratur premit cum
-  sistrum
-  ventis.
+  Aer inde tergo partem properatus saxum **sociis terga** numeratur premit cum
+  sistrum ventis.
   Laure corpora titulos malorum, arbore temptare vires quamquam relinquunt
   confugisse iubebit nexibus.
 
-  [auras]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [foramina]: http://twitter.com/search?q=haskell
-  [ira]: http://twitter.com/search?q=haskell
-  [retractant]: http://news.ycombinator.com/
-  [si]: http://textfromdog.tumblr.com/
+  [auras]: http://www.youtube.com/watch?v=MghiBW3r65M [foramina]:
+  http://twitter.com/search?q=haskell [ira]:
+  http://twitter.com/search?q=haskell [retractant]:
+  http://news.ycombinator.com/ [si]: http://textfromdog.tumblr.com/

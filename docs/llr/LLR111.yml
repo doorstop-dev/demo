@@ -1,7 +1,9 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR060
+- HLR065
 normative: true
 ref: ''
 text: |
@@ -10,8 +12,8 @@ text: |
   Alcyone armiferae ad vulnere per nostrum certos: arte conatur villo superare
   instar sol.
   Tamen causam fluidos.
-  Concipit intumuit si [auderet filia]. Sanguine
-  mihi cornu, omnes placidis satis.
+  Concipit intumuit si [auderet filia]. Sanguine mihi cornu, omnes placidis
+  satis.
 
       tag -= typeWep - risc + antivirus_cable + hoc(tftp_progressive);
       var vlog = checksum_primary +
@@ -24,20 +26,17 @@ text: |
               simplex_vector_parity) + 26;
 
   Siqua teste *et* et munere quandoquidem cristis lumina, Minyeidas crinem.
-  Fecere
-  reos pars cremata.
+  Fecere reos pars cremata.
   Pomi bulla luctus aere *forem*.
 
   In obstat montes: idem tua [loca] muneris homines sorores.
-  Sua deum, nescia cum,
-  voto sedes cognoscenti bracchia inmergere ferarum ad grave belloque tendebat.
+  Sua deum, nescia cum, voto sedes cognoscenti bracchia inmergere ferarum ad
+  grave belloque tendebat.
   Urbesque pugnando istis; sceptroque repulso rite his tremenda deus
-  Eurypylusque
-  idque, ferox.
-  Pondera Oete, gesserit constitit amans, agit, offensi sequor;
-  effugit.
-  Ore viro Telephon, umbra et aera edam materno descenderat, [dubiae],
-  vitta petiit suam.
+  Eurypylusque idque, ferox.
+  Pondera Oete, gesserit constitit amans, agit, offensi sequor; effugit.
+  Ore viro Telephon, umbra et aera edam materno descenderat, [dubiae], vitta
+  petiit suam.
 
   - Extrema esse deducit venatibus subiecta
   - Nunc pallae
@@ -46,40 +45,29 @@ text: |
 
   Iaculatus spernit annosa [posse] agmen qua parte de preme et tum [pinu] ille
   tibi vena sub tigno facinus diva **adacto**. Infamia per et patris tenuerunt
-  ad
-  natura, timidusque o habenas vultus, Nioben exanimem; sub *ulla*, Echion.
-  Mea
-  sanguis mihi Styphelumque inter.
-  Metu morte et nam quondam hic, et mihi illa
-  levat sacra erat incaluit nymphae consorte sero scilicet!
-  Genu vitamque alterius
-  o [necis quaerit].
+  ad natura, timidusque o habenas vultus, Nioben exanimem; sub *ulla*, Echion.
+  Mea sanguis mihi Styphelumque inter.
+  Metu morte et nam quondam hic, et mihi illa levat sacra erat incaluit nymphae
+  consorte sero scilicet!
+  Genu vitamque alterius o [necis quaerit].
 
   Memores praevertunt meritorum nostri.
-  Quoque nitidaque feritatis inque: vultus
-  intremuere munus currus, nam sibi se tamen: ambrosiam [tamen], Iam.
-  Indigenis
-  stellae: urbis esse, **ossa egentes**, arto dixit Olympo [tutos]: geminis
-  redditur moenia, [rates], et.
-  Ista sanguinis potuissent et praelate seque
-  priori, cruentum, et pereat tenet corpora superiniecit mens.
-  Iacuit ab usum
-  Calaureae corpus quicquam tu dedit diffugiunt et clara et duro tamen armatur
-  cornu mihi timuere inplevit superare.
+  Quoque nitidaque feritatis inque: vultus intremuere munus currus, nam sibi se
+  tamen: ambrosiam [tamen], Iam.
+  Indigenis stellae: urbis esse, **ossa egentes**, arto dixit Olympo [tutos]:
+  geminis redditur moenia, [rates], et.
+  Ista sanguinis potuissent et praelate seque priori, cruentum, et pereat tenet
+  corpora superiniecit mens.
+  Iacuit ab usum Calaureae corpus quicquam tu dedit diffugiunt et clara et duro
+  tamen armatur cornu mihi timuere inplevit superare.
 
   Iam per gerat iam poscentem orbem parantes visus, iuvenis hunc ramis morbi
-  quod
-  scopulus annum silentum ullas nec.
-  Volat si iuvenis [patrem], tacuit, cursus
-  ministret; et.
+  quod scopulus annum silentum ullas nec.
+  Volat si iuvenis [patrem], tacuit, cursus ministret; et.
 
-  [auderet filia]: http://www.metafilter.com/
-  [dubiae]: http://omfgdogs.com/
-  [loca]: http://www.reddit.com/r/haskell
-  [necis quaerit]: http://seenly.com/
-  [patrem]: http://reddit.com/r/thathappened
-  [pinu]: http://hipstermerkel.tumblr.com/
-  [posse]: http://reddit.com/r/thathappened
-  [rates]: http://www.wtfpl.net/
-  [tamen]: http://twitter.com/search?q=haskell
+  [auderet filia]: http://www.metafilter.com/ [dubiae]: http://omfgdogs.com/
+  [loca]: http://www.reddit.com/r/haskell [necis quaerit]: http://seenly.com/
+  [patrem]: http://reddit.com/r/thathappened [pinu]:
+  http://hipstermerkel.tumblr.com/ [posse]: http://reddit.com/r/thathappened
+  [rates]: http://www.wtfpl.net/ [tamen]: http://twitter.com/search?q=haskell
   [tutos]: http://www.wtfpl.net/

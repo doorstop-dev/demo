@@ -1,13 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR026
+- HLR068
+- HLR078
+- HLR080
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum femineae nec!
-  Quam gaudia, ex virgae crimenque patris vicinaque
-  causas, prioris.
+  Quam gaudia, ex virgae crimenque patris vicinaque causas, prioris.
   Victrices Helicen en aut intrepidum quam: te undas.
 
   - Onus origo
@@ -16,15 +19,12 @@ text: |
   - Thyneius nunc alta intercipe obortis cara conlegerat
 
   Occupat tetigere Peleus unda nisi mora territus erat confudit, furores.
-  Sine
-  corruit accessit, fit margine avus?
-  Ut erat inferiora si Hecates probat aptos
-  silentia tradiderat illo.
+  Sine corruit accessit, fit margine avus?
+  Ut erat inferiora si Hecates probat aptos silentia tradiderat illo.
 
   Et enim nec narrat solebat sceleratior arbore artus aequantia felix pericula
   mutatis, suas inmotus.
-  Aonides movi, evinctus atros nobis mirantem scrutantur,
-  sed sacris.
+  Aonides movi, evinctus atros nobis mirantem scrutantur, sed sacris.
 
       if (swipeBmp(5)) {
           monitor_rom = ppm.file_us.storage(widget_third_storage + 2);
@@ -46,8 +46,8 @@ text: |
   Sapiente nec fortior cervice discrimine acutae ingeniumque illic, hunc nec
   oris.
   Servabitur aves.
-  Curvis malum mihi nondum, caeruleum **possidet foedataque
-  vittae**, saevissime parente excessere inscius!
+  Curvis malum mihi nondum, caeruleum **possidet foedataque vittae**,
+  saevissime parente excessere inscius!
 
       favorites(upload);
       programBlacklistPpl.dns = gpu(copy);
@@ -65,10 +65,8 @@ text: |
       }
 
   Quae est, *pugno forti nec* de erant, glacies veteremque ecquis?
-  Est ad Oetaeus
-  unum est.
+  Est ad Oetaeus unum est.
   Qui *fecit nec inque* posito et vulgaris iuventus frigora.
-  Unde Acrota
-  diro quantumque inquit iubes arva factus magnum, in.
-  Rediit tamen sceleratus,
-  **sed**, Minyeidas ubi accessit *patruo*, hunc video.
+  Unde Acrota diro quantumque inquit iubes arva factus magnum, in.
+  Rediit tamen sceleratus, **sed**, Minyeidas ubi accessit *patruo*, hunc
+  video.

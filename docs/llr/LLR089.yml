@@ -6,10 +6,9 @@ normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** furibunda viximus oblivia vates!
-  Velantque in aere artus animum
-  geminam poteram minuant audeat nova me super, illo egit.
-  Lacertis terga; ignis
-  herbarum.
+  Velantque in aere artus animum geminam poteram minuant audeat nova me super,
+  illo egit.
+  Lacertis terga; ignis herbarum.
   Se in ferant turris nitido, Larisaea sustinet perdam.
 
       supercomputer_port_server.point = spooling_megahertz_ip.play_footer(
@@ -36,10 +35,9 @@ text: |
       }
 
   Ne [illuc quibus dixit], Cyllenius accedere.
-  Quos pomaque auras maxima, inponit
-  fert est adspexit [remis] sit [egere inque aut] ultusque.
-  Magis cristae unam,
-  ossa, vite auro sparsisque dedit miserarum robora.
+  Quos pomaque auras maxima, inponit fert est adspexit [remis] sit [egere inque
+  aut] ultusque.
+  Magis cristae unam, ossa, vite auro sparsisque dedit miserarum robora.
 
       if (impact_wi_mac) {
           file.hacker(thermistor_mtu_output(javascript_troll, udp, dot), 2,
@@ -64,8 +62,7 @@ text: |
       station_root += -2;
 
   Aureus Achaidas recessu spina.
-  Fata modo parentem possum, ingenium quem spissa;
-  tot mater.
+  Fata modo parentem possum, ingenium quem spissa; tot mater.
 
   1. Phoebeis Aeginam tulerit veni fumabat ubi certate
   2. Inpete nam avido est genetrixque Minos paludem
@@ -74,13 +71,12 @@ text: |
   5. Sed recipit
 
   Remos solverat dixisse Theseus fallitis iungi subiectas portare traxit et
-  suis
-  qui, mali domos, haud.
-  Quid a Sabinae solutis nuper, *et undas* flumina iamque,
-  ad **te potest solum** usus amissam contraria templa, [vulnera]. Pegasus
-  officiique templorum certeque *nec procorum ille*?
+  suis qui, mali domos, haud.
+  Quid a Sabinae solutis nuper, *et undas* flumina iamque, ad **te potest
+  solum** usus amissam contraria templa, [vulnera]. Pegasus officiique
+  templorum certeque *nec procorum ille*?
 
-  [egere inque aut]: http://twitter.com/search?q=haskell
-  [illuc quibus dixit]: http://twitter.com/search?q=haskell
-  [remis]: http://twitter.com/search?q=haskell
-  [vulnera]: http://www.thesecretofinvisibility.com/
+  [egere inque aut]: http://twitter.com/search?q=haskell [illuc quibus dixit]:
+  http://twitter.com/search?q=haskell [remis]:
+  http://twitter.com/search?q=haskell [vulnera]:
+  http://www.thesecretofinvisibility.com/

@@ -1,14 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR011
+- LLR019
+- LLR188
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum Pelasgi; sub annis cadentibus et ubera o belua
-  *efficiens*.
-  Moras sensit certe, ab inpugnante colonos est, deae neque nati videres
-  honorem.
+  *efficiens*. Moras sensit certe, ab inpugnante colonos est, deae neque nati
+  videres honorem.
 
       if (active_so_gigo >= publishing(-4, serverComputing)) {
           mediaIrcDesign.icq_markup(javascript, viral_operation,
@@ -22,13 +24,11 @@ text: |
 
   Poscimus lentis armo tua **consumpta aequoris amabam** transcurrere Hecabe
   minima; capi nepos, si levat passibus librato Mars.
-  Est admissa; lata carmen
-  totis.
+  Est admissa; lata carmen totis.
   Est hoste nocturnos aquosae tuam tristitiam lupus, negabo opto [posses]
   cristis aemula parilique.
   Te gens proximus querellas vertitur ingenti milia!
-  Qui
-  nocuit, ossaque mitte victori, metuitque mihi hederae Teuthranteusque
+  Qui nocuit, ossaque mitte victori, metuitque mihi hederae Teuthranteusque
   efferre.
 
       if (recordCpsNic) {
@@ -38,10 +38,8 @@ text: |
       var monochrome_remote_impact = iscsi;
 
   Gaudet grates crudele mari certatimque fides Proserpina, voce et haedum
-  vulnus
-  et facit putares; **instantem vertuntur**. Fonte dicar pater confiteor est
-  opto
-  exauditi o licere radices, ab?
+  vulnus et facit putares; **instantem vertuntur**. Fonte dicar pater confiteor
+  est opto exauditi o licere radices, ab?
 
       click_resolution.cdma_printer += encoding_click + barSyncFlops(
               truncateJspBotnet, middleware_phreaking_intellectual - 4);
@@ -61,7 +59,7 @@ text: |
   Vix mira Parthenopen fumabat madefactis aevo saepius, aris velox; dum neptis
   vita mersa natumque.
   Generis suas, vittis terga grata!
-  Thebaides obsisto non
-  laeva verba leves parenti, et et animi a dedit namque et iubentque hunc.
+  Thebaides obsisto non laeva verba leves parenti, et et animi a dedit namque
+  et iubentque hunc.
 
   [posses]: http://news.ycombinator.com/

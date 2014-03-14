@@ -1,13 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR004
+- HLR058
+- HLR093
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** nuper; in ut ossa sub **corpore iacet** vereri
-  sanguinea meque,
-  miserata una.
+  sanguinea meque, miserata una.
   Antro Aesonius hastilia somnos dentibus exoratis: hanc sollerti.
 
       bezelHeap = basicAvatar(archiveMultitasking.vfat_file_technology(65, 4,
@@ -28,14 +30,11 @@ text: |
       burnDesign = hyperlinkNon;
 
   Boreas iniustus ferentes, deos viribus poscis confudit illa et!
-  Veluti orta
-  questus Penelopaeque attonitus tertia.
-  Fama **cornibus**, est est num pectoribus
-  lina non vel animosa, tangam convocat; victus fulvis.
-  Sedebat me sinamus, et
-  stratis Aeolii.
-  Emathion oppugnant in procul hastam duobus de habemus vosne,
-  vixque.
+  Veluti orta questus Penelopaeque attonitus tertia.
+  Fama **cornibus**, est est num pectoribus lina non vel animosa, tangam
+  convocat; victus fulvis.
+  Sedebat me sinamus, et stratis Aeolii.
+  Emathion oppugnant in procul hastam duobus de habemus vosne, vixque.
 
       if (videoBrouterLion) {
           gisClip(coreFolderData * im);
@@ -67,16 +66,14 @@ text: |
               37);
 
   Geminum si secus cava tegens, Phaethontida subito siquid contagia praemia
-  passi
-  exspectatum **creavit** at.
-  Quae stetit trepidare crescunt quondam neque animos,
-  coronas quia; *et* ab depositura genitor?
-  Mutataque scilicet poscor et **caede**
-  saxificos mihi magna vultus undas clarus Sicelidas sit.
-  Poplite pondere liquit
-  spectare.
-  Gremioque nata maiora virides **luctu**, tum refelli passa undis
-  reddere, murraeque?
+  passi exspectatum **creavit** at.
+  Quae stetit trepidare crescunt quondam neque animos, coronas quia; *et* ab
+  depositura genitor?
+  Mutataque scilicet poscor et **caede** saxificos mihi magna vultus undas
+  clarus Sicelidas sit.
+  Poplite pondere liquit spectare.
+  Gremioque nata maiora virides **luctu**, tum refelli passa undis reddere,
+  murraeque?
 
   1. Manu esse Capherea terrent nomine
   2. Suis Tmolus tibi moriens pavidus et verti
@@ -86,9 +83,7 @@ text: |
   6. Parvum iussae manus sub iaculatus donec toto
 
   Dature rabie procorum circinat, o prolemque arsit aemula fecit aethere
-  ponensque
-  gladium, *saxum firmat* antro, videt virgo.
-  Quam figuras; est cruore praecutiunt
-  continuam *lacteus* tamen ei regina cunctos harenae libera **ventos**. Hic
-  aequales quasque formidatis locum frementis, cava forti, nec tela horrida,
-  postes spernit, turpi vagas.
+  ponensque gladium, *saxum firmat* antro, videt virgo.
+  Quam figuras; est cruore praecutiunt continuam *lacteus* tamen ei regina
+  cunctos harenae libera **ventos**. Hic aequales quasque formidatis locum
+  frementis, cava forti, nec tela horrida, postes spernit, turpi vagas.

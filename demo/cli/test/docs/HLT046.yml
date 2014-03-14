@@ -1,18 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR060
+- HLR069
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum postquam classe solo maximus vero cycnorum illa
-  congerie
-  sorores.
+  congerie sorores.
   Veras ipse spiritus vixque.
-  Indueret removit, semper thalamique, inque
-  somnusque pariter *adhaesit*, ementitus?
-  Igne aut; aeternus contraque Proetidas
-  hanc recentes undis poenae.
+  Indueret removit, semper thalamique, inque somnusque pariter *adhaesit*,
+  ementitus?
+  Igne aut; aeternus contraque Proetidas hanc recentes undis poenae.
 
   - Et orbis comparat Pergama saucia Hectoris est
   - Cortex ex quicquid gentes
@@ -31,11 +31,9 @@ text: |
 
   Flumina manu Achilles, ut, ego quoque collo Sipylus errat **fratres**, altus
   erat, domos *fortis*. Pro superest ait inter, eadem harena fiunt patiens
-  statque
-  velociter caelumque mala terram herbis caligine pariterque ut.
-  Rebus ait sic
-  tantae Euryte, ei centum **movetur coniugis numina**. Fibula maxime dixerat
-  [dextras]?
+  statque velociter caelumque mala terram herbis caligine pariterque ut.
+  Rebus ait sic tantae Euryte, ei centum **movetur coniugis numina**. Fibula
+  maxime dixerat [dextras]?
 
   1. Arma vade
   2. In aequor ferrum
@@ -45,28 +43,23 @@ text: |
 
   Nudaque deorum adimit paternos et vivacis paruit concepta nunc crede vocatos
   Parin bracchiaque illi exarsit flavae in tori.
-  Est Chromiumque rediit ac [rexit
-  vagans et] doli distentus curvantur, inhonestaque mortem sensisse animaeque
-  gregibus sinit.
+  Est Chromiumque rediit ac [rexit vagans et] doli distentus curvantur,
+  inhonestaque mortem sensisse animaeque gregibus sinit.
   Vigilans dominum vincla.
 
   Datis exteriusque amor *manebant*, non quod Ladon Herculei superi furcas,
   qui.
   Sperat verba tria noctis impetus procul monitu.
-  Stetit tum meritis nostro toto
-  Niseia in vulgasse, ubi?
-  Non illuc servantes [flammis adversaque] iacent
-  spectabilis, femina et sponsa umero vertice.
+  Stetit tum meritis nostro toto Niseia in vulgasse, ubi?
+  Non illuc servantes [flammis adversaque] iacent spectabilis, femina et sponsa
+  umero vertice.
 
   Timores carmine, reverti et munera summis, ad, dum.
-  Iubebat quod ille intendit
-  inter.
+  Iubebat quod ille intendit inter.
   Quem belli aestu: carmine dea carpitur e [tenemus virum], tetigere non,
   virgultis felix nemorum est dolet, pennis.
-  Terras unum posito, vix congressus
-  cacumina receptus dixit multisque saepe.
+  Terras unum posito, vix congressus cacumina receptus dixit multisque saepe.
 
-  [dextras]: http://kimjongunlookingatthings.tumblr.com/
-  [flammis adversaque]: http://haskell.org/
-  [rexit vagans et]: http://news.ycombinator.com/
-  [tenemus virum]: http://landyachtz.com/
+  [dextras]: http://kimjongunlookingatthings.tumblr.com/ [flammis adversaque]:
+  http://haskell.org/ [rexit vagans et]: http://news.ycombinator.com/ [tenemus
+  virum]: http://landyachtz.com/

@@ -1,13 +1,14 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR057
 normative: true
 ref: ''
 text: |
   Lorem [markdownum] utinam.
-  Corpore [tangit vidit], iaculo raptoresque nunc,
-  marmora genus; latronis in quoque credis invitae ferebat illius precari!
+  Corpore [tangit vidit], iaculo raptoresque nunc, marmora genus; latronis in
+  quoque credis invitae ferebat illius precari!
 
       gigabyteHoverMarket.exbibyte_rfid = isa(wrap);
       leopard_memory_ics(3 + 1);
@@ -22,34 +23,28 @@ text: |
               bandwidth * e, cssNumberOverclocking));
 
   Similisque torum, verbis mora licet trabibus os retenta dedit, at.
-  Infantem
-  forte Lycaoniae totaque moriensque inque, equi tu ipse, pete hoc Nereides
-  functus habent.
-  Motumque tuas; pascere, tota Melanthus vitat *promere quater*;
-  labor [fugae] flens, tui **esse penetraret**.
+  Infantem forte Lycaoniae totaque moriensque inque, equi tu ipse, pete hoc
+  Nereides functus habent.
+  Motumque tuas; pascere, tota Melanthus vitat *promere quater*; labor [fugae]
+  flens, tui **esse penetraret**.
 
   Lingua tutus corpora cura confessam molimina silvarum qui patet nefandis.
-  Omnes
-  purpureum pectore ramos ubi lenius clades est tecti tenebris nec licet:
-  vincere
-  aut.
+  Omnes purpureum pectore ramos ubi lenius clades est tecti tenebris nec licet:
+  vincere aut.
   Iam et mali enim prohibent prohibent inquit traxit, supplice vacuo.
-  Nec
-  tantum fertur maneat terras *bono*, est mea verteris instar: in.
-  Tot audiat tum
-  moenibus sive.
+  Nec tantum fertur maneat terras *bono*, est mea verteris instar: in.
+  Tot audiat tum moenibus sive.
 
   Inritamina dum quem sparserat promissa viso!
-  Ammon o luminis umor mox nunc
-  gradumque arto stillataque sola suspirat luctus fractae sint.
+  Ammon o luminis umor mox nunc gradumque arto stillataque sola suspirat luctus
+  fractae sint.
 
       key_irq = cpl;
       keyFile = flashRepeater;
       mbps = scroll_multitasking_crm;
 
   Colla fallere lyrae.
-  Tota nec victum sinuatus tenuis *posses*; carpens paternum
-  et morte malignas.
+  Tota nec victum sinuatus tenuis *posses*; carpens paternum et morte malignas.
 
   - Reluxit isto memorique Io quis pronuba sacerdos
   - Fragorem non removit non nobis silentia Quiriti
@@ -60,12 +55,9 @@ text: |
 
   Nova moriturus arte confessasque mortua, Cinyran Alpheias quod vires levor
   inmaduit quoque, dederat sed diverso humi uvae.
-  Est arboribus illud adsumptumque
-  amento, furiis fefellimus at lata. [Mihi] nuda sum?
-  Ego dat unam communis
-  *rostro et eurus* fecerit **capulo iam**.
+  Est arboribus illud adsumptumque amento, furiis fefellimus at lata. [Mihi]
+  nuda sum?
+  Ego dat unam communis *rostro et eurus* fecerit **capulo iam**.
 
-  [Mihi]: http://www.thesecretofinvisibility.com/
-  [fugae]: http://gifctrl.com/
-  [markdownum]: http://www.wtfpl.net/
-  [tangit vidit]: http://tumblr.com/
+  [Mihi]: http://www.thesecretofinvisibility.com/ [fugae]: http://gifctrl.com/
+  [markdownum]: http://www.wtfpl.net/ [tangit vidit]: http://tumblr.com/

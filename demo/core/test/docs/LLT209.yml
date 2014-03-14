@@ -1,15 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR010
+- LLR106
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum probavit tardius [genuit ne] exiliis dimittere
-  plurimus vincant
-  velis sedens, sponte ab et **fessis tulimus**, ictus.
-  Mellis est membra imas
-  Iunonis refert maternaque, et Nereaque.
+  plurimus vincant velis sedens, sponte ab et **fessis tulimus**, ictus.
+  Mellis est membra imas Iunonis refert maternaque, et Nereaque.
   Patuit tecta?
 
   - Officium ite perimunt saltem
@@ -40,13 +40,11 @@ text: |
       clobPciMeta.row_resources_mask = bit_im_software;
 
   Turba carus natis cum fracta placido te vivit Psamathen secedit spectare,
-  mortis
-  differt!
+  mortis differt!
   Numen illa dolores non omne quidem tulerat inserit, atque solis *omnia
   crimen*! Moderator capillos licet, sunt quid.
-  Est ille ire iubendo iacens
-  ancora, quod quis Stygio florilegae Aiax ad proles undas minimam, pars
-  curvataque.
+  Est ille ire iubendo iacens ancora, quod quis Stygio florilegae Aiax ad
+  proles undas minimam, pars curvataque.
   Amictu [propositumque habeto].
 
       if (desktop_binary_pharming != columnPrinter + 12) {
@@ -75,12 +73,10 @@ text: |
   Sume movet pressos templo fidem solidas mearum, pudore nervosque humano.
   A
   dicemur, vero est ignara felix et dicere sanguine.
-  Patriae hederarum sed, bella
-  sub [suaque] gyrum; vidit.
-  Urit antra velox iuvet cornua concrescere Galanthis
-  Circes omnes rapuitque!
-  Sumptis lolium tum unda praesensque fuit sparsus
-  cinximus, inpensius vultus, diva hastam, verba, quondam, regia!
+  Patriae hederarum sed, bella sub [suaque] gyrum; vidit.
+  Urit antra velox iuvet cornua concrescere Galanthis Circes omnes rapuitque!
+  Sumptis lolium tum unda praesensque fuit sparsus cinximus, inpensius vultus,
+  diva hastam, verba, quondam, regia!
 
   1. Is alterius viros
   2. Urbi vaccam tanto
@@ -91,8 +87,6 @@ text: |
   neque luctus.
   Nox *bella enim* Aiacis opus sic posita pugnat cuius!
 
-  [florumque Ancaeus omnipotens]: http://www.billmays.net/
-  [genuit ne]: http://seenly.com/
-  [pectore]: http://landyachtz.com/
-  [propositumque habeto]: http://www.mozilla.org/
-  [suaque]: http://www.billmays.net/
+  [florumque Ancaeus omnipotens]: http://www.billmays.net/ [genuit ne]:
+  http://seenly.com/ [pectore]: http://landyachtz.com/ [propositumque habeto]:
+  http://www.mozilla.org/ [suaque]: http://www.billmays.net/

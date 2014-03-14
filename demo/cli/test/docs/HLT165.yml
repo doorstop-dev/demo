@@ -1,19 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR001
+- HLR020
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum, quod diu Ithaceque Arethusa Libycas thyrsos Pelias
-  harundinis
-  virgo: inquit.
-  Adimit mea gestu, bacarum, et et canit senumque parentur priorum
-  miserantibus regi ego dicta huc.
-  Enim urbe illum, ira manus nihil subolemque
-  peto.
-  Mihi legit mater cervicibus gelida castos; alios, imi in *expellitque*
-  terra circumspicit Medea non canebat ille.
+  harundinis virgo: inquit.
+  Adimit mea gestu, bacarum, et et canit senumque parentur priorum miserantibus
+  regi ego dicta huc.
+  Enim urbe illum, ira manus nihil subolemque peto.
+  Mihi legit mater cervicibus gelida castos; alios, imi in *expellitque* terra
+  circumspicit Medea non canebat ille.
 
   1. Igitur an pater saxo decet
   2. Apolline terrae
@@ -22,14 +22,13 @@ text: |
   5. Licet conduntur formae potentes tamen
 
   Anum exiluit mittitur servat conciliumque dilectus; oculis ab frementis
-  ardua,
-  per vetat?
+  ardua, per vetat?
   Actaeon maxima *simul utque derantque* fluminis ut reice.
 
   Clanis nam regna videt huius iecit Mavors duas remittas fuerat flamma sed
   postquam forti,; veterem.
-  Cuius [colla] circumlita rapinae matris, illi carens
-  non libertas ibat, sus [bello] honorem in ante.
+  Cuius [colla] circumlita rapinae matris, illi carens non libertas ibat, sus
+  [bello] honorem in ante.
 
       if (5 < bcc + memoryReadmeLog(-5)) {
           dataMemory.version = box;
@@ -53,11 +52,10 @@ text: |
       gibibyte = tResponsiveDebugger.personal_megabyte.routerGis(parity, 2);
 
   Pietas Amphiona, tibi Iunonis pavidum tumulo templi?
-  Dixit erat gregibus sub
-  patuit Pandion lilia deplorata; auro metit cornicis integer litus parens saxo
-  satiata *requies* tota modo.
-  Nos poplite sibi Medusaeo illa ab et viris habitat
-  Pasiphaen, veniat existit, nec?
+  Dixit erat gregibus sub patuit Pandion lilia deplorata; auro metit cornicis
+  integer litus parens saxo satiata *requies* tota modo.
+  Nos poplite sibi Medusaeo illa ab et viris habitat Pasiphaen, veniat existit,
+  nec?
 
   1. Et enim nate laevaque properas tunc
   2. Vivit una damnavit erres
@@ -67,10 +65,8 @@ text: |
   6. Positoque paelice
 
   Quoque hinc femina et eiectas parte magna arcere nitentior longeque
-  spoliabitur
-  et parili, ipse.
-  Lyraeque Cancri late aetheriae est praestem neque palustres ut
-  qui.
+  spoliabitur et parili, ipse.
+  Lyraeque Cancri late aetheriae est praestem neque palustres ut qui.
 
-  [bello]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [colla]: http://www.wedrinkwater.com/
+  [bello]: http://www.youtube.com/watch?v=MghiBW3r65M [colla]:
+  http://www.wedrinkwater.com/

@@ -1,16 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR067
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL**, inque?
-  Cum certe confinia postquam duorum: sed nunc munere
-  vocatos delphines tantum dolore collo et ille abi quamlibet.
-  Se morisque Hyantea
-  praeceps sine illi petisset tura. **Date ingens ira** erat longo presserat
-  stabula canis.
+  Cum certe confinia postquam duorum: sed nunc munere vocatos delphines tantum
+  dolore collo et ille abi quamlibet.
+  Se morisque Hyantea praeceps sine illi petisset tura. **Date ingens ira**
+  erat longo presserat stabula canis.
 
       utility_bit_netmask.compile += guidEnd.serial(power, website_drive(
               nonMouseMemory(cyberspaceFios), cpu_fiber_kvm(virtualWebPrinter,
@@ -34,8 +34,7 @@ text: |
       }
 
   Hyantea mox memini ab dixit spumantia hic [hoc et] totas.
-  Una antro instabat
-  Ichnobatesque vasto.
+  Una antro instabat Ichnobatesque vasto.
 
       if (cifs_filename) {
           pBoot = laptop + internal;
@@ -65,26 +64,20 @@ text: |
       }
 
   Unam esse tamen tu Camenis agmen Sol Molpea coepti cursus.
-  Quirites harpe, hanc
-  mea pervenisse, tollere Phoebe miserat adfuit.
+  Quirites harpe, hanc mea pervenisse, tollere Phoebe miserat adfuit.
 
   Tempora verboque potuere ni non lepores fores maestae in ipsa Latinus
   Thermodontiaco pereat profatur aeternus tetigere lapides; ne.
-  Quoniam nec non,
-  tua trahit te **equos hunc** in monstro cono. [Quicquam et] unica inplicuit
-  illas, [exstantem alta], quoque quamquam: aer.
+  Quoniam nec non, tua trahit te **equos hunc** in monstro cono. [Quicquam et]
+  unica inplicuit illas, [exstantem alta], quoque quamquam: aer.
 
   Femineae pedis de [indicere impediunt lapis] errat, crescendo perque.
-  Tecum an
-  dicenda scinditque ferebat laesi elue erant crepuitque tantum rediit
-  quadriiugi,
-  parte reget rigidis.
-  Fratres deus cum verbis dum hae haut hinc flammas unde rex
-  sermone quamvis.
-  Iactantem fera orbe secreta caespite lumine habitabilis
-  radiantis quoscumque adit dracone fuit cursus erat: desint.
+  Tecum an dicenda scinditque ferebat laesi elue erant crepuitque tantum rediit
+  quadriiugi, parte reget rigidis.
+  Fratres deus cum verbis dum hae haut hinc flammas unde rex sermone quamvis.
+  Iactantem fera orbe secreta caespite lumine habitabilis radiantis quoscumque
+  adit dracone fuit cursus erat: desint.
 
-  [Quicquam et]: http://www.billmays.net/
-  [exstantem alta]: http://tumblr.com/
-  [hoc et]: http://heeeeeeeey.com/
-  [indicere impediunt lapis]: http://www.reddit.com/r/haskell
+  [Quicquam et]: http://www.billmays.net/ [exstantem alta]: http://tumblr.com/
+  [hoc et]: http://heeeeeeeey.com/ [indicere impediunt lapis]:
+  http://www.reddit.com/r/haskell

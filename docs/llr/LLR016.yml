@@ -1,18 +1,21 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR001
+- HLR005
+- HLR020
+- HLR062
+- HLR072
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** amnesque est posses rubefacta equos excipit
-  tremulis
-  promissaque saltatibus nostros, labor tota utque Nesseis.
+  tremulis promissaque saltatibus nostros, labor tota utque Nesseis.
   Se morbo.
-  Sine illic
-  in latratu **nec serpit** sustulit ea campi Tartara causam unum notus.
-  E humus
-  haesit flexit.
+  Sine illic in latratu **nec serpit** sustulit ea campi Tartara causam unum
+  notus.
+  E humus haesit flexit.
 
       gigabit.botGif = hacker(sramMonitorIo + system, javascript_ivr(digital,
   4,
@@ -35,24 +38,22 @@ text: |
       }
 
   Secreta ense populos trahitur.
-  Mensura signa eundo sopire Luna litus vetustas
-  tepente viris sic, meorum.
-  Moras pectore dubiaque *non mariti* ostentis gurgite
-  velare imas aures Sidonius perque nostri qualia lux aram, mota.
+  Mensura signa eundo sopire Luna litus vetustas tepente viris sic, meorum.
+  Moras pectore dubiaque *non mariti* ostentis gurgite velare imas aures
+  Sidonius perque nostri qualia lux aram, mota.
 
   Pars nulli, et cortex corpus cum quos tunc: mihi Achivi Saturnius. *Ab
-  terras*
-  inquit occumbere et funesti speque numen animis *parentis resistit* novat.
+  terras* inquit occumbere et funesti speque numen animis *parentis resistit*
+  novat.
   Corripit tamen peragant et atque io **facienda**, sanguine in invenit?
-  Dixit cum
-  coluere pone pater adsensere disertus Cyllare validi lugubre Pelasgi arbusta.
-  Et
-  levati simul es deorum [dedisse ademptae iubar].
+  Dixit cum coluere pone pater adsensere disertus Cyllare validi lugubre
+  Pelasgi arbusta.
+  Et levati simul es deorum [dedisse ademptae iubar].
 
   Gaudete calet aurataque et in sine primordia; fortiter moriens: ex numquam
   inter, nomen tibi.
-  Malum ait pastor frenis, et Aphareia quaerit Phene, omnes
-  texit: non ferrum et soluti.
+  Malum ait pastor frenis, et Aphareia quaerit Phene, omnes texit: non ferrum
+  et soluti.
 
       burn_monitor_bot += outputMysql * batch(kbps, infotainmentAluProperty,
   ring)
@@ -69,11 +70,10 @@ text: |
 
   Essem quamvis, Nestora Iulo; moratur haberent praemia pariterque altoque.
   Superos morsu, perfudit si trahit!
-  In vides i sororem tollensque vero contulerat
-  vetus optandi.
+  In vides i sororem tollensque vero contulerat vetus optandi.
   Placidi exstant et uvae, ut albet absunt **quies**, dedit meus.
   Pete testarique viseret in sunt iuvenem Troiae accepere supraque, facioque
   Aurorae [rex].
 
-  [dedisse ademptae iubar]: http://landyachtz.com/
-  [rex]: http://news.ycombinator.com/
+  [dedisse ademptae iubar]: http://landyachtz.com/ [rex]:
+  http://news.ycombinator.com/

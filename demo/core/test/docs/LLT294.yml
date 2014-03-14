@@ -1,13 +1,14 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR024
+- LLR071
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum genis adsumere viris conplexaque, ille.
-  Iove ipsum manus vidi,
-  rigido preces pressa.
+  Iove ipsum manus vidi, rigido preces pressa.
 
   [Invidiae ab] coactis sensit, cladis spernenda illum volucrum; tubicen nec.
   Placandam de furibunda palustribus sibi praedator has *mater* poscitur
@@ -37,17 +38,13 @@ text: |
 
   Inque Lycaoniae locuta adversam moratus natura.
   Cepimus duas.
-  Quem matrem
-  conpescuit coniunx Hector se colla mortalem spectabere Aeetias.
+  Quem matrem conpescuit coniunx Hector se colla mortalem spectabere Aeetias.
 
   Nigrae tunicasque nobis nam veniebat, nate taciturnus, in.
-  Bellum exsangues
-  habenas quod Rhodanumque illa lacusque Mavors, et quoque mater.
-  Cythereia aut
-  aras locum cervicis ora sive in potentia adcommodat omnia.
-  Curae domo arboris
-  dolor, nec tum insula, talibus voca.
-  Vivos una pectora cepere arsit; iam est, et
-  ilia, secedit.
+  Bellum exsangues habenas quod Rhodanumque illa lacusque Mavors, et quoque
+  mater.
+  Cythereia aut aras locum cervicis ora sive in potentia adcommodat omnia.
+  Curae domo arboris dolor, nec tum insula, talibus voca.
+  Vivos una pectora cepere arsit; iam est, et ilia, secedit.
 
   [Invidiae ab]: http://www.reddit.com/r/haskell

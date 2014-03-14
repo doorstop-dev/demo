@@ -1,21 +1,23 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR032
+- HLR040
+- HLR060
+- HLR084
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum Chimaera recessit, finem, rore galeam latices: illa
-  ictu **quia
-  inquit** ipsaque spectante inarsit.
-  Et mihi undae: paterer terraeque nitentior
-  Tusco vitiasse pictasque, fistula namque concretaque relevare: *invidiae*,
-  et.
+  ictu **quia inquit** ipsaque spectante inarsit.
+  Et mihi undae: paterer terraeque nitentior Tusco vitiasse pictasque, fistula
+  namque concretaque relevare: *invidiae*, et.
   Et vincere, qua pater, esse neque se sororum eras, superbus.
 
   Puppim Antaeo **ligamina** petitur.
-  Repulsa quae dat timens quoque arma se
-  tempus demittitur fratri voce imperet ubi mersae omnes.
+  Repulsa quae dat timens quoque arma se tempus demittitur fratri voce imperet
+  ubi mersae omnes.
   Alto aures.
 
   - Sic fuit congestis
@@ -23,15 +25,13 @@ text: |
   - Helops voce coniunx vivis oculis habuisse moenibus
 
   Erat imis dictu decorem exaudire; et mihi, poplite.
-  Alternis habebat: ille aenae
-  virum captus *corrumpere forsitan* dixerat.
+  Alternis habebat: ille aenae virum captus *corrumpere forsitan* dixerat.
 
   Iam indestrictus, ecce non, *sua* denique cunis arbore noctem subiecta etiam
   sepulcris tenebras: praebetis? *Ventos* fatiferum, petentes **Arachnes**
-  optima,
-  silvas viae possederat me pulvereumque in densi matrem delectat falleret fit.
-  Et
-  densum nulla ubi videri manes si non fontibus repagula.
+  optima, silvas viae possederat me pulvereumque in densi matrem delectat
+  falleret fit.
+  Et densum nulla ubi videri manes si non fontibus repagula.
 
   1. In per Cerealia sim indoluit amnes
   2. Terrae postquam purpureis et fata trabibus iungitur
@@ -39,11 +39,10 @@ text: |
   4. Trepidos primaque nihil silentum linquit ingenti nulla
 
   Meminisse murmura certe, modo iaculum amat virgo, meri.
-  Videant Pico **ab
-  poenamque** ea quicquid puris utque talibus: pereat tenaci denique viae!
+  Videant Pico **ab poenamque** ea quicquid puris utque talibus: pereat tenaci
+  denique viae!
   Formosae Achilles senectae huc esse.
-  Visa talem gurgite [terras gente] cum
-  gelidus cetera motumque quemque.
+  Visa talem gurgite [terras gente] cum gelidus cetera motumque quemque.
 
   1. Colla Phoebus tactuque hastam Phaestiadas quae
   2. Graias quosque modumque animal iaculo
@@ -55,7 +54,6 @@ text: |
   Inmiti addita qui gelidum Dryope ausus fumant rerum.
   Diximus diversa et probetne, patre ingemuitque flebant; varios mando memorant
   sanguine calidus rapit viridique vultu, vivit videt.
-  Doli est petii **rediit
-  vomentem** genitor, incursu qui gratia subiere.
+  Doli est petii **rediit vomentem** genitor, incursu qui gratia subiere.
 
   [terras gente]: http://jaspervdj.be/

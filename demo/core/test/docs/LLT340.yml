@@ -1,13 +1,13 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR181
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum exigite tumulos imitata Milon; per ire *hoc* sic
-  saecula
-  quaeras.
+  saecula quaeras.
   Colorem [esse].
 
   1. Dea Baccho miranti parta
@@ -15,18 +15,15 @@ text: |
   3. Quamvis ducem exclamatque genu mittitur
 
   Oneris semilacerque aliquid durus.
-  Flexit iam, aede non medendi feret das arma;
-  nollet nunc; [qua]. Illa vulgusque.
+  Flexit iam, aede non medendi feret das arma; nollet nunc; [qua]. Illa
+  vulgusque.
 
   Quam est fuit insano vates, ore corporibus rumpunt Thebis delet nomen,
-  occulto,
-  furto succedit faciente Pirenidas.
-  Verba sui viderunt vulgus et in sanguineaque
-  crimine coniunctaque ocior.
-  Tactusque quae sine dulcedine, nam volucri certa
-  resonis sonantem ait?
-  A Alcyone, Iove rex mentes pedibus inque unda ante ignes
-  vindicat Iovis, adspicias in equo nostra, udaeque.
+  occulto, furto succedit faciente Pirenidas.
+  Verba sui viderunt vulgus et in sanguineaque crimine coniunctaque ocior.
+  Tactusque quae sine dulcedine, nam volucri certa resonis sonantem ait?
+  A Alcyone, Iove rex mentes pedibus inque unda ante ignes vindicat Iovis,
+  adspicias in equo nostra, udaeque.
 
       if (recycleJavaWeb(serial)) {
           softwarePretestMatrix -= 1;
@@ -49,15 +46,12 @@ text: |
       }
 
   Consistitque *posse pressitque ulli*; ac qui triumphis reserato, Iovem.
-  Flammas
-  saepe in nostra, dixit haec numina dives Dianae effluxere Aconteus iterum et
-  sorores potes, vitta.
-  Attollo concretam raptae effundite, cessere Tritonia
-  studiosius laudis rapto.
-  Onus premebat animo ad manant domum anilia fluctus
-  caelatus malles feros metuaris repugnat potuit *toto*. Aut iubar sua, et
-  laeter
-  ille sacros quod rector?
+  Flammas saepe in nostra, dixit haec numina dives Dianae effluxere Aconteus
+  iterum et sorores potes, vitta.
+  Attollo concretam raptae effundite, cessere Tritonia studiosius laudis rapto.
+  Onus premebat animo ad manant domum anilia fluctus caelatus malles feros
+  metuaris repugnat potuit *toto*. Aut iubar sua, et laeter ille sacros quod
+  rector?
 
   - Fit deduxit urbes insistere ut canendo aurea
   - Suum hunc Polydorus precor
@@ -66,8 +60,7 @@ text: |
 
   Pridem urgeturque spectat si sine, Hecabe *erat*. Antenora at violata, citius
   nati quodcumque postquam.
-  Signa iter Anius hic ex et diffugiunt potestas illic
-  terra.
+  Signa iter Anius hic ex et diffugiunt potestas illic terra.
 
-  [esse]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [qua]: http://www.billmays.net/
+  [esse]: http://en.wikipedia.org/wiki/Sterling_Archer [qua]:
+  http://www.billmays.net/

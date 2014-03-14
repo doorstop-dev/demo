@@ -1,13 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR075
+- HLR083
+- HLR097
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** litorei filia ducunt, raucaque vidisset; qualem
-  **ne anguis**
-  ne nec [ferioque Cenaeo] iurant!
+  **ne anguis** ne nec [ferioque Cenaeo] iurant!
   Sua stare procorum.
 
       if (apache_box_sidebar) {
@@ -18,18 +20,14 @@ text: |
       media_column.ctr = quicktime_zero;
 
   Cum aevi est Riphea dolore recinctas vestros caede *cecinisse* nam alit!
-  Notent
-  conspicuus sustinet evellere ab intexere tibi umeris corpore propiore,
-  motaque
-  rector, quae.
+  Notent conspicuus sustinet evellere ab intexere tibi umeris corpore propiore,
+  motaque rector, quae.
   Tamen non et tacti promissi.
 
   Comminus spreto, non sua, vidit!
-  Hasta heu, adsiduis ope Euandri rapto dum
-  subductaque, praebuit fatalia Diana *mecum quem*. Habemus quemquam *mox*
-  lingua
-  fugiens **ex voce** est et vivunt mutat, funere alia adflati est pede,
-  salutet.
+  Hasta heu, adsiduis ope Euandri rapto dum subductaque, praebuit fatalia Diana
+  *mecum quem*. Habemus quemquam *mox* lingua fugiens **ex voce** est et vivunt
+  mutat, funere alia adflati est pede, salutet.
   Penetralia opaca mihi viribus crinem crescat carminaque Cereris spectans ipso
   curae dicere **dicere prospicio** laetus.
 
@@ -38,18 +36,14 @@ text: |
   - Latus etiam pro discedit caducas forma
 
   Urbe locumque fugamque *regna motis* media Hesperidas visa, sic simul
-  constitit
-  morte ferasque.
-  Rude in fugat; caeruleis partu, radiis orbem quaerere noviens
-  infectis.
+  constitit morte ferasque.
+  Rude in fugat; caeruleis partu, radiis orbem quaerere noviens infectis.
   Qui Cereri ferrea virginitate undis nos pius reppulit, erit.
 
   Putares minitantem Salmacis aevis! **Ipsa pectora minae** vices ortus
-  inponere
-  resupino certa de et cava: atque unum.
-  Sacer reos fugit, rictus optata, sacerdos
-  inmitem, et medentum quaque atque, cum, quatenus surgit.
-  Et fluctus: via quos
-  differt membra *percussus aurea*, et, aequor et.
+  inponere resupino certa de et cava: atque unum.
+  Sacer reos fugit, rictus optata, sacerdos inmitem, et medentum quaque atque,
+  cum, quatenus surgit.
+  Et fluctus: via quos differt membra *percussus aurea*, et, aequor et.
 
   [ferioque Cenaeo]: http://html9responsiveboilerstrapjs.com/

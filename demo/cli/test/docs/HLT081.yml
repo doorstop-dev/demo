@@ -1,19 +1,20 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR042
+- HLR050
+- HLR072
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum rigido peperisse, *ventos* tu utque dat, patrumque.
-  Cetera
-  quereretur omnia et passibus enim membra.
-  Ultra lucoque **parares ipso** quorum
-  verus natat *annis movet* lumen servaberis ne. **Factis** patulas, ubi dei
-  vela,
-  sedes quae, murice genibusque concita velis laboris.
-  Erat Hectora, neve ubi
-  [cuius forte Iliacas] pressos dumque, vatis neque et victus.
+  Cetera quereretur omnia et passibus enim membra.
+  Ultra lucoque **parares ipso** quorum verus natat *annis movet* lumen
+  servaberis ne. **Factis** patulas, ubi dei vela, sedes quae, murice
+  genibusque concita velis laboris.
+  Erat Hectora, neve ubi [cuius forte Iliacas] pressos dumque, vatis neque et
+  victus.
 
   - Origine et locis misit Iolciacos tibi certatimque
   - Litus respicit illis
@@ -23,8 +24,8 @@ text: |
   - Tenero palaestrae labores fit
 
   Remige et parvos pallor, nec nec mihi fieretque coloni.
-  Pater mora graves pennis
-  reddebant caput ut anili tamen **quod**, ut eripere pictarumque careat putat!
+  Pater mora graves pennis reddebant caput ut anili tamen **quod**, ut eripere
+  pictarumque careat putat!
 
   - Si Libycas numen e molle flebant alter
   - Gener canendo
@@ -33,13 +34,11 @@ text: |
   - Per caput sive ferarum nati victor somnia
 
   Aere quam verbis, nec quam ubi haec arduus.
-  Cepit est unus iacet urbesque et
-  latuitque sequuntur de namque facies parva nympha [vias]. Sedit modo quae
-  exsangue crimen tectus iuvencae volat dedit: diu praecipites tanta
-  praecluserat
-  **animus** parte.
-  Cum Peneide fortis revulsos gelidoque arcus; et et dignatus
-  forte requiemque, tot quam fornace Anchisae, o.
+  Cepit est unus iacet urbesque et latuitque sequuntur de namque facies parva
+  nympha [vias]. Sedit modo quae exsangue crimen tectus iuvencae volat dedit:
+  diu praecipites tanta praecluserat **animus** parte.
+  Cum Peneide fortis revulsos gelidoque arcus; et et dignatus forte requiemque,
+  tot quam fornace Anchisae, o.
   Rus rex.
 
   1. Domos poena nives restituit mecum inveniunt
@@ -47,10 +46,8 @@ text: |
   3. Veniat de refer
 
   Per foret cumque *latet* Cnosiaco densus nudae antro, mea ora curvamine
-  cornibus
-  [toto]. Non modo suos latrator in mergit sanguine narrantia continget in
-  haec,
-  ire!
+  cornibus [toto]. Non modo suos latrator in mergit sanguine narrantia
+  continget in haec, ire!
 
   1. Non sibi grave utque enim quas crearat
   2. Addita iuvat illa caelebs
@@ -58,12 +55,9 @@ text: |
   4. O per formamque quoque inpia
 
   Cum ergo, profecti vos idem dixit Erasinus.
-  Nunc facta humo amores Hectora
-  velocior, messibus caruerunt corpus.
-  Ritu quoque per Actaeis parcere, et cursus
-  adicit [contactu civilia]!
+  Nunc facta humo amores Hectora velocior, messibus caruerunt corpus.
+  Ritu quoque per Actaeis parcere, et cursus adicit [contactu civilia]!
 
-  [contactu civilia]: http://twitter.com/search?q=haskell
-  [cuius forte Iliacas]: http://tumblr.com/
-  [toto]: http://haskell.org/
-  [vias]: http://www.lipsum.com/
+  [contactu civilia]: http://twitter.com/search?q=haskell [cuius forte
+  Iliacas]: http://tumblr.com/ [toto]: http://haskell.org/ [vias]:
+  http://www.lipsum.com/

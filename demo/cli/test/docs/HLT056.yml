@@ -1,13 +1,14 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR072
+- HLR075
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum committere mei; si inhibere virgo proculcat est aure
-  parentum
-  quid, triplicesque.
+  parentum quid, triplicesque.
   Nimius Phinea quaerunt inque.
   Nova domus Corinthiaci rigido!
   Minus aethera, inquit **prima fossa ab** humus salientis capillis: fiducia
@@ -95,14 +96,11 @@ text: |
 
   Serpentem ponit erat totoque fecimus, inter madidas nisi flumina subigebat si
   habebat isto manus nunc fixus pasci nec.
-  Modo passae: tenentem sed easdem et
-  quam Tritoniaca faveas: viscera sinu cupressus qua!
-  Imo est esse casus Venus
-  sonarent nec videri relabi Cumaeae alto magni.
-  Mihi ecce *vidit ipsum castrorum*
-  Lampetie urbem quondam desit?
-  Tori fuit si percutiens totque Liber labores
-  aliis: vincinaque, ne?
+  Modo passae: tenentem sed easdem et quam Tritoniaca faveas: viscera sinu
+  cupressus qua!
+  Imo est esse casus Venus sonarent nec videri relabi Cumaeae alto magni.
+  Mihi ecce *vidit ipsum castrorum* Lampetie urbem quondam desit?
+  Tori fuit si percutiens totque Liber labores aliis: vincinaque, ne?
 
   - Possent saligna utinam
   - Licet sanguis
@@ -111,8 +109,7 @@ text: |
   - Fonte umerosque flammae ait aper fele Lyncidae
 
   [Ipse] edere ingenii patitur sorores fugientia Telephon morti, corona, et?
-  Pedem
-  exegit, est sparsa recessu viderit moratur coronis; i.
+  Pedem exegit, est sparsa recessu viderit moratur coronis; i.
 
-  [Ipse]: http://www.thesecretofinvisibility.com/
-  [fluet]: http://www.reddit.com/r/haskell
+  [Ipse]: http://www.thesecretofinvisibility.com/ [fluet]:
+  http://www.reddit.com/r/haskell

@@ -1,28 +1,22 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR021
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum tempore diemque, magna cuncta bellum ministri ferat,
-  stridore;
-  hoc mea Minervae hic tibi.
-  Est paulumque qui, vos esse quoque nec de tinguit
-  nocte quae Hectora!
+  stridore; hoc mea Minervae hic tibi.
+  Est paulumque qui, vos esse quoque nec de tinguit nocte quae Hectora!
 
   Dira bina, medius saevit fixa fretoque in subnixa recentem mente detorquet
-  adhuc
-  peperisse, fameque quibus?
+  adhuc peperisse, fameque quibus?
   Primum in inlimis tanta.
-  Qua at arma *succedere*
-  sunt; sponte a aquae non australem, respice positus.
-  Est harundinis proque
-  tyranni disiectum dixit; in adsidua illum.
-  Dum mallet, saucius partes *Hector*;
-  fluidove in ortus *iustius volantes tanti* conpescuit pressam Hymenaeus
-  coepta,
-  nos.
+  Qua at arma *succedere* sunt; sponte a aquae non australem, respice positus.
+  Est harundinis proque tyranni disiectum dixit; in adsidua illum.
+  Dum mallet, saucius partes *Hector*; fluidove in ortus *iustius volantes
+  tanti* conpescuit pressam Hymenaeus coepta, nos.
 
   1. Summa mihi iussit spinae
   2. Omni post
@@ -31,10 +25,9 @@ text: |
   Quia nec turbine vetus, petis cui Iove purpuraque quercus volucris munera
   non.
   Callida ore quis credideris belli terramque et furorem spatium pontus fecit;
-  et
-  utque venias, ferrum cum.
-  Iram in petere ut abiturus deprecor annos picum de,
-  antiquam modo terras inmensa incurvo iras socium.
+  et utque venias, ferrum cum.
+  Iram in petere ut abiturus deprecor annos picum de, antiquam modo terras
+  inmensa incurvo iras socium.
 
       if (username_xslt_trackback <= 1) {
           fpu_switch += 2;
@@ -58,8 +51,7 @@ text: |
       scanAvatar = 2;
 
   Percepitque [animi]. Cur ede non magis ferrum credite; ast viribus faveas,
-  per
-  mihique, iura?
+  per mihique, iura?
   Cursus ponti, hos quamvis, facietque movere: flere, quod supra!
   Materna fissa apta prement [Eurotas] Meropis ictus cervus sol, fraude deo:
   undas.
@@ -71,10 +63,7 @@ text: |
       aiffSram.file_sip_box += 5;
 
   Harundine obortis: ipse simulacraque animus repetit rigidis: sol.
-  Diva nefasque
-  oculos iactas vultus, spectare, ictus cornua opposui. **Re** enim Zephyro:
-  tori
-  nollet, et dominae telis; nati.
+  Diva nefasque oculos iactas vultus, spectare, ictus cornua opposui. **Re**
+  enim Zephyro: tori nollet, et dominae telis; nati.
 
-  [Eurotas]: http://stoneship.org/
-  [animi]: http://www.reddit.com/r/haskell
+  [Eurotas]: http://stoneship.org/ [animi]: http://www.reddit.com/r/haskell

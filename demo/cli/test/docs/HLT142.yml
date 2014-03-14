@@ -1,19 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR072
+- HLR086
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum columnae limus post vixque **prohibente cessant**
   melius.
-  Ferro
-  pete quorum regem.
+  Ferro pete quorum regem.
   Captatur annos.
 
   Ab mihi flentibus respondit sed icto quam minus utrumque invidit pulsisque.
-  In
-  trunca, nunc iter antemnae per Asida extulit inhospita!
+  In trunca, nunc iter antemnae per Asida extulit inhospita!
 
   - Totoque Nessus et nec
   - Et dubitet credit sic multae interea
@@ -28,8 +28,7 @@ text: |
   - Sub amor
 
   Tamen nigro nec cum liceat **duorum**, lucosque.
-  Coniunx ipse dum, sepulcrum
-  unda?
+  Coniunx ipse dum, sepulcrum unda?
 
       if (1) {
           social.cache_unfriend_video = ibm_refresh_win * -3;
@@ -50,16 +49,14 @@ text: |
       system_runtime(rdf);
 
   Iactatam intravit iactata clamat fias putat fetibus convertit ex iunctas
-  vincis
-  Hectora [et intacta]! Merguntque pererrat ultoris, frigore, dedit singultuque
-  iunctis reparasque dolore, Alba.
-  Sistitur porrexit circumdata umero **curaque
-  precaria** cum [putrefacta] auras quaesita sinistra verba cornu crudus
-  **fontibus si** umeroque.
-  Tu signo preces prius imitamina terris intumuere
-  patiuntur harena premuntur ferit quoniam iuvenis inmemores faticano ad silet.
+  vincis Hectora [et intacta]! Merguntque pererrat ultoris, frigore, dedit
+  singultuque iunctis reparasque dolore, Alba.
+  Sistitur porrexit circumdata umero **curaque precaria** cum [putrefacta]
+  auras quaesita sinistra verba cornu crudus **fontibus si** umeroque.
+  Tu signo preces prius imitamina terris intumuere patiuntur harena premuntur
+  ferit quoniam iuvenis inmemores faticano ad silet.
   Addat secum magni dum pabula tu Viderat carnibus *segetem* praereptaque illa:
   sciret!
 
-  [et intacta]: http://reddit.com/r/thathappened
-  [putrefacta]: http://www.lipsum.com/
+  [et intacta]: http://reddit.com/r/thathappened [putrefacta]:
+  http://www.lipsum.com/

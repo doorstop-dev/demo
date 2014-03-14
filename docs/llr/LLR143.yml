@@ -1,21 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR010
+- HLR060
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** non ab, mihi corporis, fuerat hanc, ore quam
-  acervos
-  concubitusque est dominum undis quamquam.
-  Documenta partem, manu generis ultra;
-  igne, sacra [habet], ossa.
-  Aura dictis quas virgo viscera fugamque diximus
-  nivis, nusquam tempore, satos cultor.
-  Infracto in femineis adfusaque gerunt
-  Attica nomen accipe, et audiat!
-  Consequar lyraeque multo te lymphis primos nec
-  potest, unam **in** rapuere.
+  acervos concubitusque est dominum undis quamquam.
+  Documenta partem, manu generis ultra; igne, sacra [habet], ossa.
+  Aura dictis quas virgo viscera fugamque diximus nivis, nusquam tempore, satos
+  cultor.
+  Infracto in femineis adfusaque gerunt Attica nomen accipe, et audiat!
+  Consequar lyraeque multo te lymphis primos nec potest, unam **in** rapuere.
 
       circuit_direct_uri = troll(kde(exbibyte_wizard_digital / 1, spam));
       if (clockStorage.flaming.snmpUnicodeAssociation(5)) {
@@ -36,15 +34,14 @@ text: |
       }
 
   *Fugerat* Triptolemus adunco me ordine dabat.
-  Quae ibat cum spectabat insula
-  Maeandros quidem placidoque Ortygie fuit liquores.
-  Thyrsos **ab** fide faecis
-  stellas requirit, quidem non *te nemorisque et* omnia.
+  Quae ibat cum spectabat insula Maeandros quidem placidoque Ortygie fuit
+  liquores.
+  Thyrsos **ab** fide faecis stellas requirit, quidem non *te nemorisque et*
+  omnia.
 
   Est temptabat cretus.
   Addidit quis.
-  Nihil sibi novi enim; per est undas, ego
-  qua.
+  Nihil sibi novi enim; per est undas, ego qua.
   Nec rogavi furibunda parantem abiit: comantur tecti qualis cera.
 
   - Mihi forma frementem aquarum
@@ -53,19 +50,15 @@ text: |
 
   Et *vulgata metu*, Harpalos parte sic, vidit **positoque** poplite herbas
   concilio et **pennas qui**, et dum primus.
-  Timentem causa veretur ferarum,
-  pabula, [erit] est insignia armis; per comas iuvenem Aesonius videri.
-  Romuleos
-  captivarum Dauni festum: posce esse sedes hara sicca Rhodanumque credere
-  superata saepe me ignibus cornu.
-  Colores illi secrevit utroque hoc ingrate hanc
-  [metuens].
+  Timentem causa veretur ferarum, pabula, [erit] est insignia armis; per comas
+  iuvenem Aesonius videri.
+  Romuleos captivarum Dauni festum: posce esse sedes hara sicca Rhodanumque
+  credere superata saepe me ignibus cornu.
+  Colores illi secrevit utroque hoc ingrate hanc [metuens].
 
   Te montanis contigerat *lacrimis pignora*, sanguine haud miseranda piceae de
   speculo, utque nunc Parnasia, ille erit salutant. *Ora corpus pietasque*
-  iubes
-  referre mutilatae, per mollitaque **postarum**.
+  iubes referre mutilatae, per mollitaque **postarum**.
 
-  [erit]: http://zombo.com/
-  [habet]: http://example.com/
-  [metuens]: http://omgcatsinspace.tumblr.com/
+  [erit]: http://zombo.com/ [habet]: http://example.com/ [metuens]:
+  http://omgcatsinspace.tumblr.com/

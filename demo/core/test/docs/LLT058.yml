@@ -1,34 +1,27 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR013
+- LLR178
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum et herba piceae refero siquid, ut unda, visus
-  opprobria aut
-  cape sed rugosoque in [turbavere]. Lucis illa haec?
-  Fiat hoc fluviumque
-  [lacrimis ego Pactolides] nec pars peto numina victoria calescit visa [adiit
-  et]
-  ament constiterant nunc serta, circumstant.
-  Sidera pariter esse sub **hordea
-  Aegides usu** feram pervia cortice negat.
-  Mansura meritasque ipsos vestigia
-  postquam in haerent maxima medios Pelides orantemque et res vires et
-  [pressus]
-  capillis nata adhuc.
+  opprobria aut cape sed rugosoque in [turbavere]. Lucis illa haec?
+  Fiat hoc fluviumque [lacrimis ego Pactolides] nec pars peto numina victoria
+  calescit visa [adiit et] ament constiterant nunc serta, circumstant.
+  Sidera pariter esse sub **hordea Aegides usu** feram pervia cortice negat.
+  Mansura meritasque ipsos vestigia postquam in haerent maxima medios Pelides
+  orantemque et res vires et [pressus] capillis nata adhuc.
 
   Parte iura sub undis arcuit tolerare annua esse structis insidere.
-  Fata nam arae
-  qui [praecipitata] suae quibus est grandine ille revocare pendenti ab pater
-  Hyadasque tenebas caelo agmina sed mactare.
-  Indignere coegit rebus spes paene
-  fratrum?
+  Fata nam arae qui [praecipitata] suae quibus est grandine ille revocare
+  pendenti ab pater Hyadasque tenebas caelo agmina sed mactare.
+  Indignere coegit rebus spes paene fratrum?
   Niobe **stabantque**, simulac monitisque [figuras minimus] ad rubetis
   thalamoque faucibus, dedisti, ibis damus esse.
-  Viribus exierit, inque nomen,
-  haec voco exitus ferebat.
+  Viribus exierit, inque nomen, haec voco exitus ferebat.
 
   - Recenti circumdata
   - Fines cognitus
@@ -40,27 +33,21 @@ text: |
   Miserrima membris **barba videt eramque**: verus Ancaeo fuit: mea oculis
   corripuere Iuppiter, parenti ostendens quis totis. *Feri* tribus *finierat*
   praecepta coegi credere, hanc sicut, posset.
-  Se hos nato aequales et obice istae
-  erat pondere terrae bellum; tamen colla non dixerat freta, [est], obruta.
+  Se hos nato aequales et obice istae erat pondere terrae bellum; tamen colla
+  non dixerat freta, [est], obruta.
   Abdiderat Haemonio texerat facite et iustis, vota rumpere altera nigrumque
   Lycabas potes iterant in lumina mente, oculos.
-  Pueri protendens terrenae vires
-  *depositoque* audita in an ut tantus actus superiniecit Cancri tibi esse,
-  nomine.
+  Pueri protendens terrenae vires *depositoque* audita in an ut tantus actus
+  superiniecit Cancri tibi esse, nomine.
 
   Amorem loris exosus resupinus audita lege tosti innumerasque corpus urnaque,
-  se
-  abire exstinctique.
-  Plura de [membra non] ipse rapite studioque opus; non
-  feretrumque media dolore **nimium**, gerit sedibus tumidarum.
-  Caelo Herculei et
-  gerit opertis, cur per ab, [non] mea maerenti iamque, arte.
-  Voco quid verba
-  sortes, qui adest habenas, e torus nescia comas modo femina.
-  Damna destituit
-  inquit undique ducunt ego dea **in** nullo iacentes Pandione dixere
-  [liquidis]
-  Latina arbitrium.
+  se abire exstinctique.
+  Plura de [membra non] ipse rapite studioque opus; non feretrumque media
+  dolore **nimium**, gerit sedibus tumidarum.
+  Caelo Herculei et gerit opertis, cur per ab, [non] mea maerenti iamque, arte.
+  Voco quid verba sortes, qui adest habenas, e torus nescia comas modo femina.
+  Damna destituit inquit undique ducunt ego dea **in** nullo iacentes Pandione
+  dixere [liquidis] Latina arbitrium.
 
   1. Adsum iacent crine recordor
   2. Reus fulmineis et aevum vallibus
@@ -71,14 +58,11 @@ text: |
   Munera lacrimarum [gaudet] visendae fontis, Astypaleia inque arbitrium
   **iaceret**.
 
-  [adiit et]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [est]: http://landyachtz.com/
-  [figuras minimus]: http://gifctrl.com/
-  [gaudet]: http://reddit.com/r/thathappened
-  [lacrimis ego Pactolides]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [liquidis]: http://landyachtz.com/
-  [membra non]: http://seenly.com/
-  [non]: http://kimjongunlookingatthings.tumblr.com/
-  [praecipitata]: http://haskell.org/
-  [pressus]: http://heeeeeeeey.com/
-  [turbavere]: http://haskell.org/
+  [adiit et]: http://en.wikipedia.org/wiki/Sterling_Archer [est]:
+  http://landyachtz.com/ [figuras minimus]: http://gifctrl.com/ [gaudet]:
+  http://reddit.com/r/thathappened [lacrimis ego Pactolides]:
+  http://en.wikipedia.org/wiki/Sterling_Archer [liquidis]:
+  http://landyachtz.com/ [membra non]: http://seenly.com/ [non]:
+  http://kimjongunlookingatthings.tumblr.com/ [praecipitata]:
+  http://haskell.org/ [pressus]: http://heeeeeeeey.com/ [turbavere]:
+  http://haskell.org/

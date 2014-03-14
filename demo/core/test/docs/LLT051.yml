@@ -1,23 +1,23 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR004
+- LLR096
+- LLR169
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum vobis **vinum**? Aere iam tabe, vale vocat sum!
-  Mihi avem
-  strictumque evaserat duobus hanc faucesque ense fallere!
+  Mihi avem strictumque evaserat duobus hanc faucesque ense fallere!
 
   Undas leones ceciderunt pugnavique haeret: fassusque in obortas Iove: *est*
   undis: magnorum supplice.
   Tirynthius cornua, et **se nec** Andraemone aliis.
   Haeret *manibus*, et requiras erumpit populo ore exhalat Daphnes subdit
-  quoque;
-  vanos altae.
+  quoque; vanos altae.
   Umbram annos, et ante insuperabile omnia.
-  Gener tactuque furta, non
-  Clitorio fuit; sed tria ego, tela.
+  Gener tactuque furta, non Clitorio fuit; sed tria ego, tela.
 
   - Est in regem carinis
   - Opibus et subitusque torum genitor festum equos
@@ -25,10 +25,10 @@ text: |
 
   *Nec aurea guttis* Exigit, loqui et Pelasgas, breve; una amplexus et quam
   quicquid.
-  Illo gramine multam hic medius Ixion quondam verti, festumque natura,
-  in puer sororis illuc.
-  Rerum ducit haec erat Minyis velox more hospes auras meum
-  pars inscius **ostendens**, vectus, **exclusura placet**. Loqui nemus pennas.
+  Illo gramine multam hic medius Ixion quondam verti, festumque natura, in puer
+  sororis illuc.
+  Rerum ducit haec erat Minyis velox more hospes auras meum pars inscius
+  **ostendens**, vectus, **exclusura placet**. Loqui nemus pennas.
   Illo unus potentior bella undas: credant summoque adeo: sua luna vindice.
 
   1. Raucos sollicita patientia interea audet
@@ -39,25 +39,18 @@ text: |
   6. Habebas agmen hinc primum heros accendit alitibus
 
   Qua toto conorque, deae ripis succincta culpa, adsueta caedem.
-  Modo praefractam
-  mundus verbis, tamen: dei: res quoque?
+  Modo praefractam mundus verbis, tamen: dei: res quoque?
 
   Robore carmine erat fuit passisque, moras cur; non victa plus tamen oves
-  habent,
-  *non*. Meorum fugit carens stetit, ni velit crescentesque parva nostrasque
-  animo
-  viminis amore puer, tellus, vultus, tendens.
-  Origo inquit prius potuit, autumni
-  pacaverat. **Enim** felix ad quid epulas et [cernitis digna] Etruscam aether
-  sine refert praeterque?
+  habent, *non*. Meorum fugit carens stetit, ni velit crescentesque parva
+  nostrasque animo viminis amore puer, tellus, vultus, tendens.
+  Origo inquit prius potuit, autumni pacaverat. **Enim** felix ad quid epulas
+  et [cernitis digna] Etruscam aether sine refert praeterque?
 
   Elementa superator summaque famamque.
-  Illi luce? *Vivunt quamquam* planxerunt
-  futuri quanto quid [fuerat] tenent sequitur medio. [Tempora] vocisque minaces
-  regia: ante nunc felix pace domui, iuvat culpetne, vastatoremque venerat
-  aventi
-  si?
+  Illi luce? *Vivunt quamquam* planxerunt futuri quanto quid [fuerat] tenent
+  sequitur medio. [Tempora] vocisque minaces regia: ante nunc felix pace domui,
+  iuvat culpetne, vastatoremque venerat aventi si?
 
-  [Tempora]: http://html9responsiveboilerstrapjs.com/
-  [cernitis digna]: http://www.mozilla.org/
-  [fuerat]: http://www.wedrinkwater.com/
+  [Tempora]: http://html9responsiveboilerstrapjs.com/ [cernitis digna]:
+  http://www.mozilla.org/ [fuerat]: http://www.wedrinkwater.com/

@@ -1,15 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR001
+- HLR049
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum hoc ripae flumina **silvae** forma viroque ibi prius
-  si mors,
-  precando haut!
-  Nisi si [furibunda vibrata] nec templa imis macies, fati est
-  nautas dilapsa.
+  si mors, precando haut!
+  Nisi si [furibunda vibrata] nec templa imis macies, fati est nautas dilapsa.
 
       var character = error * lampTiger(image * mca, hostPayload, 274591);
       if (parity(network, spoofingDonationwareLaptop, installCommerceFlash)) {
@@ -33,52 +33,43 @@ text: |
 
   Da os nigra amorem querno Scyrum unde; nec sed calidi filia; deos victum et
   oscula sederunt multos.
-  Officium iuncti canentis quidem; adsensit et hominum
-  pontus longoque, te *sed* tantaeque discordibus capillos tantum.
-  Resonabat
-  *corpore distabat et* fratres igitur iunxit, sit tantum *est tunc* questa
-  nate
-  dumque vulnere dixit, hoc.
-  Annis illo aether, sed unus et Achilleos, auctor
-  rapere, redimebat *mane*, cum ardua alebat.
-  Plenissima custodia senserit virgo
-  adhibere numerandos haec plenissima victor; colle des Aeneas remisit cum
-  Euandri.
+  Officium iuncti canentis quidem; adsensit et hominum pontus longoque, te
+  *sed* tantaeque discordibus capillos tantum.
+  Resonabat *corpore distabat et* fratres igitur iunxit, sit tantum *est tunc*
+  questa nate dumque vulnere dixit, hoc.
+  Annis illo aether, sed unus et Achilleos, auctor rapere, redimebat *mane*,
+  cum ardua alebat.
+  Plenissima custodia senserit virgo adhibere numerandos haec plenissima
+  victor; colle des Aeneas remisit cum Euandri.
 
   Sibi occidimus praelate nempe surrexit relicto viribus praecipitem loqui
   incidere.
   En iussa?
   In est despexit longo ante fidem Et oris.
-  Velox perosus
-  Oceani Iovem campum saltem oculi, ego nunc ubi spatium, verum citis, habet?
+  Velox perosus Oceani Iovem campum saltem oculi, ego nunc ubi spatium, verum
+  citis, habet?
 
   Rigent exclamat frater: pectore faces, belli qui Tatius repperit corpore.
-  Dicta
-  moneo, flammasque [vivax]. Et ora subito nec dixit mentita!
-  Excipit sed Eurytus
-  exitus, patriae dei, arce confecta recentes non caedis voluptas aestatem
-  talaribus uterque.
+  Dicta moneo, flammasque [vivax]. Et ora subito nec dixit mentita!
+  Excipit sed Eurytus exitus, patriae dei, arce confecta recentes non caedis
+  voluptas aestatem talaribus uterque.
 
   In clamantem umbras excusare: barba Iunone arguit materna: amabat exhortor et
   vidit gestanda peccavere fessos.
-  Haec limite aequo figuras recentis, alvo *sacra
-  suae solet* gaudia.
-  E obusta implet inroravere exemit, at arctos et ac terrae
-  uncis superi: cum incustoditam mora corripuere, oro.
-  Enim faces praesentior
-  umente ut acta usus testata, mihi eos vectus est uteri, hac artis, manu
-  aethera.
+  Haec limite aequo figuras recentis, alvo *sacra suae solet* gaudia.
+  E obusta implet inroravere exemit, at arctos et ac terrae uncis superi: cum
+  incustoditam mora corripuere, oro.
+  Enim faces praesentior umente ut acta usus testata, mihi eos vectus est
+  uteri, hac artis, manu aethera.
 
   *Inmeritas minax* utrimque adspiciam erunt; sub [speret ut monstri] custodia.
   Naris fecit voluptas, quam hac, sub tumuletur iubebat chrysolithi fictis,
   repressit aethera, cum Achille adhibet.
-  Utque rutilis amore absolvere lymphis
-  [debuit]. Sint Clara, furoris et neu, verbis meritos mors nec, nam atque
-  centum
-  artesque factum nepotes *ereptus*. Lacrimaeque intra probatum: modo remansit
-  fallere mittit infitianda obscenae etiam incipit Arcades carmine: est causam?
+  Utque rutilis amore absolvere lymphis [debuit]. Sint Clara, furoris et neu,
+  verbis meritos mors nec, nam atque centum artesque factum nepotes *ereptus*.
+  Lacrimaeque intra probatum: modo remansit fallere mittit infitianda obscenae
+  etiam incipit Arcades carmine: est causam?
 
-  [debuit]: http://www.reddit.com/r/haskell
-  [furibunda vibrata]: http://zombo.com/
-  [speret ut monstri]: http://www.reddit.com/r/haskell
+  [debuit]: http://www.reddit.com/r/haskell [furibunda vibrata]:
+  http://zombo.com/ [speret ut monstri]: http://www.reddit.com/r/haskell
   [vivax]: http://hipstermerkel.tumblr.com/

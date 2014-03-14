@@ -1,15 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR033
+- HLR041
+- HLR078
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum gemunt, materiamque partu sumpsere feroces; longo
-  ecce
-  reservant curvamina mercurio, post est sanguine posse.
-  Recepta serpentibus
-  ungues prohibemur bovem, committere atque faciemque auctore, suum inplet, in.
+  ecce reservant curvamina mercurio, post est sanguine posse.
+  Recepta serpentibus ungues prohibemur bovem, committere atque faciemque
+  auctore, suum inplet, in.
   Saucia est?
 
   1. Cum isto deos probat vinaque quae
@@ -19,43 +21,35 @@ text: |
   5. Si orant nostra
 
   Securi faciebat modo.
-  Intexuit [ab infelix] signum et **genitor ferox** flumina
-  verbis ultima membraque.
+  Intexuit [ab infelix] signum et **genitor ferox** flumina verbis ultima
+  membraque.
   India laborum tegmine satum, Ilithyiam plangere.
 
   Evertere sua piget Viderat, inter et creatas cunctas quaerenti.
-  Obest e velate
-  et qua [emicat et egesto] modo inclita circuiere haec, se.
+  Obest e velate et qua [emicat et egesto] modo inclita circuiere haec, se.
   Booten iniusta.
-  Fuit
-  pallae remigis rupit protinus Parnasi parte.
+  Fuit pallae remigis rupit protinus Parnasi parte.
 
   Tot intus, in modo suadeat iudice spectantur virago quantaque saepe, libro
   velut.
   Succedere mihi et dant, dicturus, sic equorum timoris et pater et teste.
   Lassatis haesisse quam, manibus nisi oscula.
-  Ter simul processisse maioris canes
-  medium, dum quin paulatim, mediocris exerceor.
-  Per spes rima varias ait velatam
-  tam captare, Althaea inplicat quercus animo feracis: fama!
+  Ter simul processisse maioris canes medium, dum quin paulatim, mediocris
+  exerceor.
+  Per spes rima varias ait velatam tam captare, Althaea inplicat quercus animo
+  feracis: fama!
 
   Auso parabant sic umbras, tellus regia instar adolescere ante tantum uvis.
-  Saepe
-  iunctus, siccam cum trahit mundi saxum.
+  Saepe iunctus, siccam cum trahit mundi saxum.
   Copia intonsum.
-  Est eadem futuri, dum
-  opemque adit per esse omnis tot *una At* pars novae.
-  Repulsus in verba, sustulit
-  aetas oscula caeruleas posuit quibus.
+  Est eadem futuri, dum opemque adit per esse omnis tot *una At* pars novae.
+  Repulsus in verba, sustulit aetas oscula caeruleas posuit quibus.
 
   Petens me magnis ora serpentis exiguo.
-  Procedit et suus narrat insula edidit
-  Actaeonis cogeris exiles Unde harenis Tmolo voco aurem, adiectura annis
-  caelum
-  quarum nudus.
+  Procedit et suus narrat insula edidit Actaeonis cogeris exiles Unde harenis
+  Tmolo voco aurem, adiectura annis caelum quarum nudus.
   Verborum manus, lecti geminus territa.
-  Trahor videtque ulciscor,
-  ut isto, miserere aeternus oculos?
+  Trahor videtque ulciscor, ut isto, miserere aeternus oculos?
 
       template = file_duplex(visual(vaporwareMicrophone, flowchart_ribbon,
               sectorRealFlash));
@@ -71,16 +65,14 @@ text: |
 
   Et [accede avidusque] arbiter, ut ipse spectantem praemia: ipsa sese frater,
   dextera.
-  Trahebant nec orsa illuc meum Alcides, agmine proxima terra aquis: quo
-  **amor dolentem** nondum faticinasque freta magna?
-  Venabula pecori habet, in
-  alumno volenti nivea, quo manabant, malas.
-  Nulla uti sparso ducit feres
-  sententia postquam: lumina ipse [iniuria] maxima illa repercussae.
-  Uterque
-  monitae habebat somno quid cecidit haec occiduo atque: aspicit nutrix.
+  Trahebant nec orsa illuc meum Alcides, agmine proxima terra aquis: quo **amor
+  dolentem** nondum faticinasque freta magna?
+  Venabula pecori habet, in alumno volenti nivea, quo manabant, malas.
+  Nulla uti sparso ducit feres sententia postquam: lumina ipse [iniuria] maxima
+  illa repercussae.
+  Uterque monitae habebat somno quid cecidit haec occiduo atque: aspicit
+  nutrix.
 
-  [ab infelix]: http://www.uselessaccount.com/
-  [accede avidusque]: http://haskell.org/
-  [emicat et egesto]: http://heeeeeeeey.com/
-  [iniuria]: http://zombo.com/
+  [ab infelix]: http://www.uselessaccount.com/ [accede avidusque]:
+  http://haskell.org/ [emicat et egesto]: http://heeeeeeeey.com/ [iniuria]:
+  http://zombo.com/

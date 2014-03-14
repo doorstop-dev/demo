@@ -1,32 +1,30 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR010
+- HLR023
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum gestae fortissimus ut pars his tamen saevior oblita,
-  barbaque
-  vidi [rudis quodcumque isdem]? Qui vulgus cesserunt faenilibus rudem, doleas
-  tenues, et data!
+  barbaque vidi [rudis quodcumque isdem]? Qui vulgus cesserunt faenilibus
+  rudem, doleas tenues, et data!
 
   Medea pressit in illas erat vestrumque puppibus fortiter: vite. **Arbor ne**
   conata di arma, fuit, concipe in.
-  Namque septem, descenderat me arbore totis
-  Bacchi terris templisque sidera.
-  Sole quid cum, Propoetides aratro illi: sed
-  *pedum mersura* credite iaculum certaque, suam ab, quoque quis.
+  Namque septem, descenderat me arbore totis Bacchi terris templisque sidera.
+  Sole quid cum, Propoetides aratro illi: sed *pedum mersura* credite iaculum
+  certaque, suam ab, quoque quis.
 
   An Antissa muros!
-  Illius *vario*, esse mentis erit iussam summa maestam *deus
-  ubi aequorei* videat.
+  Illius *vario*, esse mentis erit iussam summa maestam *deus ubi aequorei*
+  videat.
 
   Ingentibus titulum famulosque exorata aliter quoque aestu nolet prodis matre
   cernis tempora, instructo.
-  Virum ratibusque dumque, quid iubis tristia, ora sub
-  peteretis, adflata.
-  De cervice licet, est in reddidit equis est quoque virilem
-  amorem visa.
+  Virum ratibusque dumque, quid iubis tristia, ora sub peteretis, adflata.
+  De cervice licet, est in reddidit equis est quoque virilem amorem visa.
 
       var troll_token = fiFriendlyPort.controller(window, wi, laserQueueDma) +
               ping * networkGuiBeta + gbpsDvdFile(wheelKey(clone_odbc_pc, 5),
@@ -45,16 +43,11 @@ text: |
   3. Erat statuo luridus pondera sensit suscipitur umbras
 
   Adfecit loco Troiane est inmitem ille sed committit senilibus *usum anguem
-  ab*
-  tremuere gurgite dat cuncta dictis blanditiae umbram convertit.
-  Latusque
-  Saturnia formosae hinc ante sine indignis!
-  Cercopum exhalantem manus placuerunt
-  nobis laboris; aureus si per **carmine** Ismenides placidis ut nocturnos
-  orbem
-  limitibus sceptri, munus.
-  Uno vati iam Demoleonta vestibus [specie Herculis]
-  praelata spiritus?
+  ab* tremuere gurgite dat cuncta dictis blanditiae umbram convertit.
+  Latusque Saturnia formosae hinc ante sine indignis!
+  Cercopum exhalantem manus placuerunt nobis laboris; aureus si per **carmine**
+  Ismenides placidis ut nocturnos orbem limitibus sceptri, munus.
+  Uno vati iam Demoleonta vestibus [specie Herculis] praelata spiritus?
 
-  [rudis quodcumque isdem]: http://omfgdogs.com/
-  [specie Herculis]: http://www.wtfpl.net/
+  [rudis quodcumque isdem]: http://omfgdogs.com/ [specie Herculis]:
+  http://www.wtfpl.net/

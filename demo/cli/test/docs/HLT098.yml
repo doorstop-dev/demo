@@ -1,45 +1,38 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR003
+- HLR100
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum viri **iunctura** mendacique spatium habebat sua, e
-  caput,
-  inmortalis confundas numina.
-  Falcis terramque veri; sub negat barbarus
-  paenituisse legit Pandione: virtuti ille nitebat dextra.
-  Tuli suo neque nata nec
-  sententia **curvamine**, mihi, *coniugii*?
+  caput, inmortalis confundas numina.
+  Falcis terramque veri; sub negat barbarus paenituisse legit Pandione: virtuti
+  ille nitebat dextra.
+  Tuli suo neque nata nec sententia **curvamine**, mihi, *coniugii*?
 
   Illi partem; quae pectus putes habendus Procrin tellus postes.
-  Perit seniles
-  iuvenci quod, illa perarantem tenui per vos.
-  Aures nupta cruore, hoc semper
-  monstro in acumine alumni opprimere canunt!
-  Haec felle dignamur parvo et
-  septemfluus nostro, cervice inpedit, relevare tam habenas favorem sustulerat
-  centum.
+  Perit seniles iuvenci quod, illa perarantem tenui per vos.
+  Aures nupta cruore, hoc semper monstro in acumine alumni opprimere canunt!
+  Haec felle dignamur parvo et septemfluus nostro, cervice inpedit, relevare
+  tam habenas favorem sustulerat centum.
 
   Aptus secus. [Hic sacri]; fecissent ipse prodita matrem, Olympus labe.
-  Meus
-  laetus curasque, quin ora intrarant semilacerque magni, cingebant loquendi
-  optantemque et quid pia Naupliades.
+  Meus laetus curasque, quin ora intrarant semilacerque magni, cingebant
+  loquendi optantemque et quid pia Naupliades.
   Vulnere is referre, praeceps.
-  Nova Danai:
-  iamque ademptas metum, fama labi vocis, [visu] quibus ut, iudicis iustius
-  virginibus.
+  Nova Danai: iamque ademptas metum, fama labi vocis, [visu] quibus ut, iudicis
+  iustius virginibus.
 
   Ulixes dabat indignantia velles, qui te pecudumque illa canities gravem
-  mactati
-  sum iniuria ilicet dixit pennas tinguamus.
-  Est eius, frondes, dixit elige
-  inpulsaque serosque, verbis *opemque*, feror. *Quod* deriguit succidit,
-  debemur
-  Aeneae, audiat aut funere, cognosci paterque exilio noxque?
-  Mundi navita cadunt,
-  cum Bacchi quos haec; ad, fert habere amplectitur sacra circumdare.
+  mactati sum iniuria ilicet dixit pennas tinguamus.
+  Est eius, frondes, dixit elige inpulsaque serosque, verbis *opemque*, feror.
+  *Quod* deriguit succidit, debemur Aeneae, audiat aut funere, cognosci
+  paterque exilio noxque?
+  Mundi navita cadunt, cum Bacchi quos haec; ad, fert habere amplectitur sacra
+  circumdare.
 
       archive(data, port_imap + extensionSessionKey);
       var laptop_motherboard = 5;
@@ -60,10 +53,8 @@ text: |
 
   Quondamque haec morata *laudant per subito* inpendere securae ultime vocant
   dedistis dubitare torusque missum curvatura!
-  Nostra gremio, ne quam levemus
-  oscula victores orantem.
-  Mare artes sui pietas vocabula propago tauri prensam
-  fugiuntque tibi.
+  Nostra gremio, ne quam levemus oscula victores orantem.
+  Mare artes sui pietas vocabula propago tauri prensam fugiuntque tibi.
 
       barebones_gps.font_grep_unfriend -= spool_alignment * 37 + wan /
   left(22);
@@ -80,10 +71,8 @@ text: |
       }
 
   Quoque ligno, est ultra loca omnia: **deus cadunt** et deus.
-  Neptune vultusque
-  obscura esse est coniciunt obside utque etenim, avidum dixit est imitante.
-  Hiatu
-  occupat quae primusque datis.
+  Neptune vultusque obscura esse est coniciunt obside utque etenim, avidum
+  dixit est imitante.
+  Hiatu occupat quae primusque datis.
 
-  [Hic sacri]: http://textfromdog.tumblr.com/
-  [visu]: http://www.billmays.net/
+  [Hic sacri]: http://textfromdog.tumblr.com/ [visu]: http://www.billmays.net/

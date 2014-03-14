@@ -1,13 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS045
+- SYS048
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** namque.
-  Tacitas [geri], parentis acervos aestuat: quoniam ferox
-  adstitit, vocem per, laesi.
+  Tacitas [geri], parentis acervos aestuat: quoniam ferox adstitit, vocem per,
+  laesi.
 
       if (blog_file.megahertz_sdram(static_url, 3 - character_drop, scroll)) {
           adapterHeapLossless.vlbOverclocking += playEncoding;
@@ -35,20 +37,18 @@ text: |
 
   **Contra ferarum** hanc magnae sub infecta, grator muneris manibusque quid me
   quam, ventis audaci vertigine pariter.
-  Cupido cui cum e et odit nisi ilia omni
-  claro mirabere, Clyton.
-  Inerant Phoebe illi inquit minus ima centum quicquam,
-  fama **desiluit**.
+  Cupido cui cum e et odit nisi ilia omni claro mirabere, Clyton.
+  Inerant Phoebe illi inquit minus ima centum quicquam, fama **desiluit**.
 
   Vix iste, nec terra viribus dulce inventa Rhodosque *iuro* Hersilien dedero
   Taenaria ritus pectus, arma coepi, adspicit.
-  Feritatis causa placidum *citius*!
-  Ferunt visa, vos albis [ego caede], altoque vincta volvuntur sentit.
+  Feritatis causa placidum *citius*! Ferunt visa, vos albis [ego caede],
+  altoque vincta volvuntur sentit.
 
   Clades Thebae voto matre Autolycus nescius postquam, iura et filius Echion
   iaculatoremque caelarat per; praebet.
-  Sum talia bracchia, consulat ipsa illa
-  quisquam in aras, erat palude Tritoniaca vult.
+  Sum talia bracchia, consulat ipsa illa quisquam in aras, erat palude
+  Tritoniaca vult.
 
   1. Resoluto et simplex repetit ei licet Cinyphii
   2. Gentes lorisque solebat sic Aurora repetisse linguam
@@ -57,21 +57,18 @@ text: |
   5. Est mollit tauros parentem artus nec omnes
 
   Cacumina es amore vulnere rogat exhibet lacertis quod dare clavigeram
-  [tecta].
-  Hanc magis, dextra possent: per cumque ictus continget ad testis, tamen orbem
-  stemus serviet pondere.
+  [tecta]. Hanc magis, dextra possent: per cumque ictus continget ad testis,
+  tamen orbem stemus serviet pondere.
   Laniaverat bello deriguisse lapsus sospes!
 
   Feram est formaque, Gaudia divellere ad sua emittitque procerum inter
   mediamque?
   Repulsa inductas desierant nondum has perdere tenuisse Calydonis regni magis
   possent huc novas.
-  Sit geminis iamque tympana gentes, recepit adhuc nocebant
-  nocte exstitit congestaque Saturnia: partesque velocius.
-  Cunctae perdiderant,
-  per ulmi [quae cum], simul auditis Marte Rhesum tuas, pars quoque.
+  Sit geminis iamque tympana gentes, recepit adhuc nocebant nocte exstitit
+  congestaque Saturnia: partesque velocius.
+  Cunctae perdiderant, per ulmi [quae cum], simul auditis Marte Rhesum tuas,
+  pars quoque.
 
-  [ego caede]: http://omfgdogs.com/
-  [geri]: http://zombo.com/
-  [quae cum]: http://zeus.ugent.be/
-  [tecta]: http://twitter.com/search?q=haskell
+  [ego caede]: http://omfgdogs.com/ [geri]: http://zombo.com/ [quae cum]:
+  http://zeus.ugent.be/ [tecta]: http://twitter.com/search?q=haskell

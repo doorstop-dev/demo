@@ -1,17 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR088
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum regna, non Echionio alas, *ambo*: succede: putes.
-  Ab sed
-  antiquo eatque et spissatus me ipsis Phoebus domos pictis pugnabo funestaque
-  [una] Cereri ut pedes.
+  Ab sed antiquo eatque et spissatus me ipsis Phoebus domos pictis pugnabo
+  funestaque [una] Cereri ut pedes.
   Antiquus habitusque despicit: moderamen quibus.
-  Ego color
-  insignia, *ibat equorum* hunc species *numero morte tuus*.
+  Ego color insignia, *ibat equorum* hunc species *numero morte tuus*.
 
   1. Contigit bucina adunci
   2. Viret multis sua et Cupidinis qui
@@ -19,13 +18,12 @@ text: |
   4. Pinus ut nimios
 
   Aquis Diti mons fovebam metuaris levata decidit Thybridis inde est adspice
-  more,
-  quae purpura?
-  Sed gaudet tot trepidans, [prima] muneris inpleratque ignes
-  tolerare Boreas cinisque.
-  Et pars est iustis caret nepotibus candida tinxerat
-  pariter silvis, per vultum fulvo pennas; est *tamen vix*! Creatus est dixi
-  totius: hic [mediis conplet ait] albida.
+  more, quae purpura?
+  Sed gaudet tot trepidans, [prima] muneris inpleratque ignes tolerare Boreas
+  cinisque.
+  Et pars est iustis caret nepotibus candida tinxerat pariter silvis, per
+  vultum fulvo pennas; est *tamen vix*! Creatus est dixi totius: hic [mediis
+  conplet ait] albida.
 
   - Vestrae aequore Nelei
   - Quoque enim longa Panopeusque sit
@@ -36,17 +34,14 @@ text: |
   Dapes ne operi.
 
   Isto nurusque, et vera.
-  Dici castae ferrea Hesperus detrahit, recessit temptemus
-  fata servatae tamen.
-  Bipennis risit [hic mirum bis] attulit attulit ait sit
-  excipiunt membra causam.
+  Dici castae ferrea Hesperus detrahit, recessit temptemus fata servatae tamen.
+  Bipennis risit [hic mirum bis] attulit attulit ait sit excipiunt membra
+  causam.
 
   Ire habenas; tantique ex Thebas; **conexa melioris** in.
-  Mortali veluti, ire
-  barba est inplumes nudos, dat cepi, coegi manu facere digitis desine ignibus
-  illo?
+  Mortali veluti, ire barba est inplumes nudos, dat cepi, coegi manu facere
+  digitis desine ignibus illo?
 
-  [hic mirum bis]: http://twitter.com/search?q=haskell
-  [mediis conplet ait]: http://eelslap.com/
-  [prima]: http://www.billmays.net/
-  [una]: http://www.lipsum.com/
+  [hic mirum bis]: http://twitter.com/search?q=haskell [mediis conplet ait]:
+  http://eelslap.com/ [prima]: http://www.billmays.net/ [una]:
+  http://www.lipsum.com/

@@ -1,14 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR011
+- HLR028
+- HLR047
+- HLR069
 normative: true
 ref: ''
 text: |
   [Lorem markdownum **SHALL** parvae], siccantem deficit haec.
-  Merito qui laedere erant
-  versata, ad superi, deos, *has agitata* percutimurque accedere cumba ne quod
-  contingere et!
+  Merito qui laedere erant versata, ad superi, deos, *has agitata*
+  percutimurque accedere cumba ne quod contingere et!
 
       if (san(54 + expansion, thumbnail, speedSkuStorage)) {
           mebibyte_data.service_vci += real_e.ebook(892804 - defaultPeopleware,
@@ -24,12 +27,11 @@ text: |
   Erunt bacaque, cum femina siquem venerat placebant, eodem ita canisve fecere
   istis pariter.
   Humo sed sciret tendebant fatigat offensane videri.
-  Condidit sed
-  frustra ligati Halcyoneus vimque: capientur sit usus in eodem ac meosque.
+  Condidit sed frustra ligati Halcyoneus vimque: capientur sit usus in eodem ac
+  meosque.
 
   Dedit parte viget carbasa oculos hoc saepe Melaneus, **tot devia** Pylos.
-  Quae
-  est voluntas facto.
+  Quae est voluntas facto.
   Deorum *sic*.
 
   - Tum nactus ensis leviore
@@ -40,8 +42,8 @@ text: |
 
   Lupi **faciem terris** aliquid fratrum tamen patitur accedere egentes, nobis
   quondam abit, voce vale sanguis!
-  Exoratis patrio, amor abest harundine tori [ut
-  somni] praestanti dapes, sed ante ardua.
+  Exoratis patrio, amor abest harundine tori [ut somni] praestanti dapes, sed
+  ante ardua.
 
       if (wampPharming - volume_irq + -2) {
           social_freeware(-5, bin.teraflopsPlugDongle(file_token, odbc_prom),
@@ -54,13 +56,11 @@ text: |
               / bit_pum_reality - atm_visual_ddl + -3;
 
   Sentit vocantem; vires ferus orbem non quid reddebant pensas.
-  Inter dei etiam
-  moderator, arcet sumus, sui illa qua foedus est caput.
+  Inter dei etiam moderator, arcet sumus, sui illa qua foedus est caput.
 
   Feritatis diversa.
-  Ab toto iubet, dum vocantia coctilibus genetrix erat adnuit,
-  ora.
+  Ab toto iubet, dum vocantia coctilibus genetrix erat adnuit, ora.
   Poma quod retinentibus spina!
 
-  [Lorem markdownum parvae]: http://zombo.com/
-  [ut somni]: http://www.reddit.com/r/haskell
+  [Lorem markdownum parvae]: http://zombo.com/ [ut somni]:
+  http://www.reddit.com/r/haskell

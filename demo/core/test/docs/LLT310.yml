@@ -1,49 +1,46 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR016
+- LLR153
+- LLR164
+- LLR182
+- LLR198
 normative: true
 ref: ''
 text: |
   [Lorem] markdownum puer superbum, quos templisque generis trahit et, munere.
   Caudice quaeritis meae animi duobus, laetissimus **mota somnus**
-  Antimachumque
-  nomen vaccae, qui *debere senior*, at quam.
+  Antimachumque nomen vaccae, qui *debere senior*, at quam.
   Sibi perdite deorum.
-  Naides
-  quaerente piceae tanget paruerit fugiunt ferox quin gentis restat utinam
-  adversum vocem [illa Neptune] trunco caelo digna mox.
+  Naides quaerente piceae tanget paruerit fugiunt ferox quin gentis restat
+  utinam adversum vocem [illa Neptune] trunco caelo digna mox.
 
   Simul vitarit.
-  Sed haec nodo, sua terga non nunc iraeque pulsant mediamque
-  **sit**. Sopita crudus nec lacrimaeque seris differt, dat armis post has
-  **deceat vultuque** reverti vires.
-  In meis ensis, formamque non laesa antiquo
-  *felix nam* riguo Pelopeia sciet.
+  Sed haec nodo, sua terga non nunc iraeque pulsant mediamque **sit**. Sopita
+  crudus nec lacrimaeque seris differt, dat armis post has **deceat vultuque**
+  reverti vires.
+  In meis ensis, formamque non laesa antiquo *felix nam* riguo Pelopeia sciet.
   Nec huius scopulo vestes.
 
   Et se longe, o aliud, vita, velle quos gratus penatibus coepto?
-  Semper cum
-  linguam; non si Talia poteris, tertia signa.
-  Et iuvenis concita: inque in
-  monstri terrae iactarique turbatus firmas portus agit recuset.
-  Usum Cupido,
-  flumen tergo contempsere didicit per lapsa; id modo, quod cedit!
-  Ferro dea
-  dicitur duxit Rutulum nova mater infernum incomitata vellera.
+  Semper cum linguam; non si Talia poteris, tertia signa.
+  Et iuvenis concita: inque in monstri terrae iactarique turbatus firmas portus
+  agit recuset.
+  Usum Cupido, flumen tergo contempsere didicit per lapsa; id modo, quod cedit!
+  Ferro dea dicitur duxit Rutulum nova mater infernum incomitata vellera.
 
   Corpore alas, si formosa pulsusque gratia belli pari inmani, est lactente
-  fera;
-  deum manus virginem.
-  Servaverat tamen eatque **a duorum petitur** gurgite illis,
-  ire orbus haec lingua *deus* quoque.
+  fera; deum manus virginem.
+  Servaverat tamen eatque **a duorum petitur** gurgite illis, ire orbus haec
+  lingua *deus* quoque.
 
   Caeneus successisse fata: dubita si resolutum habes portare summas. **Poenas
   vocavit quos**; foedera hic verba tum dicere oculos tori quae verti laqueos
-  nec
-  dicitur.
-  Iussit latitantem, harena metum ullo, indoluisse Danaam antiquae
-  *opertos* sororem mentes ait exasperat quam.
+  nec dicitur.
+  Iussit latitantem, harena metum ullo, indoluisse Danaam antiquae *opertos*
+  sororem mentes ait exasperat quam.
 
   Fisa non.
   Ignavis et mihi correpta.
@@ -54,26 +51,22 @@ text: |
 
   Precor opes nobis cupit carmina tamen ipso.
   Quod cultis.
-  Caede Cipe coniunx deae
-  nate digiti nec primaque sedili obstrepuere ambiguis **nimbis serpente**
-  telluris praecordia de.
-  Solent vestem Procne pleni et regia illius virus esse
-  Aeneas; annos huic iamque ordine sicut, pende: arva.
-  Niger non **quod
-  madentes**, ripae fuge grave quatiens thalamos **faciemque sponte matrumque**
-  illo ingenio terram inpubibus [iaculum].
+  Caede Cipe coniunx deae nate digiti nec primaque sedili obstrepuere ambiguis
+  **nimbis serpente** telluris praecordia de.
+  Solent vestem Procne pleni et regia illius virus esse Aeneas; annos huic
+  iamque ordine sicut, pende: arva.
+  Niger non **quod madentes**, ripae fuge grave quatiens thalamos **faciemque
+  sponte matrumque** illo ingenio terram inpubibus [iaculum].
 
   Magna lenta indulgent orbem certo, delphina victor tabe dixit si quinta adest
   cornibus.
-  Inquit ipse tremor redditur gestae Amphitryoniadae potestas: **alto**
-  per sensi, quae, **mixtoque est** Troia!
+  Inquit ipse tremor redditur gestae Amphitryoniadae potestas: **alto** per
+  sensi, quae, **mixtoque est** Troia!
   Credere Phoebes et Aeas quod?
-  Quem
-  refero ad semine enim interdum.
-  Cum spe; matresque dilectaque mihi me Teucras
-  coniugium [recepto dulcia], fore, fratres.
+  Quem refero ad semine enim interdum.
+  Cum spe; matresque dilectaque mihi me Teucras coniugium [recepto dulcia],
+  fore, fratres.
 
-  [Lorem]: http://news.ycombinator.com/
-  [iaculum]: http://zeus.ugent.be/
-  [illa Neptune]: http://www.mozilla.org/
-  [recepto dulcia]: http://www.reddit.com/r/haskell
+  [Lorem]: http://news.ycombinator.com/ [iaculum]: http://zeus.ugent.be/ [illa
+  Neptune]: http://www.mozilla.org/ [recepto dulcia]:
+  http://www.reddit.com/r/haskell

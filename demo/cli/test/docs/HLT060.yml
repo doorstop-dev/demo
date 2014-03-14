@@ -1,13 +1,14 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR060
+- HLR073
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum tecta, cum causam fores illa nate dixit nam est, non.
-  Et
-  inposita altos.
+  Et inposita altos.
 
       if (bmpOperating == 83 * 3) {
           maskDriveUgc.kernel /= services_smartphone;
@@ -27,8 +28,8 @@ text: |
   Oscula deam matre!
   Sed nova *harenas ad* adiit cara uti ultra!
   Remittas fas, ipsa videntur colorem.
-  Aethere resupinus siccantem ipse: sanguinis
-  patrio usque prensamque onere, est suras opem venturis!
+  Aethere resupinus siccantem ipse: sanguinis patrio usque prensamque onere,
+  est suras opem venturis!
 
   1. Meri torvis incursus cremarat abest
   2. Una premens Milete fine
@@ -39,8 +40,7 @@ text: |
   quis.
   Cnidon cui atque mihi longo, duruerant carpe crinem procul pariter tenebat tu
   Ceres Pallas: ad.
-  Operum pressere opemque; esset hortanda, et reliqui:
-  spectatae.
+  Operum pressere opemque; esset hortanda, et reliqui: spectatae.
   Fertur tenentis tu deorum, ullus vota flammas et oscula fecundum.
 
   - Mea avem longe Iove mecum cautus
@@ -51,21 +51,17 @@ text: |
   - Inlita resimas atque plectrumque sunt antemnas Telamonque
 
   Si malis frondis, nec ecce, non catenis quoque in dabat.
-  Praesagia ast recens
-  decorum verba dederat, Siculae quo parum esse data petentem.
-  Hac mercurio prona
-  ius dea tune minor non canna **quantum**, hanc peto repetet est; quod nullus
-  [Andron]. Possis nascendi marinae orant gestum formae, [Ulixem tulere],
-  aequaret?
+  Praesagia ast recens decorum verba dederat, Siculae quo parum esse data
+  petentem.
+  Hac mercurio prona ius dea tune minor non canna **quantum**, hanc peto
+  repetet est; quod nullus [Andron]. Possis nascendi marinae orant gestum
+  formae, [Ulixem tulere], aequaret?
 
   Per iam quoque iuvenesque gemellos, est certum manu, harundine setae precari.
   Petit mortisque spes tanto finita: ambigui flavusque Telamone possederat
-  occulto
-  medius manuque iuveni moraque est Notum.
-  Sedebant et scylla leones precor tum
-  Latinas nocuit leonibus ut vidisse miluus ceciderunt gramen nomen iunxit!
-  Torsit
-  Scironis tenuisse quoque, est, omnibus cum tempora.
+  occulto medius manuque iuveni moraque est Notum.
+  Sedebant et scylla leones precor tum Latinas nocuit leonibus ut vidisse
+  miluus ceciderunt gramen nomen iunxit!
+  Torsit Scironis tenuisse quoque, est, omnibus cum tempora.
 
-  [Andron]: http://zeus.ugent.be/
-  [Ulixem tulere]: http://omfgdogs.com/
+  [Andron]: http://zeus.ugent.be/ [Ulixem tulere]: http://omfgdogs.com/

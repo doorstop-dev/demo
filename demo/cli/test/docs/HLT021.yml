@@ -1,14 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR001
+- HLR024
+- HLR051
+- HLR059
+- HLR091
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum nitar, addere, et cum penduntque rapinae, [amplexus]
   a.
-  Draconi
-  delata, non morte frugum, Medon satyri, stridore est post.
+  Draconi delata, non morte frugum, Medon satyri, stridore est post.
 
   - Sic latet iniqui revirescere plurima poterat
   - Pro opus ab tibi agricolam auctorem fortis
@@ -39,12 +43,11 @@ text: |
 
   Foret figuras.
   Relatu Solem quoque cana, loquendo.
-  Domino candentia dentes, os
-  hamo, nec corniger tetigit trepident invenit fuit.
-  Sed patula prohibent
-  lactantia est omnia cursu.
-  More nostrum nec *tellure* pararet nunc isque facinus
-  primitias abstulit igitur.
+  Domino candentia dentes, os hamo, nec corniger tetigit trepident invenit
+  fuit.
+  Sed patula prohibent lactantia est omnia cursu.
+  More nostrum nec *tellure* pararet nunc isque facinus primitias abstulit
+  igitur.
 
   Ille temeraria timuitque hortus.
   Spatium est vota multamque; ad nec, et atque.
@@ -71,13 +74,11 @@ text: |
               pplGuid, 88));
 
   Altis haec reduxit: ignes voce armata, adiecit ventus!
-  Nimbisque forte Agaue
-  coacervatos mearum; et visa opus non confine.
-  Inplevi pericli, quae meliora vix
-  et invidiaque verbisque dignus contulit sanguine dextrum.
-  Armis illic contigit
-  vocisque.
-  Cum quam montibus quaerens credetis leges; quicumque crescit
-  **crimenque somnos Medusaei** in tibi do invidiam cum Delos quod.
+  Nimbisque forte Agaue coacervatos mearum; et visa opus non confine.
+  Inplevi pericli, quae meliora vix et invidiaque verbisque dignus contulit
+  sanguine dextrum.
+  Armis illic contigit vocisque.
+  Cum quam montibus quaerens credetis leges; quicumque crescit **crimenque
+  somnos Medusaei** in tibi do invidiam cum Delos quod.
 
   [amplexus]: http://www.lipsum.com/

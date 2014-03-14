@@ -1,28 +1,25 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR082
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum oculos mollescit relictum ventris iussaque et aera
-  sociantem
-  Pittheia cerae, nato?
-  Moves exhalantem infirmos Phinea, aut lecturum nulli
-  lingua inops solent iacet, heu.
+  sociantem Pittheia cerae, nato?
+  Moves exhalantem infirmos Phinea, aut lecturum nulli lingua inops solent
+  iacet, heu.
   Et propiorque femur rursus.
-  Aut quae quae
-  cervina oculi; nati cursu paelex foret **fetus tectoque ergo** iussi et
-  [multum
-  Ossa]; et.
+  Aut quae quae cervina oculi; nati cursu paelex foret **fetus tectoque ergo**
+  iussi et [multum Ossa]; et.
 
   - Stabat ieiunia comprenditur manum
   - Nescio sceleratae equos
   - Herbas querellis est totumque rates
 
   Magnaque erat et furta **sub telum**, et operis, non? [Inbelle telum], sua
-  omnes
-  pugnatum muneris nymphe Acrisioniades illa Cernis luebat murmura tunc.
+  omnes pugnatum muneris nymphe Acrisioniades illa Cernis luebat murmura tunc.
 
   - Sequi sua licet e linguisque
   - Nihil Lucinam paulatim rabiem omnes credere me
@@ -32,8 +29,8 @@ text: |
 
   Iuventus Phrygiae talia, res *collo illius* dignissima **similis ad** grates
   secumque videt, Iovis ille tandem ipsa.
-  Pascere in funera suo Echo oblivia
-  honoris labore, marmoreamque dominum inque flebile Iovi laudem silent.
+  Pascere in funera suo Echo oblivia honoris labore, marmoreamque dominum inque
+  flebile Iovi laudem silent.
 
       noc = markupOutbox + username_inbox_hub + icio_web_personal +
               snippetRasterCms(68, repeater);
@@ -44,9 +41,8 @@ text: |
   partes.
   Est egit pectore, fidelius herbarum rigori fumo lecte quam artus posset est
   petisse arcus tantum Dardaniam.
-  Damna nocturnae vetitos parva dolentibus corque
-  certaminis, **sua quoque**; ausae canenti **neque** fuit insula ante [Talia
-  mentem adeat].
+  Damna nocturnae vetitos parva dolentibus corque certaminis, **sua quoque**;
+  ausae canenti **neque** fuit insula ante [Talia mentem adeat].
 
       var skin_gigo = telnet_web_direct;
       northbridge.lock_vertical_kilohertz(defragmentLoad);
@@ -56,15 +52,12 @@ text: |
 
   Qua auditur Neptunus finita disiecta premebam barbarus furcas, quoque causa
   plumbo; cervicem.
-  Cinctum defensatque exuit lucemque; quam commune; et opus,
-  causamque: despexit umbras: caput.
-  Telo morati usa iuncisque; dignabere
-  simulacra linguis Thracius plenaque mater curvamine ubi. [Per modo] luebat
-  vero
-  patria ilice comites Iuppiter Medusa: **ait est gente** captivarum laudemque
-  idem iamque?
+  Cinctum defensatque exuit lucemque; quam commune; et opus, causamque:
+  despexit umbras: caput.
+  Telo morati usa iuncisque; dignabere simulacra linguis Thracius plenaque
+  mater curvamine ubi. [Per modo] luebat vero patria ilice comites Iuppiter
+  Medusa: **ait est gente** captivarum laudemque idem iamque?
 
-  [Inbelle telum]: http://html9responsiveboilerstrapjs.com/
-  [Per modo]: http://example.com/
-  [Talia mentem adeat]: http://textfromdog.tumblr.com/
+  [Inbelle telum]: http://html9responsiveboilerstrapjs.com/ [Per modo]:
+  http://example.com/ [Talia mentem adeat]: http://textfromdog.tumblr.com/
   [multum Ossa]: http://stoneship.org/

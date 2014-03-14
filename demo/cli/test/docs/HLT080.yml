@@ -1,17 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR088
+- HLR100
 normative: true
 ref: ''
 text: |
   **Lorem** markdownum superabit potuit; et signa tellurem.
-  Amet qua sonat
-  ferarum, concubitus liquores tu imitata decus, dea.
-  Interdum metu nam. *Iuventae
-  admonuisse* novum intraverat penates Aeacide serpens recingor quam ecquid
-  gravis
-  consumpserat.
+  Amet qua sonat ferarum, concubitus liquores tu imitata decus, dea.
+  Interdum metu nam. *Iuventae admonuisse* novum intraverat penates Aeacide
+  serpens recingor quam ecquid gravis consumpserat.
 
   - Praecipitata relictis perque
   - Contentus lacerum Orphea
@@ -20,10 +19,8 @@ text: |
   - Longum fatum tamen
 
   Crevit si a decent di contermina de ripam requirit.
-  Inque omnia pietas postquam
-  ausus omnes [victor]. Quas cumque fratrem, fama stupet plenissima nunc
-  monstri
-  eligit.
+  Inque omnia pietas postquam ausus omnes [victor]. Quas cumque fratrem, fama
+  stupet plenissima nunc monstri eligit.
   Miracula virgineo.
 
       if (1 < 4) {
@@ -55,10 +52,8 @@ text: |
   inde.
 
   Inquit retinere tua partes fuit, adventu removebitur virga si et tristi
-  ieiunia
-  postera.
-  Quod auro Psamathen dixit, quatere tamen quid tenues, sumpta ut neque,
-  suus.
+  ieiunia postera.
+  Quod auro Psamathen dixit, quatere tamen quid tenues, sumpta ut neque, suus.
   Quae Paean sepulcro saepe: modo, cognatas Oenopiam hominem oscula.
 
   1. Mille limus Horae
@@ -66,11 +61,10 @@ text: |
   3. Nomina crudeles temptemus duorum ut tibi et
 
   Fraude *molli flammamque* patruo, per et fert morsa portus.
-  Mihi sidera urbe
-  senectam sua spectata nata!
-  Arces flavusque dei viribus clamore vertuntur nimia
-  Danais, boum quos neu, atque colles centum.
-  Petit multa potest virgo nam solent
-  ite Tellus rerum Hippotadaeque fovit desertaque quoniam.
+  Mihi sidera urbe senectam sua spectata nata!
+  Arces flavusque dei viribus clamore vertuntur nimia Danais, boum quos neu,
+  atque colles centum.
+  Petit multa potest virgo nam solent ite Tellus rerum Hippotadaeque fovit
+  desertaque quoniam.
 
   [victor]: http://seenly.com/

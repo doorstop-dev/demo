@@ -1,47 +1,43 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR037
+- LLR098
+- LLR177
+- LLR185
 normative: true
 ref: ''
 text: |
   Lorem *markdownum fine* non tenet, cum rursusque fuit calidis Troiae, freta
   matri inquit, saepe nives tellus.
-  Truncos se ferrum nebulas discite; qui
-  **diffudit** vocatur eadem agitant.
-  Subitus Naides, ne heu doluisse populo
-  ferebat, *quid sub o* faciem rapidi innumeris.
-  Aras correptus fundit in finita
-  deserat, recanduit sit [auxiliare] Byblis septemflua.
+  Truncos se ferrum nebulas discite; qui **diffudit** vocatur eadem agitant.
+  Subitus Naides, ne heu doluisse populo ferebat, *quid sub o* faciem rapidi
+  innumeris.
+  Aras correptus fundit in finita deserat, recanduit sit [auxiliare] Byblis
+  septemflua.
 
   Deam erat induitur, saevit ora verus et corpora non.
-  Faveas paludibus est
-  gratare moenibus tenet ante abesse, in nec Tirynthius en inpius.
+  Faveas paludibus est gratare moenibus tenet ante abesse, in nec Tirynthius en
+  inpius.
 
   Arvo in membris nomine, [metu legeret] rustica.
-  Inplevit famulosque silva
-  **canosque spectat**: facitote fide potenti: peti vellet, in simul adest
-  curvum,
-  nequiquam.
+  Inplevit famulosque silva **canosque spectat**: facitote fide potenti: peti
+  vellet, in simul adest curvum, nequiquam.
 
   Isto lacrimis o vulnera dixit amores credo; nupta dux, mea Actaeon virili.
-  Puer
-  terras in secuti turaque, locus acto gramen generosior iam.
-  Pennae ianua,
-  **luce** suorum obstrepuere hinc auctor contraque procul sacra cui adunca cui
-  concussit litore spatioso!
-  Est orbem agmine ovantem **lacteus Iuno** harundine
-  et petit et.
+  Puer terras in secuti turaque, locus acto gramen generosior iam.
+  Pennae ianua, **luce** suorum obstrepuere hinc auctor contraque procul sacra
+  cui adunca cui concussit litore spatioso!
+  Est orbem agmine ovantem **lacteus Iuno** harundine et petit et.
 
   Ratis obvertit **virisque** attonitusque munus dicique brevis; cultor ecce,
   victoremque nati. **Mugitibus et** iuro notabilis auditas, ferebat, squamosos
   hic invida antra *silvestre*, nullo.
-  Viros convivia bellum **et auguris**
-  placidi **pariterque** tu vino miserrima ut Cadmi.
-  De arcus sederunt sensim;
-  aequora tela tristis signataque orbem Liberfemineae sono ignavi illa tanta
-  *et*
-  factum.
+  Viros convivia bellum **et auguris** placidi **pariterque** tu vino miserrima
+  ut Cadmi.
+  De arcus sederunt sensim; aequora tela tristis signataque orbem Liberfemineae
+  sono ignavi illa tanta *et* factum.
 
       http /= start.domainIntellectual(5 / ssd_iteration_mca,
   encryption(331471,
@@ -67,12 +63,10 @@ text: |
       }
 
   Acri potius moribunda comantem aut dure sibila; sumit virtus pascat.
-  Ferali apta
-  unde credis ad fluidove magis, scelus fama per tamen spectat tyranni elicuere
-  procul ille.
-  Bellicus dicitur fugam iaculum conscia aede concussit si Iapeto
-  omnis lammina lentae, solidum.
+  Ferali apta unde credis ad fluidove magis, scelus fama per tamen spectat
+  tyranni elicuere procul ille.
+  Bellicus dicitur fugam iaculum conscia aede concussit si Iapeto omnis lammina
+  lentae, solidum.
   Pulcherrimus longo per velamina mihi!
 
-  [auxiliare]: http://seenly.com/
-  [metu legeret]: http://jaspervdj.be/
+  [auxiliare]: http://seenly.com/ [metu legeret]: http://jaspervdj.be/

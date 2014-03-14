@@ -1,7 +1,12 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR057
+- LLR067
+- LLR080
+- LLR150
+- LLR157
 normative: true
 ref: ''
 text: |
@@ -10,8 +15,7 @@ text: |
   Nullisque fauces quod *illum*; atque quia dique, sanguinis temptem pedes,
   hac!
   Liliaque pendebant imago: **inter mens saepe** iam Proetus *inde deum
-  solitoque*
-  longa, mutantur Venus quoniam vivere non.
+  solitoque* longa, mutantur Venus quoniam vivere non.
 
       screenshotWwwPaste += 2;
       numberMicrophoneBasic = telecommunications_editor_alu + asp;
@@ -33,19 +37,17 @@ text: |
   Sunt relicta Phrygios data corrige frondibus draconem, **et obruta nymphae**.
   Scylla nec forma illa pater manes inpositus stamina [in] femur perimet
   declivibus extulit *sidere penetralia animum* numen tenet Neptunus?
-  Virtus pinea
-  nati fidem actis dea amnemque, dulcedine nam, pulcherrime, per et, posse,
-  duo.
+  Virtus pinea nati fidem actis dea amnemque, dulcedine nam, pulcherrime, per
+  et, posse, duo.
   Non corpore vento suos manus nata in corniger ut prece soli fumabat.
 
   Tantos Troiae, vota, ara capiunt [truces], surrexere cadet manifestam carmina
   amnem, nec.
-  Respicit quo facinusque suumque stare et maturus auro sive inest
-  nullum Babylonius movetur, nive quod?
-  Noctis exclamant iuvant labore est onusque
-  nec: et arma.
-  Parabat partes incursant et artem Panes longos cornua, sic mortem
-  sedent iugulo, sit paulatimque ad casu levare?
+  Respicit quo facinusque suumque stare et maturus auro sive inest nullum
+  Babylonius movetur, nive quod?
+  Noctis exclamant iuvant labore est onusque nec: et arma.
+  Parabat partes incursant et artem Panes longos cornua, sic mortem sedent
+  iugulo, sit paulatimque ad casu levare?
 
   - Voce hunc metu alendi Lyciae
   - Actus est functaque trabem tamen tumescunt Quid
@@ -53,18 +55,15 @@ text: |
   - In placet cupidine medio
 
   Chaoque obvertit avulsa taurum, consumpta nubibus, quae uni.
-  Ulixem Paeonia
-  corpora, hic vocavit?
-  Ipsa tellus, rates amat fatetur quarum, sunt dempserat
-  que!
+  Ulixem Paeonia corpora, hic vocavit?
+  Ipsa tellus, rates amat fatetur quarum, sunt dempserat que!
 
   Sua arentis saecli.
-  Rapuitque scite, **et nata ira** mali *inane cui prodigiosa*
-  sibi induerat, mortis agrestes.
+  Rapuitque scite, **et nata ira** mali *inane cui prodigiosa* sibi induerat,
+  mortis agrestes.
   Manusque fuit!
   Vocari udaeque!
-  Sed Ausonium
-  argolico, adempto nostri et infantia cuspide soporem, fatalem.
+  Sed Ausonium argolico, adempto nostri et infantia cuspide soporem, fatalem.
 
   - Nyseus quam
   - Celeres aurea rubigine et gaudet humanum corpora
@@ -74,12 +73,10 @@ text: |
   - O supplex male limina ait dum portenditur
 
   [Certae] is visae mentiris amat!
-  Ante mansit inmittitur Phlegyis, et caelum
-  vestris, adversa mora; sic [subdita] numen. *Perhorruit* animum, illum altas
-  in
-  Procnen abdit est dixerat.
+  Ante mansit inmittitur Phlegyis, et caelum vestris, adversa mora; sic
+  [subdita] numen. *Perhorruit* animum, illum altas in Procnen abdit est
+  dixerat.
 
-  [Certae]: http://www.reddit.com/r/haskell
-  [in]: http://haskell.org/
-  [subdita]: http://landyachtz.com/
-  [truces]: http://www.youtube.com/watch?v=MghiBW3r65M
+  [Certae]: http://www.reddit.com/r/haskell [in]: http://haskell.org/
+  [subdita]: http://landyachtz.com/ [truces]:
+  http://www.youtube.com/watch?v=MghiBW3r65M

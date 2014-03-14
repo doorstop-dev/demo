@@ -1,13 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR025
+- LLR168
+- LLR180
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum et longius recuset semper quereretur mihi adspice:
-  furta
-  flumina, has sub illas frigore.
+  furta flumina, has sub illas frigore.
   Aeque nam.
 
       cdmaLifo += radcab.smart(cyberspace);
@@ -27,12 +29,10 @@ text: |
       safeClient.pitch(cCloud, memory);
 
   Ullum loci tenet cumque umbrae sonum tegit Hectora, unus fer habuit.
-  An aevum
-  speciosoque atque revocare, fatus vale: **mendosa sit verba** cum figurae;
-  [in
-  erat] gramineo.
-  Tristis a est, non gemitus nomine coma tandem, mox Io saecula
-  corpora et posses.
+  An aevum speciosoque atque revocare, fatus vale: **mendosa sit verba** cum
+  figurae; [in erat] gramineo.
+  Tristis a est, non gemitus nomine coma tandem, mox Io saecula corpora et
+  posses.
 
   Rebus qua virum Haemonia rictus auctaque bustum te fugit consilii in arcus.
   Venisset est scindit vixque; dea nostri patuit ad posita fontis utraque
@@ -61,8 +61,7 @@ text: |
   formasque amplexas meritis.
 
   Philomela mortalis comes per: ut facta verterat: aut illud venatibus et
-  dubiam
-  calido.
+  dubiam calido.
   Ferro mihi eundem pleno **erat**, fallente esset; tellus.
 
   [in erat]: http://stoneship.org/

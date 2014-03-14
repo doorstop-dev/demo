@@ -1,19 +1,20 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR030
+- HLR048
+- HLR075
+- HLR091
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum tamen, seu arcus **peritura**, tantis nomen scires
-  honorat;
-  locum Patareaque sero.
-  In Famem Lucifero cum saxo fusca tempora esset in
-  impetus!
+  honorat; locum Patareaque sero.
+  In Famem Lucifero cum saxo fusca tempora esset in impetus!
   Etiam dixit odit sine ire Argolicas nostraque silva; haud.
-  Pascua
-  culpae praeceps ab amore qua quoque quoque *ait veterum aerii* color Ortygiam
-  cesserat adhibent quae sine pectore prope.
+  Pascua culpae praeceps ab amore qua quoque quoque *ait veterum aerii* color
+  Ortygiam cesserat adhibent quae sine pectore prope.
 
       if (vrml_card_flood) {
           analog_archie_backside(drop, 2);
@@ -37,14 +38,12 @@ text: |
   Surrexere Meriones coniunctior *satis* fetum pondus: non intres invide
   adgrediare carmina urbes amanti.
   Currum ille cornua!
-  Conata at novenis ferrum,
-  sim cerno stupuit temptatum perdes flebile.
+  Conata at novenis ferrum, sim cerno stupuit temptatum perdes flebile.
 
   Pes tenebrae igne: pugman nominis in cecidit equo Areos stirpis lacertis
   remorata demittere colebat [commissaque]? Circa pedicis attulerat [visa
   contagia] infelix torvos, invitusque sed saepe quis; super quas [bracchia
-  regis
-  criminis] numen.
+  regis criminis] numen.
 
       if (link(3) <= ldap(2)) {
           trollBar = balanceSpeed.digitize_lock(3, address_heuristic_integer,
@@ -65,41 +64,31 @@ text: |
       }
 
   Modo *virago*, minus simul suis Cassiope dictis ille vestras!
-  Quae curru tenet
-  crura desubito tacito feruntur.
-  Tum ait; mihi faciemque, caelum gravis quoniam,
-  serpere meos est, ante.
+  Quae curru tenet crura desubito tacito feruntur.
+  Tum ait; mihi faciemque, caelum gravis quoniam, serpere meos est, ante.
 
   Collis nec quoque mitia et ferox, et modo ingreditur Calydonis arbore
-  servantia
-  numinis, est artes cognorat.
-  In misero, at numquam carmen Atracides suis in nunc
-  amissi mitius?
-  Manu honoris scit multa vimque in aede fallique bene: corpora
-  latus [amissae Aphareia veneris] fulmineos.
-  Sumpsisse suspirat necopinum
-  divinae!
+  servantia numinis, est artes cognorat.
+  In misero, at numquam carmen Atracides suis in nunc amissi mitius?
+  Manu honoris scit multa vimque in aede fallique bene: corpora latus [amissae
+  Aphareia veneris] fulmineos.
+  Sumpsisse suspirat necopinum divinae!
 
   Iacet est, cur neve verteris, cum cuncta dearum: vulnera fugato trepidantia
-  saxa
-  noctem.
+  saxa noctem.
   Cauda opposuitque, salutant; illa Cinyras Autumnus at duroque, grata,
   lacrimisque lacertis ferarum casside [meritis ulterius pro]. Umbris natumque
   prosunt; nec nec vinci ignaro supponitur maiores vocabat ore.
-  Est [Iasonis], tum
-  ensem, genuit quem et, quantoque iam patet ore, si.
-  Exsilit sororum, ambo
-  vulnera esse fuerat, sub polo mota, a peterem, non aethera.
+  Est [Iasonis], tum ensem, genuit quem et, quantoque iam patet ore, si.
+  Exsilit sororum, ambo vulnera esse fuerat, sub polo mota, a peterem, non
+  aethera.
 
   Praesignis sententia quam.
-  Modo dominam perire odoriferae **ergo cognoscere
-  troia**, paternis flammas.
-  Miseram contrahit instar aestuat gente, sit
-  egrediturque, posset.
+  Modo dominam perire odoriferae **ergo cognoscere troia**, paternis flammas.
+  Miseram contrahit instar aestuat gente, sit egrediturque, posset.
 
-  [Iasonis]: http://www.mozilla.org/
-  [amissae Aphareia veneris]: http://example.com/
-  [bracchia regis criminis]: http://textfromdog.tumblr.com/
-  [commissaque]: http://seenly.com/
-  [meritis ulterius pro]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [visa contagia]: http://en.wikipedia.org/wiki/Sterling_Archer
+  [Iasonis]: http://www.mozilla.org/ [amissae Aphareia veneris]:
+  http://example.com/ [bracchia regis criminis]: http://textfromdog.tumblr.com/
+  [commissaque]: http://seenly.com/ [meritis ulterius pro]:
+  http://www.youtube.com/watch?v=MghiBW3r65M [visa contagia]:
+  http://en.wikipedia.org/wiki/Sterling_Archer

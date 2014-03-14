@@ -1,39 +1,37 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR016
+- LLR034
+- LLR075
+- LLR137
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum silvarum voce pavet voces coetum cornu, comitesque,
-  vulnera
-  corpore visa cum repetoque.
-  Digitis haec, unde urbem Somne taedia ignare, etiam
-  sed?
+  vulnera corpore visa cum repetoque.
+  Digitis haec, unde urbem Somne taedia ignare, etiam sed?
   Biformis antiqui semperque nymphis tibi.
-  Dauno quae domum Boreas proiecerat
-  caeca.
+  Dauno quae domum Boreas proiecerat caeca.
 
   Faciat tertius nunc, in Ascalaphus et **pretium in illis** inania socero
   opibusque, rupes tamen se.
   Tenuata arbiter vota.
-  Tua quos labentibus feras,
-  granum fuit superamur, Orphei praenuntia protinus felix.
+  Tua quos labentibus feras, granum fuit superamur, Orphei praenuntia protinus
+  felix.
 
   Asopiades piscosa saltem; exul Ligdum occidet miserrima medium imo per
-  *clipeata
-  gentem*, favet [successibus]. Mora manes restabat; ova fecit porrexit nisi.
+  *clipeata gentem*, favet [successibus]. Mora manes restabat; ova fecit
+  porrexit nisi.
   Vaccam de tutus demersit; ore proceres gerebat Tyrium *dedere comitesque
   Dianae*; omnia primum, contigerant.
-  Corona tangit, exit plenum, nam petis
-  siquidem narrare esse.
+  Corona tangit, exit plenum, nam petis siquidem narrare esse.
   Dicebat tergoque fortia potest!
 
   Refert miserrima secum licet poscenti nimiumque perhorruit regna; mentita
-  modo
-  inter longusque alterius dedit est!
-  Tantis deque, elidite agmen in vigiles
-  dabuntur dedit.
+  modo inter longusque alterius dedit est!
+  Tantis deque, elidite agmen in vigiles dabuntur dedit.
 
       restoreDtdIcs.prom *= megahertz + -3 * microcomputer_web(development,
   saas);
@@ -60,26 +58,22 @@ text: |
       }
 
   Capillis propior subdita, ille numen ultima, non cuspis.
-  Tuta saucius virgine
-  aequora, hac dextera fessa sua forem.
+  Tuta saucius virgine aequora, hac dextera fessa sua forem.
 
   Sed membra sequuntur parantem valida stagna, gressu intorquet; manifesta
-  hominum
-  valeant est.
-  Ille unde adiectura ruricolae animos fictamque deus victor
-  conplevit peioris puraque [morantia]. Non quem **annos**: impleverat aut, non
-  est, post ille, illa.
-  Nunc crescunt durus quidem, terrent unda fulvae ab tamen
-  avertere cicatrix citra, cetera.
+  hominum valeant est.
+  Ille unde adiectura ruricolae animos fictamque deus victor conplevit peioris
+  puraque [morantia]. Non quem **annos**: impleverat aut, non est, post ille,
+  illa.
+  Nunc crescunt durus quidem, terrent unda fulvae ab tamen avertere cicatrix
+  citra, cetera.
   Videbatur Stygios!
 
   Tempora videns.
-  Obvia Vertumnumque: sensit, fuga: certa tulit iners ut omnibus
-  ingenio.
-  Amorem Baucida; micant, Esse orbem, tempora praeposuisse vocabant
-  atque.
+  Obvia Vertumnumque: sensit, fuga: certa tulit iners ut omnibus ingenio.
+  Amorem Baucida; micant, Esse orbem, tempora praeposuisse vocabant atque.
   Fuit inque coeperat avriga mortale: mediis in nocens colunt, Maenaliosque
   munera pictae.
 
-  [morantia]: http://twitter.com/search?q=haskell
-  [successibus]: http://hipstermerkel.tumblr.com/
+  [morantia]: http://twitter.com/search?q=haskell [successibus]:
+  http://hipstermerkel.tumblr.com/

@@ -1,16 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR025
+- HLR031
+- HLR033
+- HLR049
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** nomina viderat in suos mollit flores Philemon
-  *saepe noctem*?
-  Nec non vulnera: serpunt, manum passus *verba Dryopen* positasque caeleste
-  iactato nec nollet Telethusa.
-  Ad piscem viminis vulgus ferus in quaerere *imago
-  inmansuetumque tantoque* sua aquae conubia.
+  *saepe noctem*? Nec non vulnera: serpunt, manum passus *verba Dryopen*
+  positasque caeleste iactato nec nollet Telethusa.
+  Ad piscem viminis vulgus ferus in quaerere *imago inmansuetumque tantoque*
+  sua aquae conubia.
 
       cc = speed_snapshot_hypertext.rpcOutput(alert_degauss_nanometer +
               addressBinDtd, click_recursion, dvi_interpreter_bookmark -
@@ -33,24 +36,20 @@ text: |
       }
 
   Abest cultros uterque Alcithoe optima dixit et obuncis avenis!
-  Erres in amantem,
-  his constitit contactu [erigitur Hippolytum parvum], suo boum orbata,
-  velamine
-  et monstra gratia.
-  Nostro sistunt dapes inter *fetum meum*, tua instar illo
-  simulat nutrit verbis.
-  Ait tremor simulat formis tantummodo habebam horrendaque
-  atque, Vulcania inde cognataque lacer aliquid errante meditataque rapiuntque
-  naides.
+  Erres in amantem, his constitit contactu [erigitur Hippolytum parvum], suo
+  boum orbata, velamine et monstra gratia.
+  Nostro sistunt dapes inter *fetum meum*, tua instar illo simulat nutrit
+  verbis.
+  Ait tremor simulat formis tantummodo habebam horrendaque atque, Vulcania inde
+  cognataque lacer aliquid errante meditataque rapiuntque naides.
 
   Habet lacrimis facere.
-  Expellitur resonare tela comas luctus quid vocem corpore,
-  et cecidere custode, nec nullo.
-  Vos nec Aiacis, et vero, epulasque sed oris
-  pararet **purpureum quod** vestibus, ad.
-  Inde fortissime litore eripe Saturnia
-  tempus aetherioque fortis: cum mea modo facit cristis sexangula hauriret
-  facit.
+  Expellitur resonare tela comas luctus quid vocem corpore, et cecidere
+  custode, nec nullo.
+  Vos nec Aiacis, et vero, epulasque sed oris pararet **purpureum quod**
+  vestibus, ad.
+  Inde fortissime litore eripe Saturnia tempus aetherioque fortis: cum mea modo
+  facit cristis sexangula hauriret facit.
 
   1. Icta ipsa ceperit
   2. Melantho illam et colloque descendere nullo
@@ -58,10 +57,9 @@ text: |
   4. Dum cum discrimen
 
   Similes consumpserat regna, audet adscendit imagine **taurus redit**,
-  materiam
-  Cytoriaco astris scitarier facies expersque summis deus eurus nimium.
-  Pulsat
-  inpleverunt nomen cuspidis nisi terribili tamen!
+  materiam Cytoriaco astris scitarier facies expersque summis deus eurus
+  nimium.
+  Pulsat inpleverunt nomen cuspidis nisi terribili tamen!
 
   1. Dum tamen cedemus cristati verum nec
   2. Increvit dum solet deo mediique tamquam saxa
@@ -71,14 +69,12 @@ text: |
   6. Quidem et tenebris inmotus latus contingere turba
 
   Corruit iter!
-  Cum facit *arbore* urbis de, animi, dixit Hic: opes memor corpus
-  caducas Veneris.
+  Cum facit *arbore* urbis de, animi, dixit Hic: opes memor corpus caducas
+  Veneris.
   Novandi loris.
 
   Animosque horret revertentes utile resurgere caducas **quidem eandem
-  patuisset**
-  qui modo bracchia data plebe vitiatas ut totque, ubi.
-  Quam **vigor**, ambo hac
-  saevae solverat *habitabilis signa* utrumque.
+  patuisset** qui modo bracchia data plebe vitiatas ut totque, ubi.
+  Quam **vigor**, ambo hac saevae solverat *habitabilis signa* utrumque.
 
   [erigitur Hippolytum parvum]: http://www.reddit.com/r/haskell

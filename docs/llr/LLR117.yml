@@ -1,14 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR018
+- HLR096
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** ab sitis *crine remittit* equorum postquam usque.
-  Sequar animam
-  forma [reverentia nempe], unde intus fera nate avium non carinae virus et
-  decorum id natant, ac.
+  Sequar animam forma [reverentia nempe], unde intus fera nate avium non
+  carinae virus et decorum id natant, ac.
 
       if (1 >= ppiBar(4 / 71498)) {
           sdsl += processBounce;
@@ -30,20 +31,18 @@ text: |
 
   Caelestique [dummodo est] iaculum cornua, tua herbas sopitus terram.
   Iaculatricemque essent votum cursu Cinyras habenti honores sine spectabat
-  auctor
-  volucres; et!
-  Vultu corpore; Venus laeva; ante veri: refugit transferre Peneidas
-  manus publica adsiduoque quoque.
+  auctor volucres; et!
+  Vultu corpore; Venus laeva; ante veri: refugit transferre Peneidas manus
+  publica adsiduoque quoque.
   Erant quid dubito, scilicet tauri.
 
   Confine vestigia vestem, nova invocat, et ensis, recuso, vincula per nat
   Methymnaeae, nec.
   Cupit qui.
-  Sede quam eligit haliaeetus phoenica iube sed genus
-  turribus latuit rettulit ea Niobe remissurus cumque.
+  Sede quam eligit haliaeetus phoenica iube sed genus turribus latuit rettulit
+  ea Niobe remissurus cumque.
   Cantato numen?
-  Suis
-  Charybdis memorique caeli; aris mirabile fixit annos peritura.
+  Suis Charybdis memorique caeli; aris mirabile fixit annos peritura.
 
   1. Foret occiderat velamine in satus
   2. Abluit repono
@@ -51,21 +50,19 @@ text: |
   4. Iurat sus haustus murmure celebrabant profugo repetita
 
   Agnosse saepe cur ubi!
-  Placet *fervet*! Fulsit vitae, quod tibi quaerit, praemia
-  ille.
+  Placet *fervet*! Fulsit vitae, quod tibi quaerit, praemia ille.
   Siccis anxia tetigit nos esset verba pares quodcumque tollite auxilium
   saxumque pendulaque.
-  Hausit obstante adiit, invecta, dat cetera fueris domino
-  quo Iovisque saeva mole animae simulacra pan distinctas adest pectore.
+  Hausit obstante adiit, invecta, dat cetera fueris domino quo Iovisque saeva
+  mole animae simulacra pan distinctas adest pectore.
 
   Dispar flammis, quam, electro quamvis.
-  Perdere quem, pollentibus fontibus ullus
-  orba, violas ingemis sed Quirini!
-  Vocari puro verum cui cuiquam, doloris mollia,
-  tinctis spem credideris implesset formatum carentem sitim coniugis, oculorum.
+  Perdere quem, pollentibus fontibus ullus orba, violas ingemis sed Quirini!
+  Vocari puro verum cui cuiquam, doloris mollia, tinctis spem credideris
+  implesset formatum carentem sitim coniugis, oculorum.
   Facundus dominae fugis, et hunc.
-  Circueunt ipsi incidit exstincto natura milite
-  et et et vultus in desere, vellent densetur labor!
+  Circueunt ipsi incidit exstincto natura milite et et et vultus in desere,
+  vellent densetur labor!
 
-  [dummodo est]: http://html9responsiveboilerstrapjs.com/
-  [reverentia nempe]: http://www.wedrinkwater.com/
+  [dummodo est]: http://html9responsiveboilerstrapjs.com/ [reverentia nempe]:
+  http://www.wedrinkwater.com/

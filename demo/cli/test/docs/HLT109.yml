@@ -1,7 +1,12 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR010
+- HLR011
+- HLR032
+- HLR054
+- HLR063
 normative: true
 ref: ''
 text: |
@@ -12,14 +17,12 @@ text: |
   Nemorum verba non Herculeamque, video subitarum novorum detrahitur: accede
   suspiria!
   Sumere venerat *maxima momentaque* voveas loca utilis.
-  Hoc raptam,
-  non, nec potente prohibentque harundine fratrem.
-  Cupit contingere adfixa nidis
-  haut tibi porrigeret marinas tu vero Hyadasque Semele clipeus.
+  Hoc raptam, non, nec potente prohibentque harundine fratrem.
+  Cupit contingere adfixa nidis haut tibi porrigeret marinas tu vero Hyadasque
+  Semele clipeus.
 
   Et in odiis misistis, tam inquit, veneni grave, omnis hanc factum,
-  *discrimina*
-  vix?
+  *discrimina* vix?
   Repercussae conprensam undis ad ad prompsit labor.
 
   Ex serta se hunc viscera videri squalentia hunc lumina animoque et facinus
@@ -39,18 +42,16 @@ text: |
   Aeoliden esse lustrat.
 
   Deus notum patriae.
-  Summo et exuit trahebat infelix [utque essent] Pergama erat
-  tempore.
+  Summo et exuit trahebat infelix [utque essent] Pergama erat tempore.
   Ne et trunci gurges aberat, lacertos omnia filia vox, teli, illa modo
   Phrygios!
   Utque cornua cum vero timeas multi: guttura Bubasides illa.
 
   Potest Cupidinis; hamis querellae telum Coronida demptos.
-  Genetricis repleri
-  videtque simul.
-  Conprensam *fertur volantes spem* viro fessos effetus alios sui
-  Hymenaee elisi igne.
+  Genetricis repleri videtque simul.
+  Conprensam *fertur volantes spem* viro fessos effetus alios sui Hymenaee
+  elisi igne.
 
-  [Obruerat]: http://heeeeeeeey.com/
-  [molles graviore arae]: http://kimjongunlookingatthings.tumblr.com/
-  [utque essent]: http://example.com/
+  [Obruerat]: http://heeeeeeeey.com/ [molles graviore arae]:
+  http://kimjongunlookingatthings.tumblr.com/ [utque essent]:
+  http://example.com/

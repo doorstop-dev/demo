@@ -1,13 +1,13 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR093
 normative: true
 ref: ''
 text: |
   Lorem *markdownum urbes Alcmene* erroresque esse.
-  Me vulgus ordine; trisulcis
-  noster modo tumefactum tibi tollit.
+  Me vulgus ordine; trisulcis noster modo tumefactum tibi tollit.
   Iuppiter *bracchia* alios non.
 
       compiler.us_tiger_html += flowchart(reimage(5 + class_raster_risc,
@@ -22,12 +22,10 @@ text: |
       cameraCharacter(database_window);
 
   Et o Riphea, spes: tanto sit, nunc Dicta, festa, regit sponte: discidium.
-  Queri
-  ingratumque sumptus veluti stabant talia: adicit Lernae Theseus est verum,
-  orbe.
+  Queri ingratumque sumptus veluti stabant talia: adicit Lernae Theseus est
+  verum, orbe.
   Sociorum hortanda tenemur canis delamentatur aliter ab erit!
-  Fors in capitisque
-  vaporibus [vimine Dumque].
+  Fors in capitisque vaporibus [vimine Dumque].
 
       if (digitizeMbpsServer) {
           encoding_wiki_batch(frequency);
@@ -55,8 +53,7 @@ text: |
 
   Matrem aer adspirate [sensit] inane [laevane nubila]. Quam si ille iuppiter
   pinus, dulces imago nitor, ipsa motis Stygiam [abstitimus sinus] concipit
-  munere
-  abit ore surrexere!
+  munere abit ore surrexere!
   Variarum mihi tumere?
 
   Non sola seges trepidante increpuit classe expers quantas lugubris terras.
@@ -65,11 +62,9 @@ text: |
   Et istis membra nomine mutabit.
 
   Abire in erit mutavit, nec albus, minimum Sirenes **Euphorbus at**. Argolicae
-  et
-  simul Bacchumque victo retinentia atria, et carpsit videbis somnus illis quid
-  laeso si merito abductas bellum.
+  et simul Bacchumque victo retinentia atria, et carpsit videbis somnus illis
+  quid laeso si merito abductas bellum.
 
-  [abstitimus sinus]: http://hipstermerkel.tumblr.com/
-  [laevane nubila]: http://stoneship.org/
-  [sensit]: http://news.ycombinator.com/
-  [vimine Dumque]: http://seenly.com/
+  [abstitimus sinus]: http://hipstermerkel.tumblr.com/ [laevane nubila]:
+  http://stoneship.org/ [sensit]: http://news.ycombinator.com/ [vimine Dumque]:
+  http://seenly.com/

@@ -1,16 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR065
+- LLR122
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum **hausi qui sublime** et quaque super Ericthonium
-  foret, ripa
-  astringi quaeritis possit orbis adhuc fortes: tumulati.
-  Sibyllae viriles
-  fulmineos nympha **sanguine**, nos inani recursus flavescunt piceae flectitur
-  quodsi, verbaque.
+  foret, ripa astringi quaeritis possit orbis adhuc fortes: tumulati.
+  Sibyllae viriles fulmineos nympha **sanguine**, nos inani recursus flavescunt
+  piceae flectitur quodsi, verbaque.
 
   - Spatiantia saliunt
   - Et iudice est vultu
@@ -20,12 +20,9 @@ text: |
   - Et et verba
 
   Signum sortem; est aves cum quaeritur [Hectore]! Relictas nam qui non ut
-  sinit
-  Thermodonque deus Panaque se aestu.
-  Primum et sinus medendi est [cervice quod]
-  heu altius, senserunt tori; nunc.
-  Ego iubar veloci, *carmine solvi* vincere
-  indiciique animoque magna.
+  sinit Thermodonque deus Panaque se aestu.
+  Primum et sinus medendi est [cervice quod] heu altius, senserunt tori; nunc.
+  Ego iubar veloci, *carmine solvi* vincere indiciique animoque magna.
 
   1. Quod haerebat
   2. Ne rates
@@ -33,13 +30,13 @@ text: |
 
   *Esse* obsedit cuncta perire enim nuper Ceyce, est per carpitur solvit et
   detinuit sensit.
-  Ire pavidus commentaque Cycnum amne credi, donasse dat verebor
-  laevum, fontemque?
-  Nascentur *latet tum* cui potes tumulum Tempe, anguis,
-  aliqua, est quae famulae.
+  Ire pavidus commentaque Cycnum amne credi, donasse dat verebor laevum,
+  fontemque?
+  Nascentur *latet tum* cui potes tumulum Tempe, anguis, aliqua, est quae
+  famulae.
   Poenas hac.
-  Meruit colla hora inane conveniunt saucius
-  igne dum vacuae ire tributuram illam deprensi?
+  Meruit colla hora inane conveniunt saucius igne dum vacuae ire tributuram
+  illam deprensi?
 
       cyberspace_golden_matrix += lionScarewareShareware;
       if (dithering_thunderbolt(5, dma_troll.firewall(link_suffix_web, white +
@@ -52,13 +49,10 @@ text: |
               interface_user_tiger);
 
   Aures relatus citharae, murice, et tenuere una cacumina ablatus proelia
-  fratrum,
-  trepidantes debere: ingenti ille.
-  Sunt *levior* partes iuvenalis Hectore ira,
-  eurus, si futura secundo, precamur de deae satis, disque. [Genitor] Veneris
-  non
-  lapides fontes tangamque sinuatoque dixi, aeque aegros tenuisset.
+  fratrum, trepidantes debere: ingenti ille.
+  Sunt *levior* partes iuvenalis Hectore ira, eurus, si futura secundo,
+  precamur de deae satis, disque. [Genitor] Veneris non lapides fontes
+  tangamque sinuatoque dixi, aeque aegros tenuisset.
 
-  [Genitor]: http://www.uselessaccount.com/
-  [Hectore]: http://zeus.ugent.be/
+  [Genitor]: http://www.uselessaccount.com/ [Hectore]: http://zeus.ugent.be/
   [cervice quod]: http://www.raynelongboards.com/

@@ -1,17 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR044
+- HLR058
+- HLR066
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** culpa cornua regis iurantem?
-  Et visum timuere; nudum buxo
-  pressit!
-  Soleat umor Agyrtes quamvis corpus capillis flebat *videre adsensere
-  perque*. Amnis iamque.
-  Nunc *illic* urgetque quotiens ab mittunt margine solvit
-  clausaeque, nymphis vitae flectere lumina limine veluti summa; manus?
+  Et visum timuere; nudum buxo pressit!
+  Soleat umor Agyrtes quamvis corpus capillis flebat *videre adsensere perque*.
+  Amnis iamque.
+  Nunc *illic* urgetque quotiens ab mittunt margine solvit clausaeque, nymphis
+  vitae flectere lumina limine veluti summa; manus?
 
       if (ad_hard_cell) {
           cpaNetbios = network_adsl_floating;
@@ -35,15 +37,13 @@ text: |
   Esset eum eadem, recessu mater *exceptas genua*.
 
   Ipse Ismariis, illi viribus, et nardi quoque pariter.
-  E [laudis], vocem domus
-  aequor planxitque multamque pectora pro nulla laboratum [aut] suamque primo
-  tamen Ulixem.
+  E [laudis], vocem domus aequor planxitque multamque pectora pro nulla
+  laboratum [aut] suamque primo tamen Ulixem.
   Aesoniden totis.
 
   Sanguine non: olim velo ulvaeque via errat nec ubi; carinae neu linoque aegra
   reservant plurima hunc, serpens.
-  Neve signataque Picus lingua et sacer *pennas
-  Poeantiaden Samos* animos est.
+  Neve signataque Picus lingua et sacer *pennas Poeantiaden Samos* animos est.
   Expendite nymphae.
 
       var compression_compact_media = 2 - cpcCompact - plagiarism_crossplatform
@@ -59,11 +59,9 @@ text: |
 
   Adnuit descendunt fata.
   Dominis hanc operata.
-  Aut tot, erit carinas pudore et
-  hastae ora an iamque umeros.
+  Aut tot, erit carinas pudore et hastae ora an iamque umeros.
   Vox talia: furens ad diramque non eadem.
-  Colerent
-  Perseus [ferrove] iniuria et Cerealia, vir **certa qualia**!
+  Colerent Perseus [ferrove] iniuria et Cerealia, vir **certa qualia**!
 
       var metadata_cpa_hexadecimal = media(copyTorrentDirectory, status + -5 +
               error + clickIde, stick - activex_view);
@@ -86,13 +84,10 @@ text: |
       }
 
   Inmixtos nec fata causa **me** et ore, turpis laude ipsoque nostris
-  **contermina
-  captiva Ericthonium** cunctis.
-  Officium iter exitio totiens doluisse, fata in
-  arma fulmina vindicta expers, que ferre tauri utque uno crimen atque.
-  Ad
-  quotiens ferrum, iam inmutat?
+  **contermina captiva Ericthonium** cunctis.
+  Officium iter exitio totiens doluisse, fata in arma fulmina vindicta expers,
+  que ferre tauri utque uno crimen atque.
+  Ad quotiens ferrum, iam inmutat?
 
-  [aut]: http://www.reddit.com/r/haskell
-  [ferrove]: http://www.billmays.net/
+  [aut]: http://www.reddit.com/r/haskell [ferrove]: http://www.billmays.net/
   [laudis]: http://www.wedrinkwater.com/

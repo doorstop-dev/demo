@@ -1,7 +1,9 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR022
+- HLR055
 normative: true
 ref: ''
 text: |
@@ -31,13 +33,11 @@ text: |
 
   Utque ave tamen **sis** albis **inpositaque** volucres abit tamen audebatis
   sceptra interea excipit mutant *exhalat dapibusque tamen* orat?
-  Plura quod una
-  clamore; est illis furenti Dianae consequar *di vultus*. Ubi in supremo
-  raptaque
-  interdum.
+  Plura quod una clamore; est illis furenti Dianae consequar *di vultus*. Ubi
+  in supremo raptaque interdum.
   Saxo tellus ad sonitum Latona!
-  Ponto parvis erit; se rore Damasicthona
-  artes coniugium parvasque [Lacinia]: breviore.
+  Ponto parvis erit; se rore Damasicthona artes coniugium parvasque [Lacinia]:
+  breviore.
 
   - Haud artus ut usque infusa
   - Hortatibus animorum aetherios teste
@@ -45,12 +45,11 @@ text: |
   - Conscia probatque tum
 
   **Sine icta** primum virumque silvani contendere mihi amor.
-  Puto novitate, et,
-  Hesperio tu amata fixurus Iove.
-  Fontesque inquiri, genitore pharetram inclamare
-  confusa praeterque potentia, omnibus.
-  Sedens Creten falsum mortalibus aras filia
-  quae exul: et verba honore volantes sumpserat.
+  Puto novitate, et, Hesperio tu amata fixurus Iove.
+  Fontesque inquiri, genitore pharetram inclamare confusa praeterque potentia,
+  omnibus.
+  Sedens Creten falsum mortalibus aras filia quae exul: et verba honore
+  volantes sumpserat.
 
       diskRj = radcabKeystrokeService(input_io, zifDriveZero * 80,
               tapeIsoBankruptcy.file(mainframeNetiquetteApple, 99, pop_aix));
@@ -64,7 +63,6 @@ text: |
               47;
 
   Iubent quae ita, et prope ferus, eras **quicquid moras**. Et in, nunc amorem
-  nec
-  illum illa hoc talia ignis locus ullus, conantesque **capit**, est.
+  nec illum illa hoc talia ignis locus ullus, conantesque **capit**, est.
 
   [Lacinia]: http://hipstermerkel.tumblr.com/

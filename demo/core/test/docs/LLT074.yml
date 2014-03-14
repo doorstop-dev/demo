@@ -1,32 +1,32 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR092
+- LLR116
+- LLR130
+- LLR162
+- LLR180
 normative: true
 ref: ''
 text: |
   [Verify lorem markdownum] filia adhuc Danais pietas praebet te vivis, te sed.
-  Ora solis
-  tabula tenuit ita fessusque vetustas saepe: laquei [coniunx amoris] lapides:
-  niger nisi erat malis.
+  Ora solis tabula tenuit ita fessusque vetustas saepe: laquei [coniunx amoris]
+  lapides: niger nisi erat malis.
   Adhuc Andromedan cumque famulus.
 
   Et caducas quam una spectans sagitta victa inscius et nequeo ne te
-  **quoque**.
-  Relinquit et artus plura, inquit sonant o vosque Amphitryon isdem.
-  Sacris
-  carens, baculum!
-  Obruta illi dixere hos mox revulsos et puellas quae nos nil:
-  nisi.
+  **quoque**. Relinquit et artus plura, inquit sonant o vosque Amphitryon
+  isdem.
+  Sacris carens, baculum!
+  Obruta illi dixere hos mox revulsos et puellas quae nos nil: nisi.
   Solis in defuit tulit raptusque Famemque auctor ab adspicit Echo.
 
   Suas protulit tolerare singultantem nihil, non exarsit tu quae nec femineo
-  quod
-  dixerat lassata candidaque.
-  Iugales torrentem temptata, iterum flumina repetens
-  admoti limen duplex, fuit vosque, nudum rebus.
-  Vero ceris tamen; iube tamen est
-  posita *accepere* et versat, medio.
+  quod dixerat lassata candidaque.
+  Iugales torrentem temptata, iterum flumina repetens admoti limen duplex, fuit
+  vosque, nudum rebus.
+  Vero ceris tamen; iube tamen est posita *accepere* et versat, medio.
   Face Talia dicebant.
 
   1. Quid hosti est teneas figuras artesque estque
@@ -34,13 +34,11 @@ text: |
   3. Est quantum senior erat est loco tamquam
 
   Illa Cererisque bracchia pronas Prochytenque [parat], templi pater virgine
-  aer
-  *orbe aristis*, cum vires terrae posterior ingredior.
-  Reddidit aere spatio
-  **tardata** longa, incaluisse colubris concidis, fuit rursus.
-  Fueram fuit: ausus
-  arduus quidem, virgo alebat *sitiemus lilia errabat*. Invisosque *pharetras
-  limina*, dieque faticano turbatum media.
+  aer *orbe aristis*, cum vires terrae posterior ingredior.
+  Reddidit aere spatio **tardata** longa, incaluisse colubris concidis, fuit
+  rursus.
+  Fueram fuit: ausus arduus quidem, virgo alebat *sitiemus lilia errabat*.
+  Invisosque *pharetras limina*, dieque faticano turbatum media.
 
   1. Invectae aquarum et adhuc
   2. Quid tam dieque milibus Pelasgae
@@ -61,13 +59,10 @@ text: |
               optical_newbie(xmp, -4));
 
   Spisso caeli quidem forma lumina sorori *procul de* moror remoliri *rediret
-  ecce
-  tauri* aliquo?
+  ecce tauri* aliquo?
   Ripam dictis urbis, habet quos lepus in leae quoque timendo?
   Corneus bracchia lucem!
-  Velocis caro crimen flemus nihil fama nota sunt venerat,
-  ait.
+  Velocis caro crimen flemus nihil fama nota sunt venerat, ait.
 
-  [Lorem markdownum]: http://gifctrl.com/
-  [coniunx amoris]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [parat]: http://imgur.com/
+  [Lorem markdownum]: http://gifctrl.com/ [coniunx amoris]:
+  http://en.wikipedia.org/wiki/Sterling_Archer [parat]: http://imgur.com/

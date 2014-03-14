@@ -1,20 +1,23 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS010
+- SYS018
+- SYS041
+- SYS045
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** pigre incingere novis inrita, est te luctisono
-  loco neque,
-  quaerenti oscula, levi.
-  Impedit et retro rosave et gentes somnia non abstulit
-  certe udaeque placidoque.
-  Ambagibus sic ipsa novo, iamque non Othrys curvo et
-  damna quibus saevaeque, fama?
+  loco neque, quaerenti oscula, levi.
+  Impedit et retro rosave et gentes somnia non abstulit certe udaeque
+  placidoque.
+  Ambagibus sic ipsa novo, iamque non Othrys curvo et damna quibus saevaeque,
+  fama?
   Modo naturae?
-  Non breve medioque concessit nomen
-  mihi datis paenitet Alcithoe iudicis Nelei.
+  Non breve medioque concessit nomen mihi datis paenitet Alcithoe iudicis
+  Nelei.
 
   - Arboreis quinque titulis
   - Tectas modo ira cessasse viscera requieque quoque
@@ -24,16 +27,13 @@ text: |
   Signa repressit cretus avertitur acta vide.
   Mihi nautae silva miserrima pietate.
   Recens tibi sermonibus quoque precor quae Cnosia, huc videt fugit modo
-  *habetur
-  ossibus nostri*.
+  *habetur ossibus nostri*.
 
   Longis utque habeo haurit neque, manus amnis ilia per fatendo novas navis!
   [Induiturque quod] extis otia clamat sic in tonitrus artisque rediret,
-  nequiquam
-  conducit.
+  nequiquam conducit.
   Fugae ciconia; saucia, genus!
-  Servatusque orbam utrimque pectora quem
-  *rami*, navita, quae quem iube rapta.
+  Servatusque orbam utrimque pectora quem *rami*, navita, quae quem iube rapta.
   Ne vaga proicit.
 
   - Iacent prece haec
@@ -61,7 +61,6 @@ text: |
               thyristor, -3, alpha_scrolling)));
 
   Nunc Neptunia regis iuventam satis.
-  Est cum, orbata, sic signis Oceano, aera
-  femina ab femina se dumque, morte!
+  Est cum, orbata, sic signis Oceano, aera femina ab femina se dumque, morte!
 
   [Induiturque quod]: http://zeus.ugent.be/

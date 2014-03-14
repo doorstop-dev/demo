@@ -1,13 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR018
+- LLR069
+- LLR190
+- LLR192
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum plebe.
-  Ter amor; prole aera miserrimus umerus addit Clytiumque
-  haec.
+  Ter amor; prole aera miserrimus umerus addit Clytiumque haec.
   Viam erit Cycladas amor.
 
   - Levi tum tenus poteram fideque gratissime sua
@@ -17,21 +20,17 @@ text: |
   - O culpam pauca ignavos
 
   Suoque silentibus e Cadmus somnos prudens quisquam, magnum, et qua ita
-  tumidarum
-  riget?
+  tumidarum riget?
   At nondum cuspidis frenato repertum iuvatis sublimia exigit ore pati.
   Illa cingens dextra *premens* et et terras nomine septem praebet classe.
-  Voce
-  novo ferre, quem replet subsunt somnique bifurcum castaque inter lacrimasque,
-  obruit colubrae, agimus humo.
+  Voce novo ferre, quem replet subsunt somnique bifurcum castaque inter
+  lacrimasque, obruit colubrae, agimus humo.
 
   Sui vulneribus longi, ferrum **habitare** et quondam Lacedaemoniumque et
-  coniunx
-  negat.
-  Est tibi levibus, quem tellure novissima Delphos, hunc cunctos tuis
-  amnes: Titan est adultera.
-  Ulterius ne fuerint est promissaque gratia, reperta
-  aquae damno.
+  coniunx negat.
+  Est tibi levibus, quem tellure novissima Delphos, hunc cunctos tuis amnes:
+  Titan est adultera.
+  Ulterius ne fuerint est promissaque gratia, reperta aquae damno.
 
   - Ore esse vidit
   - Vincitur quater rogantem quisquam
@@ -44,7 +43,7 @@ text: |
 
   Nec modo incisa et solidumque sarisa vestras me, forma **considerat novissima
   templo** erat quae confundit vosque.
-  Pictas ergo et ingrate haeret dolorque
-  constituit Ixione elige si autumni videoque primum cultor!
-  Helene urbesque qua
-  per propiore sua semper fibra, huc virgine esset praemiaque hunc pressam.
+  Pictas ergo et ingrate haeret dolorque constituit Ixione elige si autumni
+  videoque primum cultor!
+  Helene urbesque qua per propiore sua semper fibra, huc virgine esset
+  praemiaque hunc pressam.

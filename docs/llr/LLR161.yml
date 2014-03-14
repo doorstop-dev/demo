@@ -1,22 +1,22 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR046
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** matertera erat penthea, [aere ordine], abit nec
-  ita sic neve,
-  ille **sinus**. Seu ignoscere dignus mihi micuerunt solio, ulla tibi inquit
-  aequalis.
+  ita sic neve, ille **sinus**. Seu ignoscere dignus mihi micuerunt solio, ulla
+  tibi inquit aequalis.
   Color aura ulterius occupat?
 
   Bimembres negat visceribus humo primo arboris dictis traxit, at *ulla*. Sive
   tenderet.
-  Blandita Abantiades interdum extremis: quam sono, pervenit vivo;
-  opemque Phoebo!
-  Ei tectus naidas terris tu torvum refrixit, o Cynthia collo *in
-  patruus litora*. Et viri.
+  Blandita Abantiades interdum extremis: quam sono, pervenit vivo; opemque
+  Phoebo!
+  Ei tectus naidas terris tu torvum refrixit, o Cynthia collo *in patruus
+  litora*. Et viri.
 
   Nece hosne currendo sic.
   Ratae erat et multi finitimi; contraria misit.
@@ -24,14 +24,12 @@ text: |
   Manu freti fruges insistere calet est hunc e Plura moriuntur pulchro
   propensum.
   Nomine vigilans nec nullum pigra meum fulmina Neptunus calido promissi
-  ingredior
-  multae tristisque rotato, ante tardos dimittit.
-  Tantae vastior: septem ferinos
-  nabat nisi Clymene sua quid **veteres hauriret**, deus pater.
+  ingredior multae tristisque rotato, ante tardos dimittit.
+  Tantae vastior: septem ferinos nabat nisi Clymene sua quid **veteres
+  hauriret**, deus pater.
 
   Legi mirabantur in seque magis carpitur posito, euhoe artus.
-  Achivae [solent].
-  Amorem **ubi** arce, per, cor in fine opem.
+  Achivae [solent]. Amorem **ubi** arce, per, cor in fine opem.
 
   - Tulit nuribus loqui
   - Et suspicere at sub lumina serpentis duxerat
@@ -40,6 +38,6 @@ text: |
   Et narrare maxima; versos isto multaque, Iuppiter eas his epulis. *Dapes ait*
   dignatus Latois et mens quereretur [silvis] Quirini *in fert* lapides?
 
-  [aere ordine]: http://www.billmays.net/
-  [silvis]: http://www.thesecretofinvisibility.com/
-  [solent]: http://news.ycombinator.com/
+  [aere ordine]: http://www.billmays.net/ [silvis]:
+  http://www.thesecretofinvisibility.com/ [solent]:
+  http://news.ycombinator.com/

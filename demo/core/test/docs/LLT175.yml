@@ -1,21 +1,23 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR002
+- LLR045
+- LLR047
+- LLR051
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum patriam, sed inclinat posito pectore canities
   contigit imperet.
   Mactatarumque quae sanctasque convicia; somnus inferius harenis concilium
-  socio
-  nudis fugit.
-  Veluti umerique decusque totidem aequantur genetrix, Rutulum
-  carinis.
+  socio nudis fugit.
+  Veluti umerique decusque totidem aequantur genetrix, Rutulum carinis.
 
   Mediis sacrataque rediit, Claninque atque.
-  Fictum leti cur clausit caede quam
-  paenituit venter hirsutus: mactandus sibi deplanxere, sub certe.
+  Fictum leti cur clausit caede quam paenituit venter hirsutus: mactandus sibi
+  deplanxere, sub certe.
 
   Ex Olympus Aeacides dissiluit securi et nubes ille quondam, sortes sensit sua
   non.
@@ -39,8 +41,8 @@ text: |
 
   Percussere solum repetisse vincula catenis quoque ille, nec Iuppiter a ponto
   quamvis e saepe valuit.
-  Reddite cruentatis iniqui. **Ossa dextra habebat** sola
-  cur exhortor arce sed non gaudia.
+  Reddite cruentatis iniqui. **Ossa dextra habebat** sola cur exhortor arce sed
+  non gaudia.
   Voce aethere.
 
   1. Vocas cum
@@ -51,5 +53,5 @@ text: |
   6. Contribuere nomina
 
   Ad metuque danda.
-  Sed victima usum India pudibundaque te cervi nimiique adiit
-  curasque profugum numina iugulati *turbavere*.
+  Sed victima usum India pudibundaque te cervi nimiique adiit curasque profugum
+  numina iugulati *turbavere*.

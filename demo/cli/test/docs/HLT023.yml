@@ -1,23 +1,23 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR025
+- HLR071
+- HLR097
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum, erigitur ore; multi ipso et fuisti Dodonaeo sidere;
-  nunc neve
-  dapibus pinum, aut.
-  Signant propiore quod vacuas, patruo Sigea et [tecum
-  perque], fixit.
+  nunc neve dapibus pinum, aut.
+  Signant propiore quod vacuas, patruo Sigea et [tecum perque], fixit.
   Impleverat tempora velles, et securior nollem.
 
   Non gente hoc, quod concipit: haut repperit mala illa talia audire Thoantis
   certe.
   Veluti ut timui artus cupit gerat; a saepe fraxinus sororem; ego moto.
   Cocinthia Panchaia quamvis festo intellegit origo inmemor quo matura
-  contingere
-  remos?
+  contingere remos?
   Iecur et sine, honore ululatuque pennis tamen qui fore harenae corripiens
   dubitare miserae vidit quasi, hoc.
 
@@ -28,14 +28,11 @@ text: |
   Domum *dat tum Eurydicen* optato tollit!
 
   Erat in nutrita par fumantia petunt Nec.
-  Non vero, vim exhortantur, desuetaque
-  feruntur cara acuta medioque.
+  Non vero, vim exhortantur, desuetaque feruntur cara acuta medioque.
 
   Dum miratur, utero fallax gratamque currus cum amore vallibus saxo!
-  Cruentato
-  regia, est **pressa coronatis** interea primus cuius, tertia, est quam
-  popularis
-  auditaque animo, gentis.
+  Cruentato regia, est **pressa coronatis** interea primus cuius, tertia, est
+  quam popularis auditaque animo, gentis.
 
   - Nunc tellus digitosque partes valido carmina dextris
   - Tegebat errans herbiferos durataeque Phineu Pylius
@@ -47,18 +44,15 @@ text: |
   Odoribus auditur, fata iuvenalibus mensis populo in oculos, vires palluerat.
   Pluribus hi *adire huc splendescunt* tandem erat aequora per nodoso Ancaei
   formosa dixit.
-  Mihi nonne coniunx possederat geri consulat verba orba longos
-  haud.
+  Mihi nonne coniunx possederat geri consulat verba orba longos haud.
 
   Illis et piae tibi damna, et et totidemque certe: etiam non **umeros**, iugo
   volucres.
   Et paterer felix: vituli te mucro sub domoque Titan.
-  Stabantque se
-  audit terrae orbem nectar nomina pulcherrime poeniceas, Onchestius sonum,
-  una.
+  Stabantque se audit terrae orbem nectar nomina pulcherrime poeniceas,
+  Onchestius sonum, una.
   Origine urbes: una ille arbiter amorem.
-  Tuae laquei potuit vixque quae et
-  terram, [te nisi] spatiis an quereris errat.
+  Tuae laquei potuit vixque quae et terram, [te nisi] spatiis an quereris
+  errat.
 
-  [te nisi]: http://haskell.org/
-  [tecum perque]: http://www.mozilla.org/
+  [te nisi]: http://haskell.org/ [tecum perque]: http://www.mozilla.org/

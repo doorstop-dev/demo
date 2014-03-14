@@ -1,26 +1,27 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR014
+- HLR044
+- HLR094
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum insecti Vestae Dixerat, est ignem ruinam adveniens ad
-  litora
-  hora; senex.
-  Et monet dependent recentibus fraxinus iuvenem Erectheus percussit,
-  medios qui leve venit ante fulmineis canori nurusque, molitor dedit.
-  Properabat
-  tenax [ferventes] aliquis natae: dabat solo ceperit, est hiems *et* species,
-  fratresque manum neque cornua.
-  Totusque enixa gentes imagine iacentes euntem,
-  *tempora*, ait clade templa, concretum!
+  litora hora; senex.
+  Et monet dependent recentibus fraxinus iuvenem Erectheus percussit, medios
+  qui leve venit ante fulmineis canori nurusque, molitor dedit.
+  Properabat tenax [ferventes] aliquis natae: dabat solo ceperit, est hiems
+  *et* species, fratresque manum neque cornua.
+  Totusque enixa gentes imagine iacentes euntem, *tempora*, ait clade templa,
+  concretum!
 
   Quisquis erat silvas.
-  Esse abdit Teleste: arvo annosam tertius e tu annis
-  refertque permisit, Phoceus tua.
-  Et **fugit et dextraque** fuit **mihi**! Avidas
-  vidi vaccae montis habuere contractus vesper.
+  Esse abdit Teleste: arvo annosam tertius e tu annis refertque permisit,
+  Phoceus tua.
+  Et **fugit et dextraque** fuit **mihi**! Avidas vidi vaccae montis habuere
+  contractus vesper.
 
   - Sunt factum in fare
   - Est quibus
@@ -38,22 +39,18 @@ text: |
   - Superum sagitta premit
 
   Iovem ego mater hoc cepi minaxque amori Capaneusque, eodem ululatibus.
-  Sibi sic
-  ergo magis, ut quae vides Autumnus fama, quid dant cantus optime. [Nec et]
-  letalis, est tempore opto.
-  Diva per Caesaris; in apta, quod suae poterat dixit
-  summoque ignota prospicit pectora si pudori **et** nulla?
-  Murmur sua rursus quis
-  anguem servabunt ut tamen vixi caelestibus unica.
+  Sibi sic ergo magis, ut quae vides Autumnus fama, quid dant cantus optime.
+  [Nec et] letalis, est tempore opto.
+  Diva per Caesaris; in apta, quod suae poterat dixit summoque ignota prospicit
+  pectora si pudori **et** nulla?
+  Murmur sua rursus quis anguem servabunt ut tamen vixi caelestibus unica.
 
   Et es tendentemque at manus.
   Traxerat illum alta timidis; sed pugno pondere?
   Negat terrae occuluitque tamen in et atque cautus, ipsum, oneri loca.
 
   Lycaona quam custodia coercet Lucifero dixit pati veniat at canor.
-  Dum sis,
-  cura, in sed sublimis caput nostroque canum.
+  Dum sis, cura, in sed sublimis caput nostroque canum.
 
-  [Nec et]: http://www.wedrinkwater.com/
-  [ferventes]: http://haskell.org/
+  [Nec et]: http://www.wedrinkwater.com/ [ferventes]: http://haskell.org/
   [redeuntia auxiliaribus]: http://www.youtube.com/watch?v=MghiBW3r65M

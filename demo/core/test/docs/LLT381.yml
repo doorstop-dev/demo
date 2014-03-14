@@ -1,16 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR014
+- LLR083
+- LLR173
+- LLR192
 normative: true
 ref: ''
 text: |
   Lorem **markdownum** pectora infelix euntem tamen; alta luctus, Iovi illo.
-  Dies
-  copia, simulatque demunt adflatuque postquam en ferunt Typhoeus!
-  Ambit *quam cum
-  aevo* ultimus sagittas illis **vestigia**, de [labore]; erant tamen laesae
-  patenti.
+  Dies copia, simulatque demunt adflatuque postquam en ferunt Typhoeus!
+  Ambit *quam cum aevo* ultimus sagittas illis **vestigia**, de [labore]; erant
+  tamen laesae patenti.
 
   - Capitis Thracia
   - Exsultatque pectus
@@ -18,16 +20,14 @@ text: |
   - Thyrso dum illi at duas est quosque
 
   Viri hoc lugubre, ira abrumpit sunt tempore dare hanc terrae silvas.
-  Ora figuras
-  ademi nimiumque dilata primo.
+  Ora figuras ademi nimiumque dilata primo.
 
   Erat suadent Olympo Theseius ut inponere niteant conscendere coluisse, minis
   multaque aut geruntur ignibus nectare cesserat, ture.
-  Ora in sumpta eadem iam
-  felices valet armigerumque pater tempore inroravere flexit Orchomenosque
-  venturas, te iunctam Amazone decipiet adunca.
-  Tamen mites, ilia mori magni et
-  nos capillos, illum amasse **o litora**? Et foedera flectere pudor.
+  Ora in sumpta eadem iam felices valet armigerumque pater tempore inroravere
+  flexit Orchomenosque venturas, te iunctam Amazone decipiet adunca.
+  Tamen mites, ilia mori magni et nos capillos, illum amasse **o litora**? Et
+  foedera flectere pudor.
 
   1. Non corpora ultima
   2. Inquit abactas in corpora
@@ -39,10 +39,8 @@ text: |
   Latinus lingua quas talis fluctus Herculeamque hasta munitos protinus sensus
   admiremur *modo irata* fuisset; Iuppiter. [Cur de nuribus] transfert voto
   fulmina *agit* dis: hic non per eundem nec mihi umbras.
-  Et *meae dextera* pro
-  sumit et solent, manu qui cruores.
-  Bina proles **victoria an** dedit, nec copia
-  hospes annorum gelidos.
+  Et *meae dextera* pro sumit et solent, manu qui cruores.
+  Bina proles **victoria an** dedit, nec copia hospes annorum gelidos.
 
       var recursive_type = 4;
       pseudocode.computerX -= mouse.spooling_mnemonic_console(
@@ -61,8 +59,7 @@ text: |
 
   Et genetrix!
   Hoc est; ignaroque Piscique Titania dixit deos ira, suis.
-  Ecce
-  notata tanti, verbis fingant et alterno.
+  Ecce notata tanti, verbis fingant et alterno.
 
-  [Cur de nuribus]: http://twitter.com/search?q=haskell
-  [labore]: http://omgcatsinspace.tumblr.com/
+  [Cur de nuribus]: http://twitter.com/search?q=haskell [labore]:
+  http://omgcatsinspace.tumblr.com/

@@ -1,16 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR015
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum qui quidve limosaque Phrygiae; terret ora duri
-  praedae **te**
-  campus teque, Ausoniae?
-  Precor quam fides versus precibusque omne trabibus nec
-  quidem vultu? **Timidis non** et hoc nunc grave sui aut erat dulcedine, si
-  Saturnia pactus?
+  praedae **te** campus teque, Ausoniae?
+  Precor quam fides versus precibusque omne trabibus nec quidem vultu?
+  **Timidis non** et hoc nunc grave sui aut erat dulcedine, si Saturnia pactus?
 
       var postscript_whitelist = spider(ppp_port_apple(4, ddl -
               transistorIsoBing), halftone, -2);
@@ -25,22 +24,20 @@ text: |
       textMemoryPinterest = sdslDropData;
 
   Sed suis simulacraque telum adsternunturque luctibus.
-  Sed quam furibundus sit
-  dextra longoque cognoscite moras parebunt candescere addere.
-  Credere nisi:
-  triste sed nihil robora ab verba quam erat de tela ferus fecere viae: omnia.
+  Sed quam furibundus sit dextra longoque cognoscite moras parebunt candescere
+  addere.
+  Credere nisi: triste sed nihil robora ab verba quam erat de tela ferus fecere
+  viae: omnia.
 
   Pariter *Alcinoi*. Deorum et doloris fecit.
-  Opto exanimes iuvenes ferax moenia
-  et Thestias faces rursusque eram pugnatque Aeneaden lacrimosa nimia, cauda,
-  voce. [Felix totidem iam] esse verba Triopeius si turba aequora ubi haustus
-  fecere.
+  Opto exanimes iuvenes ferax moenia et Thestias faces rursusque eram pugnatque
+  Aeneaden lacrimosa nimia, cauda, voce. [Felix totidem iam] esse verba
+  Triopeius si turba aequora ubi haustus fecere.
   Ad caput sub, nervi causa corpore, et ventris illum, ipsa **viso Sic
   verbere** illa [tamen alvum].
 
   Dare quam **umor** isto huic frusta, amplexa; et sospes ferrum formam
-  grandine
-  populique pedis sparsos talibus, adspexisse.
+  grandine populique pedis sparsos talibus, adspexisse.
   Natos mutatus?
 
   Et somnus nocebant delubraque letum, separat arva et lacrimis tauri,
@@ -51,12 +48,11 @@ text: |
 
   Phoebeius iubet adhuc lumina, pavent superis: premis adpellare post,
   pectoribusque humi tristique potentior.
-  Sparsosque quae mitis lapsis, quid,
-  vomentes morique.
-  Est flammis; rotave, aut, vale [fidesque], et lacrimis Cynthia
-  numen; candore loquendi.
+  Sparsosque quae mitis lapsis, quid, vomentes morique.
+  Est flammis; rotave, aut, vale [fidesque], et lacrimis Cynthia numen; candore
+  loquendi.
 
-  [Felix totidem iam]: http://news.ycombinator.com/
-  [fidesque]: http://omgcatsinspace.tumblr.com/
-  [fremebundus]: http://textfromdog.tumblr.com/
-  [tamen alvum]: http://en.wikipedia.org/wiki/Sterling_Archer
+  [Felix totidem iam]: http://news.ycombinator.com/ [fidesque]:
+  http://omgcatsinspace.tumblr.com/ [fremebundus]:
+  http://textfromdog.tumblr.com/ [tamen alvum]:
+  http://en.wikipedia.org/wiki/Sterling_Archer

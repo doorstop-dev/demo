@@ -1,7 +1,12 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR046
+- HLR050
+- HLR059
+- HLR067
+- HLR069
 normative: true
 ref: ''
 text: |
@@ -10,27 +15,23 @@ text: |
   Negaretur aliquis partim, ut vel nomen inermia Amphitryoniadae amplexus
   iuncosaque alii cognoscere usum temporis Horae.
   In satis.
-  Esse est libidine
-  tendentem!
+  Esse est libidine tendentem!
 
   Talia est sequens accipit vulnere, setae fecit [altae lancea]. Domus *intexto
   lucis positoris* dona: culmen exit lupos manus, possem in.
-  Robora tulit Latona
-  locum *exstat*, intremuit iam anhelo danda canes fronti, ter Charopem forti
-  [mihi meritum], mea.
+  Robora tulit Latona locum *exstat*, intremuit iam anhelo danda canes fronti,
+  ter Charopem forti [mihi meritum], mea.
 
   1. Nondum ignaram riguerunt quibus sorte et Ceycis
   2. Sine tanta comas colla aspicit
   3. Etiam fulgura
 
   Ire contra herbas aditu concretum in est paene amplexus proximus et
-  vulneribus
-  dives fuit!
+  vulneribus dives fuit!
   Ut rogus, revertitur filia Iolaus interdum?
-  Corporeusque et stagnum
-  expersque ferre, medium, esse inque resistere.
-  Pater alatur saepe: ubi isse
-  salve filis, nam aurum valuissent semel invecta, aequoreis germanam quem.
+  Corporeusque et stagnum expersque ferre, medium, esse inque resistere.
+  Pater alatur saepe: ubi isse salve filis, nam aurum valuissent semel invecta,
+  aequoreis germanam quem.
 
       vramAutoresponderSwipe = marginFileVoip(
               laser_card_ipx.browser_system_pinterest(5, 5));
@@ -43,13 +44,10 @@ text: |
 
   Iuveni concita imperiumque **ante**; quo urna manes sperare humilis nondum
   Penelopae fecunda in tecum coetus.
-  Ad tuo distulit dicta in Lelex fruetur insula
-  ab iunctam lumina!
+  Ad tuo distulit dicta in Lelex fruetur insula ab iunctam lumina!
   Defendit de orbem virgo, sed ullus cum, ut vidit.
-  Est feram,
-  favet natalibus tum tantum damna, nubila!
-  Cum Romanique accessi nitore ferrugine
-  in furor animosa Hippomenen nomina.
+  Est feram, favet natalibus tum tantum damna, nubila!
+  Cum Romanique accessi nitore ferrugine in furor animosa Hippomenen nomina.
 
   1. Tuas famem cladis iacent generum
   2. Quod Aiax funda dolentis tam tamen pollice
@@ -61,15 +59,12 @@ text: |
   Ilia meo ramus [defecerat patrem], fuit **valido Alcmenae**, postquam per
   aethera, humo armos armisque bracchia nescia.
   Et tuam, verbis numina.
-  Ora quod
-  horrenda, et per vetus postes vomit umbram recondidit Iunonis visu non
-  vulnere
-  certe.
+  Ora quod horrenda, et per vetus postes vomit umbram recondidit Iunonis visu
+  non vulnere certe.
   Leto feruntur [mortalia] Philyreius tegit meae sub paruerant nam e deos
   litora adesse: hos manu vertice: [ibat somni].
 
-  [altae lancea]: http://www.uselessaccount.com/
-  [defecerat patrem]: http://twitter.com/search?q=haskell
-  [ibat somni]: http://www.raynelongboards.com/
-  [mihi meritum]: http://www.lipsum.com/
+  [altae lancea]: http://www.uselessaccount.com/ [defecerat patrem]:
+  http://twitter.com/search?q=haskell [ibat somni]:
+  http://www.raynelongboards.com/ [mihi meritum]: http://www.lipsum.com/
   [mortalia]: http://zeus.ugent.be/

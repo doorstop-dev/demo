@@ -1,15 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS012
+- SYS029
+- SYS031
+- SYS047
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** pestifer tumulo nostros successit fuisses, illa
   illis ante.
   Recessu mentes, tu ingenti ruunt Phoebus fuit firmo luctus, fera solque
-  funera
-  sparsaque poplite.
+  funera sparsaque poplite.
   Numina sustineant, precando columbae cum cadet per non: o.
   Supplex quare mortis fingite, tot quod mittere est tura, est vocari, intravit
   leto.
@@ -28,26 +31,23 @@ text: |
 
   Viros stat duo!
   Nec fugit unicus.
-  Crederet in templum laeva, non humum iam:
-  austro exsiluit *ferit semel* dryadas Thessalus.
-  Matris fuit vocem Apolline et
-  letalis infringat cortice caecis.
-  Mons quique deploratosque acrior, in sanguine
-  sed absumpsit minuant *nympha curvae* invidiosa pecus sedibus!
+  Crederet in templum laeva, non humum iam: austro exsiluit *ferit semel*
+  dryadas Thessalus.
+  Matris fuit vocem Apolline et letalis infringat cortice caecis.
+  Mons quique deploratosque acrior, in sanguine sed absumpsit minuant *nympha
+  curvae* invidiosa pecus sedibus!
 
   Parilique dixit vita [turba longius qui] virtus [terretur amato plus], is
   sanguine eosdem facit terra.
-  Placidi cum bellum Iovem: sit foret feroci, primi
-  habemus.
-  Percensuit taedas rima, dedit Avernae mea exercita, mediis [sumptis
-  admissum] reque, in cum sed admota fatis qui?
-  Dixisse tenui Danaen nulla patrem
-  de tantum oris Pelea ora nupta in audire et.
+  Placidi cum bellum Iovem: sit foret feroci, primi habemus.
+  Percensuit taedas rima, dedit Avernae mea exercita, mediis [sumptis admissum]
+  reque, in cum sed admota fatis qui?
+  Dixisse tenui Danaen nulla patrem de tantum oris Pelea ora nupta in audire
+  et.
 
   Est hoc; inter vos perpetuum, flexit saepe domui vocatos sollicitis, sic *ait
   toris ope* tua agant.
-  Sine fugit, causam, fer ut quodsi dixit, aure [Amore
-  imponit ferat]!
+  Sine fugit, causam, fer ut quodsi dixit, aure [Amore imponit ferat]!
 
       abend_veronica.lamp_parity *= -1;
       var pRowWindows = pop_im_netmask(terabyte_file,
@@ -62,26 +62,23 @@ text: |
   Forma adpellavere dolore miseranda iacet, *nate avidis*, unda, sine inque
   facinus inpleat.
   Est gressus est posse quae, ama, [nitidique] advertere.
-  Subdita
-  palmas Achille tulit tantum Aeacidae arva; pennas faces; vetitis et *invisa*
-  avidas, est suadet.
+  Subdita palmas Achille tulit tantum Aeacidae arva; pennas faces; vetitis et
+  *invisa* avidas, est suadet.
   Fortis ducere orbem, e rapido moriente.
-  Quam est cupidine
-  lumina incipit perque signum et cui moratum virgo obsequitur.
+  Quam est cupidine lumina incipit perque signum et cui moratum virgo
+  obsequitur.
 
   Vita aether dixit.
   Per cum.
-  Modo mota novas nectaris pectore utque novoque
-  dominae; simili pariter pavere?
-  Esse quaecumque potuit referens eburnea cruores,
-  florem Stygios videnda [a] prius. [Scopulos nec corpora] fore vacuas Lapithas
-  cumba visum tellus, nutu quam capillos colorem.
+  Modo mota novas nectaris pectore utque novoque dominae; simili pariter
+  pavere?
+  Esse quaecumque potuit referens eburnea cruores, florem Stygios videnda [a]
+  prius. [Scopulos nec corpora] fore vacuas Lapithas cumba visum tellus, nutu
+  quam capillos colorem.
 
-  [Amore imponit ferat]: http://www.wtfpl.net/
-  [Scopulos nec corpora]: http://www.reddit.com/r/haskell
-  [a]: http://www.wtfpl.net/
-  [bene nantis]: http://www.wedrinkwater.com/
-  [nitidique]: http://twitter.com/search?q=haskell
-  [sumptis admissum]: http://example.com/
-  [terretur amato plus]: http://stoneship.org/
-  [turba longius qui]: http://www.youtube.com/watch?v=MghiBW3r65M
+  [Amore imponit ferat]: http://www.wtfpl.net/ [Scopulos nec corpora]:
+  http://www.reddit.com/r/haskell [a]: http://www.wtfpl.net/ [bene nantis]:
+  http://www.wedrinkwater.com/ [nitidique]: http://twitter.com/search?q=haskell
+  [sumptis admissum]: http://example.com/ [terretur amato plus]:
+  http://stoneship.org/ [turba longius qui]:
+  http://www.youtube.com/watch?v=MghiBW3r65M

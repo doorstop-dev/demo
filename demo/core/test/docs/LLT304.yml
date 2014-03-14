@@ -1,19 +1,21 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR009
+- LLR027
+- LLR143
+- LLR169
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum cinerem premeret.
-  Casu acceperat, commissus, sanguinis,
-  Anthedone dum armiger emicat Doridaque.
-  Conversa non, deos ferrum contentus
-  surdaeque ille; dapes venti sanctaque consorte novitate ab duobus.
-  Bacche circum
-  e longius nomen: est his vano locus coniunx dissipat.
-  Phoebique sic et deae
-  **cruorem** auras frondes *potuisse bella* si figuris cani nec mucrone, dixi.
+  Casu acceperat, commissus, sanguinis, Anthedone dum armiger emicat Doridaque.
+  Conversa non, deos ferrum contentus surdaeque ille; dapes venti sanctaque
+  consorte novitate ab duobus.
+  Bacche circum e longius nomen: est his vano locus coniunx dissipat.
+  Phoebique sic et deae **cruorem** auras frondes *potuisse bella* si figuris
+  cani nec mucrone, dixi.
 
       if (systemIrcHub) {
           virtualizationSnippet(bitrateXhtmlHalftone, blob_affiliate(
@@ -27,24 +29,21 @@ text: |
   2);
 
   Tamen **tuum**; cum multos et te succedere opus data?
-  Emisit sternuntur cornua
-  columbis in fraudat nostro in amantem ingentique orant, Aesoniden, mater in
-  levati et.
+  Emisit sternuntur cornua columbis in fraudat nostro in amantem ingentique
+  orant, Aesoniden, mater in levati et.
 
   Frustra creverat, oppressos in subito ferula capillos tantus auras Philyreius
   tellus pulvere ipse caecos dabant graminis et foret diversa.
-  Vult **suos
-  vixque** ferre mihi extenuat partes qui.
+  Vult **suos vixque** ferre mihi extenuat partes qui.
 
   - Sic sero inposito cumque et sanguis eminet
   - In mersis evellere te lumina adspice et
   - Phoebe cuncti quos infecta latet dissimulat
 
   Est [reducere promittat praebentque] citius.
-  Prosit undis, est vir tibi,
-  translata, populosque mane ensem ingenti et plura sit Priamus.
-  Vidi Arachnes
-  illic conplevit Cecropidae verbis reus facies, ora.
+  Prosit undis, est vir tibi, translata, populosque mane ensem ingenti et plura
+  sit Priamus.
+  Vidi Arachnes illic conplevit Cecropidae verbis reus facies, ora.
   Pennis collo.
 
       if (2 - pcmcia_access_add(4, key_botnet_capacity)) {
@@ -61,13 +60,11 @@ text: |
       }
 
   Postes [invocat Pisaeae], senes erat auribus.
-  Care male bracchia Herculeae opus
-  canentis secuta nubila.
-  Oscula viri est; perque latet numerem Somnia plenissima
-  externis.
+  Care male bracchia Herculeae opus canentis secuta nubila.
+  Oscula viri est; perque latet numerem Somnia plenissima externis.
   Sub vel.
-  Scelerata cervice fletu torum fertur puerosque patriam manet
-  colloquium honore invitat serpentum votorum, nescit Phocaico.
+  Scelerata cervice fletu torum fertur puerosque patriam manet colloquium
+  honore invitat serpentum votorum, nescit Phocaico.
 
-  [invocat Pisaeae]: http://www.reddit.com/r/haskell
-  [reducere promittat praebentque]: http://tumblr.com/
+  [invocat Pisaeae]: http://www.reddit.com/r/haskell [reducere promittat
+  praebentque]: http://tumblr.com/

@@ -1,17 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR047
 normative: true
 ref: ''
 text: |
   **Verify lorem markdownum** tetigit quem inde iam procumbere et senecta,
-  adfuit tela
-  ille.
+  adfuit tela ille.
   Duris tenebrosa aut.
-  Animasse utve usum contemne deiectuque vixisti tellus
-  est tigris [fetibus]. Alter si vertit siccata solebat, de nunc mandata
-  quibus.
+  Animasse utve usum contemne deiectuque vixisti tellus est tigris [fetibus].
+  Alter si vertit siccata solebat, de nunc mandata quibus.
 
       if (mebibyteParallelBar) {
           recursion.standbyVciPci(softVertical, xhtml + swipe);
@@ -28,19 +27,17 @@ text: |
       metafileVduDrop += fontVirus;
 
   Boum torquere sed vultus tellure, nec negat [herba] attulerat tuas.
-  Nec tamen,
-  vocatum faciemque tollens.
-  Sit ille, una erat Cythereius tenet quaesitus
-  luridaque deponendique fama *nequiret inpedit nec* magis sua: duri eque.
+  Nec tamen, vocatum faciemque tollens.
+  Sit ille, una erat Cythereius tenet quaesitus luridaque deponendique fama
+  *nequiret inpedit nec* magis sua: duri eque.
 
   Spissisque ausus, protegit vitiataque divisque natus **vos formatae**, nautae
   cura aliae, subire, utero et cava.
-  Nox precor vocisque coepere puer **fata**,
-  condidit, fuerat concitat haec, [si] feriens medullas dignum.
-  Et me pectus
-  nigras, coloni rescindere magis iam, aequor sumpsisse palpitat alta.
-  Ne duobus
-  ipsi positamque priori Polymestora urbes.
+  Nox precor vocisque coepere puer **fata**, condidit, fuerat concitat haec,
+  [si] feriens medullas dignum.
+  Et me pectus nigras, coloni rescindere magis iam, aequor sumpsisse palpitat
+  alta.
+  Ne duobus ipsi positamque priori Polymestora urbes.
 
   1. Homini quodque fatidicamque solus incognita
   2. Pando adiectoque Nesseis Solis suaque exstinctum formosa
@@ -50,8 +47,7 @@ text: |
 
   Rex qualis Desinet, caelum habet, in vidit novissima vigor Sisyphon, **nulla
   exitus**, prius, hos. **Certans** amor **Ilion aut aeno** sinistro, tum
-  explorat
-  hac.
+  explorat hac.
   Inque erat *Iovi* fuistis Thisbe, choro.
 
   - In mea in cogente proelia riguisse tauro
@@ -60,12 +56,10 @@ text: |
   - Semianimem premens qui
 
   Est pastor, te ridentem, disparibus altera.
-  Est vana si habet cava me angit
-  videre iamque iamque paludes reliqui soporiferam.
-  Viri corpora idem atque ebibit
-  Achilli quem moveat quibus.
+  Est vana si habet cava me angit videre iamque iamque paludes reliqui
+  soporiferam.
+  Viri corpora idem atque ebibit Achilli quem moveat quibus.
   Ritu quoque, Region!
 
-  [fetibus]: http://jaspervdj.be/
-  [herba]: http://www.billmays.net/
-  [si]: http://gifctrl.com/
+  [fetibus]: http://jaspervdj.be/ [herba]: http://www.billmays.net/ [si]:
+  http://gifctrl.com/

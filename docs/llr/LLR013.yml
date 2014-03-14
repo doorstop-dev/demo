@@ -1,18 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR046
+- HLR057
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL**, paelice deo viriles astu rettulit; nunc lac: suo
-  **amantior**.
-  Infans per undas mactare egressu possit quicquam visus sentiet, agmen regis.
+  **amantior**. Infans per undas mactare egressu possit quicquam visus sentiet,
+  agmen regis.
   Nostras sed Granico milia propioris graciles et Eurotas mansit me ede
-  Gangetica
-  te orba.
-  Talia [voce odium] concilio mihi natura, cautum pronos revertentes
-  lumen poplite parat.
+  Gangetica te orba.
+  Talia [voce odium] concilio mihi natura, cautum pronos revertentes lumen
+  poplite parat.
 
   1. Primis dixerat
   2. Suos protervis
@@ -22,14 +23,11 @@ text: |
   *Solebat primaque* pressos nece videtur *standi* haec per nescio sidera sed
   spes, Thracum. [Quidem medullis forsitan] adnuit Credulitas *quam urgeturque
   doctam*; quod caput, in humanas feros cognataque varios!
-  Non aura et imagine
-  circumstantes molle frigus inludens.
-  Tum etiam, ignibus: quibus causam, nitar
-  vagos pallentemque *acumine* morsus erit Marsque.
-  Lucis sed aurea ipse
-  externasque alas pollicibusque venerande labor ut videns flammae; mihi
-  Ixiona,
-  is.
+  Non aura et imagine circumstantes molle frigus inludens.
+  Tum etiam, ignibus: quibus causam, nitar vagos pallentemque *acumine* morsus
+  erit Marsque.
+  Lucis sed aurea ipse externasque alas pollicibusque venerande labor ut videns
+  flammae; mihi Ixiona, is.
 
   - Sed invicti turba
   - Stygia mihi probat quoque
@@ -37,10 +35,8 @@ text: |
   - Salmacis datis
 
   Robora in pennas. **Digitos exululat** natos Editus in squalentia seu
-  deponere,
-  urbe munus, patiens arma Cyparisse?
-  At possit Triopeius supplex duorum ipsos,
-  gavisus vel, quaecumque.
+  deponere, urbe munus, patiens arma Cyparisse?
+  At possit Triopeius supplex duorum ipsos, gavisus vel, quaecumque.
 
   - Quoque vixque latus nomenque animis
   - Undis forsitan ad finemque nisi tu Achivi
@@ -49,10 +45,8 @@ text: |
   - Ferox peremi colla
 
   Facti liquidi manuque erat iam; non ultima, dubio illo!
-  Requievit et requirit
-  polus.
-  Petunt viri, iam retentus solacia, tui adimunt causas mentem Caeneus
-  similis.
+  Requievit et requirit polus.
+  Petunt viri, iam retentus solacia, tui adimunt causas mentem Caeneus similis.
 
-  [Quidem medullis forsitan]: http://eelslap.com/
-  [voce odium]: http://www.reddit.com/r/haskell
+  [Quidem medullis forsitan]: http://eelslap.com/ [voce odium]:
+  http://www.reddit.com/r/haskell

@@ -1,37 +1,31 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS037
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** iunctus suum optime et maestus velaturque operum
-  *Peliaeque
-  tenuatus te* Phoebo adspicit, sanguine.
-  Quod dea veris et accipimus animus
-  adusque epulasque viderat, suis.
+  *Peliaeque tenuatus te* Phoebo adspicit, sanguine.
+  Quod dea veris et accipimus animus adusque epulasque viderat, suis.
 
   Victu aequora quaesita.
   Pronus eras!
-  Navale pro sua amplectitur mille fratribus
-  mecum vindicat oraque biformis.
+  Navale pro sua amplectitur mille fratribus mecum vindicat oraque biformis.
   Vos non factas Cytherea vellera.
-  Ab quae fides,
-  non huc: heres cum; in vident.
+  Ab quae fides, non huc: heres cum; in vident.
 
   Praevitiat rursus colligit in ranae vita plus **circumspicit mater**
-  incomitata
-  rursus concussa ubi illac. [Adsimulat] stetit bracchia prius, est latos in
-  et,
-  aut eris, dentes Haec!
+  incomitata rursus concussa ubi illac. [Adsimulat] stetit bracchia prius, est
+  latos in et, aut eris, dentes Haec!
 
   Dicitur Othryn.
-  Dira res, avarae; est dei tota cladis pulchroque effugit matrem.
-  *In ne nuntiat* nostro **posset ultima** Gorgonis terga piumque incumbit:
-  cum,
+  Dira res, avarae; est dei tota cladis pulchroque effugit matrem. *In ne
+  nuntiat* nostro **posset ultima** Gorgonis terga piumque incumbit: cum,
   reppulit dedisti.
-  Pascua frenisque satis, est ante erat semper, pax ignibus
-  praedator virgineos: pars enim.
+  Pascua frenisque satis, est ante erat semper, pax ignibus praedator
+  virgineos: pars enim.
 
       ad_node += hyper(file_switch + page_market_linkedin, blog,
   pci_ict_storage);
@@ -57,30 +51,25 @@ text: |
       }
 
   Tuli dextra sumit sollertia an quoque **feriente virorum Antandro**,
-  simplicitas
-  undas.
-  Ceyca Pyraethi non tamen arti *omnes premunt* amoris fortibus erat aliis
-  enim obruor et tethys vides exire animae.
-  Apollo praeterque, vivere nam aratri
-  intresque, per vates Plurima; Procris [firma].
+  simplicitas undas.
+  Ceyca Pyraethi non tamen arti *omnes premunt* amoris fortibus erat aliis enim
+  obruor et tethys vides exire animae.
+  Apollo praeterque, vivere nam aratri intresque, per vates Plurima; Procris
+  [firma].
 
   Nelea victae, te conpellat pacatum dant venire erat acta rogato de spina
   commissaque erat Poeantia ille Romulus iactata avidaeque.
-  Conveniunt quae sed
-  patet telis ire viribus et carinae venerat te Perseus [figitque caecum]
-  sceleris
-  remisit patitur.
+  Conveniunt quae sed patet telis ire viribus et carinae venerat te Perseus
+  [figitque caecum] sceleris remisit patitur.
 
   Umor nece, tam ipse et Simois adspergine; adimam hunc uda?
-  Periit ius doleam
-  [timet] spectare sucosque *Dictys lues*, ipsa presserat Ianthe capillos
-  servaturis si vestrum me terebat.
-  Fronte ignorans castaque sua umida concita
-  videtur opem sim, nunc nutrix nullosque movit.
+  Periit ius doleam [timet] spectare sucosque *Dictys lues*, ipsa presserat
+  Ianthe capillos servaturis si vestrum me terebat.
+  Fronte ignorans castaque sua umida concita videtur opem sim, nunc nutrix
+  nullosque movit.
   Remove per illi, nymphae, et dei.
   Est et inposita accede.
 
-  [Adsimulat]: http://zombo.com/
-  [figitque caecum]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [firma]: http://news.ycombinator.com/
-  [timet]: http://www.billmays.net/
+  [Adsimulat]: http://zombo.com/ [figitque caecum]:
+  http://en.wikipedia.org/wiki/Sterling_Archer [firma]:
+  http://news.ycombinator.com/ [timet]: http://www.billmays.net/

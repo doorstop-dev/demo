@@ -1,17 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR069
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum neque spargit ademptae collum quercus se subeunt
-  **Latio**!
-  Artes inpulsumque nihil cum erat gravi ferunt, nisi qui spectes.
-  Illic partes
-  fruges circumspicit ille superest sunt retroque; momenta obliquo.
-  Tria [rerum
-  Delius]: deos preces quoque caeloque.
+  **Latio**! Artes inpulsumque nihil cum erat gravi ferunt, nisi qui spectes.
+  Illic partes fruges circumspicit ille superest sunt retroque; momenta
+  obliquo.
+  Tria [rerum Delius]: deos preces quoque caeloque.
 
       cloud_router_ajax(videoMail(drm_exif.sata_wrap(title, real_camelcase),
   -2,
@@ -24,11 +23,9 @@ text: |
 
   Nostras iuguloque venter inque subit radiorum.
   Mea turaque errore non.
-  Qua iam
-  post concutit claro.
+  Qua iam post concutit claro.
   Quae iungi solum, per diesque causas tamen?
-  Ignibus apertum
-  alto: spretor huic orbe *foedus*, levitate iam, causam?
+  Ignibus apertum alto: spretor huic orbe *foedus*, levitate iam, causam?
 
   1. Modo umbraque materno
   2. Erigitur totum in perdere antro tulit successor
@@ -38,45 +35,38 @@ text: |
   6. Lynca illa obscurus hastas
 
   Tinguit urnam potuit posse hi aliquid fecit, iuncta, sacro?
-  Si adiutus
-  reminiscitur licet, addit portus utque [Nereis], et gentis, esse arte,
-  vulnere.
+  Si adiutus reminiscitur licet, addit portus utque [Nereis], et gentis, esse
+  arte, vulnere.
   Meae lustrant iecit quam victae satus, videbatur aevum: at est.
-  Tibi falsis ut
-  talisque somnos gravem, rapienda cernens defessa.
+  Tibi falsis ut talisque somnos gravem, rapienda cernens defessa.
 
   Innectite misit contendere ut reddant cecini declinat redit ipse nomenque
   tamen.
   Vacant in facta *deus*, poma nec quoque, quod.
-  Venerem habentia lacertis ripis
-  me saepe festisque deserit ramis movi tetigere.
+  Venerem habentia lacertis ripis me saepe festisque deserit ramis movi
+  tetigere.
 
   Namque medullas claro, manus dum libens hortator velare comae quoque,
   moderamina, ad.
-  Audiri et o manuque illa labores ad **verso**, munere aetate
-  alumno potest, dantem ipsum restat?
-  Superat [currusque novis], quam vetus
-  referre, e revocabile, silentia ad promptu plaustra?
-  Fessis heros, blandis
-  **serpens successit** praemia, legumque!
+  Audiri et o manuque illa labores ad **verso**, munere aetate alumno potest,
+  dantem ipsum restat?
+  Superat [currusque novis], quam vetus referre, e revocabile, silentia ad
+  promptu plaustra?
+  Fessis heros, blandis **serpens successit** praemia, legumque!
   Ego altis lacertos Caicum.
 
   Membra non iuvenes spargere aliis; exsecrere candida *dicit*: quae carpe nam
   Silenus o rediere ramos feliciter.
-  Ventorum [ab et fuerit] decuit **est**. Celat
-  **mille**.
+  Ventorum [ab et fuerit] decuit **est**. Celat **mille**.
 
   Hunc est cum dictis nomenque cycnorum et patrio quod gaude madefactus verus
   decrescentibus caput. [Minyeia mensas] in huc antrum referre Telamon; corpus
-  est
-  tibi: si!
-  Finivit salutem conplevit digitos fraterno o superi stipite; et tela
-  imbres; illa mollia patrio Troianaque.
-  Oscula nactasque dictis pars orbem ubi
-  serpens ramis suum quantum?
+  est tibi: si!
+  Finivit salutem conplevit digitos fraterno o superi stipite; et tela imbres;
+  illa mollia patrio Troianaque.
+  Oscula nactasque dictis pars orbem ubi serpens ramis suum quantum?
 
-  [Minyeia mensas]: http://www.metafilter.com/
-  [Nereis]: http://news.ycombinator.com/
-  [ab et fuerit]: http://eelslap.com/
-  [currusque novis]: http://reddit.com/r/thathappened
-  [rerum Delius]: http://www.lipsum.com/
+  [Minyeia mensas]: http://www.metafilter.com/ [Nereis]:
+  http://news.ycombinator.com/ [ab et fuerit]: http://eelslap.com/ [currusque
+  novis]: http://reddit.com/r/thathappened [rerum Delius]:
+  http://www.lipsum.com/

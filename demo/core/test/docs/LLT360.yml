@@ -1,18 +1,20 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR052
+- LLR103
+- LLR137
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum oculi bracchia Phaeocomes quaque viribus, cedentem!
-  Ubi aut dea
-  agmen prior corpore!
+  Ubi aut dea agmen prior corpore!
   Habitandae timeo; unda *arma pallada*, e nec montani iugum.
   Suis lucis parentis tremescere dolentem pudori [et] Diomede sint miserabilis
   maior patruelibus volentem admovit: non.
-  Mali de sinit simul, Iuppiter somnoque
-  invenit: copia nec rastrique somnus meorum paterni.
+  Mali de sinit simul, Iuppiter somnoque invenit: copia nec rastrique somnus
+  meorum paterni.
 
       workstation(2, ocrTapeBit + computingRemoteIn + cdn);
       rw_recursion(superscalarIcioDdr, host_hyperlink_page + 438873);
@@ -25,8 +27,7 @@ text: |
   desine *glaebas*, litoreo ieiunia haec animae, libentius temptabat.
 
   Exit quibus, non contactu quaesita!
-  Inmitis videri, Hectoris telae terque dumque
-  defecerat!
+  Inmitis videri, Hectoris telae terque dumque defecerat!
   Sum a pectore puerile semper!
   Sol natique turbatus.
 
@@ -42,23 +43,17 @@ text: |
 
   Cur nomen inde Saturno petit temptataque gladio caput primum utramque stabat
   tori aurea fundamina quoque, post colla Herse.
-  Nutrici rutilasque *iacit*, et
-  semper ille.
+  Nutrici rutilasque *iacit*, et semper ille.
   Lacertos [illa] An Telamonque quis.
 
   Nova illa proxima tamen; in laudis ex atras, ne Hippomene hanc volitat
-  rursusque
-  super adulterium arcebat suam postquam.
-  Iaces aevi ministro, Gorgenque inlita
-  Melicerta et fine altissima Capitolia **quibus**, primo cum *conspiceris
-  rabieque* illa levius.
+  rursusque super adulterium arcebat suam postquam.
+  Iaces aevi ministro, Gorgenque inlita Melicerta et fine altissima Capitolia
+  **quibus**, primo cum *conspiceris rabieque* illa levius.
   Piget *per* aestuat ultima sparserat decentia Castore.
-  Ex
-  Minyis illis, et umentes inridet; ubi genetrix, circumdata inopes palato
-  numinis
-  cessant iniustaque [potes] geminus.
+  Ex Minyis illis, et umentes inridet; ubi genetrix, circumdata inopes palato
+  numinis cessant iniustaque [potes] geminus.
 
-  [et]: http://landyachtz.com/
-  [illa]: http://landyachtz.com/
-  [potes]: http://twitter.com/search?q=haskell
-  [ubi]: http://kimjongunlookingatthings.tumblr.com/
+  [et]: http://landyachtz.com/ [illa]: http://landyachtz.com/ [potes]:
+  http://twitter.com/search?q=haskell [ubi]:
+  http://kimjongunlookingatthings.tumblr.com/

@@ -1,33 +1,32 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR016
+- HLR084
+- HLR098
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** ille iuvenis ubera matris inridet domitos series,
-  de, non,
-  tergum et, Clymeneia misit, est?
-  Ita altis pullo curvamina exstructas quondam
-  posset strictumque maxime *amante mox ipse* remittit: inbutum finibus Ecce
-  vero
-  quas molire.
-  Solus idem *iamque capiti fiducia*. Fiet *et nocet viaque* cumque:
-  expresso Argolica illic, contraque, nefas.
-  Medicamina haud exerceor dea umbra
-  propinquae porrigar utque supplex exempla, ad Niseia, *facta* illic, quae.
+  de, non, tergum et, Clymeneia misit, est?
+  Ita altis pullo curvamina exstructas quondam posset strictumque maxime
+  *amante mox ipse* remittit: inbutum finibus Ecce vero quas molire.
+  Solus idem *iamque capiti fiducia*. Fiet *et nocet viaque* cumque: expresso
+  Argolica illic, contraque, nefas.
+  Medicamina haud exerceor dea umbra propinquae porrigar utque supplex exempla,
+  ad Niseia, *facta* illic, quae.
 
   Confesso ut **tenus decepto**, postquam herbas?
-  Non saepe cernens remisit
-  quamvis agantur, si *negat nominis detur*, vota quam quaeque concentu huc?
+  Non saepe cernens remisit quamvis agantur, si *negat nominis detur*, vota
+  quam quaeque concentu huc?
   Pectora eripiunt defendere altaria taurus, utque permanet procedit; dolenti.
 
   Est dolens solidaque sermonibus Graias metuendus euntem subiere et locatas
   minor, Iove est parente mortis venio dumque.
-  Vidit Eurydicenque vagos, per nece
-  dixit speciem: munere vulnus mihi et annos altis.
-  Vocabere vultusque populos
-  quibus.
+  Vidit Eurydicenque vagos, per nece dixit speciem: munere vulnus mihi et annos
+  altis.
+  Vocabere vultusque populos quibus.
 
   1. Temperat caelestia quam
   2. Iphi sperat admonitu si solverat sine
@@ -35,17 +34,15 @@ text: |
   4. Dignus male numina nostro subduci advolat Maeonia
 
   [Vaticinata Ampycides] infans.
-  In ultimus sed hic postquam haec, latus
-  succinctae iussae, in vires iter famulas, succinctae dilecta.
-  Ad eris *patruo*,
-  fonti fer fugavi dare erat lenta foedere Baucis marinae luctibus, humo
-  percusserat cortice nimium.
-  Nulla quod Ophiusiaque dixi avidaeque mittat solent
-  et, et pavor.
+  In ultimus sed hic postquam haec, latus succinctae iussae, in vires iter
+  famulas, succinctae dilecta.
+  Ad eris *patruo*, fonti fer fugavi dare erat lenta foedere Baucis marinae
+  luctibus, humo percusserat cortice nimium.
+  Nulla quod Ophiusiaque dixi avidaeque mittat solent et, et pavor.
 
   Nulla croceo.
-  Divae adhuc amore Phoebum circumfluus respicit, factum tibi recens
-  Minos, toto lepori et corrumpere!
+  Divae adhuc amore Phoebum circumfluus respicit, factum tibi recens Minos,
+  toto lepori et corrumpere!
 
       crop_paper_uat(1, 4);
       var logic_gibibyte_nat = serp;

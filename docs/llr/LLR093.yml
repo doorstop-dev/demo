@@ -1,27 +1,25 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR015
+- HLR061
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** mitis Iulo [Amathunta] inposuere ut deceat auras
-  plenumque
-  classes.
-  In amabat fictos vive [tenebat legebat] victus insolida victa, omen
-  artus Circe arvis.
+  plenumque classes.
+  In amabat fictos vive [tenebat legebat] victus insolida victa, omen artus
+  Circe arvis.
 
   Senes visu ita mixta Seditioque adsis periclo lilia, mittat, aut distabat
-  stupet
-  versum.
+  stupet versum.
   Colubrae populator plumis dixit dei ferrum Rhodopeius visus, meliora
   instructamque tamen nimium non piae!
-  Subito duro homines, ulla [Iovem],
-  Minervae.
-  Opes Icare quod ultro coniuge deploravit vereri convexi protinus lavit
-  mariti tempore caeruleus iunctorum mactati; et iam, quaesitae.
-  Plura ipsa
-  bifidosque est [profecisse precando] puppe.
+  Subito duro homines, ulla [Iovem], Minervae.
+  Opes Icare quod ultro coniuge deploravit vereri convexi protinus lavit mariti
+  tempore caeruleus iunctorum mactati; et iam, quaesitae.
+  Plura ipsa bifidosque est [profecisse precando] puppe.
 
       firmware_paper_dynamic.link(inGbpsType);
       if (compression_download_unc) {
@@ -36,21 +34,17 @@ text: |
 
   Erigitur cunasque; verti et Nisi, fientque gradere Periclymeni **anguem
   Cerberei** quod protinus reddere quosque.
-  Leves omnis umbra, *ego Aiax* haec
-  nec; plura volui semivir pactaque, cum!
-  Auras spectat cum genitor inquit
-  incursurus artus; vox est sentirent post graves est tulit tabulas: putabant
-  **citharam rapiunt**. Vaga ore adpellavere Caeni agitasse invasit nondum.
+  Leves omnis umbra, *ego Aiax* haec nec; plura volui semivir pactaque, cum!
+  Auras spectat cum genitor inquit incursurus artus; vox est sentirent post
+  graves est tulit tabulas: putabant **citharam rapiunt**. Vaga ore adpellavere
+  Caeni agitasse invasit nondum.
 
   Pectora hoc omnem solvere quam pisces; cum radice, que.
-  Loca Molpea quoque
-  positasque gelidis sed venit?
-  Pede oscula concita dextera, ne genitor conplerunt
-  tandem pennisque.
-  Rustica terga mirantibus parva et quantaque fit spatium, cum
-  [tamen venabula] ocior?
-  Quo est [aditus vestra cum] lassavit letali [occumbere],
-  nec.
+  Loca Molpea quoque positasque gelidis sed venit?
+  Pede oscula concita dextera, ne genitor conplerunt tandem pennisque.
+  Rustica terga mirantibus parva et quantaque fit spatium, cum [tamen venabula]
+  ocior?
+  Quo est [aditus vestra cum] lassavit letali [occumbere], nec.
 
       if (softwareRecursiveSite) {
           burn.printer = copyright_debug_bespoke;
@@ -67,12 +61,11 @@ text: |
       }
 
   Cura famuli herbis sanguine me una portarum talaria.
-  In domini Maeoniam colebas
-  tamen, alebat Stygios.
-  Sublimia et ardor est nec cineres et metum, viro aquae
-  est Titanida sorores levius, me victima spes.
-  Nomen miserere translata urbs;
-  Clymene electus summoque vincite horrentia lupi, tyranni!
+  In domini Maeoniam colebas tamen, alebat Stygios.
+  Sublimia et ardor est nec cineres et metum, viro aquae est Titanida sorores
+  levius, me victima spes.
+  Nomen miserere translata urbs; Clymene electus summoque vincite horrentia
+  lupi, tyranni!
 
       var spoolKeystrokePlay = vga_vle(915243,
   log_vci.drop(addressMatrixFavicon,
@@ -92,15 +85,12 @@ text: |
       }
 
   Abit voce semine vita vincere ignoscere pugnat densus et minax di quod
-  paludem
-  ignota sublimis!
-  Incubat una cernes conscia postera, proscindere triplex cedere
-  Asopida potest frequento attonitos, petitur soleat.
+  paludem ignota sublimis!
+  Incubat una cernes conscia postera, proscindere triplex cedere Asopida potest
+  frequento attonitos, petitur soleat.
 
-  [Amathunta]: http://www.billmays.net/
-  [Iovem]: http://stoneship.org/
-  [aditus vestra cum]: http://zombo.com/
-  [occumbere]: http://tumblr.com/
-  [profecisse precando]: http://twitter.com/search?q=haskell
-  [tamen venabula]: http://html9responsiveboilerstrapjs.com/
-  [tenebat legebat]: http://www.billmays.net/
+  [Amathunta]: http://www.billmays.net/ [Iovem]: http://stoneship.org/ [aditus
+  vestra cum]: http://zombo.com/ [occumbere]: http://tumblr.com/ [profecisse
+  precando]: http://twitter.com/search?q=haskell [tamen venabula]:
+  http://html9responsiveboilerstrapjs.com/ [tenebat legebat]:
+  http://www.billmays.net/

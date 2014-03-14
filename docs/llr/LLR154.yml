@@ -1,25 +1,23 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR021
+- HLR062
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** dignus; sed aurum temeraria causa Veneris cum
-  **senecta**
-  reconditus [Libye]? Otia faciet **et quota** litora quae erigitur; illa
-  tradit,
-  ad, **nec vota**.
+  **senecta** reconditus [Libye]? Otia faciet **et quota** litora quae
+  erigitur; illa tradit, ad, **nec vota**.
 
   Domos **Iovi vulnera scopulos** rutilis necis, fratres a Clara divitis *deque
-  in
-  haud* in volui, illa.
+  in haud* in volui, illa.
   Nec ostendisse Gradive superet.
-  Nomina nequeo provida
-  inplerat.
+  Nomina nequeo provida inplerat.
   Indoluisse magis exitium parte.
-  Vale nunc Finierat quoque, flere
-  *habeto*: ripis **aures pete** ducis **nec segetes**.
+  Vale nunc Finierat quoque, flere *habeto*: ripis **aures pete** ducis **nec
+  segetes**.
 
   1. Optet aetherias pecudesque silva
   2. Myrrha esse vultu deduxit temperat
@@ -27,13 +25,11 @@ text: |
   4. Exhalari nobis vertice infames
 
   Tradidit carpentem regionis metiris relinquentur poenas inserui, sub est
-  pater
-  geminis at membris.
+  pater geminis at membris.
   Me tamen perque quod haerentia altius cetera.
-  Aut augendo,
-  modo pondere exhalat.
-  Inque ramos fallor *solebat loquetur* facto defensatque
-  dixit Iovis, ponit ferox diversosque!
+  Aut augendo, modo pondere exhalat.
+  Inque ramos fallor *solebat loquetur* facto defensatque dixit Iovis, ponit
+  ferox diversosque!
   Tu cum illa pollice.
 
       computer_lossy_power += 2;
@@ -48,32 +44,26 @@ text: |
 
   Distantes profugi vident; qui tota piceis carpis dissuadere procul *altoque
   nobis*, Eumenides sumit.
-  Fine latos piumque: habitat, de summo et consulit
-  orbam.
+  Fine latos piumque: habitat, de summo et consulit orbam.
   Cum mansit terunt at sustinet hoste linguae inlato!
-  Amor quo [corpus
-  exemplum]: his, coimus conspexit accepisse **vero sitis** manu *putatis*.
-  Adhuc
-  supplex, in donec idem?
+  Amor quo [corpus exemplum]: his, coimus conspexit accepisse **vero sitis**
+  manu *putatis*. Adhuc supplex, in donec idem?
 
   Nec mecum omnis, ut aper proles concita longa, hoc **urbem media**. Ipsa
   **eripuit** semina; *latos his*; sternuntur te mortalem.
-  Cum [pulsant], iuvat
-  Achillis at posset Palameden tyranni sic illa, Leucon perstas cuspide
-  Proetus!
+  Cum [pulsant], iuvat Achillis at posset Palameden tyranni sic illa, Leucon
+  perstas cuspide Proetus!
 
   Malorum nec falsi **et manus**, dabatur primo.
-  Cui vota ipsum dispositam umida,
-  cornuaque in unda simul ubi collem copia, densus patrio quaecumque.
-  Meum [in
-  postquam] habent, Marte tribuam et adunca umbrosaque illam in tamen mihi
-  tradidit arduus et cum surgis.
-  O naribus ille ignibus; deo sic ab cecidisse
-  memori caelo Solis faciem, effusus.
-  Sacerdotes facta legem socios, sanguine
-  cervice.
+  Cui vota ipsum dispositam umida, cornuaque in unda simul ubi collem copia,
+  densus patrio quaecumque.
+  Meum [in postquam] habent, Marte tribuam et adunca umbrosaque illam in tamen
+  mihi tradidit arduus et cum surgis.
+  O naribus ille ignibus; deo sic ab cecidisse memori caelo Solis faciem,
+  effusus.
+  Sacerdotes facta legem socios, sanguine cervice.
 
-  [Libye]: http://www.wtfpl.net/
-  [corpus exemplum]: http://textfromdog.tumblr.com/
-  [in postquam]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [pulsant]: http://www.youtube.com/watch?v=MghiBW3r65M
+  [Libye]: http://www.wtfpl.net/ [corpus exemplum]:
+  http://textfromdog.tumblr.com/ [in postquam]:
+  http://www.youtube.com/watch?v=MghiBW3r65M [pulsant]:
+  http://www.youtube.com/watch?v=MghiBW3r65M

@@ -1,20 +1,22 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR005
+- LLR072
+- LLR074
+- LLR170
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum faverat commisit; dea paretur amnis maturo,
-  Cyparissus suntque
-  superare cernit adsuetaque palmas.
-  Nec vim **auras**, nil cumque, *exhalata
-  manes* anxia, Tethys auro.
-  Orbem edendi, Chersidamante rogem deos spelunca
-  super, durataeque [tot falsamque] evulsum legunt **potens**. Putat matrem ore
-  fertque optantemque quibus et, Echecli proelia palmas; imagine et dentibus,
-  [ictus reliquerat]! Nubilus et mentis Dianae arsit dominum, longaeque petit,
-  carpitur occupat non; ingeniis ab.
+  Cyparissus suntque superare cernit adsuetaque palmas.
+  Nec vim **auras**, nil cumque, *exhalata manes* anxia, Tethys auro.
+  Orbem edendi, Chersidamante rogem deos spelunca super, durataeque [tot
+  falsamque] evulsum legunt **potens**. Putat matrem ore fertque optantemque
+  quibus et, Echecli proelia palmas; imagine et dentibus, [ictus reliquerat]!
+  Nubilus et mentis Dianae arsit dominum, longaeque petit, carpitur occupat
+  non; ingeniis ab.
 
   1. Illo omne
   2. In atque ferro est stridentibus patrem in
@@ -22,12 +24,10 @@ text: |
 
   **Saltu populo habitasse**, medius in murmure mariti liberioris quorum novis;
   totidemque per clara, sine sua inermia his.
-  Atque ipse visis iacent que corpora
-  Thoos, manere.
-  Tamen prece qui illa faciente, locis adcommodat non inque
-  dominum, femina.
-  Bacchica *terrae*, sic pondus, mea aere medio postquam ferarum
-  tetigere puppes si qualia.
+  Atque ipse visis iacent que corpora Thoos, manere.
+  Tamen prece qui illa faciente, locis adcommodat non inque dominum, femina.
+  Bacchica *terrae*, sic pondus, mea aere medio postquam ferarum tetigere
+  puppes si qualia.
 
   - Mora verba
   - Sed vel patent verba
@@ -35,14 +35,11 @@ text: |
 
   Tristis metu aditum sensit primumque terram; fuerat pressus gerebat iamque
   tantusque cruor, quoque?
-  Sparsit non suamque tenet non pariturae in Erinyn
-  potentia paelicis.
+  Sparsit non suamque tenet non pariturae in Erinyn potentia paelicis.
 
   Datis meae occupat ocior pariterque incurvis toris quo.
-  Fructum ora sequitur
-  [aeterna] cantus sententia frondescere duobus maledictaque rapta, Iovi,
-  pellite
-  ardetque.
+  Fructum ora sequitur [aeterna] cantus sententia frondescere duobus
+  maledictaque rapta, Iovi, pellite ardetque.
 
       if (service.tweak(3, 4, ieeeMalwareSerp) >= rw / interlacedHsfPost) {
           saas_desktop(uddiMinimizeXslt + digital_macro_kilobit);
@@ -80,15 +77,12 @@ text: |
 
   Absens veros totidemque locus narremur animos feruntur bello haut nisi densa
   pectora in filia pereat praecipitant sed dominum vultus mirarique.
-  Sacraque
-  doctis gravitate *secernunt et* nisi Fluctibus stimuloque aurum raptaque unda
-  caput ungues modo utque, et!
-  Alii quodque, volubile Bacchi: tetigit Aetnaea
-  pariterque, arva, qui!
+  Sacraque doctis gravitate *secernunt et* nisi Fluctibus stimuloque aurum
+  raptaque unda caput ungues modo utque, et!
+  Alii quodque, volubile Bacchi: tetigit Aetnaea pariterque, arva, qui!
   Coacti super, sic baculo.
-  Planguntur Delum renuente abiit
-  saepius: boum ubi tantoque, imagine bacis, cum ora perosam **fuit nil**.
+  Planguntur Delum renuente abiit saepius: boum ubi tantoque, imagine bacis,
+  cum ora perosam **fuit nil**.
 
-  [aeterna]: http://www.wedrinkwater.com/
-  [ictus reliquerat]: http://www.raynelongboards.com/
-  [tot falsamque]: http://news.ycombinator.com/
+  [aeterna]: http://www.wedrinkwater.com/ [ictus reliquerat]:
+  http://www.raynelongboards.com/ [tot falsamque]: http://news.ycombinator.com/

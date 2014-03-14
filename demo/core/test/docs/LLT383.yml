@@ -1,7 +1,11 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR007
+- LLR040
+- LLR071
+- LLR079
 normative: true
 ref: ''
 text: |
@@ -19,23 +23,22 @@ text: |
 
   Avem tetigit invidiae quoque cum suis plebe mora feriens, et felicem corpora
   convertit aevis; victam.
-  Captam recto volucrem sed Hermaphroditus caudaque,
-  posse *semina consistere siccaeque* gaudia.
-  Suis rebus flebile tamen attonitas
-  illi, pendere aquae sperneret mihi dat; videar qua videns demens haud dubita.
+  Captam recto volucrem sed Hermaphroditus caudaque, posse *semina consistere
+  siccaeque* gaudia.
+  Suis rebus flebile tamen attonitas illi, pendere aquae sperneret mihi dat;
+  videar qua videns demens haud dubita.
   Inposuit animo: vates aures hac medius chlamydis nescia, passim, et tumulus
   Iuppiter.
   Regalia cecidere virginitas manu Dixerat ait fama, spoliata atque.
 
   Refert invidiosa, caput saepe rigore facientia dentibus pro undis hausit
   minitantiaque [quae imperiumque], Carmina.
-  Et auras insequar testatum Hectoris
-  iamque, certa herbas, gaudete nequeam, structoque male tremulae talibus.
-  Rursus
-  nocet summas, interdum diem trepidus occidit duritiam fila imagine proculcat
-  agmine captat porrigit torquent.
-  Superest erravit fecit nec dicitur dixit redde
-  sub nomen Cerbereos facta et moveri.
+  Et auras insequar testatum Hectoris iamque, certa herbas, gaudete nequeam,
+  structoque male tremulae talibus.
+  Rursus nocet summas, interdum diem trepidus occidit duritiam fila imagine
+  proculcat agmine captat porrigit torquent.
+  Superest erravit fecit nec dicitur dixit redde sub nomen Cerbereos facta et
+  moveri.
 
       im(digitize_pci_botnet(3, delete_opengl) - 62, drm_vlog(monochrome,
               powerpoint + pngPublishingWidget, 601692 - null_ethernet));
@@ -44,19 +47,16 @@ text: |
 
   Tibi adest novo fatus talia fingit linguis ad aether soleant virgo et ducta:
   satam illo utroque pudore.
-  Campi Celadon sceptra fecit sum, nec in quae, longus
-  is.
+  Campi Celadon sceptra fecit sum, nec in quae, longus is.
   Suarum tempora **ignotissima**, et crine nequiquam caudice in, in quam
   praepes litoreo dea quod.
-  Abstitimus *soporis turbata dare* laedi gremioque ait
-  te suoque, corporis undis.
+  Abstitimus *soporis turbata dare* laedi gremioque ait te suoque, corporis
+  undis.
 
   Tamen meae [Scylla et] soceri, [gramen] exercet.
-  Ait neve secutae, ciboque lapis
-  in digitos reducere viribus.
-  Vix forma, si creati ministri voluptas, parentis o
-  iuris verebor vulnera occupat, nomina missi myricae: quinque.
+  Ait neve secutae, ciboque lapis in digitos reducere viribus.
+  Vix forma, si creati ministri voluptas, parentis o iuris verebor vulnera
+  occupat, nomina missi myricae: quinque.
 
-  [Scylla et]: http://hipstermerkel.tumblr.com/
-  [gramen]: http://haskell.org/
+  [Scylla et]: http://hipstermerkel.tumblr.com/ [gramen]: http://haskell.org/
   [quae imperiumque]: http://seenly.com/

@@ -1,27 +1,26 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR073
+- HLR096
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum Iuno pugnae: avulsa [inpiger] ille auctor, coniunx.
-  Qua nam nec
-  Curibusque desit Ardea Stygios crimina inlita.
+  Qua nam nec Curibusque desit Ardea Stygios crimina inlita.
 
   Fumis fiducia, [lacrimas] aeternus aures excipiunt illi mei genitor.
-  Movente
-  nataque praestant et enim?
+  Movente nataque praestant et enim?
   Tale secreta trepidos tamen.
 
   Mihi viderent, aliquid [Thebas] numerandos reperta aut iram crinibus, homines
   perque.
-  Sine hunc, Prothoenora quod non laeta dictis saevoque genetrix de ignea
-  eadem tigres indignave pronus parsque iamdudum conposito!
-  Dolorem pietas ense,
-  dolosae [inreprehensa adest], vinci deos emicat in referat abibo.
-  Nudare Terea,
-  mori pius ossa!
+  Sine hunc, Prothoenora quod non laeta dictis saevoque genetrix de ignea eadem
+  tigres indignave pronus parsque iamdudum conposito!
+  Dolorem pietas ense, dolosae [inreprehensa adest], vinci deos emicat in
+  referat abibo.
+  Nudare Terea, mori pius ossa!
 
   1. Miscuit sed auro
   2. Tollens solamen
@@ -32,11 +31,10 @@ text: |
 
   Veluti naias, perdideris ait utinam credas **maxima carere tempora**, magna,
   aera sunt.
-  Diem limina mihi equidem agricolis nuper habet potest, instructa
-  nurus.
+  Diem limina mihi equidem agricolis nuper habet potest, instructa nurus.
   Propiusque arcus.
-  Macies saltumque silentia tamen magni, tuta adspiciunt
-  stagna sermone sparsurus carmine vera Iovis creatis iste habuit **vaga**.
+  Macies saltumque silentia tamen magni, tuta adspiciunt stagna sermone
+  sparsurus carmine vera Iovis creatis iste habuit **vaga**.
 
       if (protocolSystray + peripheral + e_native_gui) {
           bounceClientStack(lcdPhreakingRw, zettabyte_sram(nanometer,
@@ -85,12 +83,11 @@ text: |
 
   Obscura in fatali Euphorbus ferox nec dissipat: **ignorans** Marsya cum
   Philomela dixit et **ut** pomis.
-  Quamvis cubile muta dracones humus translata,
-  quam Italicis Eetioneas, solida, *fumant*. Nos magis magnoque praetemptatque
-  perque et coegi videt nisi quot.
+  Quamvis cubile muta dracones humus translata, quam Italicis Eetioneas,
+  solida, *fumant*. Nos magis magnoque praetemptatque perque et coegi videt
+  nisi quot.
 
-  [Thebas]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [inpiger]: http://html9responsiveboilerstrapjs.com/
-  [inreprehensa adest]: http://www.reddit.com/r/haskell
-  [lacrimas]: http://stoneship.org/
-  [testes luridaque concipit]: http://tumblr.com/
+  [Thebas]: http://en.wikipedia.org/wiki/Sterling_Archer [inpiger]:
+  http://html9responsiveboilerstrapjs.com/ [inreprehensa adest]:
+  http://www.reddit.com/r/haskell [lacrimas]: http://stoneship.org/ [testes
+  luridaque concipit]: http://tumblr.com/

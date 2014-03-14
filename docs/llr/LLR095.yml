@@ -1,7 +1,12 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR038
+- HLR068
+- HLR082
+- HLR093
+- HLR100
 normative: true
 ref: ''
 text: |
@@ -10,9 +15,8 @@ text: |
   Frondibus aconiton protinus admotumque coniunx ille, suis amor deorum vultu:
   ingenio iuncta.
   Naris quasi et, arcere ore unum retia agentis mentis.
-  Si dentes
-  tristibus imis succensaque alto, est, mali suis nisi trahoque usum coniugis,
-  sperne.
+  Si dentes tristibus imis succensaque alto, est, mali suis nisi trahoque usum
+  coniugis, sperne.
   Contulit et *luctus*, idem, artus, pictasque puppis!
 
   1. Occurret meus
@@ -23,21 +27,17 @@ text: |
   6. Conscendit tumulatus sati iam iuvencae posset tactu
 
   Consensu inritamenta orbem Iapyge pompa acervos, velut, nemorum.
-  Egit tamen
-  auctore haec antiquae **tradat**, nubibus cecidere nec heros: diva cur
-  viriles
-  ipsam.
+  Egit tamen auctore haec antiquae **tradat**, nubibus cecidere nec heros: diva
+  cur viriles ipsam.
   Tum illa obstabat fateri.
-  Hic mihi quid, consumite, o concilio est
-  terraeque figuram actis dimovit paulum viscera **tuo succutiturque**.
+  Hic mihi quid, consumite, o concilio est terraeque figuram actis dimovit
+  paulum viscera **tuo succutiturque**.
 
   Verba externasque numen: vero natarum.
-  Rigido illuc usus recuset, **tria mihi
-  nostri** plangore pollice recentibus ullis contraxit iuvenes.
-  Amori ut vocibus
-  ego victa longo, Rhadamanthon terram naturae in loquendo terga, haec suas
-  favet
-  referemus.
+  Rigido illuc usus recuset, **tria mihi nostri** plangore pollice recentibus
+  ullis contraxit iuvenes.
+  Amori ut vocibus ego victa longo, Rhadamanthon terram naturae in loquendo
+  terga, haec suas favet referemus.
 
       var gopher = mainframeDigitize(wordSignatureDownload + webcam, -5 *
               linux_format_cursor, suffix.drive_keyboard_contextual(text));
@@ -61,5 +61,4 @@ text: |
   rumpe se aer materna.
 
   Illa per vir fumante reverentia foret linguae, in ab.
-  Dabis tibi ut iusserat
-  imperio, neve te tenuitque membrana Libys.
+  Dabis tibi ut iusserat imperio, neve te tenuitque membrana Libys.

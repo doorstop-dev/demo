@@ -1,21 +1,20 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR164
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum et putes novissimus erat radios arbutus auras
-  contraxere: quae
-  digna delicuit, pomaque.
+  contraxere: quae digna delicuit, pomaque.
   Narrare corpusque tempore!
 
   Teneris videt deus mente in seque [cruentati innixus] illis numen valet
   arboribus nomen, sed nec potitus licet, tamen.
-  Tergo in lacrimis posse, si
-  metalla *adest*: mollit patuit quam.
-  Tunc [ambit in geminata] sagittis Cretenque
-  vidisse inerti ante marem texit se. *Iaculum reticere* in eadem Marsya?
+  Tergo in lacrimis posse, si metalla *adest*: mollit patuit quam.
+  Tunc [ambit in geminata] sagittis Cretenque vidisse inerti ante marem texit
+  se. *Iaculum reticere* in eadem Marsya?
 
       if (ppga(xmp, newsgroup) > unfriend) {
           metaBasebandRate(-4);
@@ -43,11 +42,10 @@ text: |
       }
 
   Pallentia paventque mirum!
-  Est tertia, dentes erat sternuntur laquei mittam:
-  vidistis, Liber, etiam, bracchia?
+  Est tertia, dentes erat sternuntur laquei mittam: vidistis, Liber, etiam,
+  bracchia?
   Et luget iunctis!
-  Ignibus pariter, sola
-  servantis dictis accessere aqua.
+  Ignibus pariter, sola servantis dictis accessere aqua.
 
   1. Quod dis illius dant naides
   2. Per esse vivere
@@ -55,20 +53,17 @@ text: |
   4. Coepta Mulciber puer concipe Philoctete esse
 
   Hac Hyrie Iuppiter ardent!
-  Rogos suae tuo **tonitribus loton insistere** haec
-  diros secuti mediis, per.
-  Deo hostem, et coepit piscator videret magnumque omnes
-  vulnera si amplexus hinc.
-  Divitibusque quod genetrice non membra magna foedat
-  ingratasque contactu umbras; sibi animam fecissent patris [atria fert].
+  Rogos suae tuo **tonitribus loton insistere** haec diros secuti mediis, per.
+  Deo hostem, et coepit piscator videret magnumque omnes vulnera si amplexus
+  hinc.
+  Divitibusque quod genetrice non membra magna foedat ingratasque contactu
+  umbras; sibi animam fecissent patris [atria fert].
 
   Plangore consistere, insequitur nullo [narretque] facerent operis, alia
-  amatam
-  taurus miserae.
-  In nostra est est diluvio, harenis **futuri in**, aut **corpora
-  mihi** mentior, ad ipsa orbem placet quaerit.
+  amatam taurus miserae.
+  In nostra est est diluvio, harenis **futuri in**, aut **corpora mihi**
+  mentior, ad ipsa orbem placet quaerit.
 
-  [ambit in geminata]: http://gifctrl.com/
-  [atria fert]: http://tumblr.com/
-  [cruentati innixus]: http://zeus.ugent.be/
-  [narretque]: http://reddit.com/r/thathappened
+  [ambit in geminata]: http://gifctrl.com/ [atria fert]: http://tumblr.com/
+  [cruentati innixus]: http://zeus.ugent.be/ [narretque]:
+  http://reddit.com/r/thathappened

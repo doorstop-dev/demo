@@ -1,28 +1,28 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR030
+- HLR032
+- HLR056
+- HLR072
 normative: true
 ref: ''
 text: |
   [Lorem markdownum **SHALL**] priorum **insequitur locutum temptasset** non
-  pelle [cum]
-  annis [septem] tenebris cinctaeque saepe omnes origine vivit lateri supplex
-  lacrimae.
-  Aiaci inde et aciem excipiunt volucri praeacutae inmitem *post*,
-  vitamque motu habebat aut et imagine Nelea iacta.
+  pelle [cum] annis [septem] tenebris cinctaeque saepe omnes origine vivit
+  lateri supplex lacrimae.
+  Aiaci inde et aciem excipiunt volucri praeacutae inmitem *post*, vitamque
+  motu habebat aut et imagine Nelea iacta.
   Commissaque haud?
-  Suus esse
-  adplauso, gentibus astu!
+  Suus esse adplauso, gentibus astu!
 
   Fuit ut tumuli tua densior opus animalia gratior, Eryx.
-  Relicta altum victricia,
-  miserere curvi rapiunt ante, in partes fores.
-  Mei iusta Ampycides Titania
-  sceptri cum mihi harundine clades concilium ereptaque et tunc; nox.
-  Fulmen
-  humana placuisse quaeque tresque labens, ad o vocem ingens sensim, rura dea,
-  ut.
+  Relicta altum victricia, miserere curvi rapiunt ante, in partes fores.
+  Mei iusta Ampycides Titania sceptri cum mihi harundine clades concilium
+  ereptaque et tunc; nox.
+  Fulmen humana placuisse quaeque tresque labens, ad o vocem ingens sensim,
+  rura dea, ut.
   Loquenti creatus, et modo coluit.
 
       if (client_ipx_spooling * edi_access + dv <= -1 + compressionVolume) {
@@ -40,12 +40,10 @@ text: |
       }
 
   *Et pocula quique* parvoque quem quo hostes dicta crimen in quod.
-  Pectore iam
-  dixere gaudete rubentia ulterius, tetigisse natum, satyri.
-  Locumque et
-  nostrisque arte clausas, tam neque, *utque* tardantis concitus, habet.
-  Manum
-  *vitat* ante ageret Pelates, cum quid verso per.
+  Pectore iam dixere gaudete rubentia ulterius, tetigisse natum, satyri.
+  Locumque et nostrisque arte clausas, tam neque, *utque* tardantis concitus,
+  habet.
+  Manum *vitat* ante ageret Pelates, cum quid verso per.
 
       if (deprecated.widget.lossless_tooltip_margin(clipboard.mediaMatrix(
               mainframe_arp_whois, 4, -3), halftone_dram(page, isdn, 3),
@@ -61,24 +59,18 @@ text: |
 
   *Manus* levibus speciem: inquit bella porrigeret: aliis ista alarum, ut sic
   conplexaque ante sedes aeternas laevo.
-  Fuit exemplis iniuria multo removit
-  coeunt quid, ausa vada, in fertur Cephalum mediis ut in.
-  Medere refero nives
-  eripe dum accepto tibi contemptor sorte se quam?
+  Fuit exemplis iniuria multo removit coeunt quid, ausa vada, in fertur
+  Cephalum mediis ut in.
+  Medere refero nives eripe dum accepto tibi contemptor sorte se quam?
 
   Dixit patienda pectora, fiunt faciat celare caelo; poterisne concrevit
-  potest,
-  poena terram Romana coniuge.
+  potest, poena terram Romana coniuge.
   Fugit tamen illa quem ex pavidus plebe.
-  Ille
-  coluique bis mora stringit cruorem.
-  Neve aetas stamina *vero profecto paene*
-  lambentem ibi non corpora [fortibus in hunc]! Cum et matris sua discumbere
-  inquit, posuit cratere doloris consequitur longas crinem haerent Minoide
-  trahar
-  exitus.
+  Ille coluique bis mora stringit cruorem.
+  Neve aetas stamina *vero profecto paene* lambentem ibi non corpora [fortibus
+  in hunc]! Cum et matris sua discumbere inquit, posuit cratere doloris
+  consequitur longas crinem haerent Minoide trahar exitus.
 
-  [Lorem markdownum]: http://kimjongunlookingatthings.tumblr.com/
-  [cum]: http://html9responsiveboilerstrapjs.com/
-  [fortibus in hunc]: http://news.ycombinator.com/
-  [septem]: http://haskell.org/
+  [Lorem markdownum]: http://kimjongunlookingatthings.tumblr.com/ [cum]:
+  http://html9responsiveboilerstrapjs.com/ [fortibus in hunc]:
+  http://news.ycombinator.com/ [septem]: http://haskell.org/

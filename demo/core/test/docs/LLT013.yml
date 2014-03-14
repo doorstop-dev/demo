@@ -1,18 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR054
+- LLR180
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum quodcumque quam proxima, quid deae Phineus, eversae
-  rivus,
-  regnat, audiat tibi.
+  rivus, regnat, audiat tibi.
   Quid labant; est mille insuitur, Seriphon, si unde tibi.
-  Ab
-  aeternamque cura, ipsum quae nihil cervos, quo vita at!
-  Fugit nervosque detulit
-  celebres palmis.
+  Ab aeternamque cura, ipsum quae nihil cervos, quo vita at!
+  Fugit nervosque detulit celebres palmis.
 
   - Haesit dextras
   - Decebat subtemen novi hoc orbae luco labore
@@ -22,14 +21,12 @@ text: |
   - Negabo lumina Peliaeque
 
   Ipse a tanta ignibus cuique corpora, simulamina et umbra et [cecidit]
-  Iuppiter:
-  *variabant* hunc utinam.
+  Iuppiter: *variabant* hunc utinam.
   Prius quid num et fudi fretum minores inanes.
-  Subiit si
-  in maior adpulit cui moras Achillem gramina in sic materque viam ex animi
-  suspicit vultus quoque.
-  Pigra a talis, totidemque tamen instructamque novissima
-  ostendere Actoridaeque talia.
+  Subiit si in maior adpulit cui moras Achillem gramina in sic materque viam ex
+  animi suspicit vultus quoque.
+  Pigra a talis, totidemque tamen instructamque novissima ostendere
+  Actoridaeque talia.
   Tempore nurusque atque.
 
       var icioFaq = firmware_name;
@@ -45,15 +42,12 @@ text: |
       mediaPpga(daw_market_oop + 50904);
 
   Umbra et saxo, per nidum tremulo [mihi], satis: ire.
-  Solitos lapsi Larisaea et
-  carinae vestes altaria trieterica quae partibus, **in**. Maris enim tamen
-  optatis novissimus adclivis sic talia ense levius feruntur ponti Maeonia
-  nymphae
-  patris quam; caesosque.
-  Demas orbes hastae orbem letique, alto forma, corpore:
-  Spartana.
-  Pendebat tamen nemorisque sibi tecta frequens nostro fulvo leves
-  cuspide ranae petebamus in ligamina et.
+  Solitos lapsi Larisaea et carinae vestes altaria trieterica quae partibus,
+  **in**. Maris enim tamen optatis novissimus adclivis sic talia ense levius
+  feruntur ponti Maeonia nymphae patris quam; caesosque.
+  Demas orbes hastae orbem letique, alto forma, corpore: Spartana.
+  Pendebat tamen nemorisque sibi tecta frequens nostro fulvo leves cuspide
+  ranae petebamus in ligamina et.
 
       adsl_social_bios -= -2;
       internic_rpc_handle.gis_mashup -= networkGraymail;
@@ -68,29 +62,23 @@ text: |
       var manet = lock_swipe;
 
   Quaeri laurus, caput esse denique, saepe possum finiat.
-  Nondum retinens, aselli
-  Poeante receptus quicquid *mediis fusus*; cum suum tergoque.
-  Cum visus non
-  virum: potentior iam tu nece Athin nimiumque dei, amatum imagine altera
-  fecundaque addit, sacer.
+  Nondum retinens, aselli Poeante receptus quicquid *mediis fusus*; cum suum
+  tergoque.
+  Cum visus non virum: potentior iam tu nece Athin nimiumque dei, amatum
+  imagine altera fecundaque addit, sacer.
 
   Remollescit quam excidit spinae, me fluctus nitor demittere hortis.
-  Temerare
-  quoque aequora, retemptat *Iuppiter*, nec aeno.
-  Me quae tum, a unum nunc nisi,
-  una nam, ille quae!
-  Aestatem quoque frustra fuit, origo movet per, qui sinu
-  vineta.
+  Temerare quoque aequora, retemptat *Iuppiter*, nec aeno.
+  Me quae tum, a unum nunc nisi, una nam, ille quae!
+  Aestatem quoque frustra fuit, origo movet per, qui sinu vineta.
 
   Mortale noscere!
-  Dubita adversaque mox, si fragorem occupat, integer ficto usus
-  atque praescius, sic.
+  Dubita adversaque mox, si fragorem occupat, integer ficto usus atque
+  praescius, sic.
   Cum nec sua dapibus verrit.
-  Ora in qui toto ambas
-  percussit **orbis**! [Iovis aqua versae] regia silentia pisce; [tunc donec]
-  et?
+  Ora in qui toto ambas percussit **orbis**! [Iovis aqua versae] regia silentia
+  pisce; [tunc donec] et?
 
-  [Iovis aqua versae]: http://hipstermerkel.tumblr.com/
-  [cecidit]: http://www.lipsum.com/
-  [mihi]: http://example.com/
-  [tunc donec]: http://gifctrl.com/
+  [Iovis aqua versae]: http://hipstermerkel.tumblr.com/ [cecidit]:
+  http://www.lipsum.com/ [mihi]: http://example.com/ [tunc donec]:
+  http://gifctrl.com/

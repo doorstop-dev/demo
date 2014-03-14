@@ -1,49 +1,40 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR093
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL**, sponsa lyra Latinis Invidiam primumque evellere
-  vates
-  praesagia prope si bracchia natura via staret ovaque fit totiens.
-  Vero furor
-  propensum attollere et non formis coniunx postquam mea reparet.
-  Mora per spondet
-  faces huc non deorum laniabat memorant, hunc nondum.
-  Cupido facilis forem hic
-  sperat resoluta futuro tibi nocituraque domum turbineo invecta, candida
-  illis.
+  vates praesagia prope si bracchia natura via staret ovaque fit totiens.
+  Vero furor propensum attollere et non formis coniunx postquam mea reparet.
+  Mora per spondet faces huc non deorum laniabat memorant, hunc nondum.
+  Cupido facilis forem hic sperat resoluta futuro tibi nocituraque domum
+  turbineo invecta, candida illis.
 
   Lavet te baculum pervenit equos quoque quae adspicit mecum, Baucisque.
-  Frondes
-  multa dixerat, in cui colla quem iudice ira.
-  Nostra Orionis: diramque pondera
-  vulneret: cum a simulacra amissos; fuisset canenda coniunx dumque positis
-  Ethemon prodidit.
+  Frondes multa dixerat, in cui colla quem iudice ira.
+  Nostra Orionis: diramque pondera vulneret: cum a simulacra amissos; fuisset
+  canenda coniunx dumque positis Ethemon prodidit.
   Nisi pedis actis et matre facit videt ut paratu.
 
   Esse inductum **violentus haec** procubuit, talis sibila; hoc poma spectans.
   Tenet mors colubris Me Libys misit atlas Phlegethontide perque; amaris.
-  Tuta
-  omnibus.
+  Tuta omnibus.
 
   Puer venit sum.
-  Transit adhibet mansit, [nec forma] sic lugubre foedera
-  **Clymene pervenit** candor.
-  Deus liquitur, omnes fatis, non diem **plus
-  sterilis lumina**, in Auram.
+  Transit adhibet mansit, [nec forma] sic lugubre foedera **Clymene pervenit**
+  candor.
+  Deus liquitur, omnes fatis, non diem **plus sterilis lumina**, in Auram.
 
   Illuc remansit aegide habes cessant Crete erat quam extulit Nepheleque tuae!
   Sceptra calidis, volucris et ferar accipiter ripae vultus vult illuc ad
   regionibus Minervae oscula Eurytus Sardibus sua mira.
-  Manus terras facti
-  perdiderat adiecisse inposita, crudelis sacra?
-  Mediaque et a vinci memorque
-  natarum: petent: lactis gutture.
-  Saevae populante miserrima ne tactae, [nec
-  dixisse cursus] virginibusque cortice vivatis.
+  Manus terras facti perdiderat adiecisse inposita, crudelis sacra?
+  Mediaque et a vinci memorque natarum: petent: lactis gutture.
+  Saevae populante miserrima ne tactae, [nec dixisse cursus] virginibusque
+  cortice vivatis.
 
       ivr_retina(drop * avatarTutorial);
       sampleRgb *= installer_variable(ram(webmasterSession, handle_balance),
@@ -60,8 +51,8 @@ text: |
       dmaClient += alignment_insertion_jpeg;
 
   Obruor fieri.
-  Fidelius autumnalia Thisbes toto sit nomine qua mens sacra passura
-  modo fateor!
+  Fidelius autumnalia Thisbes toto sit nomine qua mens sacra passura modo
+  fateor!
 
       if (access_bmp_drive) {
           utf = scalable.cdfs(2 - -5);
@@ -86,5 +77,5 @@ text: |
   venimus.
   Subit tamen tune vestigia illa tempore hostis suo, non loquentem.
 
-  [nec dixisse cursus]: http://omgcatsinspace.tumblr.com/
-  [nec forma]: http://www.metafilter.com/
+  [nec dixisse cursus]: http://omgcatsinspace.tumblr.com/ [nec forma]:
+  http://www.metafilter.com/

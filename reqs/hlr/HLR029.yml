@@ -1,17 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS004
+- SYS027
+- SYS048
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** **siquidem si natus** male liceat in pollice
-  *solis dextram*
-  vulnera, *frustra*? Laude non horas missum doluit violentus [mutari]
-  gravisque
-  malis *moderamen* vulnus.
-  Mollire nos, et terret et faciente, iam extemplo
-  videre Aulidaque genitor damnum, aera.
+  *solis dextram* vulnera, *frustra*? Laude non horas missum doluit violentus
+  [mutari] gravisque malis *moderamen* vulnus.
+  Mollire nos, et terret et faciente, iam extemplo videre Aulidaque genitor
+  damnum, aera.
 
   1. Est hoc novo invidiam
   2. Dies spatio aenum adhuc in veluti in
@@ -21,14 +22,12 @@ text: |
   6. Parcite faciebant Circen nec parente loci res
 
   Vana inscius factas, ante proles: o quam hanc quaeris Lelegeia.
-  Tritona in
-  membra an pectore, te continuo invenio?
-  Similis necari Alcmene iugalia habebam,
-  Phaethon, potiorque venit, *sperne*, vale nil vocem!
-  Pro Propoetides levis
-  inferiora amori **credidit liquidas magis** macies, Thybris sororis.
-  Late cogor
-  vitibus et, vos deo et est facitote perque et coniunx doctae.
+  Tritona in membra an pectore, te continuo invenio?
+  Similis necari Alcmene iugalia habebam, Phaethon, potiorque venit, *sperne*,
+  vale nil vocem!
+  Pro Propoetides levis inferiora amori **credidit liquidas magis** macies,
+  Thybris sororis.
+  Late cogor vitibus et, vos deo et est facitote perque et coniunx doctae.
 
   *Quae bella* oculis edidit Byblida hanc, sed interque, manemus caelo
   formamque.
@@ -59,12 +58,9 @@ text: |
 
   Et Circaea alti nigris iter: mihi petit maxime **turis** rettulit praedone in
   aevum litora cineres sinistra etiamnum optatae vix.
-  Sunt causamque letalis mea
-  inde ubi adspexit venae, caelo Troiam.
-  Redeuntis arboreis paciscitur pedum me
-  clara Salmacis, auctore natos Echionides senectae, non in ludit odio vocalia
-  vicinia.
+  Sunt causamque letalis mea inde ubi adspexit venae, caelo Troiam.
+  Redeuntis arboreis paciscitur pedum me clara Salmacis, auctore natos
+  Echionides senectae, non in ludit odio vocalia vicinia.
   Candida Apollineae potat contemptrix ortas.
 
-  [corpore]: http://jaspervdj.be/
-  [mutari]: http://www.raynelongboards.com/
+  [corpore]: http://jaspervdj.be/ [mutari]: http://www.raynelongboards.com/

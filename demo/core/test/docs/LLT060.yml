@@ -1,50 +1,45 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR076
+- LLR117
+- LLR176
+- LLR193
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum umeris.
-  Et pars pereo pallet aranea accipit animo iunctamque
-  metum.
-  Omni tamen mea Boreae mihi saevit corpore inposuit quo procubuit in
-  Procris primo est sumere *Aeacus Gorgonei* ausus.
+  Et pars pereo pallet aranea accipit animo iunctamque metum.
+  Omni tamen mea Boreae mihi saevit corpore inposuit quo procubuit in Procris
+  primo est sumere *Aeacus Gorgonei* ausus.
 
   Petentem in imbres soluto in veniam pompae.
-  Perosus *quos*: temptantes ira mihi
-  quaesitus Aurora ter potest?
-  Hic in mala tu vocat; placato multa, angulus,
-  minimo.
+  Perosus *quos*: temptantes ira mihi quaesitus Aurora ter potest?
+  Hic in mala tu vocat; placato multa, angulus, minimo.
 
   Albentia boum: iubet densis.
-  Sidonida mea, dum harum relatus dies, poscit armo
-  [renovat], quos Cinyran.
-  Natorum quos terra moderamine se nisi. **Deae** Caras
-  laboris veteres, quamvis.
+  Sidonida mea, dum harum relatus dies, poscit armo [renovat], quos Cinyran.
+  Natorum quos terra moderamine se nisi. **Deae** Caras laboris veteres,
+  quamvis.
 
   Dabant pudorque concilio soror ferax aequoreae pius, [superavit alios].
-  Coniecit
-  poteris et novis secum.
+  Coniecit poteris et novis secum.
 
   Nymphe sola terram in certa imperium tenentes quae sed sed ambo, tellus.
   Venatibus prodere undis liquidarum **quanto**.
 
   Talibus suos iterum animos; Cereri ingenti dummodo imagine mei videntur
   sacrifica auro colebat muris.
-  Quod coniugii, florebat **detectique** iuvenes
-  vires!
+  Quod coniugii, florebat **detectique** iuvenes vires!
   Circumspicit nunc extemplo, nostro.
-  Quidem ille, inde dixit, parentem
-  superabat sensit ut medium aequoris germanam iaculum.
-  Venientesque sedes decimum
-  exsangues **vescitur** hac eligit humum?
+  Quidem ille, inde dixit, parentem superabat sensit ut medium aequoris
+  germanam iaculum.
+  Venientesque sedes decimum exsangues **vescitur** hac eligit humum?
 
   Vulnere quam quoque, quam maledicere constitit exacta fragore Phoenix
-  adspicias
-  sospes; aliquis sedem: nisi stridore.
-  Et spectare satis indicio **cornua**
-  credite, et cruoris arbore!
+  adspicias sospes; aliquis sedem: nisi stridore.
+  Et spectare satis indicio **cornua** credite, et cruoris arbore!
   Enixa mors Troades Tyrioque affata.
 
   - Insequar veteres demisso
@@ -55,10 +50,8 @@ text: |
   Sic post in [superator levis vitatumque] Iovem [dixere quem] denique, diversa
   tunc, curvos mirabile premuntur sacra.
   Cornua caedis, me in horrenda!
-  Est maesta
-  testari et dolens sitis orbataque fata gaudet causa, arbor.
+  Est maesta testari et dolens sitis orbataque fata gaudet causa, arbor.
 
-  [dixere quem]: http://www.mozilla.org/
-  [renovat]: http://news.ycombinator.com/
-  [superator levis vitatumque]: http://news.ycombinator.com/
-  [superavit alios]: http://www.wtfpl.net/
+  [dixere quem]: http://www.mozilla.org/ [renovat]:
+  http://news.ycombinator.com/ [superator levis vitatumque]:
+  http://news.ycombinator.com/ [superavit alios]: http://www.wtfpl.net/

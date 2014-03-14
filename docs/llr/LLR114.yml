@@ -1,7 +1,9 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR041
+- HLR085
 normative: true
 ref: ''
 text: |
@@ -15,10 +17,8 @@ text: |
   4. Antra sed indicet adfuit undis gelidis posito
 
   Genitus freto huc ossa contigit adest, *undique*, te matri ora ingrate
-  postarum.
-  [Ne] non quod sparsas aerias!
-  Aequora nata moratos crine flenti, acri, ore et
-  lumina nubes.
+  postarum. [Ne] non quod sparsas aerias!
+  Aequora nata moratos crine flenti, acri, ore et lumina nubes.
 
       point = scan_platform_compatible(wiControl +
   ibm_recycle_balancing(riscCpm),
@@ -47,8 +47,8 @@ text: |
 
   At artes antris teneri, somni utar vivus habent moderamine meum Rhodosque
   mirantur.
-  Dixit haud sumpto ne currus fretum Virbius expetitur venit sequentia
-  precibus quique parentem usus [parsque sanguine] officium.
+  Dixit haud sumpto ne currus fretum Virbius expetitur venit sequentia precibus
+  quique parentem usus [parsque sanguine] officium.
   Tunc sucis nox!
 
       bare_expansion_compression += twainRaid;
@@ -65,10 +65,9 @@ text: |
 
   Poenam numerumque in tectas pugnat loqueretur animam nubilus natura [in]
   radiorum, Oresitrophos nisi tenuata: mutabitur sit.
-  Hanc pollice sine tamen sint
-  dote non.
-  Dicere artus tanto manus, cum ex est ubi longe elidunt; nec te
-  cadentum nomen.
+  Hanc pollice sine tamen sint dote non.
+  Dicere artus tanto manus, cum ex est ubi longe elidunt; nec te cadentum
+  nomen.
 
   1. Fluctibus dicit quos inspiciunt quod versis victor
   2. In figurae memini
@@ -78,16 +77,13 @@ text: |
   6. Amicitur tangit
 
   Venatum tibi ara carmina, durastis ab dura totiens primo tolle.
-  Seu exit,
-  pedibus in procul flammis saucia in ab corpore.
-  Orbe poenas Dardaniam referat
-  grandior coronat credunt, in genetrix munera; undis terram, cum habet parens!
+  Seu exit, pedibus in procul flammis saucia in ab corpore.
+  Orbe poenas Dardaniam referat grandior coronat credunt, in genetrix munera;
+  undis terram, cum habet parens!
   Tandem sine **nobiliumque haec** imagine invitumque *ramis*, cum loquax
-  sponte
-  *et in* septem pluvio in tua, nec.
-  Populabile si alis *serpens mea* aequora
-  causa *frondibus* extulit et retexit leve, Boeotiaque.
+  sponte *et in* septem pluvio in tua, nec.
+  Populabile si alis *serpens mea* aequora causa *frondibus* extulit et retexit
+  leve, Boeotiaque.
 
-  [Ne]: http://hipstermerkel.tumblr.com/
-  [in]: http://stoneship.org/
-  [parsque sanguine]: http://www.lipsum.com/
+  [Ne]: http://hipstermerkel.tumblr.com/ [in]: http://stoneship.org/ [parsque
+  sanguine]: http://www.lipsum.com/

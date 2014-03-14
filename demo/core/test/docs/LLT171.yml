@@ -1,16 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR028
+- LLR171
 normative: true
 ref: ''
 text: |
   [Verify lorem markdownum] cupit pontus tutela, calidumque mediae.
   Scilicet repetiti.
   Tum lucis primos soliti, alterius iacentes protinus dedit gerens.
-  Mihi umor aera
-  illi, Agenore summa: Graecia aestuat lauroque: sed ille Icarus me et,
-  harenam.
+  Mihi umor aera illi, Agenore summa: Graecia aestuat lauroque: sed ille Icarus
+  me et, harenam.
 
       if (zettabyte_certificate_topology.kbps(tooltip_switch_nui,
               buffer_username_webcam.ring(driveMarketDisk(radcabClip)),
@@ -33,13 +34,12 @@ text: |
 
   Neptunus innumeris inque cervus suspicor; sceleri, tollit quod, quandoquidem
   tectaque; est dicam!
-  Moenibus in ne capitis non refert receptis et pulchra
-  pudet; fas *dulci discusso te* Eridanus placida theatro litora tertia?
-  Maiestas
-  consederat **vocisque** moderata incidis segetes everti, tum bella
+  Moenibus in ne capitis non refert receptis et pulchra pudet; fas *dulci
+  discusso te* Eridanus placida theatro litora tertia?
+  Maiestas consederat **vocisque** moderata incidis segetes everti, tum bella
   paupertatemque spectat!
-  Aesonides oro opus dubitare gemellam modo scelerataque
-  domus atque matri iste quam tibi calido!
+  Aesonides oro opus dubitare gemellam modo scelerataque domus atque matri iste
+  quam tibi calido!
 
   1. Sub obsessa adpareat summissoque adeam sequitur lumina
   2. Loquentis mala arguit
@@ -52,12 +52,11 @@ text: |
   velantibus.
   Insula [vivusque morantia]; in quae vos subiectum, celer crines, Acrisioneas
   dubitabat utque.
-  Illis at declinet Erymanthidas uni recanduit pectora in
-  sacraque quo hosti tua sororem copia!
-  Lato est mea Calydonida, aut moratus
-  dolentius, per quae membra tepente.
-  Saepius obstipuit classi deposuit, usum, et
-  **sic esse**, vindicat quaecumque ruit, missa!
+  Illis at declinet Erymanthidas uni recanduit pectora in sacraque quo hosti
+  tua sororem copia!
+  Lato est mea Calydonida, aut moratus dolentius, per quae membra tepente.
+  Saepius obstipuit classi deposuit, usum, et **sic esse**, vindicat quaecumque
+  ruit, missa!
 
   1. Committere claudit parentque aesculus ut ore abest
   2. Diversas soporem
@@ -66,12 +65,11 @@ text: |
   5. Priori res et nati amplexibus tamen adspicit
 
   Sacro servet renovataque inobrutus tuque, repellit.
-  Uritur essem bovis enim
-  dixit **mane coniuge fregit** inmansuetumque praeceps.
-  Vulnera tendit vinclis
-  Tyria oppressit et dixerat armis meas, hoc artus sidereos patria.
-  Sic aetas
-  artes *frustra* artes pestis, misit et simul.
+  Uritur essem bovis enim dixit **mane coniuge fregit** inmansuetumque
+  praeceps.
+  Vulnera tendit vinclis Tyria oppressit et dixerat armis meas, hoc artus
+  sidereos patria.
+  Sic aetas artes *frustra* artes pestis, misit et simul.
 
       urlPpga.kerning = camera;
       standalone(repository_service * 4 / errorEps + 3, desktop_column_non, 4 +
@@ -79,13 +77,11 @@ text: |
       e(linux_drop_up, 3);
 
   Cyllenius viderat honorem possent.
-  Phrygias illa sumptaque bellaque derigere,
-  quid illo [sagax pallada] contingere gentis vitamque?
-  Silet nulli pariterque at
-  rogos [iacent], cum sanguine candore!
+  Phrygias illa sumptaque bellaque derigere, quid illo [sagax pallada]
+  contingere gentis vitamque?
+  Silet nulli pariterque at rogos [iacent], cum sanguine candore!
   Detrectas silva *aquilonibus tanto*!
 
-  [Lorem markdownum]: http://omfgdogs.com/
-  [iacent]: http://www.reddit.com/r/haskell
-  [sagax pallada]: http://landyachtz.com/
+  [Lorem markdownum]: http://omfgdogs.com/ [iacent]:
+  http://www.reddit.com/r/haskell [sagax pallada]: http://landyachtz.com/
   [vivusque morantia]: http://landyachtz.com/

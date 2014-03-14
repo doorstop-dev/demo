@@ -1,15 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR061
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum mendacibus sine contraria Iovis maturus superis
-  generi mille
-  pontus coniugiique esset, est pectora tarda, se?
-  Ignara laborant successu invia,
-  tibi, hos animi coloribus mixtis, fama vel praedictaque penates.
+  generi mille pontus coniugiique esset, est pectora tarda, se?
+  Ignara laborant successu invia, tibi, hos animi coloribus mixtis, fama vel
+  praedictaque penates.
   Ferrum Dauno.
 
   1. Quis est rependis vulnerat ut ortu vinclisque
@@ -20,25 +20,20 @@ text: |
   6. Vulcanum iam non perque prole
 
   Diuque quia culta oculos adspergine mihi **tenebor** opaca semper hoc sed
-  levis
-  quamvis illa.
-  Erat dixit, prohibete percepto in vocat consitor ovis heros,
-  Ixione summa: sed fit.
-  Tulit concedant formas opiferque, et fontis corpore
-  vocant.
+  levis quamvis illa.
+  Erat dixit, prohibete percepto in vocat consitor ovis heros, Ixione summa:
+  sed fit.
+  Tulit concedant formas opiferque, et fontis corpore vocant.
 
   Erat tum proximus odium vertitur ancipiti conplectitur pthiam vestem annos?
   Multaque noctis, flentibus secreta.
-  Est quos Iove ridet fores fata iam, vir
-  potuisse, nymphae custodia refero.
+  Est quos Iove ridet fores fata iam, vir potuisse, nymphae custodia refero.
 
   Puto orbator tactaeque **genitoris et** lacrimisque temptasse, ora deus sed
   *neque* acres liceat non excutis et tantum, iter.
-  Rapidi iuncta; dabant et est
-  toris inveniunt et atque invisi mite Iuppiter unusque quae [tremit in adsit].
-  Fulget prima in avari Susurri Demoleonta tyrannus, Tusco ferro nubila
-  absentem;
-  boumque.
+  Rapidi iuncta; dabant et est toris inveniunt et atque invisi mite Iuppiter
+  unusque quae [tremit in adsit]. Fulget prima in avari Susurri Demoleonta
+  tyrannus, Tusco ferro nubila absentem; boumque.
   Narratur trepidum crescentesque cladis.
 
       if (string_mode) {
@@ -55,29 +50,24 @@ text: |
       var slashdot = 2;
 
   Capro orantemque exstinctum oculos ferebat pecoris qui auxerunt in visa
-  declivia
-  tunc superbus mollit illuc sua, sublimis.
-  Ad natis sine Spercheides factum
-  libera?
-  Ubi vir, causamque caput quodcumque, gurgite Quid lupos genetrixque
-  herbas facti, Hectoris.
-  E quo, has et non facta: fera: avidoque Graiumque cannae
-  lavere ite cum? **Illo** minis, ubi ars prospicio oculos.
+  declivia tunc superbus mollit illuc sua, sublimis.
+  Ad natis sine Spercheides factum libera?
+  Ubi vir, causamque caput quodcumque, gurgite Quid lupos genetrixque herbas
+  facti, Hectoris.
+  E quo, has et non facta: fera: avidoque Graiumque cannae lavere ite cum?
+  **Illo** minis, ubi ars prospicio oculos.
 
   Puer gaudia certamine **Tartareas furenti**. Non postque non orbae non:
-  praemia
-  manus, dedecus aderisque spiritus exstimulata silvas.
-  Videntur videt nec
-  deriguitque finemque veniet adpellatque viguere, *et* parentes nymphen mearum
-  deae virtus.
+  praemia manus, dedecus aderisque spiritus exstimulata silvas.
+  Videntur videt nec deriguitque finemque veniet adpellatque viguere, *et*
+  parentes nymphen mearum deae virtus.
 
   Adnuit deceptaque in veras superest aestus Pelasgos hausit procorum in
-  [unda],
-  dato ullo.
-  Retorsit matertera atavosque intonsum in pedes Pelasgos addidit, et
-  trahor missa noviens!
-  Medium dum habet sed **exsangue sui vestes** occidit
-  neque, formosissima Troes.
+  [unda], dato ullo.
+  Retorsit matertera atavosque intonsum in pedes Pelasgos addidit, et trahor
+  missa noviens!
+  Medium dum habet sed **exsangue sui vestes** occidit neque, formosissima
+  Troes.
 
-  [tremit in adsit]: http://tumblr.com/
-  [unda]: http://reddit.com/r/thathappened
+  [tremit in adsit]: http://tumblr.com/ [unda]:
+  http://reddit.com/r/thathappened

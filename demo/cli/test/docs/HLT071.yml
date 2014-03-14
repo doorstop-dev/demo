@@ -1,38 +1,35 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR032
+- HLR050
+- HLR062
+- HLR068
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum quo addita, in ventos verbere.
-  Pariterque tamen pectore;
-  crepitantia flectunt sonus sol formae ut Hippomenes.
-  Mater herba saepe rerum
-  annos, sub per, volat ventura; idque posset tibi.
-  Nostra enim ferre [sed]
-  volucrem reliquit hostes, nihil.
-  Cum caderet fretum cornu: propinquos sentiet
-  fuit adeste cui et studii Veneri tenebat.
+  Pariterque tamen pectore; crepitantia flectunt sonus sol formae ut
+  Hippomenes.
+  Mater herba saepe rerum annos, sub per, volat ventura; idque posset tibi.
+  Nostra enim ferre [sed] volucrem reliquit hostes, nihil.
+  Cum caderet fretum cornu: propinquos sentiet fuit adeste cui et studii Veneri
+  tenebat.
 
   1. Et plura
   2. Penna et tacitorum curvos spectare
   3. Scyrumve cerva
 
   Eram [occupat] Lycaon revolet quas ignifero haec sint: si peto.
-  Ubi [dixit vite
-  fecit] infelix deductas glomerata caperet, non fera, est.
-  Referebat honos,
-  solent, hostisque incubuit potes undas; summisque fronte, corpora ripa?
-  **Luce
-  sub** est Erycis [obvius], modo axis vitae inprovisoque cauda, nudaque,
-  bracchiaque adorat boves fulminibus carmen; sub.
+  Ubi [dixit vite fecit] infelix deductas glomerata caperet, non fera, est.
+  Referebat honos, solent, hostisque incubuit potes undas; summisque fronte,
+  corpora ripa? **Luce sub** est Erycis [obvius], modo axis vitae inprovisoque
+  cauda, nudaque, bracchiaque adorat boves fulminibus carmen; sub.
 
   Dotatissima caeleste duodena contra exsequitur odoratis dubita nitenti
-  quantum,
-  attrahit.
-  Sorores peregit laborant pellis poenaeque; insigne fractae ave tu
-  ilex.
+  quantum, attrahit.
+  Sorores peregit laborant pellis poenaeque; insigne fractae ave tu ilex.
   Erat somni horruit amor, trabeati corpore nulla ab, [ense] cervos germanae
   latratu tantoque!
   Quod tectis, **ore** date ludere totidemque Daphnidis.
@@ -49,26 +46,20 @@ text: |
 
   Quos manibus sed sacri [hostem] divinae: annos gentem vixque sorores depresso
   praeda.
-  Relinquam dubitat maris armiferae clarus silex decusque sepulti
-  [superabitur mihi feruntur] raptamque adverti recondidit vires, amet?
-  Quid Arne
-  aere is comes traditque *lucoque quid* fit volucres.
-  Potuit quidem exaudi; nati
-  laceratur vestras.
+  Relinquam dubitat maris armiferae clarus silex decusque sepulti [superabitur
+  mihi feruntur] raptamque adverti recondidit vires, amet?
+  Quid Arne aere is comes traditque *lucoque quid* fit volucres.
+  Potuit quidem exaudi; nati laceratur vestras.
 
   In quoque ingens imperio, me undis.
   Adspiceres volantes iaculi mens?
-  Cum quae
-  rite ecce sua vides in inque adspicis est ripam referitur.
-  Vetustas positos
-  putes: oculis ubi, fecunda sic vocem conlapsa videtur: fictos quae.
-  Exurunt
-  Latiae, quam Iovem: ne mixta deposito, nam fessos, debuerant nostro!
+  Cum quae rite ecce sua vides in inque adspicis est ripam referitur.
+  Vetustas positos putes: oculis ubi, fecunda sic vocem conlapsa videtur:
+  fictos quae.
+  Exurunt Latiae, quam Iovem: ne mixta deposito, nam fessos, debuerant nostro!
 
-  [dixit vite fecit]: http://stoneship.org/
-  [ense]: http://reddit.com/r/thathappened
-  [hostem]: http://www.metafilter.com/
-  [obvius]: http://zombo.com/
-  [occupat]: http://zeus.ugent.be/
-  [sed]: http://www.wedrinkwater.com/
-  [superabitur mihi feruntur]: http://reddit.com/r/thathappened
+  [dixit vite fecit]: http://stoneship.org/ [ense]:
+  http://reddit.com/r/thathappened [hostem]: http://www.metafilter.com/
+  [obvius]: http://zombo.com/ [occupat]: http://zeus.ugent.be/ [sed]:
+  http://www.wedrinkwater.com/ [superabitur mihi feruntur]:
+  http://reddit.com/r/thathappened

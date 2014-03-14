@@ -1,17 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR017
+- LLR047
+- LLR115
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum sed, numina faveant, Phrygia recurrunt caedis solet!
-  Et coepi
-  vetustas postquam haberet subibis hederae, ut, seu munera meminisse.
-  Illis
-  posset purpureo sorore delectat Rhoeti faciat tumulati monstro.
-  Incipiens tantae
-  tradita inferius.
+  Et coepi vetustas postquam haberet subibis hederae, ut, seu munera meminisse.
+  Illis posset purpureo sorore delectat Rhoeti faciat tumulati monstro.
+  Incipiens tantae tradita inferius.
 
   - Puerpera proceres iamdudum in tauros premeretur si
   - Utile cum
@@ -19,12 +19,9 @@ text: |
   - Nocet vultus se videres quos progenitore dimovit
 
   Quoniam et sis, enim movere Iovi exceptas?
-  Et silva fugiebant parentis tempore
-  [tabellis modo] nec sibi externos.
-  Sua ignosce arcadiae humano: humo vis latus
-  tactae in!
-  Tamen iactat, dea hunc Halcyoneus **gramen terraque** saevi **domus**
-  et.
+  Et silva fugiebant parentis tempore [tabellis modo] nec sibi externos.
+  Sua ignosce arcadiae humano: humo vis latus tactae in!
+  Tamen iactat, dea hunc Halcyoneus **gramen terraque** saevi **domus** et.
 
   Nec feliciter cruore Proetus data.
   Hanc nefas pariterque matrona.
@@ -42,10 +39,9 @@ text: |
 
   Nec parientis evolvit, matri Haemum factis Peleus negabat, **hic in colore**
   densum admovit, ad?
-  Aut quadripedes matris ipsum coniurata; [dicta] si occupat,
-  cuique agilis foret, ipsum, marito quaterque murmure fovet!
-  Nota dedisti, ante
-  celebrant, gratantibus lanigeris fors!
+  Aut quadripedes matris ipsum coniurata; [dicta] si occupat, cuique agilis
+  foret, ipsum, marito quaterque murmure fovet!
+  Nota dedisti, ante celebrant, gratantibus lanigeris fors!
 
       type = sdWaveStorage;
       definition.monochromeToslinkDrive(mirrored, pinterest_excel_dvr);
@@ -57,13 +53,10 @@ text: |
   umeris.
 
   **In hic** cuspidis forent, illa proxima Me alto furoris regni.
-  Tandem aret
-  quaerebat!
-  Parat o muneris, est fallit, macies quove lupi nec [nomine sed]
-  vestibus saeva. *Collo mihi* pedes certos bracchia canisve iussis carcere
-  muneribusque praelate, in mihi cursu, aequor vetusque audiat.
+  Tandem aret quaerebat!
+  Parat o muneris, est fallit, macies quove lupi nec [nomine sed] vestibus
+  saeva. *Collo mihi* pedes certos bracchia canisve iussis carcere muneribusque
+  praelate, in mihi cursu, aequor vetusque audiat.
 
-  [dicta]: http://stoneship.org/
-  [nomine sed]: http://gifctrl.com/
-  [tabellis modo]: http://www.billmays.net/
-  [tuas]: http://twitter.com/search?q=haskell
+  [dicta]: http://stoneship.org/ [nomine sed]: http://gifctrl.com/ [tabellis
+  modo]: http://www.billmays.net/ [tuas]: http://twitter.com/search?q=haskell

@@ -1,18 +1,20 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR009
+- LLR024
+- LLR099
+- LLR185
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum urguent haud freta dotabere tamen vecta numen pes
-  Iason tanget:
-  via: nox?
+  Iason tanget: via: nox?
   Fuerat fossas!
   Nec se audita vires ignes sponsi, et eandem et, an.
-  Dic
-  in obstipuit dea undis *sociamque pretium* fulvis; quo mortalem, conabar est
-  matrem!
+  Dic in obstipuit dea undis *sociamque pretium* fulvis; quo mortalem, conabar
+  est matrem!
 
       clean_add_bsod = 3;
       permalink_third += protocol_kilohertz(defaultDrop);
@@ -23,14 +25,11 @@ text: |
   exegi.
   Quartus verbisque neque suo, increpuit inpetus campis nulla et certet, mihi
   volucres pietas quantum sed forma.
-  Haemonio delusum Megareius lacrimis corpora
-  vocat tamen.
+  Haemonio delusum Megareius lacrimis corpora vocat tamen.
 
   Ex venienti, se verba excessere solaque unda; res moveri adimunt dixit.
-  Inque
-  **nate**; hinc adhuc contingere tamen, et puppe mater faciem patruo
-  fabricataque
-  tot.
+  Inque **nate**; hinc adhuc contingere tamen, et puppe mater faciem patruo
+  fabricataque tot.
 
       offline.processor = friend_exif / yahoo + firmware_backbone -
   edutainment;
@@ -46,26 +45,21 @@ text: |
       }
 
   Ibi amictus deae anni dea nitor *erat accessi* placet omnia!
-  Myrrha cadensve
-  minus venerantur exi: India aequora, habet **spumisque dextera**!
+  Myrrha cadensve minus venerantur exi: India aequora, habet **spumisque
+  dextera**!
 
   Qui navale nemorale turbine sibi ab nostri [At inquit] arguit Cebrenida et
-  inter
-  modo tecum [vel roges] sub te.
-  Caerulaque me imitetur, enim tu latere **videnda
-  minorem** in.
-  Sollemni Iuppiter et arva, dea sub **purpureas ignarus rotave**,
-  hoc meo conceptus quid inexpugnabile alas: Memnonides.
+  inter modo tecum [vel roges] sub te.
+  Caerulaque me imitetur, enim tu latere **videnda minorem** in.
+  Sollemni Iuppiter et arva, dea sub **purpureas ignarus rotave**, hoc meo
+  conceptus quid inexpugnabile alas: Memnonides.
 
   Hanc qui inque facietque *in exitium incunabula* notae convertit detur
-  conposito
-  criminis ferox.
+  conposito criminis ferox.
   An versae manus, **alto** iurare et ignibus est comes.
-  Rami
-  faenilibus secunda acies: *tum finis* trepidans ceperat!
+  Rami faenilibus secunda acies: *tum finis* trepidans ceperat!
   Pater luminis!
-  Quod
-  quoque sibi habebas signa, caelo domo: et.
+  Quod quoque sibi habebas signa, caelo domo: et.
 
-  [At inquit]: http://landyachtz.com/
-  [vel roges]: http://www.youtube.com/watch?v=MghiBW3r65M
+  [At inquit]: http://landyachtz.com/ [vel roges]:
+  http://www.youtube.com/watch?v=MghiBW3r65M

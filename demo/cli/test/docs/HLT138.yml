@@ -1,47 +1,40 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR096
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum casus, cerva adire, forma cum est fallax terra,
   oscula.
-  Aequora
-  monstrique dedit eveniunt, terraque caeli patrii: Amnis illa?
-  Potiere super haec
-  Atalanta, erat parva Pandion idem at ferit, ad cecidit tellus?
-  Angit est fudi
-  Tum formam hac Isthmo quos, victoremque nymphae. [Quos unum] in percutiens
-  tuta;
-  Alcyone fixit sit stat erat dumque [acta], est.
+  Aequora monstrique dedit eveniunt, terraque caeli patrii: Amnis illa?
+  Potiere super haec Atalanta, erat parva Pandion idem at ferit, ad cecidit
+  tellus?
+  Angit est fudi Tum formam hac Isthmo quos, victoremque nymphae. [Quos unum]
+  in percutiens tuta; Alcyone fixit sit stat erat dumque [acta], est.
 
   Precor cognosse ab currus.
-  Ille coepi, **dicit**, vos ab tendens ferrum
-  artificem auras, laniger, quin [naufragus]! Hoc [sed] det gelidos canos
-  insanaque crinale vindicet violentique omnia.
-  Utque pinna patris momentaque quam
-  felices ultima tenetur, Titan tibi.
-  Vocem [genitam protinus] securior, diva quis
-  sui potentia patulos praecordia inter mihi lingua.
+  Ille coepi, **dicit**, vos ab tendens ferrum artificem auras, laniger, quin
+  [naufragus]! Hoc [sed] det gelidos canos insanaque crinale vindicet
+  violentique omnia.
+  Utque pinna patris momentaque quam felices ultima tenetur, Titan tibi.
+  Vocem [genitam protinus] securior, diva quis sui potentia patulos praecordia
+  inter mihi lingua.
 
   - Serisque et calcatis torpetis vicisse que verbis
   - Quoque iubebat quondam fonti terga armis
   - Illud herbiferos foret conspecta quo erat est
 
   Ipsa inferiaeque tecti incandescit feror: vox cinxisse dextra.
-  Caelo ex foret
-  nihil quamvis fores animo modo sententia auroque.
-  An dictis dixere. [Bis illic]
-  unam vesicam est frontes renidenti promissas, aure viro non festumque perque,
-  qui lanugine ut causa erectos.
+  Caelo ex foret nihil quamvis fores animo modo sententia auroque.
+  An dictis dixere. [Bis illic] unam vesicam est frontes renidenti promissas,
+  aure viro non festumque perque, qui lanugine ut causa erectos.
 
   Iniquae gaudia.
   Furens laborum, densetur inguina.
-  Te Medon pectore haruspex
-  garrula, capientibus proelia falso sacra, videbat.
-  Nocuit ante ante metuam undas
-  moenia?
+  Te Medon pectore haruspex garrula, capientibus proelia falso sacra, videbat.
+  Nocuit ante ante metuam undas moenia?
   Isdem quam quercus, si me deum longis!
 
   Gaudent ignis sinus turba animos, sum arces fare, talisque multaque absumptis
@@ -54,17 +47,13 @@ text: |
       win(suffix);
 
   Forma iactat: dum non spectemur primo nihil in rege nefas solvit, sub.
-  Exempla
-  terga moderatior teneat redditus *miratur* miracula *tamen*.
+  Exempla terga moderatior teneat redditus *miratur* miracula *tamen*.
 
   In pulchraque copia fumantiaque matrem patet superstes plena.
-  Ictibus paludes,
-  tot candore, comas iuxta quarto quod.
+  Ictibus paludes, tot candore, comas iuxta quarto quod.
 
-  [Bis illic]: http://zombo.com/
-  [Quos unum]: http://eelslap.com/
-  [acta]: http://eelslap.com/
-  [genitam protinus]: http://html9responsiveboilerstrapjs.com/
-  [naufragus]: http://www.wedrinkwater.com/
-  [sed]: http://www.billmays.net/
-  [versata]: http://textfromdog.tumblr.com/
+  [Bis illic]: http://zombo.com/ [Quos unum]: http://eelslap.com/ [acta]:
+  http://eelslap.com/ [genitam protinus]:
+  http://html9responsiveboilerstrapjs.com/ [naufragus]:
+  http://www.wedrinkwater.com/ [sed]: http://www.billmays.net/ [versata]:
+  http://textfromdog.tumblr.com/

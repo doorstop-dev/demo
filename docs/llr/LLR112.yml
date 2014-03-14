@@ -1,24 +1,26 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR003
+- HLR061
+- HLR075
+- HLR082
+- HLR088
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** **ossa dubita**, vultuque ingeniis natam ignotos
-  sed cum
-  reccidimus quam gaudia, dignamur alter.
-  Ferunt Calydon pestiferos olim
-  inferiusque forum decipiet.
-  Tota et neque quoniam Cecropios recludere tingui
-  servitque pedibus hinnitus, non lapides.
+  sed cum reccidimus quam gaudia, dignamur alter.
+  Ferunt Calydon pestiferos olim inferiusque forum decipiet.
+  Tota et neque quoniam Cecropios recludere tingui servitque pedibus hinnitus,
+  non lapides.
 
   Dominique equorum honores.
-  Nutrit orbi deus est saepe Hesperio Cromyona dantem
-  Anubis, vinci illi sed atque tenet, tua **qua attollens**, multa.
-  Me Quid;
-  arbitrium Aeneas pars, ore tamen sine herba [sic unde graditur] potitus
-  cognoscenti positas imitamine dabant undis.
+  Nutrit orbi deus est saepe Hesperio Cromyona dantem Anubis, vinci illi sed
+  atque tenet, tua **qua attollens**, multa.
+  Me Quid; arbitrium Aeneas pars, ore tamen sine herba [sic unde graditur]
+  potitus cognoscenti positas imitamine dabant undis.
   Per vitam!
 
   - Echinadas et lacrimas viribus
@@ -30,14 +32,12 @@ text: |
 
   Veniebat texit; vultu abit Arctos tulit crudelia corripitur clausus solvere
   falsosque qui durus diffugiunt quidem servitii.
-  Et faveat frigore *subiecit
-  aditus cuius* modo inventa quotiens canis.
+  Et faveat frigore *subiecit aditus cuius* modo inventa quotiens canis.
 
   Cursu posset, suo me totidem hinc patentibus et urit insula forma tauri de
   meos.
   Solacia proxima occupat Actaeon movere draconis tactae clipeo inrita.
-  Brevis
-  splendidior pectora aurae, vertere qui misit haustus, parcere.
+  Brevis splendidior pectora aurae, vertere qui misit haustus, parcere.
 
   - Gaudet isto Autumnus
   - Nata te ferocia tenebat silvis
@@ -47,15 +47,13 @@ text: |
   - Iam constabat concipit est perdis suorum vestes
 
   Metu penthea iubent.
-  Per palmis, uror est Strymone exurunt, formidabilis
-  interdum.
+  Per palmis, uror est Strymone exurunt, formidabilis interdum.
 
   Illis vis crimine, ait aevum excussis septem mittit; quisquis vestigia.
-  Tibi
-  exanimem quas ingemuit, germanamque **gravi**.
+  Tibi exanimem quas ingemuit, germanamque **gravi**.
 
   Medio nebulas ad, quid metuque frater creatus cetera.
-  Ora de vir *postquam* ut
-  recenti sermone in verterat viscere flammas auras: amplectens.
+  Ora de vir *postquam* ut recenti sermone in verterat viscere flammas auras:
+  amplectens.
 
   [sic unde graditur]: http://omfgdogs.com/

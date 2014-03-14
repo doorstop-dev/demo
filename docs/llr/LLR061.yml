@@ -1,7 +1,9 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR013
+- HLR080
 normative: true
 ref: ''
 text: |
@@ -10,26 +12,20 @@ text: |
   A
   **virtutis** metus inter **est** veneris celeri, agros ad humo sit verruntur,
   est errorem armis est ait.
-  Simulat ut nocte vestigia fortissime templum decentia
-  nudabant senex stabant; ignemque navita inmurmurat et vicinia caelo
-  praesentem.
+  Simulat ut nocte vestigia fortissime templum decentia nudabant senex stabant;
+  ignemque navita inmurmurat et vicinia caelo praesentem.
 
   Ibi et quodque, Aeolon nec numina quod, vestris.
-  Spem amplectitur caede, ut hic,
-  in dum ultima nomen Argolicas, Almo.
-  Frontem [puppis iste], ergo vinctoque tibi
-  rumor limbus, trux.
-  Alii parenti nec oscula ferae sequerer aequore solidissima
-  dextra.
+  Spem amplectitur caede, ut hic, in dum ultima nomen Argolicas, Almo.
+  Frontem [puppis iste], ergo vinctoque tibi rumor limbus, trux.
+  Alii parenti nec oscula ferae sequerer aequore solidissima dextra.
   Corpore nitenti truncaeque apta, *meo vox* solum et fraternis deque.
 
   Silvius in mater lumina, temptanda ante, oscula *quem noctes*, non nec
-  vestri,
-  et argumentum.
-  Illic ambiguo inmunis monstri mali obsita venasque bene sit
-  coniunx quoque rigida; admota somnos dant enses.
-  Hostis quid **harenas**, nullum
-  sine, adde Elin ipsa cruor.
+  vestri, et argumentum.
+  Illic ambiguo inmunis monstri mali obsita venasque bene sit coniunx quoque
+  rigida; admota somnos dant enses.
+  Hostis quid **harenas**, nullum sine, adde Elin ipsa cruor.
 
   1. Bis passurae laqueos convexa lumina
   2. Pharetram faciendis scopulos
@@ -40,10 +36,8 @@ text: |
 
   Adfata arboribus timoris iacent, motus guttur Parin.
   Mecum fatemur.
-  Oris naides
-  etiam [ingreditur hos ab] velamina terruerit *longa*, vento, si.
-  Coniecto misit
-  quid?
+  Oris naides etiam [ingreditur hos ab] velamina terruerit *longa*, vento, si.
+  Coniecto misit quid?
   Ante deus sperato inmitibus capillos lumina animam saevis tuae metuit,
   bracchia viro, ea est verbis.
 
@@ -57,10 +51,9 @@ text: |
       var byte_usb = sidebarRdf.pop.igp(impression, trimPushCode, -4);
 
   Nec erat veniente: frondesque texerat omnes nec fretum nusquam.
-  Nocens [frenis
-  luridaque pereat]! [Molle da sati], novercae trepida cupidisque diris.
+  Nocens [frenis luridaque pereat]! [Molle da sati], novercae trepida
+  cupidisque diris.
 
-  [Molle da sati]: http://www.wedrinkwater.com/
-  [frenis luridaque pereat]: http://stoneship.org/
-  [ingreditur hos ab]: http://twitter.com/search?q=haskell
-  [puppis iste]: http://example.com/
+  [Molle da sati]: http://www.wedrinkwater.com/ [frenis luridaque pereat]:
+  http://stoneship.org/ [ingreditur hos ab]:
+  http://twitter.com/search?q=haskell [puppis iste]: http://example.com/

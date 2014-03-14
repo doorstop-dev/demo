@@ -1,7 +1,8 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR143
 normative: true
 ref: ''
 text: |
@@ -17,15 +18,12 @@ text: |
   - Osculaque fluens Sidonide inculpata dumque est Magnetas
 
   Foret calathosque, penates memorant iam umida Phlegyis insano Emathion
-  laniatum
-  Leucothoeque?
+  laniatum Leucothoeque?
   Cessit artus et *facti* illius.
 
   Dixit proximus patriam facies, tetigisset premens fortiter, nec maior.
-  Modo
-  sonat solebat in partes loquendo Lyncides passu pectora velit instar
-  advertite
-  pars.
+  Modo sonat solebat in partes loquendo Lyncides passu pectora velit instar
+  advertite pars.
   Frondes quoque disponunt atque; gratia silet et nabat [in]. Potuisse mox
   coniugium redit: amensque navalibus eruta superare exempla.
 
@@ -34,14 +32,12 @@ text: |
   3. Est ubi salix quaerit quaerebat victum terrarum
 
   Conplexa amore; sed iam quaeque Caeni, operum [illi]. Caede volucres
-  Tarentum,
-  telo limbo, ungues tamen laniato dumque tumulumque fundae operum miserande.
+  Tarentum, telo limbo, ungues tamen laniato dumque tumulumque fundae operum
+  miserande.
   Hiscere in **numquam falsa** in silvam cinis rabie caesus viaeque que!
-  Capiti
-  conveniant passis dedit ossaque pro motis populi grando flatuque, de.
-  Perdere
-  est putat animam, talia mediis montanaque inpune: summae Charybdis remos
-  falsaque et colorum Erycina et **interea**.
+  Capiti conveniant passis dedit ossaque pro motis populi grando flatuque, de.
+  Perdere est putat animam, talia mediis montanaque inpune: summae Charybdis
+  remos falsaque et colorum Erycina et **interea**.
 
       digitalSdk = integrated(interpreterSeo, lte_bps + pci, 2) + trim;
       ddr -= volume.tweet_ripcording.dos_shell(floatingCard(query_deprecated,
@@ -51,12 +47,10 @@ text: |
       fileDesign = 3;
 
   Tuta adhuc *effigiem* tyranni: spatium: crura mulcendas imitabere si accipe,
-  per
-  Siphnon [cupidine] mandata? **Quod** rore florumque sanguine Procne; pavida
-  cetera.
+  per Siphnon [cupidine] mandata? **Quod** rore florumque sanguine Procne;
+  pavida cetera.
   Non ornat quae abdit facta aequor amissa deflevere factas Rhamnusia per
   Poeante; ne!
 
-  [cupidine]: http://twitter.com/search?q=haskell
-  [illi]: http://news.ycombinator.com/
-  [in]: http://stoneship.org/
+  [cupidine]: http://twitter.com/search?q=haskell [illi]:
+  http://news.ycombinator.com/ [in]: http://stoneship.org/

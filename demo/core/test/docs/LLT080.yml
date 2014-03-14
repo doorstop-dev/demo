@@ -1,20 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR034
+- LLR197
 normative: true
 ref: ''
 text: |
   *Lorem* markdownum lacrimas, et domos *dominum pignus culpam* hoste.
-  Tecta tenet
-  protinus tempora superat color, cuius Phaethontida Neve.
-  Fertilitatis fratri,
-  sine mille, secernunt tot cura!
-  Parvo se ferox nostras trux esse exempla fames,
-  instanti occasus num medio quod, et tum nec.
-  Erat insequar Solis gloria exclamat
-  tempto una nec ad Iove abest Arestoridae tecta finditque **armentorum**
-  genitore!
+  Tecta tenet protinus tempora superat color, cuius Phaethontida Neve.
+  Fertilitatis fratri, sine mille, secernunt tot cura!
+  Parvo se ferox nostras trux esse exempla fames, instanti occasus num medio
+  quod, et tum nec.
+  Erat insequar Solis gloria exclamat tempto una nec ad Iove abest Arestoridae
+  tecta finditque **armentorum** genitore!
 
   1. Clymeneque Cnidon tempore ab talisque moles aquatica
   2. Sua summam superi resolutaque tibi obstipuit
@@ -23,13 +22,11 @@ text: |
 
   Alte tu vulgatum, feretro seque Oetaeus delendaque sedes porrigis potitur
   volucris in.
-  Succidit repetiti hospitiique utque. [Ipsa] oris contudit signa, et
-  ventis quoque, nullasque victrix furibunda iamque lacusque.
-  Congestos doluere
-  pavido flet: negaretur Laiades teneri habitabile illis subito, narretque
-  temptabat mirandum sorores auro; exi.
-  Vires optima vitae [Semina], relinquit,
-  auditaque non dinumerat non.
+  Succidit repetiti hospitiique utque. [Ipsa] oris contudit signa, et ventis
+  quoque, nullasque victrix furibunda iamque lacusque.
+  Congestos doluere pavido flet: negaretur Laiades teneri habitabile illis
+  subito, narretque temptabat mirandum sorores auro; exi.
+  Vires optima vitae [Semina], relinquit, auditaque non dinumerat non.
 
   - Demum ultima rumoribus
   - Tandem et cum annos hoc ducere Ortygiam
@@ -40,9 +37,8 @@ text: |
 
   Numina animos latratu.
   Ope rogant purpureis vertit, ante adsumit.
-  A vestigia
-  amicis sum fallere Fortuna equo coniunx corporis deae dicione cessit venit
-  eque.
+  A vestigia amicis sum fallere Fortuna equo coniunx corporis deae dicione
+  cessit venit eque.
   Viva pondere de omnibus reparet inmiti.
 
       var wikiLogic = srgbMinicomputer;
@@ -53,20 +49,17 @@ text: |
 
   Mirabile optima, umeros nimia, proditione videtur neve: ego sidereo ferens
   suspicit iners et frondes.
-  Semper causam nocte, et cum, sacrum quam me patre
-  adamante terruit.
+  Semper causam nocte, et cum, sacrum quam me patre adamante terruit.
 
   Summo si dum lasso *ora*; traxit [movet voracis abdita], parvum corpus
-  comitant
-  fraga.
+  comitant fraga.
   Aquaticus volui, quoque carinae Libycas et pectora casus enim fluctus.
   Sexque herbas vicit.
-  Aras atque vulnus, quaerens *tum* propior delia via utilius
-  ratem ima victima essent.
-  Vestra noli; sole cuncta ne [Argolicosque dique
-  permaturuit] censu tentoria hi primum.
+  Aras atque vulnus, quaerens *tum* propior delia via utilius ratem ima victima
+  essent.
+  Vestra noli; sole cuncta ne [Argolicosque dique permaturuit] censu tentoria
+  hi primum.
 
-  [Argolicosque dique permaturuit]: http://reddit.com/r/thathappened
-  [Ipsa]: http://www.thesecretofinvisibility.com/
-  [Semina]: http://www.mozilla.org/
+  [Argolicosque dique permaturuit]: http://reddit.com/r/thathappened [Ipsa]:
+  http://www.thesecretofinvisibility.com/ [Semina]: http://www.mozilla.org/
   [movet voracis abdita]: http://seenly.com/

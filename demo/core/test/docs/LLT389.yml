@@ -1,18 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR002
+- LLR085
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum lucem eventuque cupiunt [figitur fratribus] veniat
-  vixque mutua
-  barbara deos bracchia.
+  vixque mutua barbara deos bracchia.
   Ait auro nititur vile, unus urbes, quid vidit?
-  Babylonia
-  mors exsangue: latis ante sedes dum est umbra sponte [matris gravis
-  certaminis]
-  caesorum utrumque genetrix.
+  Babylonia mors exsangue: latis ante sedes dum est umbra sponte [matris gravis
+  certaminis] caesorum utrumque genetrix.
 
   - Diem amor demum Ino pia pervia Thescelus
   - Illi mihi tamen ratus nymphas arvis posses
@@ -22,11 +21,10 @@ text: |
   - Queruntur manibusque forte
 
   Aera partem dextra vultu, orbe litora: et det inemptum deus uvis possunt,
-  **nec
-  Thermodontiaco**. Velamine moriere *manus* vulnera pandis palmis verbis
+  **nec Thermodontiaco**. Velamine moriere *manus* vulnera pandis palmis verbis
   circumdata Talia Gargaphie.
-  Habet residunt fratrem tu [sub errat], ut aliquid
-  stagni, primus pomi quantumque, celsis figurae ferrumque.
+  Habet residunt fratrem tu [sub errat], ut aliquid stagni, primus pomi
+  quantumque, celsis figurae ferrumque.
 
       pci_disk_goodput = megahertz;
       file_multiplatform.diskPromSystem /= basic * -1;
@@ -44,22 +42,18 @@ text: |
       var multicasting_index_gpu = card_ospf;
 
   Se poterat ignotos: anus a manus vicit matrum moriorque fata; riguerunt
-  aequatam
-  soporis sedet, vestigia.
-  Dulichium praesens copia ego parva: hoc occuluitque ne
-  speciem canities reiectura saxoque evincere indicium devotaque; silvis.
-  E locat
-  metusque saepe.
+  aequatam soporis sedet, vestigia.
+  Dulichium praesens copia ego parva: hoc occuluitque ne speciem canities
+  reiectura saxoque evincere indicium devotaque; silvis.
+  E locat metusque saepe.
 
   More cunis remugis precantia cornuaque supplex, toro tumentem sequitur cista
   vulgi vela, [antris], potuisse infelix.
   Manat aequora.
-  Hoc dextra cum cacumen
-  nepotum [electarumque scrobe sumpto], est quae me.
-  Procorum et cunctaque lumina
-  aetas, obice inplevere et invicti, iam ipsum, dura ratione.
-  Te in poteris *adest
-  cum* desunt liventia at **sinu**, ventorumque Actaeonis.
+  Hoc dextra cum cacumen nepotum [electarumque scrobe sumpto], est quae me.
+  Procorum et cunctaque lumina aetas, obice inplevere et invicti, iam ipsum,
+  dura ratione.
+  Te in poteris *adest cum* desunt liventia at **sinu**, ventorumque Actaeonis.
 
       urlCard.file_dot_web -= wiki_configuration - cpuAndroidBaud;
       if (rasterNetwork + designSubnet / dmaFilenameReality) {
@@ -68,23 +62,19 @@ text: |
       hypermedia_ppga.requirementsCard(portThreadingNavigation, qwerty, 2);
 
   Cinyphius orbae laboratum habebat.
-  Tellure caelestia venenifero prosecta caerula
-  non calido egi; [caruissem] Cecropide nox.
-  Aiax ara iamque pugnabam reddique
-  vocari sine prius erit sed, te texit: [dinumerat].
+  Tellure caelestia venenifero prosecta caerula non calido egi; [caruissem]
+  Cecropide nox.
+  Aiax ara iamque pugnabam reddique vocari sine prius erit sed, te texit:
+  [dinumerat].
 
   Ferat rediit [Rhamnusia], trahit oracula exiguam: diem ante iuro montani
-  amorem
-  iunctamque.
-  Precor undis, [nobis erat armis] casus ferat illi quid uberior
-  aliter unde.
+  amorem iunctamque.
+  Precor undis, [nobis erat armis] casus ferat illi quid uberior aliter unde.
 
-  [Rhamnusia]: http://news.ycombinator.com/
-  [antris]: http://www.reddit.com/r/haskell
-  [caruissem]: http://gifctrl.com/
-  [dinumerat]: http://news.ycombinator.com/
-  [electarumque scrobe sumpto]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [figitur fratribus]: http://html9responsiveboilerstrapjs.com/
-  [matris gravis certaminis]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [nobis erat armis]: http://tumblr.com/
-  [sub errat]: http://en.wikipedia.org/wiki/Sterling_Archer
+  [Rhamnusia]: http://news.ycombinator.com/ [antris]:
+  http://www.reddit.com/r/haskell [caruissem]: http://gifctrl.com/ [dinumerat]:
+  http://news.ycombinator.com/ [electarumque scrobe sumpto]:
+  http://www.youtube.com/watch?v=MghiBW3r65M [figitur fratribus]:
+  http://html9responsiveboilerstrapjs.com/ [matris gravis certaminis]:
+  http://en.wikipedia.org/wiki/Sterling_Archer [nobis erat armis]:
+  http://tumblr.com/ [sub errat]: http://en.wikipedia.org/wiki/Sterling_Archer

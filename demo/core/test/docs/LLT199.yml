@@ -1,13 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR004
+- LLR054
+- LLR113
+- LLR163
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum superat debemur cecidere.
-  Fusca nisi: induruit tulit lentosque
-  Hersilie quae muneribusque utque bidentes ubi: has.
+  Fusca nisi: induruit tulit lentosque Hersilie quae muneribusque utque
+  bidentes ubi: has.
 
       if (5) {
           ipx_drive(oem.hard_twain_pci.ssdSiteBlob(sip, 2), ospf,
@@ -30,8 +34,8 @@ text: |
       var nntpNativeSkyscraper = social_card_desktop + exabyte;
 
   Et inlato!
-  Venenum rursus tamen et Acastus **ergo**, ferendo furor, squalidus a
-  copia dentes certa?
+  Venenum rursus tamen et Acastus **ergo**, ferendo furor, squalidus a copia
+  dentes certa?
 
       file_burn -= spreadsheet_sdsl_remote(addressDisk, software,
               market_point_port(pup_file)) + tape(dma_hyper + bashNic,
@@ -55,10 +59,9 @@ text: |
       }
 
   Deorum dignas, Aethiopesque inpulit nec [ferarum segnem confertque] qua.
-  Illo
-  stabat fugiamus incitat erat.
-  Adorat Euboicam ad sistrum sonat, iaculo ea ora
-  recessit pertulit fraude, dedero.
+  Illo stabat fugiamus incitat erat.
+  Adorat Euboicam ad sistrum sonat, iaculo ea ora recessit pertulit fraude,
+  dedero.
 
   1. Lapithaeae nec in geminos sortes Pelates mihi
   2. Adsit pallida retro
@@ -67,10 +70,8 @@ text: |
 
   Gramine Alcyone viridem detulit novo a ibat victor, proque, nisi sacrorum.
   Stupuit superi alii tamen, et umquam superis Eurytidae parantes qui Parin;
-  mea
-  atque mediis nostra rugas, nec.
-  Nec patebat dixit perque de tunc tenuisse
-  coniunx; est animasse omnia.
+  mea atque mediis nostra rugas, nec.
+  Nec patebat dixit perque de tunc tenuisse coniunx; est animasse omnia.
   Diffamatamque modo hic ecquid brevis?
 
   [ferarum segnem confertque]: http://www.lipsum.com/

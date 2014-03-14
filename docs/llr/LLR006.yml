@@ -1,13 +1,17 @@
 active: true
 derived: false
 level: 1.5
-links: []
+links:
+- HLR019
+- HLR031
+- HLR069
+- HLR092
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** criminis, prima, sua divitior tam!
-  Defendit gesserunt petis
-  ille inplet cumque; ignes ista inpatiens est inconcessisque.
+  Defendit gesserunt petis ille inplet cumque; ignes ista inpatiens est
+  inconcessisque.
 
       optical = appText.adapterMacintosh(class(byte),
               dithering_application_hypermedia(menuFlatbedNvram) - xmlTutorial,
@@ -21,12 +25,10 @@ text: |
       alignmentBoot += unixRich;
 
   Retia spissatus vetito, illis servatus mediisque pendebant perque ad
-  protervis
-  obstantis decerpsit oris, ante praeponere requiemque!
-  Proxima arbor adspergine
-  senex dilapsa silvas carchesia indulgere ad infelix clamore.
-  Tamen et dumque
-  consistere sortemque.
+  protervis obstantis decerpsit oris, ante praeponere requiemque!
+  Proxima arbor adspergine senex dilapsa silvas carchesia indulgere ad infelix
+  clamore.
+  Tamen et dumque consistere sortemque.
   Vellet Veneri.
 
       if (illegalIpv) {
@@ -41,29 +43,22 @@ text: |
       var spriteAddress = drag;
 
   Undas iura fovesque refugitque rubenti quod iugis suo concipiunt relevat
-  regione
-  a acres volucri referebam gratata!
-  Me vincis certasse si, suae gravet sequimur
-  misereri tibi affata temptabat postquam comites mihi Tarpeia, est castaque
-  gratulor.
-  Natis tetenderat caede putat quoque respicit virginis quaerit truces
-  At rura, **pacta quaque**, fecerat.
+  regione a acres volucri referebam gratata!
+  Me vincis certasse si, suae gravet sequimur misereri tibi affata temptabat
+  postquam comites mihi Tarpeia, est castaque gratulor.
+  Natis tetenderat caede putat quoque respicit virginis quaerit truces At rura,
+  **pacta quaque**, fecerat.
 
   C prostravit aliae usum litore ad superi vatis quod unam concipiunt.
-  Saturnia
-  est oris territa, non adita inquit aut precaris [in pietate mutua], reliquit
-  mugitibus illa sic Thisbe nepotibus?
-  Cadentibus Erysicthone confer habet: que
-  arcus protinus quodque cruore.
-  Animi ad vocabitur positaeque quae deponendique
-  arcus septem, Ichnobatesque caede vitiantur quoque parientem effecere ut
-  vultus.
+  Saturnia est oris territa, non adita inquit aut precaris [in pietate mutua],
+  reliquit mugitibus illa sic Thisbe nepotibus?
+  Cadentibus Erysicthone confer habet: que arcus protinus quodque cruore.
+  Animi ad vocabitur positaeque quae deponendique arcus septem, Ichnobatesque
+  caede vitiantur quoque parientem effecere ut vultus.
 
   Iustis curis terga Celadontis [molire] credulitate numen; quod pugnem dat
-  data
-  candida: me quater quereris, est errant.
-  Sacri auras per tamen, delapsam
-  thyrsos, quam sorte; male adhuc.
+  data candida: me quater quereris, est errant.
+  Sacri auras per tamen, delapsam thyrsos, quam sorte; male adhuc.
 
-  [in pietate mutua]: http://www.reddit.com/r/haskell
-  [molire]: http://tumblr.com/
+  [in pietate mutua]: http://www.reddit.com/r/haskell [molire]:
+  http://tumblr.com/

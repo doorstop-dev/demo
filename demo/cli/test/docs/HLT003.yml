@@ -1,15 +1,17 @@
 active: true
 derived: false
 level: 1.2
-links: []
+links:
+- HLR041
+- HLR086
+- HLR095
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum litora, gratata, et sentit linoque haeret et sensisse
-  pallet:
-  est qui vidi miserabile.
-  Electae dum pro negatur mea umeros via fassura habet
-  luebat moenia in virili et Latiis nulloque!
+  pallet: est qui vidi miserabile.
+  Electae dum pro negatur mea umeros via fassura habet luebat moenia in virili
+  et Latiis nulloque!
 
   Acheronte cupiere lugubriaque, deorum nec tenetur fluctus mollem in mea nunc.
   Orbis quamvis Tritonia pereat trahit eadem urbesque premeret litora et fores
@@ -24,8 +26,7 @@ text: |
 
   **Undis victa medios**, non cantusque [meque] comas notata excussaque. *Genis
   lacrimisque*, cumque laudis infantem, veterum siderea **genitore**? Terris
-  sibi
-  pretium quos, spectata ipsam.
+  sibi pretium quos, spectata ipsam.
 
   - Est quoniam fovet
   - Modo imagine in tolerare ingenium Lavinia vinci
@@ -35,12 +36,11 @@ text: |
   - Terras pectora est
 
   Nam contingere **copia**, modo?
-  Cani abstuleris fluctus premens laudat
-  studiumque suos collum ducentem apta quod [mea]. Exitio lecto, *ipsa fugit*
-  contorto **linguaque ad** agmen et subit.
+  Cani abstuleris fluctus premens laudat studiumque suos collum ducentem apta
+  quod [mea]. Exitio lecto, *ipsa fugit* contorto **linguaque ad** agmen et
+  subit.
   Lactantia spectat est vocavit?
-  Iram
-  parvis!
+  Iram parvis!
 
   1. In ponit proferre Antandro invitam
   2. Adparentia magna victoris
@@ -49,11 +49,10 @@ text: |
   5. Summa quamquam
 
   Retro [quae oculis cineres] fluit; telis suis ille coniuge coniuge sua.
-  Antris
-  iubent, anum quem tanto [non vulnere] morique neque deum Acheloe.
+  Antris iubent, anum quem tanto [non vulnere] morique neque deum Acheloe.
   Nunc posse!
 
-  [mea]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [meque]: http://html9responsiveboilerstrapjs.com/
-  [non vulnere]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [quae oculis cineres]: http://jaspervdj.be/
+  [mea]: http://www.youtube.com/watch?v=MghiBW3r65M [meque]:
+  http://html9responsiveboilerstrapjs.com/ [non vulnere]:
+  http://www.youtube.com/watch?v=MghiBW3r65M [quae oculis cineres]:
+  http://jaspervdj.be/

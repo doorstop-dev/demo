@@ -1,23 +1,22 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR065
+- LLR172
 normative: true
 ref: ''
 text: |
   Lorem [markdownum] exigis oscula.
-  Virtus invitusque confinia placet qua rursus,
-  magnis solum ut patentis ad saltus, mihi herba lectum eram!
-  Tenuit a nulli
-  quaesitisque stratum falcis, nectare iuvenilior quisve cursu.
-  In correpta
-  videre: te dicere, in *sub tot ipsa* erigor dea amamus exhausto utraque
-  **solum
-  medii**!
+  Virtus invitusque confinia placet qua rursus, magnis solum ut patentis ad
+  saltus, mihi herba lectum eram!
+  Tenuit a nulli quaesitisque stratum falcis, nectare iuvenilior quisve cursu.
+  In correpta videre: te dicere, in *sub tot ipsa* erigor dea amamus exhausto
+  utraque **solum medii**!
 
   Ulnas cetera, auro longa tua bracchia foret habetur carina.
-  Aut doluit abibas
-  montanum prodit desint cunctisque, iuro ipse timidus ait hastam audiat opus.
+  Aut doluit abibas montanum prodit desint cunctisque, iuro ipse timidus ait
+  hastam audiat opus.
   Inconcessisque emicat et ut costis sacris viscera ut lingua Rhodope naturale,
   tum: o.
 
@@ -26,22 +25,17 @@ text: |
   Aures clavae omnia eiectatamque crudeles mihi forti Iuno amans coniugiumne
   fuimus velit tot pulcherrima illa artes iamque *auras*! Anser **cum** non
   honores ultima suumque ait pedes **non ad** tua tum!
-  Matres exceptas horrenda
-  deque eosdem nymphisque adeundi Regi, pro **geris angues** natam parte, di
-  unco
-  dicere.
+  Matres exceptas horrenda deque eosdem nymphisque adeundi Regi, pro **geris
+  angues** natam parte, di unco dicere.
 
   A puellis percussis si erat temptat rubet, **abdit** aliisque admovit per
-  enim
-  graminis, hamatisque.
+  enim graminis, hamatisque.
   Altera atque.
-  Ingenium veterem, nonne adspicit quo collo
-  te ulla et curia.
+  Ingenium veterem, nonne adspicit quo collo te ulla et curia.
 
   Verbis vultuque illos **facta** confusa qui suas, est protinus resilire
   Eurylochumque recurva quinque; suas circa potiere, est.
-  Una caput esse populari
-  Peneos?
+  Una caput esse populari Peneos?
   Cavus cito nomen pudorem ait gravi monimenta: non medio, et.
 
   1. Pagasaea senior
@@ -49,24 +43,20 @@ text: |
   3. Unum uno effugere sine
 
   Vocem adversum, sit estque perfundit et [candida Idaei deplorata] fores.
-  Fiat
-  inde quoque iussit supplex consumptis emicuit Peleus; qui.
+  Fiat inde quoque iussit supplex consumptis emicuit Peleus; qui.
 
   Feram subest, iteratque, **Dianae et lapis** nati armento formicas thymo
   dubitavit: [et tincta]. Seraque incurrere locorum ille *non dixerat* cura
-  optas
-  amor: ire verbis tenebris, ego.
-  Et est aura ipse convivia cuncti fulminis,
-  profuit Castalio.
+  optas amor: ire verbis tenebris, ego.
+  Et est aura ipse convivia cuncti fulminis, profuit Castalio.
 
   Nec quaerit adflabitur avitum veneni gaudeat dedit ausus *timor* spiritus
   saepe.
   Deducens fragiles iuvere Caeneus venit.
-  Sono erat, post: iste rapit fatentur;
-  corpora relictis vindicat promissaque illum concipit mors.
-  Vocant Anaxarete
-  figitque cadentum et quater ignes in rauco vel.
+  Sono erat, post: iste rapit fatentur; corpora relictis vindicat promissaque
+  illum concipit mors.
+  Vocant Anaxarete figitque cadentum et quater ignes in rauco vel.
 
-  [candida Idaei deplorata]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [et tincta]: http://www.raynelongboards.com/
-  [markdownum]: http://www.thesecretofinvisibility.com/
+  [candida Idaei deplorata]: http://www.youtube.com/watch?v=MghiBW3r65M [et
+  tincta]: http://www.raynelongboards.com/ [markdownum]:
+  http://www.thesecretofinvisibility.com/

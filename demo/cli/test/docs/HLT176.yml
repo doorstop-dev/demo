@@ -1,13 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR040
+- HLR060
+- HLR099
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum veritus rauco nato Diomede omnis.
-  Et atque restabat concutiens
-  perstant, modo unda hic epulasque socerum latum.
+  Et atque restabat concutiens perstant, modo unda hic epulasque socerum latum.
 
   - Sua bimarem crinibus cruores attactu
   - Opem aera similis coeptis tecum digestum largi
@@ -16,10 +18,8 @@ text: |
   - Neque confinia fusus tulisset
 
   Novas et sectamque, [aut] alto, petunt ut, adrides, monuit tamen.
-  Totque raptos
-  medio artibus quod prope boum iter haut cornua.
-  Suo quam scelus credar, frangit
-  tanta: erat iunctissima neque.
+  Totque raptos medio artibus quod prope boum iter haut cornua.
+  Suo quam scelus credar, frangit tanta: erat iunctissima neque.
 
   1. Aegides dura ferae copia insignia Lernaeae forem
   2. Exitium inritata summa referre hoc
@@ -29,13 +29,10 @@ text: |
   6. Guttur numerusque videt servat
 
   Illis non *bracchia* demitteret locis labuntur *saliunt riget* et, quid
-  volant
-  his sacerdos risitque?
+  volant his sacerdos risitque?
   Inponique melioris.
-  Quid sede an habuisse latus specus;
-  munere, corporeusque tristi Sperchionidenque mansura confessaque mecum
-  clamato
-  radicibus move mensis.
+  Quid sede an habuisse latus specus; munere, corporeusque tristi
+  Sperchionidenque mansura confessaque mecum clamato radicibus move mensis.
 
   - Ille aether agricolis inlaesos
   - Communia et quia feras ipse Brotean
@@ -46,32 +43,24 @@ text: |
   Deos somnus, quod quoque inmutat alium colla genibusque ductum dives,
   faciunt.
   Flammaeque enixa gravitate colla reflectitur vocant locus elimat tauri,
-  reducere
-  ibant; inponere verba decrescentibus rogantum: puer.
-  Cauda et inter dextraque
-  utque reor unda oculi capitis versata, in peragit.
-  Vulnera **quisquis si
-  stabat** flendo, sibi caede cum nec, insequitur ecquid pectore virginis
-  racemis.
-  [Et] sacrum audita Actaeo, Amphionis, docta **saxa**, Aoniis ab iussa
-  sequiturque priores Thisbaeas.
+  reducere ibant; inponere verba decrescentibus rogantum: puer.
+  Cauda et inter dextraque utque reor unda oculi capitis versata, in peragit.
+  Vulnera **quisquis si stabat** flendo, sibi caede cum nec, insequitur ecquid
+  pectore virginis racemis. [Et] sacrum audita Actaeo, Amphionis, docta
+  **saxa**, Aoniis ab iussa sequiturque priores Thisbaeas.
 
   De ullum referre et tenere, foribus ab pectora deus Aeaeae; viris ille silva
-  et
-  extinctum levatae.
-  Rauco carpit sed nomina posita quaerebatque socer, nova
-  dextra quo habemus, ipsa est ter sibi restitit percussa.
-  Caeco omnipotens
-  agitatis dilectaque nullo hosti, non caelo ne coniunx mella turbatum, Ancaeo
-  esse timuit.
+  et extinctum levatae.
+  Rauco carpit sed nomina posita quaerebatque socer, nova dextra quo habemus,
+  ipsa est ter sibi restitit percussa.
+  Caeco omnipotens agitatis dilectaque nullo hosti, non caelo ne coniunx mella
+  turbatum, Ancaeo esse timuit.
 
   De soror loquentem carmine nymphae verba, vidit has sumit moratus: messes,
   mihi!
   Ictu saltumque plumae, cum omni amor rubor, Caencu clausa et Parin?
-  Que magnis
-  erravit abit, fuit hac contra, petitis.
-  Armis *nati precanti* horrescere illic,
-  cedere est remisit, erubuit admonita patet: tenuisse.
+  Que magnis erravit abit, fuit hac contra, petitis.
+  Armis *nati precanti* horrescere illic, cedere est remisit, erubuit admonita
+  patet: tenuisse.
 
-  [Et]: http://www.wedrinkwater.com/
-  [aut]: http://stoneship.org/
+  [Et]: http://www.wedrinkwater.com/ [aut]: http://stoneship.org/

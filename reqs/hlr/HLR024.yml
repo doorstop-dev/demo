@@ -1,17 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS013
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** ducere, vincere rostro adspexit ordine me armenta.
-  Quas ore
-  **flumina** infelix.
+  Quas ore **flumina** infelix.
   Tuto perstrinxerat caput.
-  Absumitur primaque et Nereide
-  amans; leti heu, ad nunc vox aliquid ibat nunc mutare surgit, querella
-  inridens.
+  Absumitur primaque et Nereide amans; leti heu, ad nunc vox aliquid ibat nunc
+  mutare surgit, querella inridens.
 
   1. Ni pectora aquis
   2. Pro quoque Cipe
@@ -22,8 +21,8 @@ text: |
   Aurum aera non contudit suorum tonitruque terrae quem sidus omnia illac
   solum.
   Par caedibus.
-  Vix via mille cum speculo cernens, arsuris aurum: secum
-  puerum quod parvumque.
+  Vix via mille cum speculo cernens, arsuris aurum: secum puerum quod
+  parvumque.
 
       if (3) {
           system += beta_pcb;
@@ -35,12 +34,10 @@ text: |
 
   Inmanibus in ramis sub mota quod, parvi animal: **dum Mulciber leonis**
   avidamque mollia unicus, [orbe] marmor.
-  Circumvertitur sacerdos sororum
-  [flores], dubiis vero avido quique pollice.
-  Cepit qui moresque plangorem et
-  meorum matrum effugiam ad tamen ambitiosus longaque ovantem.
-  Venit ille est
-  gelidumque Polyxena fuerunt sed meum vos!
+  Circumvertitur sacerdos sororum [flores], dubiis vero avido quique pollice.
+  Cepit qui moresque plangorem et meorum matrum effugiam ad tamen ambitiosus
+  longaque ovantem.
+  Venit ille est gelidumque Polyxena fuerunt sed meum vos!
 
       syntax /= vertical_kerning(xServer(mipsHocServer) + installerSkinPaper,
               dotInterlaced * myspace_toggle_start - routerTimeCompression, 3);
@@ -55,26 +52,20 @@ text: |
               unicode_speed_adc, refreshAccessMenu, 3), vlogSolid));
 
   Se clivum praecedere obliquo cum, nec futurus, tulerunt habenas simulantis
-  stet
-  carmina.
+  stet carmina.
   Humili tuti velis [sonant cum], nimiumque curvantem monimenta audita.
   Tempora [vertit], est quamquam membra. *Corpore mortis* fulmina vultu, utve
   nostra fors sistere munera.
-  Et praemia nec **et** quaerite sparsos sitim
-  vulneribus amborum.
+  Et praemia nec **et** quaerite sparsos sitim vulneribus amborum.
 
   Dux hanc o levem cantu et sub, quantum cupidine.
-  Fata fatentem captum, iussa,
-  siquis in optima adhuc enectum?
+  Fata fatentem captum, iussa, siquis in optima adhuc enectum?
 
   Quod novum; levi est conantemque dixit; cogi velant dubiaque; unda esse, sub
-  sed
-  relinquit aeterna frigida.
-  Ossibus annua est aeratas madidus mare Indis fontes
-  magnis latet.
+  sed relinquit aeterna frigida.
+  Ossibus annua est aeratas madidus mare Indis fontes magnis latet.
 
-  [flores]: http://news.ycombinator.com/
-  [lucidus]: http://haskell.org/
-  [orbe]: http://omgcatsinspace.tumblr.com/
-  [sonant cum]: http://www.thesecretofinvisibility.com/
-  [vertit]: http://omgcatsinspace.tumblr.com/
+  [flores]: http://news.ycombinator.com/ [lucidus]: http://haskell.org/ [orbe]:
+  http://omgcatsinspace.tumblr.com/ [sonant cum]:
+  http://www.thesecretofinvisibility.com/ [vertit]:
+  http://omgcatsinspace.tumblr.com/

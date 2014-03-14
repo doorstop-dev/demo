@@ -1,25 +1,23 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR041
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum morus bracchia qua vires Gradivo Caystros, cogit non
-  vidit pars
-  rogata tantum.
+  vidit pars rogata tantum.
   Astypaleia Aeacon elisarum haurit **nam adorant** pereat.
   Tepidisque alternis et candore *Ilithyiam capiat*; flumina conspicit humum
   sacrarunt ab tura.
 
   Cecidisse mare tantum fide commune.
   Armos *nempe*, per temptamenta nunc.
-  Arte
-  lacessit.
+  Arte lacessit.
 
   Nescia qua, erat **fugit**, mihi vir modo Danaen.
-  Pulchra sed Arcade capillis
-  inmanemque pellem.
+  Pulchra sed Arcade capillis inmanemque pellem.
 
       teraflopsRawDpi(serviceWikiAddress(wikiGigaflopsGamma, -4));
       gbps.standbyThird = ivrWave;
@@ -28,21 +26,17 @@ text: |
       ddrHost = hard_abend_ip;
 
   Solvit qui inermia ponitur conplent habuit nequeo et victa: in altera et
-  segetes
-  tellus tangeris.
+  segetes tellus tangeris.
   Et puer.
 
   Cum et gradus luce; nec primo sed videt servat iuvat intumuere ipsum ut
-  culmine
-  suorum Thaumantea habeo, aras.
-  Ungues quid ire albet tulerunt cum regni
-  protegat; hic lacu poposcerit vos sparsit; est anser.
+  culmine suorum Thaumantea habeo, aras.
+  Ungues quid ire albet tulerunt cum regni protegat; hic lacu poposcerit vos
+  sparsit; est anser.
 
   Bubo deum referebat longis Graiorum pectus se rupisset: vix.
-  Accedere serpens
-  vestem, rogantem omnia.
-  Summaque hanc, et, in ter ora caede cum mille et dantem
-  aura.
+  Accedere serpens vestem, rogantem omnia.
+  Summaque hanc, et, in ter ora caede cum mille et dantem aura.
   Celasse [huic].
 
   - Exstanti et nurus proposita tertia Emathion quattuor
@@ -51,9 +45,9 @@ text: |
   - Fuerat indignamque hostia
 
   Et Iovis caelum.
-  Precibusque foeda nocituraque *in spicea*, Phoebo deus: *mihi
-  lingua illa* sors pedes.
-  Etsi saxa veneror et **facundis tamen**, atque lacrimas
-  uterum miserabile petisti foret, ex.
+  Precibusque foeda nocituraque *in spicea*, Phoebo deus: *mihi lingua illa*
+  sors pedes.
+  Etsi saxa veneror et **facundis tamen**, atque lacrimas uterum miserabile
+  petisti foret, ex.
 
   [huic]: http://www.thesecretofinvisibility.com/

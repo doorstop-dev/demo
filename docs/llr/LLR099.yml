@@ -1,21 +1,20 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR070
 normative: true
 ref: ''
 text: |
   Lorem [markdownum] illa mensis ieiunia nympha, illa vehit Iove.
-  Ferre ventisque
-  mihi qua patriaque superis Centauros anguiferumque poena pone; accedere.
+  Ferre ventisque mihi qua patriaque superis Centauros anguiferumque poena
+  pone; accedere.
 
   Armigerae sanguine et tegitur Canenti fecit in venerat quoque venabula, esse
   [arbore], erat pacem videntem.
   Pulsusque aestuat honori.
-  Rex suoque pectore
-  caecum custodemque posita vivit, non Mycale praecordia occidit inmisitque
-  procul
-  in.
+  Rex suoque pectore caecum custodemque posita vivit, non Mycale praecordia
+  occidit inmisitque procul in.
   Circuitu [umentes].
 
   - Sumimus Philomela equi
@@ -27,14 +26,12 @@ text: |
   Quod aeris pro te mea arbore; est tela inpediunt deseruitque iungat gente
   Nostra.
   Nondum silvae si lina corpore haurit cum nunc facies, male fecisse.
-  Est
-  celebrandaque dixi videor quoque.
-  Longam quisquis miratur Nereius leto auras,
-  frenabas vehebat tum dorso defensus retinebat pectora umbram.
+  Est celebrandaque dixi videor quoque.
+  Longam quisquis miratur Nereius leto auras, frenabas vehebat tum dorso
+  defensus retinebat pectora umbram.
 
   Ignis cum mollibat daret voce nec antris obvia.
-  Mentis in insidiaeque [quantum]
-  deorum hanc victa hos et laesum inminet.
+  Mentis in insidiaeque [quantum] deorum hanc victa hos et laesum inminet.
   Membra non [portasque] viridem ait.
 
   1. Pater vis flamine vulnera
@@ -45,11 +42,9 @@ text: |
   Frontemque luce.
   Sine semina pallorque Corintho notat felix, a vires ira ede.
   Testatus modo adgnovitque siderea non tamen, *dissimilem revinctam* nota
-  sucis
-  *non* ferebat advena tradiderat solidaque.
+  sucis *non* ferebat advena tradiderat solidaque.
   Offensus matris?
-  Aures et vulgus
-  nactusque; lacrimis genitor.
+  Aures et vulgus nactusque; lacrimis genitor.
 
       richUsb = wpa(5);
       var carrier = raw;
@@ -66,17 +61,11 @@ text: |
       }
 
   Et et tot *formosus* secundo Eumelique defensus memoraverit erat solet.
-  Haud
-  talibus lacrimas curruque sagittas sola ipsi inpensior esset Ascaniumque
-  auctor
-  maestissimus terque sacris imitatus tantum ferar.
-  Ausoniae faciam quod intrat,
-  pulcherrime frondis dis et novus in.
-  Tergoque Idas, cum et malles: Philemon
-  coniugis oras.
+  Haud talibus lacrimas curruque sagittas sola ipsi inpensior esset Ascaniumque
+  auctor maestissimus terque sacris imitatus tantum ferar.
+  Ausoniae faciam quod intrat, pulcherrime frondis dis et novus in.
+  Tergoque Idas, cum et malles: Philemon coniugis oras.
 
-  [arbore]: http://heeeeeeeey.com/
-  [markdownum]: http://landyachtz.com/
-  [portasque]: http://seenly.com/
-  [quantum]: http://www.metafilter.com/
+  [arbore]: http://heeeeeeeey.com/ [markdownum]: http://landyachtz.com/
+  [portasque]: http://seenly.com/ [quantum]: http://www.metafilter.com/
   [umentes]: http://news.ycombinator.com/

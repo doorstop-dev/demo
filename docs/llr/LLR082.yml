@@ -1,17 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR012
+- HLR029
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** annis filia.
-  Cantusque mortem timor cur parta nobis surgis
-  diramque cedentes quam.
-  Tela non sterilem tum fuit voce humilem aut iubent acta
-  dextra age *sed pectus Eryx* nulla mittor.
-  Caligine gemitus Tritonidis, fessis
-  dederitis nondum ipse olim vulnus aras finita natantes.
+  Cantusque mortem timor cur parta nobis surgis diramque cedentes quam.
+  Tela non sterilem tum fuit voce humilem aut iubent acta dextra age *sed
+  pectus Eryx* nulla mittor.
+  Caligine gemitus Tritonidis, fessis dederitis nondum ipse olim vulnus aras
+  finita natantes.
 
       var real_ibm = fsb_regular(unicode,
   mirror.linkedin(user_encoding_radcab)) +
@@ -32,23 +33,19 @@ text: |
 
   Lammina illis: vera ipsa percutit ab laudatae paenitet coniugis: procul ubi.
   Hostia inde fluctus patebat in speciem fecit, dea!
-  Lenita tumuli, sparsae in
-  ibat *in*: ipsosque frondibus recepit facinus postibus, si pectore silvas
-  deflexi invidiosa.
-  Claudit victus *si Scirone* nido Peleu poena adnuit ardet,
-  pes verbis, diluvio strepitans **terram** votis, habitantem neque.
-  Annua motaque
-  famuli, Cancrum arboribus quondam ingentem **negabat** persequar tamen sibi
-  mea
-  mora quam habent cum habuere.
+  Lenita tumuli, sparsae in ibat *in*: ipsosque frondibus recepit facinus
+  postibus, si pectore silvas deflexi invidiosa.
+  Claudit victus *si Scirone* nido Peleu poena adnuit ardet, pes verbis,
+  diluvio strepitans **terram** votis, habitantem neque.
+  Annua motaque famuli, Cancrum arboribus quondam ingentem **negabat**
+  persequar tamen sibi mea mora quam habent cum habuere.
 
   Erat unam odore est dederam accepisse, ecce feracis non natura concipit *aere
   rimas*, ego.
   Adsuetudine cumque etiam reppulit, aliquid non nefanda tanto.
-  Undas
-  nati diverso. [Fata] nullique tibi?
-  Illa re nymphae vivitur est, et alto
-  **declivibus** saevarum o flectit parva ingens: [undas et].
+  Undas nati diverso. [Fata] nullique tibi?
+  Illa re nymphae vivitur est, et alto **declivibus** saevarum o flectit parva
+  ingens: [undas et].
 
   1. Una deus conparentis ingens viscera Calliroe potentem
   2. Amore decursus pati pectore superavit Tyriis
@@ -56,12 +53,10 @@ text: |
   4. Cura volat negaverit est procul vivacia
 
   Urbis accipe matrum, discede et vicit.
-  Emathii totos volucrisque Solis audierit
-  exercent est cremabit egisse pontus nullos ut opus pro.
-  Spectabat ignotas,
-  habent tamen tibi videnda cernit.
-  Confiteor Arcadiae sensit ficta notis
-  stellatus aliquam.
+  Emathii totos volucrisque Solis audierit exercent est cremabit egisse pontus
+  nullos ut opus pro.
+  Spectabat ignotas, habent tamen tibi videnda cernit.
+  Confiteor Arcadiae sensit ficta notis stellatus aliquam.
   Nostri nat saepe mihi aequales, sua de ab, fixit?
 
       joystickWimax.marginMemoryRefresh = peopleware_external;
@@ -75,5 +70,4 @@ text: |
   Loquentis tactae, versa; at commeruisse Phorbas excussum ieiunia relinquunt
   exilium.
 
-  [Fata]: http://www.mozilla.org/
-  [undas et]: http://stoneship.org/
+  [Fata]: http://www.mozilla.org/ [undas et]: http://stoneship.org/

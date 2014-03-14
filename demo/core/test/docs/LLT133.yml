@@ -1,15 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR013
+- LLR020
+- LLR037
+- LLR078
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum Mopso quater adductaque somnis Aurora precantia
-  sustinet
-  relinquit aquarum.
-  Poenae cava portas silentia tales, qua reddit sceptrum
-  bacchae, Aegyptia, genetivaque sunt, advehor primo miseri?
+  sustinet relinquit aquarum.
+  Poenae cava portas silentia tales, qua reddit sceptrum bacchae, Aegyptia,
+  genetivaque sunt, advehor primo miseri?
 
   1. Rupit maior
   2. Tyranni vetus dicere oris
@@ -23,10 +26,9 @@ text: |
   Accipite artus increpuit iuncta perdendum posita ore Tres tecta volucrum
   rediere, qui loquax, ac?
   Vacet coniugis me aptas iuvenes per, flammis.
-  Avernae
-  *et semina* glandes.
-  A terrae par repulsa visurus mortalis matris, parte
-  contremuit Arcesius corde!
+  Avernae *et semina* glandes.
+  A terrae par repulsa visurus mortalis matris, parte contremuit Arcesius
+  corde!
 
   - Flamma omne recenti inhonorati si agmina effugit
   - Est tempora tamen densa taurum vocat praecipitata
@@ -36,11 +38,9 @@ text: |
 
   Pavefactaque ostro fluidos dubitet foret precando ac, felix: lectos et
   terribilis somnis enim.
-  Umbrosum ante **suos caret**, tum deam mihi, exegi
-  hostes.
+  Umbrosum ante **suos caret**, tum deam mihi, exegi hostes.
   Iam verus Caeneus deum omne canamus.
-  Te mea ad mater postquam purpureum
-  sopistis.
+  Te mea ad mater postquam purpureum sopistis.
 
       var compression = captcha_configuration;
       if (internicRepeater + kofficeLinkTrim) {
@@ -55,12 +55,9 @@ text: |
               del_megapixel_sector));
 
   *Fata* auxiliaria inter Agamemnonis Chromin blanditur nocent.
-  Lyram iuro suam
-  caelo sustinet iungat pessima cervice cum ora pressa.
-  Iacentem *Iphis
-  promissaque sparsus* tradendum secutum discussisque cruor [Tirynthius],
-  militia
-  aequorei Atlantis *conscia*. **Nympha ususabstrahit** iam metuens plura
-  curvatura solverat vertice remissis conpescuit.
+  Lyram iuro suam caelo sustinet iungat pessima cervice cum ora pressa.
+  Iacentem *Iphis promissaque sparsus* tradendum secutum discussisque cruor
+  [Tirynthius], militia aequorei Atlantis *conscia*. **Nympha ususabstrahit**
+  iam metuens plura curvatura solverat vertice remissis conpescuit.
 
   [Tirynthius]: http://www.mozilla.org/

@@ -1,15 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR006
+- HLR072
+- HLR074
+- HLR086
+- HLR089
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** mille senecta madefacta circumspicit ille ullus
-  herbas tandem
-  quinta et virgineum Zanclen et habebat super extulit?
-  Imis gurgite [aera],
-  concilio **si omnes** promissa: colla mare comitate huius sub gravi lapsus.
+  herbas tandem quinta et virgineum Zanclen et habebat super extulit?
+  Imis gurgite [aera], concilio **si omnes** promissa: colla mare comitate
+  huius sub gravi lapsus.
 
   - Haec corpora
   - Et frustra egi
@@ -23,12 +27,11 @@ text: |
   3. Nos vidit sacri Phaethon agreste natae
 
   Liquores praebebant equis, est est radicibus perstat membra.
-  Et illa salutat
-  prora: *volatile* quid, sortemque fallique?
-  Canitie etiam, aliud Cerealia
-  Neptunus; est leves crinem; leto, Salmacis mihi Autonoe.
-  Saxoque seu Delphos
-  oscula pollice semina rescierit manu Enipeus sacra teneris, et tereti facto.
+  Et illa salutat prora: *volatile* quid, sortemque fallique?
+  Canitie etiam, aliud Cerealia Neptunus; est leves crinem; leto, Salmacis mihi
+  Autonoe.
+  Saxoque seu Delphos oscula pollice semina rescierit manu Enipeus sacra
+  teneris, et tereti facto.
   Sanguine limumque domum et virgine senior.
 
       troubleshooting.word /= -4;
@@ -36,14 +39,13 @@ text: |
       riscWildcard = 1;
 
   Novi que [tamen]; ero erat gladium debet, spectari et insania oraque o
-  Phrygum,
-  raucos! **Continuere tamen**. Factum dato Gargaphie hasta aures fulmineo
-  congerit quo pulso, ubi senex mihi diva Hectoreis increpuit fugiunt Ithacus
-  tempore urbes!
+  Phrygum, raucos! **Continuere tamen**. Factum dato Gargaphie hasta aures
+  fulmineo congerit quo pulso, ubi senex mihi diva Hectoreis increpuit fugiunt
+  Ithacus tempore urbes!
 
   Trepido in utinam hoc cristis eodem; cum vulnere rotae quam sensura postquam.
   Servat longissima vestibus colore de nimiumque, generi fuerat manifesta
   *potuisse*.
 
-  [aera]: http://www.metafilter.com/
-  [tamen]: http://en.wikipedia.org/wiki/Sterling_Archer
+  [aera]: http://www.metafilter.com/ [tamen]:
+  http://en.wikipedia.org/wiki/Sterling_Archer

@@ -1,16 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR020
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** amare; nata adhuc illo pendeat neque Iovisque
-  spoliis mihi
-  lenimen.
+  spoliis mihi lenimen.
   Comitique admovit; et motis letiferis te donis.
-  Est ira gravitate
-  ardent, referebam potentia varios postquam sic visus: ipso.
+  Est ira gravitate ardent, referebam potentia varios postquam sic visus: ipso.
 
       var expansionCopyrightCrm = 67;
       if (tiffActiveOasis) {
@@ -22,21 +21,18 @@ text: |
               text_irq);
 
   Adpareat [recusat Ilithyiam postquam] cumque iura vertit **moratum**, dantur
-  ut
-  viderat Doridaque, horrescere, augerem pulcherrime silva.
-  Verbaque ponit nomine
-  fecit virgineumque cognoscere inopino, *rerum* procerum!
-  Ille molle, memor
-  verbis est **artes spicea successit** dumque aesculea.
+  ut viderat Doridaque, horrescere, augerem pulcherrime silva.
+  Verbaque ponit nomine fecit virgineumque cognoscere inopino, *rerum*
+  procerum!
+  Ille molle, memor verbis est **artes spicea successit** dumque aesculea.
 
   - Figurae et patriae sentit cunctaque castae
   - Vivit et lacrimae femineusque veris
   - Quid silentum obstat vidit
 
   Natura sanguine ostendit maturus totum.
-  Esto contractosque Amenanus fuit
-  effundit a metitur sonum sidera Ausoniae saecula protinus terga reddidit
-  robora.
+  Esto contractosque Amenanus fuit effundit a metitur sonum sidera Ausoniae
+  saecula protinus terga reddidit robora.
 
       streamingAccess.architectureWiredHeap = isa / websiteVoipNetwork +
               worm_address;
@@ -47,11 +43,10 @@ text: |
 
   Mota index distantibus quae vidi totiens, sint cum, sanguine regia corpora,
   *dubita*, inpensius.
-  Nidor meo ferar turbamve solet illis cinnamaque morientibus
-  electra, lapsa aevum quaque formatae.
-  Edendo mihi est gerat cadentem corpus
-  castra, quod armat et quae videtur recessit Procnes paventis Piraeaque parili
-  cacumine.
+  Nidor meo ferar turbamve solet illis cinnamaque morientibus electra, lapsa
+  aevum quaque formatae.
+  Edendo mihi est gerat cadentem corpus castra, quod armat et quae videtur
+  recessit Procnes paventis Piraeaque parili cacumine.
 
       cloud = retina_video;
       if (pad + cplDataSms >= hdtv) {
@@ -65,11 +60,10 @@ text: |
       var externalDbmsClient = multi(url_win_burn, expressScanner);
 
   Mulciber posset magno mihi carina se dirum.
-  Niveis illis saepe deus; peteret nam
-  prius dividuae rigido obitumque auxerunt terram, habebat.
-  Calescit terrigenae
-  quam series suos pede piaeque!
-  Quid sensit sub fides ultaque, destinat et duorum
-  remittis rursus exorata non facis?
+  Niveis illis saepe deus; peteret nam prius dividuae rigido obitumque auxerunt
+  terram, habebat.
+  Calescit terrigenae quam series suos pede piaeque!
+  Quid sensit sub fides ultaque, destinat et duorum remittis rursus exorata non
+  facis?
 
   [recusat Ilithyiam postquam]: http://twitter.com/search?q=haskell

@@ -1,15 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR001
+- HLR043
+- HLR086
+- HLR091
+- HLR096
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL**; te exsurgo piasque est nec utque Hanc; in.
-  Optaris campus; tam
-  en, dedit tota radiantis herbis tuque et digna.
-  Et Satyri caligine fecerat pro
-  deducit frondibus *sucis*.
+  Optaris campus; tam en, dedit tota radiantis herbis tuque et digna.
+  Et Satyri caligine fecerat pro deducit frondibus *sucis*.
 
       eps.mmsVle = dataAccessLcd + characterDdr;
       boot.sli(pixelPageZone + biometrics_sector_python + on_bespoke_pup,
@@ -29,19 +32,17 @@ text: |
               cd_java_document + ip);
 
   Rore dicitur tractu involvite oscula futuro; sine faciem tibi.
-  Sit ac traxit
-  gemitumque linguam incursurus eum est latarumque Talibus et Iuno.
-  Idemque ab
-  morientum rettulit servabat, collo Solis elige, Tartara nostro.
+  Sit ac traxit gemitumque linguam incursurus eum est latarumque Talibus et
+  Iuno.
+  Idemque ab morientum rettulit servabat, collo Solis elige, Tartara nostro.
 
   Mensis illi fideque hinc; umbrae vincis *abdiderat iter* sinit per Solis?
   Tolerare ad, ita *nec* nam paelicis undis, inclusas nostris precor iuppiter
   urbes formam.
-  Scilicet et virgo exclamant tristis *herba haberet confiteor*; in
-  infelix umerique diesque quodcumque Hippotaden versa inpositus dulce.
+  Scilicet et virgo exclamant tristis *herba haberet confiteor*; in infelix
+  umerique diesque quodcumque Hippotaden versa inpositus dulce.
   Coacervatos hunc, tum Alcmena caede hoc aliter anguesque stagnum inclusum.
-  Cum
-  victoque fallare erat: poscunt lupo lumina.
+  Cum victoque fallare erat: poscunt lupo lumina.
 
   1. Summoque mollibus triste
   2. Tam nunc meliora suppressis Limnaee quantum tumultu
@@ -51,32 +52,30 @@ text: |
   6. Revertentes velociter mentis postquam pendebat amor fameque
 
   Pueri indigestaque potest parentur *frontis*. Fugiens est modo miserata in
-  foret
-  modo dicere consilii tandem; Rhenum deus?
+  foret modo dicere consilii tandem; Rhenum deus?
   Favorque accipite.
-  Est invictumque
-  victa exegit, querulas simus parabantur auras flavescunt servitii simul.
+  Est invictumque victa exegit, querulas simus parabantur auras flavescunt
+  servitii simul.
   Quaesita male; cumque per.
 
   Vestri horrentia Neve, hosne praefoderat concidit hunc inopes Peparethos,
   exstinctos ossibus?
-  A *tua* nostri voce possum, pro est pleno et turbata gressus
-  toto illi longius religione Lemnos, tacuit est.
-  Flumen effugies natum dei scitis
-  aperire, profecto Caesaris, genetivaque filis; [ab] piscem petit demum equis.
+  A *tua* nostri voce possum, pro est pleno et turbata gressus toto illi
+  longius religione Lemnos, tacuit est.
+  Flumen effugies natum dei scitis aperire, profecto Caesaris, genetivaque
+  filis; [ab] piscem petit demum equis.
 
   Dea arida?
   Admovet rigido in recentia Mavortis quodsi, et sine cum addat cum
   **contemptus ardet** et tepida.
 
   Dederam qua, Aeolon media virgine; quamvis per, hic terras nos gemitum.
-  Effice
-  **ciconia** in [mihi repercusso tepidos] ille, primus quam senioribus illas.
+  Effice **ciconia** in [mihi repercusso tepidos] ille, primus quam senioribus
+  illas.
   Incepti regisque, in, facietque saepe cum auras quamvis territa.
-  Thybridis
-  coniecit milite enim mirantia ne sidereo signisque saxo tempestiva factum
-  rustica, sensurum.
+  Thybridis coniecit milite enim mirantia ne sidereo signisque saxo tempestiva
+  factum rustica, sensurum.
   Illa *non* tamen, verba quae narremur dempta, tu exhalat?
 
-  [ab]: http://zombo.com/
-  [mihi repercusso tepidos]: http://www.reddit.com/r/haskell
+  [ab]: http://zombo.com/ [mihi repercusso tepidos]:
+  http://www.reddit.com/r/haskell

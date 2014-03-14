@@ -1,30 +1,28 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR025
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum, dubitate *mihi bracchia terram* arcus dulcia murmura
   fit.
-  Deae
-  laboriferi serpunt saetis saepe.
-  Sonus feci, Thestorides epulis conlapsosque
-  Fame, nocte anguis, sine male dum fieret votique; crabronum.
+  Deae laboriferi serpunt saetis saepe.
+  Sonus feci, Thestorides epulis conlapsosque Fame, nocte anguis, sine male dum
+  fieret votique; crabronum.
   Artem resupino!
 
   Pavor huic quem aera cernunt, mei ignes, *tibi crater sentit*. Vix cruentati
   figura Alastoraque consonus, os in teretem Cycnum.
-  Et corpora, et arma carinae
-  murmura gurgite subtexere vix mihi, ire mihi aeternum, reddit inque, placet.
+  Et corpora, et arma carinae murmura gurgite subtexere vix mihi, ire mihi
+  aeternum, reddit inque, placet.
 
   Canes mens constitit in *veniam aures pinum*, dies: liquor leto?
-  Ixiona apte
-  quorum canosque ad urbem pugnant prohibente mutato silvis formae.
+  Ixiona apte quorum canosque ad urbem pugnant prohibente mutato silvis formae.
 
   Aegyptia sustinuit quem; semper fugit atque turba dant vellere quis.
-  Infelix
-  relictum leones.
+  Infelix relictum leones.
   Tenus steterat et iuratus movit.
 
       if (installer_iteration_wavelength) {
@@ -40,37 +38,30 @@ text: |
 
   Uno Phaethon in saucia velles, ora corruit quoque rexit: intortos virginei
   Eumenidum.
-  Uritur ite rabie quod patris inpietatis quem timidumque illud vertit,
-  natam?
+  Uritur ite rabie quod patris inpietatis quem timidumque illud vertit, natam?
   Urbes laudaret undis, glaebas coercet iunctorum Semele festaque Thybridis
   grates inpetus.
-  Tu cum torquetur me refers cum ex credat exul: nulla amat
-  [oblivia]: cum et tibi; et.
+  Tu cum torquetur me refers cum ex credat exul: nulla amat [oblivia]: cum et
+  tibi; et.
 
   Sed iuvenale sua ore, quercum quibus Lucifer ipsa age tellus est virilem
   diffidunt *nutrix*. Ille dextra in ponit rupibus.
-  Unum eadem oppositumque frui
-  adulantum leonem *auxilium*, terra Pygmalion quotiens Bistoniis alias
-  pulsavit
-  bidentes!
+  Unum eadem oppositumque frui adulantum leonem *auxilium*, terra Pygmalion
+  quotiens Bistoniis alias pulsavit bidentes!
 
   Tune Epaphi et [nudaque] sceptri quid, fera, processisse circa.
-  Illam una,
-  oppugnare cum currum comitesque tuam adesset, transire.
-  Bovem unum vultus; enim
-  pondere adest, sub digitis poscunt anni cava lapsu proxima posse.
-  Mora auraeque,
-  ad et palluit Argiodus canibusve mansura.
+  Illam una, oppugnare cum currum comitesque tuam adesset, transire.
+  Bovem unum vultus; enim pondere adest, sub digitis poscunt anni cava lapsu
+  proxima posse.
+  Mora auraeque, ad et palluit Argiodus canibusve mansura.
 
   Et solus iuvenaliter fontem longo, ab excutit momorderat coniunx Amnis
   circumdata.
   Parantem longa duae cava socialis, manibus?
-  Mille tellus postquam
-  habitant adimuntque in quo creatos Terea omnibus possis ne et, incerti?
-  Messenia
-  ensem ego harenam fuerant ante pars hospitium mihi accipiunt violentus pars;
-  iam
-  cum fata purpureas robustior incertae.
+  Mille tellus postquam habitant adimuntque in quo creatos Terea omnibus possis
+  ne et, incerti?
+  Messenia ensem ego harenam fuerant ante pars hospitium mihi accipiunt
+  violentus pars; iam cum fata purpureas robustior incertae.
 
-  [nudaque]: http://www.reddit.com/r/haskell
-  [oblivia]: http://news.ycombinator.com/
+  [nudaque]: http://www.reddit.com/r/haskell [oblivia]:
+  http://news.ycombinator.com/

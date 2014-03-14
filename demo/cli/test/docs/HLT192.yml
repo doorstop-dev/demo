@@ -1,14 +1,14 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR020
 normative: true
 ref: ''
 text: |
   Lorem [markdownum iubent] plumis ipsa Solis: **similis**, sine quae innectens
   brevem Phoebus **inlato illa**. Verba amplexibus, hoste qui eripiunt
-  resolvent
-  cedere Cadme contermina postque.
+  resolvent cedere Cadme contermina postque.
 
       kindleBrowserDesign += crm_cps;
       if (biometricsFile - floppy + suffix_jfs(cache_dtd_vertical)) {
@@ -27,21 +27,17 @@ text: |
 
   Rogabo pavet annus contraque lugubris feriente ferrea sequiturque ponit missa
   latum *non dominae passus* Peliaeque corpore fluminaque frementi.
-  Cuius illi
-  festum et sitis ignaram probatum aras exsiluere meminisse esse aratra reluxit
-  flumine, ibi.
+  Cuius illi festum et sitis ignaram probatum aras exsiluere meminisse esse
+  aratra reluxit flumine, ibi.
 
   Ille levius natisque cum aequi non patrio corpus coniunx misisset ex adhibete
   furiosaque haeserat meminisse manusque.
-  Et supple capillos saxoque Bacchi,
-  numerum lumen fulvis delia multa iuvenco lacrimaeque quod superando enim
-  deseruitque quoniam.
-  Positi cunctari longe cognoscendo pinguia dulces, incurva
-  maxime, depositum.
-  Sinus idque molles litore praebet vertice gladiis ultra,
-  vocari sua tibi lacrimis calidumque adspicerent caerulus, hoc quis.
-  Inplevit
-  versata a belli visus!
+  Et supple capillos saxoque Bacchi, numerum lumen fulvis delia multa iuvenco
+  lacrimaeque quod superando enim deseruitque quoniam.
+  Positi cunctari longe cognoscendo pinguia dulces, incurva maxime, depositum.
+  Sinus idque molles litore praebet vertice gladiis ultra, vocari sua tibi
+  lacrimis calidumque adspicerent caerulus, hoc quis.
+  Inplevit versata a belli visus!
 
   - Tacitas quinta Corythus faciem Iphigenia turaque restabat
   - Es cultor equo illo
@@ -49,23 +45,19 @@ text: |
 
   Ceu facit.
   Haec longam tremore tauros, veteris sanguine tecum tibi animae!
-  Dives
-  nova eras tenet frugum *tuta*, et inguina?
-  Et iam sola, participes socium
-  maestaeque collo magna Phoebeamque subiere vulnera vulnera et eligit vinclo
-  et.
+  Dives nova eras tenet frugum *tuta*, et inguina?
+  Et iam sola, participes socium maestaeque collo magna Phoebeamque subiere
+  vulnera vulnera et eligit vinclo et.
 
   Crimen in boves posito, stipulis temperat ausis.
-  Cum pater everterit tecta,
-  truncoque; rate flentemque versasse induit, nec profugam **regale**.
+  Cum pater everterit tecta, truncoque; rate flentemque versasse induit, nec
+  profugam **regale**.
 
   Haec ureris Melicerta.
-  Regem ad euntem et illic funereum volucris dicto *corpore
-  laeva nescioquam*. Mente Oebalide vivacisque fata; versus invidit erat non
-  adversaque, ut.
+  Regem ad euntem et illic funereum volucris dicto *corpore laeva nescioquam*.
+  Mente Oebalide vivacisque fata; versus invidit erat non adversaque, ut.
   Inde Aethiopesque urbes, cum!
-  Seriphi diversa Cycnum minatur
-  prehensis ripas constitit, niger nobis illa, aere moenia ferrum **quod**:
-  moriens, vanum!
+  Seriphi diversa Cycnum minatur prehensis ripas constitit, niger nobis illa,
+  aere moenia ferrum **quod**: moriens, vanum!
 
   [markdownum iubent]: http://eelslap.com/

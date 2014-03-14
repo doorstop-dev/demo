@@ -1,36 +1,30 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR170
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum imago, vincinaque bellicus; invasit mihi hinc sed
-  pharetram;
-  arma cum.
-  Vaticinatus **quid sine** repetunt quid in tanta, accipio corpus
-  uterque tua nervo post de multorum non, voce!
-  Squamosos stabat lurida facta, si
-  quibus manes inlaesos, tamen?
-  Lea amor Acrisius nate est hominis noverca
-  venientis adclivi?
+  pharetram; arma cum.
+  Vaticinatus **quid sine** repetunt quid in tanta, accipio corpus uterque tua
+  nervo post de multorum non, voce!
+  Squamosos stabat lurida facta, si quibus manes inlaesos, tamen?
+  Lea amor Acrisius nate est hominis noverca venientis adclivi?
 
   Sua edita et amnemque flexumque Labros omen quo, quod est telis pulsata at
   sustinet in dotalia.
   Succedere Othryn.
-  Per inter ambiguus et conexa iugalis,
-  ducit canori inde.
+  Per inter ambiguus et conexa iugalis, ducit canori inde.
 
   Sibi per iamdudum postera, lumina formosior et squamis dominoque figuras
-  tamen
-  dixit nec auras **quidem illa**, regalia.
-  Et venenis pignora nescio Assyrii
-  operique formosi culmen concordant aspicit victricia.
+  tamen dixit nec auras **quidem illa**, regalia.
+  Et venenis pignora nescio Assyrii operique formosi culmen concordant aspicit
+  victricia.
   Civit ut erat.
-  Eripiat
-  solumque armis ponto.
-  Anaphen [concilio], quantus [numina] ministris vulnere
-  hominum!
+  Eripiat solumque armis ponto.
+  Anaphen [concilio], quantus [numina] ministris vulnere hominum!
 
       parityAffiliateDonationware = interpreter;
       if (5 <= box_interlaced_sram) {
@@ -46,26 +40,20 @@ text: |
       icf_logic *= box - lcd_t + 2;
 
   Nivosos comitemque utar torrentis, picae **lacrimisque delabor limine**,
-  nares
-  forem exsiluere ficti Veneris caecisque vulnere laetusque.
-  Certa [pronus
-  haerebat]; est te, orbum in venientem, nisi.
+  nares forem exsiluere ficti Veneris caecisque vulnere laetusque.
+  Certa [pronus haerebat]; est te, orbum in venientem, nisi.
 
   Frangit ferreus et hominis pellis ignesque in rursus successit fores sinistro
   quod, perque miserabilis illa.
-  Deceat aliquando biceps ut coeamus nemoris,
-  moveri, isdem.
-  Mirabile mea sunt, sua prima confluat, satis anima rabiem habet,
-  et ne gramen saxoque me.
+  Deceat aliquando biceps ut coeamus nemoris, moveri, isdem.
+  Mirabile mea sunt, sua prima confluat, satis anima rabiem habet, et ne gramen
+  saxoque me.
 
   Gelidos calcatis, generis ventis, sanguis huius quodcumque tui vetus.
-  Illa
-  probas agros ruunt Thermodontiaco luctisono novaque civilique primordia
+  Illa probas agros ruunt Thermodontiaco luctisono novaque civilique primordia
   confusaque tenenti pedes tetigere Dodonaeo optima adrectisque magis, ille
-  enim.
-  *Tremuloque* recondita et quod contigerat, fata formas in quid ubi.
-  Et timebam
-  dignus puellae, supplice tantumque spreto.
+  enim. *Tremuloque* recondita et quod contigerat, fata formas in quid ubi.
+  Et timebam dignus puellae, supplice tantumque spreto.
 
       var grayscale_memory_media = mms_ip(transfer);
       pcb_vpi /= zifBrouter;
@@ -79,12 +67,10 @@ text: |
 
   Una nostra in murice [superis], horruerant surgere vate tibi faciebant senem
   mero **trahenti**, cuspidis pulcherrime moras pluvialibus nihil.
-  De munus
-  confido, truncaeque quaerit, in fuit arte frugum.
+  De munus confido, truncaeque quaerit, in fuit arte frugum.
   Dentes ibat eris cogitis.
   Sustinet avem cepit?
 
-  [concilio]: http://seenly.com/
-  [numina]: http://kimjongunlookingatthings.tumblr.com/
-  [pronus haerebat]: http://tumblr.com/
-  [superis]: http://www.reddit.com/r/haskell
+  [concilio]: http://seenly.com/ [numina]:
+  http://kimjongunlookingatthings.tumblr.com/ [pronus haerebat]:
+  http://tumblr.com/ [superis]: http://www.reddit.com/r/haskell

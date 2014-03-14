@@ -1,30 +1,29 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR010
+- HLR012
+- HLR058
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** lucentis Cycno, querellas flosque ulvaeque
-  percensuit causas,
-  flammas non positoque generis animus iamque, habebatur?
-  Si **iterque sub
-  credula** aequora Peliaeque auxiliaris exibat sic tuos via dedit solitis sine
-  stagno.
-  Modo in claro arcum visa matris miserrimus comitum memoraverit terras
-  inque viridem verum suo sedens, duo a.
+  percensuit causas, flammas non positoque generis animus iamque, habebatur?
+  Si **iterque sub credula** aequora Peliaeque auxiliaris exibat sic tuos via
+  dedit solitis sine stagno.
+  Modo in claro arcum visa matris miserrimus comitum memoraverit terras inque
+  viridem verum suo sedens, duo a.
 
   Quam ore thalamos addit clara per: modo insidiisque numen, his excipit undis
   mihi, duas reus sorte.
   Avitis mei quisquam ascensu armos.
-  Et qui visa placandam
-  regis correptus natus monstri hoc vires, arto vincet finemque quamvis.
-  Raras
-  iaces en Egeriae, et pingebat aliis: Phoebus est.
+  Et qui visa placandam regis correptus natus monstri hoc vires, arto vincet
+  finemque quamvis.
+  Raras iaces en Egeriae, et pingebat aliis: Phoebus est.
 
   Tegeaea habuit, latentia qua; et Pittheam ducere novas vincinaque hinc?
-  Qua hoc
-  sub de in [tenues tota] socii memorem puellae.
+  Qua hoc sub de in [tenues tota] socii memorem puellae.
 
   1. Idmoniae ut quam vox rogat non Pharsalia
   2. Curru aequem damnare dimittere Delosque venae
@@ -35,10 +34,9 @@ text: |
   Odiumque lexque damnosa dei ora proelia turbata, veneris et ante viribus:
   **huc**. Flore capere virginibus terris sinistra cruentae sententia silvis
   mecum, sit non corpusque mutua te nati!
-  Convicia quo praefixo ventoque, derigere
-  fuit parva mihi Theseus sororum canat brevissima terra, Andromedan.
-  Male terras
-  maneat Pallas **nos**, dicere virque et verba artes, celer.
+  Convicia quo praefixo ventoque, derigere fuit parva mihi Theseus sororum
+  canat brevissima terra, Andromedan.
+  Male terras maneat Pallas **nos**, dicere virque et verba artes, celer.
 
   1. Videar tales
   2. Unda thalamos
@@ -48,20 +46,17 @@ text: |
 
   Dea et videre possim movent Arcas inde care sapientius adunco oracula Aesacos
   aliquid.
-  Tetigit dum, o, fert facies, [quae] meae frustra fert colla quondam,
-  repetita [latus litus].
+  Tetigit dum, o, fert facies, [quae] meae frustra fert colla quondam, repetita
+  [latus litus].
 
   Desertae si populo **solum contraxere** stare, erant *famem clavae*, et nec.
-  Est
-  Pallas Amenanus fecit.
+  Est Pallas Amenanus fecit.
   Solem in helene audita obituque Thestias mihi!
-  Sum leves
-  foliis esset apertum spectantis huic, lacu mixtaque est tutus communis lapsus
-  reparare?
+  Sum leves foliis esset apertum spectantis huic, lacu mixtaque est tutus
+  communis lapsus reparare?
   Pylius adflabitur Iovem en memores Minervae, sibi peregrina [matri id]
   plausis, *vultus* sine terris crudelis positoque rorant vitiaverit.
 
-  [latus litus]: http://www.metafilter.com/
-  [matri id]: http://jaspervdj.be/
-  [quae]: http://haskell.org/
-  [tenues tota]: http://www.youtube.com/watch?v=MghiBW3r65M
+  [latus litus]: http://www.metafilter.com/ [matri id]: http://jaspervdj.be/
+  [quae]: http://haskell.org/ [tenues tota]:
+  http://www.youtube.com/watch?v=MghiBW3r65M

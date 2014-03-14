@@ -1,13 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR009
+- HLR029
+- HLR047
+- HLR094
+- HLR098
 normative: true
 ref: ''
 text: |
   **Lorem** markdownum sternebat uror dei laevaque; spe quaque quamvis erat.
-  Auro
-  referuntur **dedit**.
+  Auro referuntur **dedit**.
 
       if (4 > 55) {
           leakThermistor = lcd;
@@ -29,13 +33,11 @@ text: |
       }
 
   Volucrum fungi, nec talis esset dentes conplexibus poteram.
-  Candore prima et aut
-  sinus sine triformis venias, me galeaque pedem, ego inanis nymphae se.
-  Erudit
-  actis ante coniuge, mensas Athenae, colunt quis.
-  Thracis nuper moles Quirini,
-  cum rebus videre audentia dea referat illam infelix, *inque* vultus cubat
-  videndo dilapsum.
+  Candore prima et aut sinus sine triformis venias, me galeaque pedem, ego
+  inanis nymphae se.
+  Erudit actis ante coniuge, mensas Athenae, colunt quis.
+  Thracis nuper moles Quirini, cum rebus videre audentia dea referat illam
+  infelix, *inque* vultus cubat videndo dilapsum.
   Quarum Burin moram.
 
       clock(multi_dcim_internal(4, googleSinkMemory - brouter));
@@ -44,30 +46,26 @@ text: |
 
   *Desierant Mopsus* iugum Thebae [et omnia] ubi nondum ulla dixit Phrygiisque
   urbem: classe!
-  Tura sono humum se condas dextra Meropisque tela Ascalaphus, est
-  poterat, et proxima.
-  Quae esse veteris Cyllenide cui capillos medio, constitit
-  bella sive foedoque toto forma, tulit, perenni qui.
-  Nec iamque prosunt certamine
-  *Penthea*. Oenopiis adspiciam lavet nec marinas sui ostendere fugit
-  luctantiaque
-  sciet deorum aera quaeque sinistra, vera.
+  Tura sono humum se condas dextra Meropisque tela Ascalaphus, est poterat, et
+  proxima.
+  Quae esse veteris Cyllenide cui capillos medio, constitit bella sive foedoque
+  toto forma, tulit, perenni qui.
+  Nec iamque prosunt certamine *Penthea*. Oenopiis adspiciam lavet nec marinas
+  sui ostendere fugit luctantiaque sciet deorum aera quaeque sinistra, vera.
 
   Non somnis in Calydon profugum.
-  Idque tegumen vitiaverat viscera eripite
-  morantia lumine tu annos tamen armos?
+  Idque tegumen vitiaverat viscera eripite morantia lumine tu annos tamen
+  armos?
 
   Hister protegat navis!
-  Qui [eodem caespes illa] Cilix vana deserto aras zephyri
-  meo et incubat mirum?
+  Qui [eodem caespes illa] Cilix vana deserto aras zephyri meo et incubat
+  mirum?
 
   Corpora artis tendebat templa instare et solam, triumphis quoniam in spernit
   fata inde pondere potuisse?
-  Populus rupti triumpha attonitoque iniuria nondum
-  seposuisse aestu manentem dextra nomen, aliquid.
-  Omnes inter sequentis mirandum
-  voce sufficit Venus Pergama sacra, natisque et **medio captivarumque natus**
-  ungues.
+  Populus rupti triumpha attonitoque iniuria nondum seposuisse aestu manentem
+  dextra nomen, aliquid.
+  Omnes inter sequentis mirandum voce sufficit Venus Pergama sacra, natisque et
+  **medio captivarumque natus** ungues.
 
-  [eodem caespes illa]: http://zombo.com/
-  [et omnia]: http://tumblr.com/
+  [eodem caespes illa]: http://zombo.com/ [et omnia]: http://tumblr.com/

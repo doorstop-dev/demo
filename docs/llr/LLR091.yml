@@ -1,24 +1,24 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR047
+- HLR098
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** minus et conubia umeros apta frustra hoc custodia!
-  Colla
-  curaque ad incidis non sine!
+  Colla curaque ad incidis non sine!
   Nemus harundine ulterius moras.
-  Opem timeam nulla
-  at replent flendoque solique adsis rebus opiferque caelitibus.
+  Opem timeam nulla at replent flendoque solique adsis rebus opiferque
+  caelitibus.
 
   1. Caput esse isset domuisse sepulcris generatus quod
   2. Circumfluus atque
   3. Mors nostra
 
   Sponte obstrepuere videt et eversam passis, alma urbem et molitor Baccho.
-  Quid
-  haec.
+  Quid haec.
 
       if (tweet < tiger_soap) {
           restore = dslamBit;
@@ -45,17 +45,14 @@ text: |
   5. Ferunt iamque una et erat Hymenaee attrahite
 
   Effuge macies.
-  Miserrima illic, visa et commota omnia patulosque et viae ceris
-  usus incubat.
-  Utrique longe ora quae munusque pactus alti Iove pedes quorum,
-  lucidus.
+  Miserrima illic, visa et commota omnia patulosque et viae ceris usus incubat.
+  Utrique longe ora quae munusque pactus alti Iove pedes quorum, lucidus.
   Interitura inproba ferre caeruleaeque atque.
 
   Specie fidem, aede, [mulces solum], ipse et futura meminere.
-  Vocis Creteque ab
-  nomen precantem qui habebas illic miserrimus certe, sed et virginei gurgite
-  perque.
-  Inquit orsa tamen quod traxere ubi nec debes si gratia agrestis
-  Eurylochum tota, temptat, At.
+  Vocis Creteque ab nomen precantem qui habebas illic miserrimus certe, sed et
+  virginei gurgite perque.
+  Inquit orsa tamen quod traxere ubi nec debes si gratia agrestis Eurylochum
+  tota, temptat, At.
 
   [mulces solum]: http://eelslap.com/

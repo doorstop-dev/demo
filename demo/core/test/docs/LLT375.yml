@@ -1,15 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR022
+- LLR023
+- LLR139
+- LLR173
+- LLR176
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum quis bos et, Avernae non peregit totum relinquit illi
-  oculis
-  nitidissima genitor desinit Peliden ut umbram.
-  Ingemuit poscit *sic* sacra de
-  dubites haeserat talibus cultus inobservata viscera vellent labitur nefas.
+  oculis nitidissima genitor desinit Peliden ut umbram.
+  Ingemuit poscit *sic* sacra de dubites haeserat talibus cultus inobservata
+  viscera vellent labitur nefas.
   Curvae femina.
 
   1. Mihi spe Almo amne auras genialis
@@ -17,23 +21,19 @@ text: |
   3. Solida gurgite neutrumque obstruat opera peti
 
   Factum magnumque efflant: rituque huius.
-  Posuerunt a capillos flamma, dolores
-  antiquae Marsque dis, odore.
-  Sed hinc quamvis tempora ego strinxit hiatu pinum
-  **factis**, collis mihi; pedes.
-  Tempora funera, in inquit, iam haberet Amythaone
-  quoque Paphon cupidine Solis hic rubenti toto non, tibi.
+  Posuerunt a capillos flamma, dolores antiquae Marsque dis, odore.
+  Sed hinc quamvis tempora ego strinxit hiatu pinum **factis**, collis mihi;
+  pedes.
+  Tempora funera, in inquit, iam haberet Amythaone quoque Paphon cupidine Solis
+  hic rubenti toto non, tibi.
 
   Troica utraque perstas venefica pennisque ille Haemoniis faciem!
-  Cedere sed
-  pedis in custodia domoque, inhaesuro quae violentique fuit nocens, pariterque
-  piget.
-  Ad puer tantaeque non fratrem erat; abeunt *primum cornua*, sparsaque
-  remisit [quid], natae; fit terruit, esse.
-  Pennis frutices velit devolvere utro;
-  ire omnes duro mota quas volabat marmore letum; tamen locuta memorabile
-  coepere
-  lignum?
+  Cedere sed pedis in custodia domoque, inhaesuro quae violentique fuit nocens,
+  pariterque piget.
+  Ad puer tantaeque non fratrem erat; abeunt *primum cornua*, sparsaque remisit
+  [quid], natae; fit terruit, esse.
+  Pennis frutices velit devolvere utro; ire omnes duro mota quas volabat
+  marmore letum; tamen locuta memorabile coepere lignum?
 
       dac_cookie.lion_memory_netiquette *= netiquette_log_permalink;
       interface += compilerWimaxScsi.ansi_overclocking.cpuMarketAtm(
@@ -49,11 +49,9 @@ text: |
       }
 
   Qui veste qua secuit cecidit, edidit et minima est, aemulus.
-  In semper parta;
-  qua sic muneris Orontes mente; infantem!
+  In semper parta; qua sic muneris Orontes mente; infantem!
 
   Malis rursusque draconem nudum ex urbem atque; antro optat.
-  Aenea temptamina
-  sparsi.
+  Aenea temptamina sparsi.
 
   [quid]: http://www.wtfpl.net/

@@ -1,18 +1,21 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR021
+- LLR042
+- LLR050
+- LLR066
+- LLR107
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum *fiunt Minoide nostri*! Viderat quam aversus
-  crudelius armorum
-  spem moenibus putes.
-  Data licet fratre tenebrae ferro Alcmenae [matris murus]
-  cursu flumine. **Visa augurio** aestus abluit, saliunt iuvene consilium
-  Achilleos triplex tenebras dictas **dextra** et clarae in [vox] Delos.
-  Natarum
-  pars tumultus praequestus cesserat.
+  crudelius armorum spem moenibus putes.
+  Data licet fratre tenebrae ferro Alcmenae [matris murus] cursu flumine.
+  **Visa augurio** aestus abluit, saliunt iuvene consilium Achilleos triplex
+  tenebras dictas **dextra** et clarae in [vox] Delos.
+  Natarum pars tumultus praequestus cesserat.
 
       if (gate * bluetooth < metadata_mainframe_terahertz) {
           driver_isa_mode -= handleBarBare + -2;
@@ -48,29 +51,23 @@ text: |
       }
 
   Poteras nec is posse a lumen dilata, et tempto vero inconsumpta o hominum
-  morte
-  Aiax pectora? [Conubia] non.
+  morte Aiax pectora? [Conubia] non.
 
   Tumor in versus: non dedit in corporeasque secuta, in vesica Aesonides vota
   quibus, **hanc Minos Panaque**. Risere consuetissima curva anhelo se amans in
   Peleus novi resimas: de est altera post, tamen.
-  Illam sua atris qua saxo,
-  exerceor crescit, vox ait, et.
-  Videtur iners sensit, Coei regia alta venit
-  exosae in.
-  Grandaevus thyrsos flammifera mandata dea fixa ora ex enim terrore;
-  aconita tibi, deiecerat tamen ullum.
+  Illam sua atris qua saxo, exerceor crescit, vox ait, et.
+  Videtur iners sensit, Coei regia alta venit exosae in.
+  Grandaevus thyrsos flammifera mandata dea fixa ora ex enim terrore; aconita
+  tibi, deiecerat tamen ullum.
 
   Matrem nam rectoque genitor parente Diomede, inque tamquam anima, laetor.
-  Tecti
-  tendit meorum imminet [animalibus ipsa]. Altera tota?
-  Visa nullo voverat
-  [servitque tota]. Animi ponunt, faveant, et nube mihi experiar, limina cumque
-  omnia veteremque praecordia puer idque.
+  Tecti tendit meorum imminet [animalibus ipsa]. Altera tota?
+  Visa nullo voverat [servitque tota]. Animi ponunt, faveant, et nube mihi
+  experiar, limina cumque omnia veteremque praecordia puer idque.
 
   Quanta [iunctissimus] manu: spes sunt animalia [manum], est tot.
-  Pollice
-  aequora!
+  Pollice aequora!
   Probetne vertitur inperfecta mixta: tetigit passum caespite: resistite.
 
   1. Regis atque ultima hinc quaque sequenti summo
@@ -81,13 +78,11 @@ text: |
 
   Ne labore in desperat, invida humanos iamdudum pauca, urbs nescio Troiana se.
   Adire caruit et sibi bracchia.
-  Sic foret, **renarro** es Libye biformis optima,
-  adsimulat sed nata dea, nitidique ordine veteris et fortuna.
+  Sic foret, **renarro** es Libye biformis optima, adsimulat sed nata dea,
+  nitidique ordine veteris et fortuna.
 
-  [Conubia]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [animalibus ipsa]: http://www.lipsum.com/
-  [iunctissimus]: http://reddit.com/r/thathappened
-  [manum]: http://www.uselessaccount.com/
-  [matris murus]: http://www.thesecretofinvisibility.com/
-  [servitque tota]: http://reddit.com/r/thathappened
-  [vox]: http://seenly.com/
+  [Conubia]: http://en.wikipedia.org/wiki/Sterling_Archer [animalibus ipsa]:
+  http://www.lipsum.com/ [iunctissimus]: http://reddit.com/r/thathappened
+  [manum]: http://www.uselessaccount.com/ [matris murus]:
+  http://www.thesecretofinvisibility.com/ [servitque tota]:
+  http://reddit.com/r/thathappened [vox]: http://seenly.com/

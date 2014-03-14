@@ -1,13 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR130
+- LLR147
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum miser studioque **bracchia tellus**, illa, gloria.
-  Et flore
-  papilione umero exemplumque eripui, Tonanti habenas fletumque silvis.
+  Et flore papilione umero exemplumque eripui, Tonanti habenas fletumque
+  silvis.
 
   1. Phoebo vir vocis aevi dedit
   2. Utinam praereptaque habet
@@ -16,17 +18,16 @@ text: |
   5. Corpore gemitus virtus
 
   Haec ac nunc: quod trahit iste suo hic haec narrare casus.
-  Altus quod meoque;
-  est huc potiuntur ima manes Ismariae praemia lecti iaculum cortice levatus.
+  Altus quod meoque; est huc potiuntur ima manes Ismariae praemia lecti iaculum
+  cortice levatus.
 
   Congestis facis temerarius belli.
-  Ruunt terribili quoque Phantasos, cum est
-  [primis] inducere.
+  Ruunt terribili quoque Phantasos, cum est [primis] inducere.
 
   Lacrimisque Lyncides pericla **mente**, hunc tam dextra saevissime urbis
   retractant pugnabam.
-  Munimina videri et stagni Iovis solumque Aram; ferarum nunc
-  putetis nec carpitur matris: et.
+  Munimina videri et stagni Iovis solumque Aram; ferarum nunc putetis nec
+  carpitur matris: et.
 
   - Et tollere sed solutis impetus
   - Limnaee unus quoque nec Iovis commisit exspectatum
@@ -35,16 +36,12 @@ text: |
 
   Silva ad vati utque et verique unde plausu domui nostra, per et [esse]
   credensque polumque maxima.
-  Post Alcides illa, Venus accipit, adultera cubitoque
-  solique propositum.
-  Et facta Cinyra maerentes etiamnum remota, usa sibi domus
-  passis quis mei.
+  Post Alcides illa, Venus accipit, adultera cubitoque solique propositum.
+  Et facta Cinyra maerentes etiamnum remota, usa sibi domus passis quis mei.
   Avem laevae circumvolat cohaesit Cerbereos artibus procul.
-  Ipse
-  mittam ab cessant aversus Caphereus perstat.
+  Ipse mittam ab cessant aversus Caphereus perstat.
 
   Non clade crescit virago, non si tamque attulerat tamen.
   Aethera arte.
 
-  [esse]: http://heeeeeeeey.com/
-  [primis]: http://www.billmays.net/
+  [esse]: http://heeeeeeeey.com/ [primis]: http://www.billmays.net/

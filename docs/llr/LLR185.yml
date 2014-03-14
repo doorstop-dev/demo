@@ -1,15 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR007
+- HLR036
+- HLR050
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** certamina *gemelliparae ille non* et caput edere
-  placet reieci
-  sacrum.
-  Columnae Acheloe ossibus Ixiona illo est parte *factum freta*
-  expellitur.
+  placet reieci sacrum.
+  Columnae Acheloe ossibus Ixiona illo est parte *factum freta* expellitur.
   Platanus nec domo trepidare [ac spissus ipsis] adhuc ultro!
 
   1. Errat requiescere populos
@@ -22,23 +23,18 @@ text: |
   Fuit auctor iam poenas.
 
   Ingenium quod et caute se tangit Syringa videat geminos nostris servatum si
-  arte
-  ingemuit, cum currus dum!
-  Vidisset et patiar dolentes et incendia gentes servat
-  *imagine depositum pronos* sanguine, et!
+  arte ingemuit, cum currus dum!
+  Vidisset et patiar dolentes et incendia gentes servat *imagine depositum
+  pronos* sanguine, et!
 
   Spes ictu et crearit cum parente libet tamen spectantem et longior pollice
   tantaque sui rursus nepos in quid.
-  Pervia reseratque Echinadas ille: inmunemque
-  coepti plurimus omnis.
+  Pervia reseratque Echinadas ille: inmunemque coepti plurimus omnis.
 
   Ait dolorem iuste traderet, progenies non undas arces se pervia nescia
-  passimque
-  fune, cogit, ceu est, urbe?
-  Graves rogant vulnera amando Eurydices clara non
-  plus relinquunt filius subdita induere referre videres firmo certa, silva
-  aestu
-  nate.
+  passimque fune, cogit, ceu est, urbe?
+  Graves rogant vulnera amando Eurydices clara non plus relinquunt filius
+  subdita induere referre videres firmo certa, silva aestu nate.
   Armento cetera [Si] viri, baculumque est **est deus** mille caeli ausus
   attraxerat satis.
 
@@ -61,11 +57,9 @@ text: |
 
   Phoebus fixa, Abanteis ignibus.
   Fluunt vidit redibam ingens.
-  Timentia salutent
-  praebebat prohibet, certa convicti aeterno senis latet, in virgo rure [domum
-  niteant]. Videntur suum suos agmina.
+  Timentia salutent praebebat prohibet, certa convicti aeterno senis latet, in
+  virgo rure [domum niteant]. Videntur suum suos agmina.
   Inque orbem tempore luctu suo potentior!
 
-  [Si]: http://tumblr.com/
-  [ac spissus ipsis]: http://tumblr.com/
-  [domum niteant]: http://reddit.com/r/thathappened
+  [Si]: http://tumblr.com/ [ac spissus ipsis]: http://tumblr.com/ [domum
+  niteant]: http://reddit.com/r/thathappened

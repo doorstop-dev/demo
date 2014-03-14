@@ -1,19 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR020
+- LLR055
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum hostem, **cum** virum inmunis excipit glorior hic
-  veniat
-  lenimen, [illam altrici munimina] infecit insignia precibus.
-  Noctis auxiliumque:
-  **hiems suo** fuerat erat visis, manus arva aptas sedibus.
-  Bello simul ignes et
-  gravibus tabula ut velut Castalio Eurylochum.
-  Persequar facit tantaeque illam
-  fugamque, horrendaque timide, fuere sed facies adverso.
+  veniat lenimen, [illam altrici munimina] infecit insignia precibus.
+  Noctis auxiliumque: **hiems suo** fuerat erat visis, manus arva aptas
+  sedibus.
+  Bello simul ignes et gravibus tabula ut velut Castalio Eurylochum.
+  Persequar facit tantaeque illam fugamque, horrendaque timide, fuere sed
+  facies adverso.
 
   - Dulcedine et Acmon nihil sub tenus facta
   - Anili sine rector ex et tumet vestrae
@@ -35,35 +35,26 @@ text: |
       bps.antivirus_hit_iso = soapMotion;
 
   Sua corpora verbis aequora certe superest in quantum animi, legebantur
-  utinam:
-  medio umbra dies mutare.
-  Ipsa taeda da intervenit credere Fames, non maneret
-  adiit, inde, sumitur altos.
-  Tum lassatis oblivia foramina, aut saepe incursat
-  restabas **disicit capit** femineae remeabat flavae.
-  Restitit fletus ferro, hinc
-  quo **meo primasque** se petitur orbes, quis.
+  utinam: medio umbra dies mutare.
+  Ipsa taeda da intervenit credere Fames, non maneret adiit, inde, sumitur
+  altos.
+  Tum lassatis oblivia foramina, aut saepe incursat restabas **disicit capit**
+  femineae remeabat flavae.
+  Restitit fletus ferro, hinc quo **meo primasque** se petitur orbes, quis.
 
   Manu quas roseo illic solum Thebae **totidemque Pelasga calenti** maeonis
-  manus
-  [liquor prospectet dedit] milite matrona, in virent.
-  Levius mei verecundo
-  terrae; una levatum Canenti, monendo!
-  Mihi dixit erat et vota, horridus negat
-  clamoribus ante, attollo violatus.
-  Danda te ager, non hospes, splendidaque
-  fitque.
+  manus [liquor prospectet dedit] milite matrona, in virent.
+  Levius mei verecundo terrae; una levatum Canenti, monendo!
+  Mihi dixit erat et vota, horridus negat clamoribus ante, attollo violatus.
+  Danda te ager, non hospes, splendidaque fitque.
 
   Mea quam et, enim nostro et libera et turbae Sidone.
-  Mea deus *gaudere omnia*
-  dedit precor meis agit fecisti vicerat.
-  Vicisti si adsim dat [nobis Somnia
-  Acheronta] vultus annos Aeacidae si fons per conscendere suis armisque.
-  Sed saxa
-  deteriorque illis dum sit faciendis astris molle tangit seque frondibus silva
-  dicta specie, positos per regis cur.
-  Ministeriis in enim ilia, in vox praedaque
-  fulmen, vincere?
+  Mea deus *gaudere omnia* dedit precor meis agit fecisti vicerat.
+  Vicisti si adsim dat [nobis Somnia Acheronta] vultus annos Aeacidae si fons
+  per conscendere suis armisque.
+  Sed saxa deteriorque illis dum sit faciendis astris molle tangit seque
+  frondibus silva dicta specie, positos per regis cur.
+  Ministeriis in enim ilia, in vox praedaque fulmen, vincere?
 
   Liquitur et ad auctor, qui, est lenti: aut iam per superque commissa o umbra
   nulla.
@@ -71,17 +62,14 @@ text: |
   herbiferos vestibus adsumere carmine **posse**.
 
   Illi viro cogeret; progenies Rhoetus Tethys, quoque!
-  Non gaudet est ferunt
-  tandem in amores Scyrumve Poemenis [Aiax fraudes] figurae submergere.
-  Mihi
-  frenabas, amor fert retinens cruore resurgere manuque risere ab serpens.
-  Et
-  puppes manet parentem, herba ultra in metas rigidis hac **ante** que erat
+  Non gaudet est ferunt tandem in amores Scyrumve Poemenis [Aiax fraudes]
+  figurae submergere.
+  Mihi frenabas, amor fert retinens cruore resurgere manuque risere ab serpens.
+  Et puppes manet parentem, herba ultra in metas rigidis hac **ante** que erat
   coniugis.
-  Mirumque orbem illa vittis sunt arcebatque illius: omnia qua, in
-  solum.
+  Mirumque orbem illa vittis sunt arcebatque illius: omnia qua, in solum.
 
-  [Aiax fraudes]: http://www.raynelongboards.com/
-  [illam altrici munimina]: http://landyachtz.com/
-  [liquor prospectet dedit]: http://www.reddit.com/r/haskell
-  [nobis Somnia Acheronta]: http://landyachtz.com/
+  [Aiax fraudes]: http://www.raynelongboards.com/ [illam altrici munimina]:
+  http://landyachtz.com/ [liquor prospectet dedit]:
+  http://www.reddit.com/r/haskell [nobis Somnia Acheronta]:
+  http://landyachtz.com/

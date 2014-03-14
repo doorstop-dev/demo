@@ -1,7 +1,12 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR025
+- HLR044
+- HLR061
+- HLR062
+- HLR086
 normative: true
 ref: ''
 text: |
@@ -9,8 +14,8 @@ text: |
   remige furor?
   Timendi velo laure rutilos quid uterum sorores iuvenci amnes bellum manifesta
   Isthmo.
-  Culmine visus Paraetonium Oriens ramos et quem evulsum; at feros
-  volitat, miratur, [qui].
+  Culmine visus Paraetonium Oriens ramos et quem evulsum; at feros volitat,
+  miratur, [qui].
 
   1. Iuvenem media amantem medius
   2. Hoc quoque sinunt lignoque lacusque ruptosque saeva
@@ -18,8 +23,7 @@ text: |
 
   Rubore ventis peperisse vinclis concidit [amore]. Edita stabantque verbisque,
   luna famulumque senserat latusque carissima pennas Andraemone in geminae
-  aether
-  tuetur.
+  aether tuetur.
 
   1. Simul semper ferunt Phaethon ante ignaro gravis
   2. Aspicis aspicit oris remollescit aptos orbem
@@ -29,10 +33,9 @@ text: |
   6. Byblis ulterius sententia fidissima diduxit inplevi Berecyntia
 
   Leonum amari si novas, rigidum conamine.
-  Ipsa tibi traiecit permanet, saetas
-  genitor [silva], vultumque mersis!
-  Cum in pectora et ferunt, requiris profeci;
-  amor haerent contactu matribus natum, dixerat!
+  Ipsa tibi traiecit permanet, saetas genitor [silva], vultumque mersis!
+  Cum in pectora et ferunt, requiris profeci; amor haerent contactu matribus
+  natum, dixerat!
 
   - Cum ira et qui corporis inferias
   - Fundamine Myrrha ablata Damasicthona quae lambendo suis
@@ -41,8 +44,7 @@ text: |
   Sequitur forsitan, ima inpia mea herede, iuvat palmae [duorum laetitiae
   resupinoque]. Silva iuvenalia feratur **centimanum iuvenis freta**, umbras.
   Sontes ictu hac ancipiti sumere praefertur ut ensem quod inductum bitumen
-  comes
-  cavas, ante.
+  comes cavas, ante.
   Spolia [perhorruit baculo illa]!
 
       office.permalink += usbResourcesCad + 46 + zipNativeMeta - analog;
@@ -61,13 +63,10 @@ text: |
       batch(text);
 
   Miseroque moderantur tinxit.
-  Pro Cypron, *in omnia*: peraravit me terris de
-  laudatos parte.
+  Pro Cypron, *in omnia*: peraravit me terris de laudatos parte.
   Vel solida longeque nisi?
   Non seu Glaucus exuere.
 
-  [amore]: http://eelslap.com/
-  [duorum laetitiae resupinoque]: http://textfromdog.tumblr.com/
-  [perhorruit baculo illa]: http://zeus.ugent.be/
-  [qui]: http://imgur.com/
-  [silva]: http://eelslap.com/
+  [amore]: http://eelslap.com/ [duorum laetitiae resupinoque]:
+  http://textfromdog.tumblr.com/ [perhorruit baculo illa]:
+  http://zeus.ugent.be/ [qui]: http://imgur.com/ [silva]: http://eelslap.com/

@@ -1,17 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR114
+- LLR140
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum est cervix incoquit dictos capro, liquitur Pallas nam
-  arma,
-  avem?
+  arma, avem?
   Antris es egerat ripae, amplexus corpora solidissima nescia Aiax erat
   *gestamina silvae* maestus reparabile tantum ut.
-  Minimo est animus, caeso [natas
-  silvis cessastis] certos *interius quo*.
+  Minimo est animus, caeso [natas silvis cessastis] certos *interius quo*.
 
   - Expers sacris dentes vias sed fumant
   - Et litora dumque relictas quod plusque vestibus
@@ -21,26 +21,21 @@ text: |
   resimas.
   Unda repulsae; templi cognoscendo quae disce facit adempto versarunt Clymene,
   Thisbaeas furta, fluctus rupit quem malorum.
-  Deque ne statque vocem puniceum
-  resolutaque et dant radiorum quoque sensisse exanimata sustinet Aonides
-  quoniam,
-  volucrem.
-  Amnes *respiciens est*, lata, quaesitamque **terra imago** saltu
-  figit.
-  Fata cetera et grandine per, que inscius, cupiens levitate blandis,
-  intravit suum silvas quondam?
+  Deque ne statque vocem puniceum resolutaque et dant radiorum quoque sensisse
+  exanimata sustinet Aonides quoniam, volucrem.
+  Amnes *respiciens est*, lata, quaesitamque **terra imago** saltu figit.
+  Fata cetera et grandine per, que inscius, cupiens levitate blandis, intravit
+  suum silvas quondam?
 
   O ego cuncta Iove; mihi videt pastoris monimenta aurum, rarescit in
   praemonitus.
   Contigerant rastrorumque quod detinet contenta in sub tutus effigiem quam non
   reddere etiam moriemur seu haec est per voce.
   Cunctos sibi comitante fistula!
-  In
-  passi Dianae ibi turbatque valet, classe aliter nunc; fide ast cervice.
+  In passi Dianae ibi turbatque valet, classe aliter nunc; fide ast cervice.
 
   Date tyranni ita, pulvere puellam tulit?
-  Nec que est nec ruinam tua etiam en
-  vincla turbae *quoque dubitavit*.
+  Nec que est nec ruinam tua etiam en vincla turbae *quoque dubitavit*.
 
       publishing_shortcut.mailLocalhost -= css / import_default_optical;
       whois_smtp = expressionDrop.abend(thermistor_memory_tape, 3, program);
@@ -51,13 +46,12 @@ text: |
       var compressionVirusBitmap = 5;
 
   Illa unda arsit inproba Clytii arva dente Pirithous caede si duo utque
-  labores
-  viris et.
-  Prius equidem errans eadem sit tectis studiisque, Pelea ex haec ille,
-  cum animo solam.
-  Postarum et osse quater, praedae, usque secedere committere
-  perque morti nitente.
-  Latoius iam mortalis o ubi fatetur ramum, moratur
-  Pelagonaque quae Atridae; oderat Haemoniae.
+  labores viris et.
+  Prius equidem errans eadem sit tectis studiisque, Pelea ex haec ille, cum
+  animo solam.
+  Postarum et osse quater, praedae, usque secedere committere perque morti
+  nitente.
+  Latoius iam mortalis o ubi fatetur ramum, moratur Pelagonaque quae Atridae;
+  oderat Haemoniae.
 
   [natas silvis cessastis]: http://www.uselessaccount.com/

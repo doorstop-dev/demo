@@ -1,20 +1,21 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR060
+- HLR064
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum, iussit Solis illo, non fuit.
-  Nisi soleo, radice cetera habet
-  notavit idemque perstet et [latius meas] artisque da neque.
+  Nisi soleo, radice cetera habet notavit idemque perstet et [latius meas]
+  artisque da neque.
 
   Non flexus Minyis sanguine medio.
   Neque inde iamdudum.
-  Saxo per Pactolides
-  culpam Volturnus pugnam quaerenti **ictibus** populisque proximus.
-  In **cursu
-  mors** laborat onerosus viri erat, me nitido munera et.
+  Saxo per Pactolides culpam Volturnus pugnam quaerenti **ictibus** populisque
+  proximus.
+  In **cursu mors** laborat onerosus viri erat, me nitido munera et.
 
       if (sourceConsoleCron * 2 + commercialHypermedia) {
           pum_nic_table.gis_restore(mediaRjRadcab(intranetSmartphoneXhtml,
@@ -40,30 +41,22 @@ text: |
       drive_telnet_type = ddr_grayscale + 2;
 
   Infecit Iason ora paterno causa; onus vesana carere ab.
-  Fessos voce Alcidae nam
-  quam **amanti** his fulgore ad humo caligine, instruitur.
-  At hic vota
-  formidabilis sed regale [omnes flebile retia] sed, erat est centum levati.
-  Si
-  veneni et quo Oresteae vecte oculi **quatit ait** adicit serisque et nec
-  negare
-  iaceres derecti?
+  Fessos voce Alcidae nam quam **amanti** his fulgore ad humo caligine,
+  instruitur.
+  At hic vota formidabilis sed regale [omnes flebile retia] sed, erat est
+  centum levati.
+  Si veneni et quo Oresteae vecte oculi **quatit ait** adicit serisque et nec
+  negare iaceres derecti?
 
   Fortuna volenti virilibus coruscant monet haec capillos veniat quod?
-  Ei dicentum
-  cuius, dis silva alas cum Capitolia *inter* ulmi vacuo, in tu.
-  Pro in non aret
-  in urbes arboreae orbem factum cumque duabus, fertur.
-  Meliora Baucisque terga et
-  licet vultum per nuda mea, exigit!
-  Ore ictu quam novandi regalis, pendentibus
-  sidus di iuris.
+  Ei dicentum cuius, dis silva alas cum Capitolia *inter* ulmi vacuo, in tu.
+  Pro in non aret in urbes arboreae orbem factum cumque duabus, fertur.
+  Meliora Baucisque terga et licet vultum per nuda mea, exigit!
+  Ore ictu quam novandi regalis, pendentibus sidus di iuris.
 
   Est captat, delere virgaque tumidus Aetolius nam tibi volucrumque urbe
-  parenti
-  praeruptam honore et **nunc**? [Dubito] lina.
-  Quae qui expugnare, mihi quoque
-  vultus visa clipei fluit.
+  parenti praeruptam honore et **nunc**? [Dubito] lina.
+  Quae qui expugnare, mihi quoque vultus visa clipei fluit.
 
   - A crevit perdere invicti
   - Quid isset
@@ -74,12 +67,9 @@ text: |
 
   Temporis culpa colebat; prudens [illi]! Iam ingeniis Minoide, duo fata qui at
   ceciderat velamina pericula nondum monstra sideribus furor plangoris.
-  Optatae
-  veniendi collibus sacraque temperat cum tresque formae indignanda vigore
-  navita
-  bracchia mihi.
+  Optatae veniendi collibus sacraque temperat cum tresque formae indignanda
+  vigore navita bracchia mihi.
 
-  [Dubito]: http://omgcatsinspace.tumblr.com/
-  [illi]: http://example.com/
-  [latius meas]: http://news.ycombinator.com/
-  [omnes flebile retia]: http://www.mozilla.org/
+  [Dubito]: http://omgcatsinspace.tumblr.com/ [illi]: http://example.com/
+  [latius meas]: http://news.ycombinator.com/ [omnes flebile retia]:
+  http://www.mozilla.org/

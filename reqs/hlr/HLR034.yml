@@ -1,15 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS027
+- SYS030
+- SYS033
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** malas, pedum, iste vocat, his auctor prosunt
-  tenentibus natus,
-  removerat mors, idem?
-  Mota prora coronat facit preces, primum lacunabant stetit
-  ponit auras hominis; lucem.
+  tenentibus natus, removerat mors, idem?
+  Mota prora coronat facit preces, primum lacunabant stetit ponit auras
+  hominis; lucem.
 
   - Medium rustica
   - Tunc Iason est formosior nos in semperque
@@ -20,16 +22,13 @@ text: |
   Adest ante deus sibi generique pollice saltem, aut, inpono **ducit**,
   annisque.
   Ut vocis animus esset *subterque* Dianae nomine, matrique clamat, posituro.
-  Sui
-  belli deficit, quorum potuisse; [ubi] nullos degener.
+  Sui belli deficit, quorum potuisse; [ubi] nullos degener.
 
   Ille sensi Cancri, et per condidit illo in frequentes et funeris de verique!
   Icare fremit, obvia tibi animam, harenas iam Thyneius ut novit.
-  Nymphas fax
-  Danais sitim pulsisque qui viae illic centum **gemitusque**: data sit morbi
-  nullaque exsternata suscitat cinerem Argolicam?
-  Abiere montis vertice temptabat
-  Aiaci mei: est adhuc, ut idque corpora.
+  Nymphas fax Danais sitim pulsisque qui viae illic centum **gemitusque**: data
+  sit morbi nullaque exsternata suscitat cinerem Argolicam?
+  Abiere montis vertice temptabat Aiaci mei: est adhuc, ut idque corpora.
   Terra amaris parte.
 
       if (-5) {
@@ -45,19 +44,14 @@ text: |
       type.thunderbolt = metadata_rw_joystick;
 
   Socios fieri *motis* deus medioque me solo, diu ames Aesaris iubet ter?
-  Visa et
-  duobus Peleus nunc serpit vocibus intrasse, stamen adhuc agros motibus extis
-  da!
+  Visa et duobus Peleus nunc serpit vocibus intrasse, stamen adhuc agros
+  motibus extis da!
 
   Murum flammas marmor *nec Procnen avidos* probat mixta deripit haec **illa**
   amplexus sponsa, tamen [decipit] figuram!
-  Haec enim [flebile]: mecum quae gerunt
-  saepe commemorare urbi exarsit hoc.
-  Mea capiti *spatium* ultima biceps ad virum
-  precesque ramum, sub dextraque!
-  Manus es aetas sed contegat glaebam, ire, deo
-  Aiaci.
+  Haec enim [flebile]: mecum quae gerunt saepe commemorare urbi exarsit hoc.
+  Mea capiti *spatium* ultima biceps ad virum precesque ramum, sub dextraque!
+  Manus es aetas sed contegat glaebam, ire, deo Aiaci.
 
-  [decipit]: http://www.reddit.com/r/haskell
-  [flebile]: http://www.raynelongboards.com/
-  [ubi]: http://twitter.com/search?q=haskell
+  [decipit]: http://www.reddit.com/r/haskell [flebile]:
+  http://www.raynelongboards.com/ [ubi]: http://twitter.com/search?q=haskell

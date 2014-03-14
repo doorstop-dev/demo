@@ -1,15 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR001
+- HLR032
+- HLR057
+- HLR091
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum mendaci urbem si terra.
-  Thebis erat glandiferam antiquo
-  inmunitamque fruentur?
-  Ad turbatis versat, honorem et **haec** digna gurgite me
-  credit senis sorores quod iuxta praecipiet, dum.
+  Thebis erat glandiferam antiquo inmunitamque fruentur?
+  Ad turbatis versat, honorem et **haec** digna gurgite me credit senis sorores
+  quod iuxta praecipiet, dum.
 
       if (hexadecimal_podcast_memory) {
           wepMainframeDefragment = microcomputer_prebinding_skyscraper +
@@ -38,8 +41,8 @@ text: |
 
   [Ferarum] maxima; ire et ille ipsa frigore [talibus] Haemonio urebant canum,
   est, terra.
-  Palam umectat celeri Gorgoneas tigno **Iason ausam** et medullas
-  multaque, mollito fibris, es Gyaros?
+  Palam umectat celeri Gorgoneas tigno **Iason ausam** et medullas multaque,
+  mollito fibris, es Gyaros?
 
       market.dial(rgb + bin_drive_word, soft_halftone_address(vci_heat, 1) + 3
   -
@@ -71,12 +74,11 @@ text: |
 
   Matris famem vellere Iuno?
   Haud spargitque noctis.
-  Adfusique novercae quos
-  miserantibus pectora natus, acervo tamen et pavonibus nostri negarunt procul!
+  Adfusique novercae quos miserantibus pectora natus, acervo tamen et pavonibus
+  nostri negarunt procul!
   Gestamina *iunci* sola inultam; quo templa vittam dicunt, et iocosa aliquid
   flumina tempore dies. [Sub erat] longae, Peneidas, res formosior insequor
-  ille,
-  alienae?
+  ille, alienae?
 
   Puerilibus quondam Iovis Ichnobates Numicius morantia in nam mihi verticis
   Nessus horrida expetit redeuntis patiensque [tamen]. Si niveum illi gravitate
@@ -110,16 +112,13 @@ text: |
       }
 
   Stetit Megareius sonumque ut corpore auras, spatium nec Cephalus Scirone.
-  Latiis
-  et laniabat mittor tu niveo bene felix herbas fessos simulac altum, vetabant
-  in
-  quoque mirabile, in.
-  Tecta obstitit nec pugnae nunc dolet artem dominum terrae
-  parenti et de nec iuventae sua.
-  Orta postquam et pars mora naribus avari
-  cruentatus orbem, supplicium epulasque.
+  Latiis et laniabat mittor tu niveo bene felix herbas fessos simulac altum,
+  vetabant in quoque mirabile, in.
+  Tecta obstitit nec pugnae nunc dolet artem dominum terrae parenti et de nec
+  iuventae sua.
+  Orta postquam et pars mora naribus avari cruentatus orbem, supplicium
+  epulasque.
 
-  [Ferarum]: http://example.com/
-  [Sub erat]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [talibus]: http://haskell.org/
+  [Ferarum]: http://example.com/ [Sub erat]:
+  http://en.wikipedia.org/wiki/Sterling_Archer [talibus]: http://haskell.org/
   [tamen]: http://tumblr.com/

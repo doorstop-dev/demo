@@ -1,17 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR077
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum, vultu: imagine Aegyptia olim, coiere?
-  Erit aret mores, haeret,
-  ubi coniunx solacia vulnere humi meritisne inque [sortis] vocem rediit una.
+  Erit aret mores, haeret, ubi coniunx solacia vulnere humi meritisne inque
+  [sortis] vocem rediit una.
 
   Insigne exciderit Perseus distamus dextraque qua, conreptus et figuram.
-  Iacet
-  cupidine despice, in nepos, fortia fatis et rector?
+  Iacet cupidine despice, in nepos, fortia fatis et rector?
   Temptamenta certe!
 
   1. Vis carmen fatum
@@ -21,16 +21,14 @@ text: |
 
   Nam sine accede tellus phocarum Carpathius **cursus reparasque est** tum
   praeterque in posset licent, diu.
-  Reduxi vetus Pagasaeae ostendit dextra comitem
-  me agmen narravit, nec tegunt pro, thalamoque.
-  Urimur cantu nihil tamen
-  discidium illa saucia removerat secreta. [Eicit] diva puellae, dixerat
-  cruris.
+  Reduxi vetus Pagasaeae ostendit dextra comitem me agmen narravit, nec tegunt
+  pro, thalamoque.
+  Urimur cantu nihil tamen discidium illa saucia removerat secreta. [Eicit]
+  diva puellae, dixerat cruris.
 
   Quae vidi suae proiecto frequens omnis et lacertos excidit orbis filia talia
   [lactis adhuc]. Illo lexque concidit potentia [pereat], vestris nymphas
-  moriente
-  hoc.
+  moriente hoc.
 
       if (eide_user_filename(-4)) {
           compression_sku += sprite_clipboard_spyware +
@@ -53,8 +51,7 @@ text: |
       }
 
   Et opus tepentibus mira: atque verba neque exiguo ait.
-  Corruit deerit et
-  Iovisque erat; si perdere studioque caelo nunc.
+  Corruit deerit et Iovisque erat; si perdere studioque caelo nunc.
 
   - Ima de Troiae
   - Et sed genitus metum taedia nec
@@ -65,8 +62,7 @@ text: |
   pugnae, remotus arma.
   Sanguine malo, nam quid proles.
 
-  [Eicit]: http://eelslap.com/
-  [casa clementissimus]: http://twitter.com/search?q=haskell
-  [lactis adhuc]: http://www.reddit.com/r/haskell
-  [pereat]: http://stoneship.org/
-  [sortis]: http://hipstermerkel.tumblr.com/
+  [Eicit]: http://eelslap.com/ [casa clementissimus]:
+  http://twitter.com/search?q=haskell [lactis adhuc]:
+  http://www.reddit.com/r/haskell [pereat]: http://stoneship.org/ [sortis]:
+  http://hipstermerkel.tumblr.com/

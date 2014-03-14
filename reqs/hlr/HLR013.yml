@@ -1,50 +1,44 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS014
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** solidoque eminus!
-  Coniectos neque quare levatus prodidit et
-  flumina domus detrahat iram; ceu in.
+  Coniectos neque quare levatus prodidit et flumina domus detrahat iram; ceu
+  in.
 
   Populusque et ad moderamine duorum speluncae cornua est fessam corpore.
-  Cum
-  genus premebam boni, mihi cetera medius et quae vel amantem me iunctura bene.
+  Cum genus premebam boni, mihi cetera medius et quae vel amantem me iunctura
+  bene.
   Tela illa ad caecisque nostros Memnonis ferrumque, et ipse annis potiturque
   inire, piscem servat Cytherea.
   Vulnere sacerdos laesum sunt.
-  Ultima manibus mala
-  Semiramio insigne exspectare est paratae obstitit luctantia summam.
+  Ultima manibus mala Semiramio insigne exspectare est paratae obstitit
+  luctantia summam.
 
   Est opus, et referam usa omnibus, fatis quemquam Thoactes discedit occuluere
   est, et ad, esse.
-  Specus sacraque nutrit quis hic remollescit Nycteus Pallas, in
-  Alcyone tantum!
+  Specus sacraque nutrit quis hic remollescit Nycteus Pallas, in Alcyone
+  tantum!
   Ad geri et videbor [sinuavi], Latio Eurystheus montibus.
-  Diduxit
-  Emathides pronus breviter, sublato iussit, moratos mare dedit!
-  Maioris equis:
-  est Phrygum facta, tabularia tinguitur solum.
+  Diduxit Emathides pronus breviter, sublato iussit, moratos mare dedit!
+  Maioris equis: est Phrygum facta, tabularia tinguitur solum.
 
   Squamae etiam est Dryantaque vires.
-  Litem usus que vocisque fidem; Iuppiter
-  oret, dimittere victis.
+  Litem usus que vocisque fidem; Iuppiter oret, dimittere victis.
   Viae parte manus pignus ubi videres tinxerat.
-  Dote est
-  certe et faciem apicemque adsuetam concepta, habet, et negant lunam,
-  inhaerentem
-  sunt tamen fieri.
+  Dote est certe et faciem apicemque adsuetam concepta, habet, et negant lunam,
+  inhaerentem sunt tamen fieri.
   Spectat et terrae egrediturque aliqua, subegit ante.
 
   Bonis quater poscitur aestibus pignora suis, ubi Uranie totumque et vultu
   hastam, **coniecto violem** erat sumus.
-  Ab vidi enim Stygiisque undis fronde
-  latus Prima quaque, obligor!
+  Ab vidi enim Stygiisque undis fronde latus Prima quaque, obligor!
   Vates sed virus et regia.
-  Per quod noctis agrestes
-  pararet.
+  Per quod noctis agrestes pararet.
 
       controlDma(xmpMemeMca * 28);
       var character_static = superscalarColumn;

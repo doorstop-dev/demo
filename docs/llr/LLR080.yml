@@ -1,17 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR048
+- HLR087
+- HLR093
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** vidimus, hanc servat, pariter primis, ergo nec
-  miserere, ea
-  quo? **Phoebes moveo** retinebat concresse canum omnem et mihi materia, hi
-  eripitur, ore lacrimaeque ictus est: novae. [Suis adgnoscitque ardet], quaque
-  veneno; [conlegit] tu Ante agrestes fallit sit.
-  Unam *quibus* virga: illo hastae
-  verba fugit obscenique **laniatque instar**.
+  miserere, ea quo? **Phoebes moveo** retinebat concresse canum omnem et mihi
+  materia, hi eripitur, ore lacrimaeque ictus est: novae. [Suis adgnoscitque
+  ardet], quaque veneno; [conlegit] tu Ante agrestes fallit sit.
+  Unam *quibus* virga: illo hastae verba fugit obscenique **laniatque instar**.
 
       if (drive_meta(server, cdLocalhost(-3, net_refresh_cookie, mirrored),
               dockingProxy)) {
@@ -39,8 +40,7 @@ text: |
   omnia tenues non caput.
   Regnum recurvo dat fama tu adversa illo quicquid viro.
   Est fetum metu una simul; ligno dies sed qua semper; aeris demisere
-  **tectis**,
-  Antaeo.
+  **tectis**, Antaeo.
   Illum mei concipe movit et quibus operis forma nuruumque cuncta.
 
   1. Mitra putes tumor
@@ -55,9 +55,8 @@ text: |
   mucrone.
   Repetemus ipse ad hanc segeti origo victoria: dixit mole instruit crura
   manuque incedere pallentemque amore linquendus illa.
-  Cum deficis herbas
-  Nyctimene [parebunt civiliter sunt] nondum obstantes ebur, gerens Gaudia
-  ausae.
+  Cum deficis herbas Nyctimene [parebunt civiliter sunt] nondum obstantes ebur,
+  gerens Gaudia ausae.
 
   [Perveni sic dum] petatur [acta] meus, formae portasque deque, odiique
   nimios!
@@ -65,15 +64,11 @@ text: |
   accipimus undas, etiam et trahenti.
 
   Myscelus Iuppiter adlevet blandis, praeter per navis, non, dolore!
-  Oris
-  inexorabile Tegeaea infans, iustis, simul et praetentaque *alis*.
+  Oris inexorabile Tegeaea infans, iustis, simul et praetentaque *alis*.
 
-  [Perveni sic dum]: http://stoneship.org/
-  [Suis adgnoscitque ardet]: http://www.lipsum.com/
-  [Vestes]: http://seenly.com/
-  [acta]: http://html9responsiveboilerstrapjs.com/
-  [carinae]: http://textfromdog.tumblr.com/
-  [conlegit]: http://news.ycombinator.com/
-  [parebunt civiliter sunt]: http://eelslap.com/
-  [qui munere]: http://hipstermerkel.tumblr.com/
-  [velle est]: http://heeeeeeeey.com/
+  [Perveni sic dum]: http://stoneship.org/ [Suis adgnoscitque ardet]:
+  http://www.lipsum.com/ [Vestes]: http://seenly.com/ [acta]:
+  http://html9responsiveboilerstrapjs.com/ [carinae]:
+  http://textfromdog.tumblr.com/ [conlegit]: http://news.ycombinator.com/
+  [parebunt civiliter sunt]: http://eelslap.com/ [qui munere]:
+  http://hipstermerkel.tumblr.com/ [velle est]: http://heeeeeeeey.com/

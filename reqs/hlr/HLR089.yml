@@ -1,19 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS032
 normative: true
 ref: ''
 text: |
   Lorem [markdownum naturalique] Antiphates deae nuda stamen pulsant; una
-  **dura
-  quaerit has** illud **Vestaque** iter: Hector.
-  Curam apri suis sacer vultus
-  movent **refert et** verum: opem?
+  **dura quaerit has** illud **Vestaque** iter: Hector.
+  Curam apri suis sacer vultus movent **refert et** verum: opem?
   Visa natura ausus infelix.
-  Repressit
-  coeptaeque fores, id siquem quotiens insidere ibi alte paene urbes deinde
-  vagantur harenas respicere.
+  Repressit coeptaeque fores, id siquem quotiens insidere ibi alte paene urbes
+  deinde vagantur harenas respicere.
 
       yahoo_bespoke = printerLockSystem(cssSoftware, memory, 3);
       pcbNumBcc.headerSpriteAddress = androidVlogDisk(-1);
@@ -23,8 +21,8 @@ text: |
 
   Pigra enim extrema maior: ursa fratrem qui medeare fuisse foliis litus, corde
   ore numinis limina.
-  Lumen ostendens Iuno liceret pavetque pars! **Dolentem cum**
-  incumbere, dentes silet gloria prendique meritum spatio paene, naides!
+  Lumen ostendens Iuno liceret pavetque pars! **Dolentem cum** incumbere,
+  dentes silet gloria prendique meritum spatio paene, naides!
 
   1. His inmisit odore forsitan
   2. Nitidae et Achilles est pater soceri Eurynomes
@@ -33,10 +31,9 @@ text: |
 
   Cornu contemne longa; mortalia libratus: a, clam requie imum quamvis moenia
   sertaque et virent.
-  Faciat petebam **et** herbis fame egerit [dilexit iras].
-  Aquae celate Siqua leve ait [procellamnos] Latonia quod! *Nec* et nunc
-  memores
-  futuri arcuit Phoebique si gerunt pruinosas amictus.
+  Faciat petebam **et** herbis fame egerit [dilexit iras]. Aquae celate Siqua
+  leve ait [procellamnos] Latonia quod! *Nec* et nunc memores futuri arcuit
+  Phoebique si gerunt pruinosas amictus.
 
       file = 3;
       if (footerCrossplatformMulticasting * -3 > adf.ruby(internic_ecc_key)) {
@@ -56,14 +53,11 @@ text: |
               printer_ip), 60);
 
   Ast haec vincemus tinguet videtur Antiphatae ultimus ante terrae me tepidis
-  nato
-  foedere patrio; virgamque.
-  Facies nunc translata levata adduntque res modo
-  coniunx anxia, vulneribus.
-  Harundine [adunco aliena] mariti utque, Herculis
-  crimenque repetit locis nisi silet.
+  nato foedere patrio; virgamque.
+  Facies nunc translata levata adduntque res modo coniunx anxia, vulneribus.
+  Harundine [adunco aliena] mariti utque, Herculis crimenque repetit locis nisi
+  silet.
 
-  [adunco aliena]: http://stoneship.org/
-  [dilexit iras]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [markdownum naturalique]: http://gifctrl.com/
-  [procellamnos]: http://twitter.com/search?q=haskell
+  [adunco aliena]: http://stoneship.org/ [dilexit iras]:
+  http://en.wikipedia.org/wiki/Sterling_Archer [markdownum naturalique]:
+  http://gifctrl.com/ [procellamnos]: http://twitter.com/search?q=haskell

@@ -1,7 +1,12 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR002
+- LLR003
+- LLR090
+- LLR159
+- LLR186
 normative: true
 ref: ''
 text: |
@@ -14,13 +19,10 @@ text: |
       infringementMedia(middleware + 38 + nvram, itunesFirewall);
 
   Studioque digna purpureusque surgit [laboris], a cognoscere, sublimemque
-  accessi
-  veneni ut tendens **sub** flammas quae; ego.
-  Vicinia modo huc est trahentem
-  puerpera Clymene.
+  accessi veneni ut tendens **sub** flammas quae; ego.
+  Vicinia modo huc est trahentem puerpera Clymene.
   Lingua Glauci.
-  O terunt inplet [Pergama], quod rogata pressa
-  exhalantes non subit lacrimae.
+  O terunt inplet [Pergama], quod rogata pressa exhalantes non subit lacrimae.
   Et somnus virgine sustinet, cervicibus taedia.
 
       ethics_uat = dramVector + bankruptcyVolumeLeaf;
@@ -33,12 +35,9 @@ text: |
       sli = oopIpFile;
 
   Grandia boum omnia magis, adspicio quam, uberior deum, **nunc**. Aurum at
-  ordine
-  sit femina in vultu: dum tum intra onus inlisit lassaque.
-  Humus quam nunc quis
-  undas iam: adempta sublimis fidem me quidem pisces.
-  Tectis convivia Aiax
-  novissima.
+  ordine sit femina in vultu: dum tum intra onus inlisit lassaque.
+  Humus quam nunc quis undas iam: adempta sublimis fidem me quidem pisces.
+  Tectis convivia Aiax novissima.
 
   - Unum Saturnia satam
   - Quae arsit
@@ -48,27 +47,21 @@ text: |
   - Inhaesit magnumque quoque
 
   Tua est nos stat traxere illius leves, quoque forent.
-  Nec oscula ademit facinus
-  inque manu namque submisit reddidit filia, tamen.
-  Muneris te ora rotarum
-  cruentas.
+  Nec oscula ademit facinus inque manu namque submisit reddidit filia, tamen.
+  Muneris te ora rotarum cruentas.
   Deos sic perpetuum eligit, arcum vale sistitur vultus iungitur sanctis
   partem.
 
   Nati animi, minetur litus, veteremque, partus!
-  Ait concepta quod precibus
-  haesura et infusa fluctibus tempora saevae falcata pastoria concutiens
-  pollutosque vertere superat et est.
-  Nec nubes, siderea spatium; **crista** meam
-  construit facta coniunx in.
+  Ait concepta quod precibus haesura et infusa fluctibus tempora saevae falcata
+  pastoria concutiens pollutosque vertere superat et est.
+  Nec nubes, siderea spatium; **crista** meam construit facta coniunx in.
 
   A magni lactantiaque Proserpina iugalibus caro inpietate honor detrahat hic
   credite vidit!
   Incidit ipse robora committere, superesse, usus potuit, via.
-  Cum
-  contigit certe, sine puer taedia funduntur thalamos fecerat ipse.
-  Pro plumae in
-  nunc noctis placebant **me infelix** eduxit.
+  Cum contigit certe, sine puer taedia funduntur thalamos fecerat ipse.
+  Pro plumae in nunc noctis placebant **me infelix** eduxit.
 
-  [Pergama]: http://www.raynelongboards.com/
-  [laboris]: http://www.reddit.com/r/haskell
+  [Pergama]: http://www.raynelongboards.com/ [laboris]:
+  http://www.reddit.com/r/haskell

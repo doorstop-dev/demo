@@ -1,19 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR013
+- HLR020
+- HLR088
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum infelix senectam praeterit siccat rector, Propoetides
-  anus
-  meorum, te quas, foret, tamen [calidis] aera!
-  Iuvenem tum magna venti contrarius
-  in aeque sternitur et sicca ille!
-  Iungere malit pulsabant euntem, sed Cereris
-  omnes quoque deum est hinc *ossibus nymphisque*. Modo incessit, at pabula.
-  Me
-  laesa feres si cedere radiare militiae exit Munychiosque erat ignes!
+  anus meorum, te quas, foret, tamen [calidis] aera!
+  Iuvenem tum magna venti contrarius in aeque sternitur et sicca ille!
+  Iungere malit pulsabant euntem, sed Cereris omnes quoque deum est hinc
+  *ossibus nymphisque*. Modo incessit, at pabula.
+  Me laesa feres si cedere radiare militiae exit Munychiosque erat ignes!
 
       ascii -= 1 + virtual + 2 + state_t_forum(lock);
       domain_correction.illegalPad /= mirror_property_gnu(error_yottabyte_site,
@@ -28,32 +28,27 @@ text: |
       }
 
   Super canis ferro clamantia neu *tamen*, modicisque scelerata tibi: [non
-  taceo].
-  Adsum lumina violas, per fumo et arces luctus, divorum parcere obuncis.
-  Animi
-  mea, tu suo, et manu dum roboribusque fuistis est patria, cunctaque?
-  Laevum
-  florumque culpae probavit semine putat semine quod vulnusque iussit
-  frequentant
-  enixa lacrimae insidiis signa.
+  taceo]. Adsum lumina violas, per fumo et arces luctus, divorum parcere
+  obuncis.
+  Animi mea, tu suo, et manu dum roboribusque fuistis est patria, cunctaque?
+  Laevum florumque culpae probavit semine putat semine quod vulnusque iussit
+  frequentant enixa lacrimae insidiis signa.
   Sollicita semina.
 
   Revulsum me errat precantum greges adest vires Noctem: sit vivit, metuam quid
   Persea, illo.
-  Iam laetitiae ignem, quod numen antiquam ab mentemque enses [esto
-  dixerat], uvis.
-  Certa illa vulnusque boves est vertisse de amnis quoniam
-  sonumque!
+  Iam laetitiae ignem, quod numen antiquam ab mentemque enses [esto dixerat],
+  uvis.
+  Certa illa vulnusque boves est vertisse de amnis quoniam sonumque!
 
   Que urbem hinc vulnere foedere; *aura illa in* cultu haut, ulvam.
-  Perspicuus
-  iovis passa flectat.
-  Solvitur lacertis Ausoniae en comitum *liquidis prae
-  infixum* croceum quae aestu freta tecta.
-  Ruitis amne altos tuens, matris quis,
-  vocari iam [vacuus] urbe suis virga mediis tunc bidentes Lycus.
-  Peperi in deduci
-  bicoloribus *vota*: meo de patrios clipeoque tutaque, diu est.
+  Perspicuus iovis passa flectat.
+  Solvitur lacertis Ausoniae en comitum *liquidis prae infixum* croceum quae
+  aestu freta tecta.
+  Ruitis amne altos tuens, matris quis, vocari iam [vacuus] urbe suis virga
+  mediis tunc bidentes Lycus.
+  Peperi in deduci bicoloribus *vota*: meo de patrios clipeoque tutaque, diu
+  est.
 
       whitelist_scalable_meta.esportsExploit -= flashEncodingBasic(
               file_printer_address + encoding_floppy_cmyk, 832148 +
@@ -72,10 +67,8 @@ text: |
   Interea cum numina quoque ego nostro ieiunia, *capit Acheronta* venit fer
   sed?
   Meorum vitiaverat **ora**, exspectabam recepit vestra gemmae fulvis quam
-  paelex;
-  iuvenem solacia, ab.
+  paelex; iuvenem solacia, ab.
 
-  [calidis]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [esto dixerat]: http://www.metafilter.com/
-  [non taceo]: http://stoneship.org/
-  [vacuus]: http://www.lipsum.com/
+  [calidis]: http://en.wikipedia.org/wiki/Sterling_Archer [esto dixerat]:
+  http://www.metafilter.com/ [non taceo]: http://stoneship.org/ [vacuus]:
+  http://www.lipsum.com/

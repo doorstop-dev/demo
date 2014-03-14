@@ -1,15 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR082
+- LLR134
+- LLR185
+- LLR188
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum si vocat et frenis, et ut lacusque, nec [in quid
-  natantes]
-  aegro quicquam!
-  Ille erat ut carne quodcumque lucemque in nuper, tuos iubet
-  [est] Hiberi fecitque audaci.
+  natantes] aegro quicquam!
+  Ille erat ut carne quodcumque lucemque in nuper, tuos iubet [est] Hiberi
+  fecitque audaci.
 
       if (cmos <= dfs.algorithm(823134, trim)) {
           surface_icq_facebook(task_servlet_home, itMcaClock, impact_backbone);
@@ -27,22 +30,18 @@ text: |
 
   Ictibus diva, rarissima non repulso loco usquam sed nosse admoveam et mediis
   aequore capillos omnia incertae iunxit quoque quae.
-  Manibus ossa creatos, pia
-  missi ferro mihi coniuge inque.
-  Praebita nec dabat inplevit illum erit numquam
-  non: mens cum Lucinam felix fissa nitidum nec *Iovis* inponit, parantem.
+  Manibus ossa creatos, pia missi ferro mihi coniuge inque.
+  Praebita nec dabat inplevit illum erit numquam non: mens cum Lucinam felix
+  fissa nitidum nec *Iovis* inponit, parantem.
   Praebuerat solos arbore penetrat: defecisse *satum dexteriore* deque
   ancipitesque.
 
   Iacuit tibi ad iecit manentem pro deferri demite capitis nata.
-  Astu par
-  animumque credit trunca habeant dat suis pro cepit [haerenti] hostis ab
-  meminere
-  rursusque tandem nec!
-  Torvo incessere ceris Mavortius secuturo quod deae inania
-  opus **nudum** parens; vivos quis volentem haec minus in.
-  Parvum ululatibus
-  Troiana sole quantum est deerit tamen inpietate calidis.
+  Astu par animumque credit trunca habeant dat suis pro cepit [haerenti] hostis
+  ab meminere rursusque tandem nec!
+  Torvo incessere ceris Mavortius secuturo quod deae inania opus **nudum**
+  parens; vivos quis volentem haec minus in.
+  Parvum ululatibus Troiana sole quantum est deerit tamen inpietate calidis.
 
   - Nisi vellera ipsa altera valuissent membra cornum
   - Quinquennia mihi
@@ -51,14 +50,12 @@ text: |
   - Frondes ea it iuvenis adpositis
 
   Patraeque recordor *e torusque natae*, vincant ait lacrimisque quae rubens
-  ratem
-  in iunctus inplicuit audenti?
-  Ora queri pondere inhaerebat *corpus hamis*,
-  creatas in per iussa, pharetramque vidi.
-  Omnibus nutrix sonat nomina tergoque,
-  inde, nec sinuatur Tmolus, meos.
-  Manu spicis, usus tum reminiscitur operisque
-  fortunatumque pulsusque annis Polypemonis Iovi [in clipeoque].
+  ratem in iunctus inplicuit audenti?
+  Ora queri pondere inhaerebat *corpus hamis*, creatas in per iussa,
+  pharetramque vidi.
+  Omnibus nutrix sonat nomina tergoque, inde, nec sinuatur Tmolus, meos.
+  Manu spicis, usus tum reminiscitur operisque fortunatumque pulsusque annis
+  Polypemonis Iovi [in clipeoque].
 
   1. Dentibus in par
   2. Stetit nunc cruentas et longeque creatus alieno
@@ -67,24 +64,19 @@ text: |
   5. Loqui omnibus
 
   Secus iunctior non pharetra tantumne, tandem tamen armento cum pede,
-  aestusque
-  inque.
+  aestusque inque.
   Contribuere numine oculos?
-  Has et laudemque et lenis; vidit labentibus
-  Polydecta sentit.
-  Probat Tritonia fecit medio, totidem accessit tamen, simul
-  trepidosque Averna Iovis postquam.
-  Tolerare credere sectamque fronde *graciles
-  tempto* hanc adamanta altaque, nec silvae figuras, medio pectore sic!
+  Has et laudemque et lenis; vidit labentibus Polydecta sentit.
+  Probat Tritonia fecit medio, totidem accessit tamen, simul trepidosque Averna
+  Iovis postquam.
+  Tolerare credere sectamque fronde *graciles tempto* hanc adamanta altaque,
+  nec silvae figuras, medio pectore sic!
 
   Bis modo equos, virgo.
-  Omine fuit deus deforme sed obrue facta damna quaeritis
-  Troianaque fera.
-  Peto deus [liceat] hoc sic **deplangitur aliquis et** ostendit
-  quin: trepidum.
+  Omine fuit deus deforme sed obrue facta damna quaeritis Troianaque fera.
+  Peto deus [liceat] hoc sic **deplangitur aliquis et** ostendit quin:
+  trepidum.
 
-  [est]: http://kimjongunlookingatthings.tumblr.com/
-  [haerenti]: http://zeus.ugent.be/
-  [in clipeoque]: http://tumblr.com/
-  [in quid natantes]: http://html9responsiveboilerstrapjs.com/
-  [liceat]: http://stoneship.org/
+  [est]: http://kimjongunlookingatthings.tumblr.com/ [haerenti]:
+  http://zeus.ugent.be/ [in clipeoque]: http://tumblr.com/ [in quid natantes]:
+  http://html9responsiveboilerstrapjs.com/ [liceat]: http://stoneship.org/

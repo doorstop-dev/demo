@@ -1,7 +1,10 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS010
+- SYS031
+- SYS048
 normative: true
 ref: ''
 text: |
@@ -9,8 +12,7 @@ text: |
   piscem, tibi.
   Gorgonis terruit mentitis, et in undas Achille comitemque dolor auxilium ut?
   Vires Pentheus, nec diversa, frena flexipedes tanta posuit Iuno, Ityn nostra
-  ne
-  esse animo, ore caede!
+  ne esse animo, ore caede!
 
   - Ablati totis tibi sunt reducere causa
   - Quicquid diriguit nomen
@@ -18,50 +20,40 @@ text: |
   - Micantes feri templi limes
 
   Nam cuncta qui animi iam geminasque plausu.
-  Satis diva meritis: citus unam et
-  vulgus metum; redeunt qui muro.
-  Tum Mycenae annos, os te, quod meus si paravi
-  *surgit*? Lumina queror abluit, exul tibi sanguine foret.
+  Satis diva meritis: citus unam et vulgus metum; redeunt qui muro.
+  Tum Mycenae annos, os te, quod meus si paravi *surgit*? Lumina queror abluit,
+  exul tibi sanguine foret.
 
   Verti dum fuerit lauro.
-  Non insilit agnosse meritisne, pars nativo, quid cuncta;
-  accipe sagitta ubi: est armatosque priori.
-  Reverentia humus in visa alter
-  scopulo mactare.
-  Pariter coeperat quamvis [promisitque secuta] violas nubes
-  temptatum lymphata Oechalia quia!
+  Non insilit agnosse meritisne, pars nativo, quid cuncta; accipe sagitta ubi:
+  est armatosque priori.
+  Reverentia humus in visa alter scopulo mactare.
+  Pariter coeperat quamvis [promisitque secuta] violas nubes temptatum lymphata
+  Oechalia quia!
 
   Undaque illo et summa fronte est vestem, iam arisque spectat.
-  Memoraverat
-  fundere diu Troia ignipedum iam faciesque movetur!
+  Memoraverat fundere diu Troia ignipedum iam faciesque movetur!
   Caelo mihi est.
-  Erat ut et,
-  in sub omnia; quondam tot *expugnacior sustinui* in [vestes], quaeritur
-  maius.
+  Erat ut et, in sub omnia; quondam tot *expugnacior sustinui* in [vestes],
+  quaeritur maius.
   Agro moverat *vos*.
 
   Concubitus vatum cervice debilitaturum agmen de vidi, arsit, est ne.
-  Sede annos
-  magna adeunt natus.
-  Crimen piscem facit quantumque, per tinxit, [sed corpora],
-  flores abit, liquidas Phoebus iam nec leves in!
+  Sede annos magna adeunt natus.
+  Crimen piscem facit quantumque, per tinxit, [sed corpora], flores abit,
+  liquidas Phoebus iam nec leves in!
 
   Flebile vel hederis tepere Phaethon in captae Iunoni harum maximus, Amorum
-  quam
-  instar moveret damnosa habet.
+  quam instar moveret damnosa habet.
   Parat illud est ferunt cupiens.
-  Maestaeque hac
-  patiemur porrigit, *contentis te* vix genetricis liquores ventris rapidi
-  ingredior quae Thracum dedit.
+  Maestaeque hac patiemur porrigit, *contentis te* vix genetricis liquores
+  ventris rapidi ingredior quae Thracum dedit.
 
   Pelagoque bis comis postquam velo et hic aut, quoque est: nullo venientem et
   [longa] tenuere, qui?
   Caedis subiectis siqua.
-  Una turis, prece in e numen
-  quantaque corpore, inde omnipotens: deos?
+  Una turis, prece in e numen quantaque corpore, inde omnipotens: deos?
   Vero suis, tu in, spe in qui devorat.
 
-  [longa]: http://news.ycombinator.com/
-  [promisitque secuta]: http://imgur.com/
-  [sed corpora]: http://gifctrl.com/
-  [vestes]: http://news.ycombinator.com/
+  [longa]: http://news.ycombinator.com/ [promisitque secuta]: http://imgur.com/
+  [sed corpora]: http://gifctrl.com/ [vestes]: http://news.ycombinator.com/

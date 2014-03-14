@@ -1,7 +1,10 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR092
+- LLR121
+- LLR177
 normative: true
 ref: ''
 text: |
@@ -9,12 +12,12 @@ text: |
   Fera **oculos non**.
 
   Luce rursus.
-  Vela **animam**! Has feramus omnes disceditis humanos spectentque
-  magno nitentes superos Dictaeo prensamque.
-  Metuenda quamquam sed proxima acutis
-  **adspicit**, tum mei captare fecere pariter in finita si regique.
-  Vacuus
-  repandus potuissent tibi quaesitisque mihi cuncta *prensis* cruentum opus.
+  Vela **animam**! Has feramus omnes disceditis humanos spectentque magno
+  nitentes superos Dictaeo prensamque.
+  Metuenda quamquam sed proxima acutis **adspicit**, tum mei captare fecere
+  pariter in finita si regique.
+  Vacuus repandus potuissent tibi quaesitisque mihi cuncta *prensis* cruentum
+  opus.
 
   - Tenuit colorque flammas inridet ceperunt nec bene
   - Haud cernit Parrhasis secundis
@@ -23,21 +26,19 @@ text: |
   - Hos forsitan
 
   Et aurataque [pomum sed] neptem convicia premeret calentes citra, voca?
-  Nos
-  licet opibus eratis **ferox et domosque** comantem!
-  Fuit equos, habebas, ultor
-  iam, tamen vides recondiderat parere.
+  Nos licet opibus eratis **ferox et domosque** comantem!
+  Fuit equos, habebas, ultor iam, tamen vides recondiderat parere.
 
   [Non ultima] orbem comminus miserum incessit fretum dementia fauces, ministri
   pectora, et venti.
-  Longaque corpus precatur solitumque suum, proximus, domuisse
-  pectore inmansuetumque clamor persequar nympha te et?
+  Longaque corpus precatur solitumque suum, proximus, domuisse pectore
+  inmansuetumque clamor persequar nympha te et?
 
   Et me inmotosque fingi, questaque sint amore frementis et plura horrendum
   anni.
   Ecce huc in oraque sanguine undamque dependent taedia.
-  Quae neque non stagnum
-  marmore, venisse ille quis toto cum ipsum es et tradat mihi visaque rapta.
+  Quae neque non stagnum marmore, venisse ille quis toto cum ipsum es et tradat
+  mihi visaque rapta.
   Patrio inpleratque fessis inseritur iugo nec saevit fregit vidisse ipsosque
   fuerat, illa Phoebo mali: aut.
 
@@ -53,11 +54,9 @@ text: |
   5. Erat audita
 
   Eadem sub Iovem corve; sub *vectus* sanguis animumque stravit traderet.
-  Aedes
-  ministrarum flemus.
+  Aedes ministrarum flemus.
   Philemona stantemque medicamina coniuge dives.
-  In utque
-  passuque facinus mediisque novus, *fata fore*: sed.
+  In utque passuque facinus mediisque novus, *fata fore*: sed.
 
-  [Non ultima]: http://hipstermerkel.tumblr.com/
-  [pomum sed]: http://twitter.com/search?q=haskell
+  [Non ultima]: http://hipstermerkel.tumblr.com/ [pomum sed]:
+  http://twitter.com/search?q=haskell

@@ -1,7 +1,12 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR065
+- LLR068
+- LLR086
+- LLR119
+- LLR145
 normative: true
 ref: ''
 text: |
@@ -9,10 +14,9 @@ text: |
   Foedoque annos altera!
   Resolvent ut ablatus dique manus; somnis dedit simul, in Eumenides, ego omnem
   timorque prospexit perque unicus cognatas.
-  Non fovet capellae amans ipsamque
-  tempora vidi pater, fluminis.
-  Mentisque sinistro subvecta *inhonorati prece*
-  contrahitur, nec, volucrumque Achaemenides quem sic, et quoque.
+  Non fovet capellae amans ipsamque tempora vidi pater, fluminis.
+  Mentisque sinistro subvecta *inhonorati prece* contrahitur, nec, volucrumque
+  Achaemenides quem sic, et quoque.
 
   1. Alligat nisi perpessi et ubi nati cum
   2. Imagine iter pietas spatiis impediet et curva
@@ -22,8 +26,8 @@ text: |
   6. Inmunis letoque rapimur
 
   [Aret rigescunt lina] structis cernunt.
-  Possem quoque, ista Latonia gemit [Iovis
-  nautae onus] in, dedimus premens scelerataque collibus fertur ficti Quid.
+  Possem quoque, ista Latonia gemit [Iovis nautae onus] in, dedimus premens
+  scelerataque collibus fertur ficti Quid.
   Circumstant superi edax herbas, novit poteras et corpus **summae ipse**, cum
   quoque spemque.
 
@@ -43,18 +47,15 @@ text: |
               + motionTransferDisk);
 
   Ad moenia manu vidit ubi tulit [aquila], cum margine constitit pando grata
-  qua
-  Laertius, illa.
-  Vulnus nata pressa, conciderant, nec exire et animalia deserta
-  alium amnis facit **suam**.
+  qua Laertius, illa.
+  Vulnus nata pressa, conciderant, nec exire et animalia deserta alium amnis
+  facit **suam**.
 
   Pedibus his?
-  Ima fuit, tuorum malum lanigerosque inmittitur capillos pro vota
-  formae pontus altae est movit suas **caede periturae** voluit subit.
-  Quoque ergo
-  hastis foliis nubibus et Caicus [validi], dis et ingenium nova, dare numina
-  ipse
-  arbore, qui.
+  Ima fuit, tuorum malum lanigerosque inmittitur capillos pro vota formae
+  pontus altae est movit suas **caede periturae** voluit subit.
+  Quoque ergo hastis foliis nubibus et Caicus [validi], dis et ingenium nova,
+  dare numina ipse arbore, qui.
   Feras qui?
 
   Hippason medulla canis sperat vineta [ab agilis] et tellus *heu adgrediar*,
@@ -62,8 +63,6 @@ text: |
   Vivit vati nostro, aut simul qua levavit mixta tenet vale tuentur rediit
   carebat urnam.
 
-  [Aret rigescunt lina]: http://news.ycombinator.com/
-  [Iovis nautae onus]: http://html9responsiveboilerstrapjs.com/
-  [ab agilis]: http://www.mozilla.org/
-  [aquila]: http://www.billmays.net/
-  [validi]: http://www.raynelongboards.com/
+  [Aret rigescunt lina]: http://news.ycombinator.com/ [Iovis nautae onus]:
+  http://html9responsiveboilerstrapjs.com/ [ab agilis]: http://www.mozilla.org/
+  [aquila]: http://www.billmays.net/ [validi]: http://www.raynelongboards.com/

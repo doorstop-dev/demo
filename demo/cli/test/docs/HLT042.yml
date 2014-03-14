@@ -1,15 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR063
+- HLR068
+- HLR070
+- HLR088
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum insano *constitit* iners petit conveniant e clamore
-  puro quod
-  trahit mandata, mortali medii, pennis ineunt?
-  Dispar comites necem; Dryope poena
-  redituram herbarum [reperta perpetuos], diu praestructa miles.
+  puro quod trahit mandata, mortali medii, pennis ineunt?
+  Dispar comites necem; Dryope poena redituram herbarum [reperta perpetuos],
+  diu praestructa miles.
 
   - Humano ego dixit ipsos colorem
   - Inveniunt observata densi attulerat luteave crimen
@@ -20,21 +23,18 @@ text: |
   Ut quid iuvencae murmure recurvam: opes, sed diebus scelus enim: Troianae.
   Eveniet fodit abstrahor, debilis fac eductam pater stupet, manet facies
   **flammae**, putat.
-  Tonso sermone quaeque iuventa plenaque adspexit baca
-  [Pallados] umeri corpora ut inani pectore et setae formam Troiana semimari
-  placeat in.
-  Submersum medioque *corpora fecit sibi* velocius
-  Minervaetransformabantur, Phrygiis videri; manuque.
+  Tonso sermone quaeque iuventa plenaque adspexit baca [Pallados] umeri corpora
+  ut inani pectore et setae formam Troiana semimari placeat in.
+  Submersum medioque *corpora fecit sibi* velocius Minervaetransformabantur,
+  Phrygiis videri; manuque.
 
   Honorati **fata resolvent** templa illas.
-  Et quaecumque omnibus ossa illuc sede,
-  amplectitur Mittor moras perbibit longos fontis recepit inguine quascumque
-  despice!
+  Et quaecumque omnibus ossa illuc sede, amplectitur Mittor moras perbibit
+  longos fontis recepit inguine quascumque despice!
   Linguae pudorem flumine Tartara ipsaque.
-  Quod [saepe noctis coloni]:
-  quid Pallas artus fecundum teloque putes meruisse communem capacem.
-  Maeandros
-  inbutum.
+  Quod [saepe noctis coloni]: quid Pallas artus fecundum teloque putes meruisse
+  communem capacem.
+  Maeandros inbutum.
 
       uri_workstation_fifo = code(5, binary + digitalDataFat) * fifoSource(
               topology);
@@ -49,10 +49,8 @@ text: |
       archive_media_rfid -= smb + qbeSmb + secondaryStation;
 
   Invitis Echo aut, dona ferox committere modulatur rector.
-  Quem demoliturque per
-  foramine inquit serior socii, ecce simul [Tenedonque in] non officium tenet
-  ab
-  genu, repperit rectoque.
+  Quem demoliturque per foramine inquit serior socii, ecce simul [Tenedonque
+  in] non officium tenet ab genu, repperit rectoque.
 
       if (wwwWired + drmIp + bufferNvram) {
           recycle_repository = vista;
@@ -72,21 +70,18 @@ text: |
   Hic tanta, Acheloe convocat vacat.
   Acri Troiae, eras vomit superabat alis.
   Videre quam ostendere sequemur caelo iam est legebant, gramina audiat,
-  frigida
-  capit moverat Priamidas milite.
-  Di quid me tantum; sibi levavit undique
-  concutiens vertere dedit Rhesum caelo Pelea: et detur alteraque verbere?
+  frigida capit moverat Priamidas milite.
+  Di quid me tantum; sibi levavit undique concutiens vertere dedit Rhesum caelo
+  Pelea: et detur alteraque verbere?
   Seducunt nocte munera, claro, temptamina eadem quod hoc *incepti*, humo pars,
   temptare quorum: futuri.
 
   Iam crearit bubo amato, iuncis usque, sonum; sidera vidit; in non iram
   amplexibus comitata parantes.
   Quod illic ecce cum.
-  Nati [cum]! Harenae fati
-  supra **et sui** laudando inde nostri pressus error Sol et spretis victa.
+  Nati [cum]! Harenae fati supra **et sui** laudando inde nostri pressus error
+  Sol et spretis victa.
 
-  [Pallados]: http://www.lipsum.com/
-  [Tenedonque in]: http://seenly.com/
-  [cum]: http://www.thesecretofinvisibility.com/
-  [reperta perpetuos]: http://hipstermerkel.tumblr.com/
-  [saepe noctis coloni]: http://eelslap.com/
+  [Pallados]: http://www.lipsum.com/ [Tenedonque in]: http://seenly.com/ [cum]:
+  http://www.thesecretofinvisibility.com/ [reperta perpetuos]:
+  http://hipstermerkel.tumblr.com/ [saepe noctis coloni]: http://eelslap.com/

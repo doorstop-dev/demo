@@ -1,15 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR050
 normative: true
 ref: ''
 text: |
   [Lorem] markdownum solitum miles viae feci simul his gerebat, in talia aut
   concepit nato inanem insculpunt nubila, minus!
-  Resto suos vocalia pulsant, ad
-  Romanum sortis, promptum terrigenis equis in adnuit acres scelus sicco *et
-  novem*.
+  Resto suos vocalia pulsant, ad Romanum sortis, promptum terrigenis equis in
+  adnuit acres scelus sicco *et novem*.
 
       graphics.pim += recursiveSync;
       if (ccd_rom.dashboard(optical + 5)) {
@@ -22,8 +22,7 @@ text: |
       }
 
   In Apolline omnia desere coloribus vidit miserisque cremat: corpora et.
-  Illi ore
-  mutilatae, est fluctus cancro peream terrae faciat debebit isto.
+  Illi ore mutilatae, est fluctus cancro peream terrae faciat debebit isto.
 
       stationDownload(typeface_dot_port + southbridge_osi(1));
       if (-3 * soft_web + 714900) {
@@ -43,8 +42,7 @@ text: |
 
   Clivo haec dumque gravis moriens crescitque nunc, nunc ut caeli sincera, aera
   totis arma tamen quamvis.
-  Quos materiem te deae, munus preces iubet contigerant
-  remugis, corpore.
+  Quos materiem te deae, munus preces iubet contigerant remugis, corpore.
   Gentis tamen.
 
   Non missus omnia te fugerat ferat laudis raptam Perseus ponderibus faciem
@@ -56,12 +54,10 @@ text: |
   obstantis.
 
   Nymphae abest tenebras diversae cauda.
-  Senemque futuri stagnumque expulit aera
-  est tuae quaeris lentae, nullae.
-  Sic corvo Minos attenuatus tuentur mala, et
-  gladium clade minuitque credunt; cum hanc **suo** daedalus quarum [magna].
-  Interea iuvat: positus coronant relicto intremuere adde summa sine caruissem
-  poenas *conubia*?
+  Senemque futuri stagnumque expulit aera est tuae quaeris lentae, nullae.
+  Sic corvo Minos attenuatus tuentur mala, et gladium clade minuitque credunt;
+  cum hanc **suo** daedalus quarum [magna]. Interea iuvat: positus coronant
+  relicto intremuere adde summa sine caruissem poenas *conubia*?
 
       if (system(cpu.clientLpi.kde_nic_hsf(ctpTroubleshootingWebsite,
               bankTunnelingTiger), bannerWebsite, sram_fsb_servlet + gateway *
@@ -84,9 +80,7 @@ text: |
 
   Minervam adde tamen suum, repugnat, ut nunc eripienda mihi lacertis additur
   positis tamen priorum *et* cecidit sparsitque, quantum.
-  Sontes manent, quid
-  [potentia] dixi morsibus!
+  Sontes manent, quid [potentia] dixi morsibus!
 
-  [Lorem]: http://www.wedrinkwater.com/
-  [magna]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [potentia]: http://haskell.org/
+  [Lorem]: http://www.wedrinkwater.com/ [magna]:
+  http://www.youtube.com/watch?v=MghiBW3r65M [potentia]: http://haskell.org/

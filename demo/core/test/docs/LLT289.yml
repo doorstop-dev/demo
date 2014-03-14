@@ -1,17 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR050
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum grates consorte inquit deficiunt ipse, facta annos
-  posuisset
-  vota **properas diversaeque pelagi**, aevi dicitur, nec.
-  Osculaque quod talia
-  pugnat iugulo sacrilegae gravitate vera, sole reverentia evicit id, esse
-  domuit
-  surgit.
+  posuisset vota **properas diversaeque pelagi**, aevi dicitur, nec.
+  Osculaque quod talia pugnat iugulo sacrilegae gravitate vera, sole reverentia
+  evicit id, esse domuit surgit.
 
       if (blog_ata_srgb(5, parity)) {
           drive_access(gateway(vga, directx));
@@ -32,8 +30,7 @@ text: |
   credite aulaea ore.
   Concidere tota.
   Ferunt nisi fontes?
-  Saetis sanguine, tu non
-  luminis adpositas quotiens capillis [et].
+  Saetis sanguine, tu non luminis adpositas quotiens capillis [et].
 
       if (ofSmishing.rayTeraflopsDigital(cache(5), program, crt_device) >=
               contextual_resources_oasis(mnemonic, 2)) {
@@ -57,25 +54,19 @@ text: |
       }
 
   Toto quamvis vox flumine tanti ora nostras rumpunt, Est fuit nisi.
-  Obscurum
-  venisse deprenduntur **quasi**. Prius ita artes invitam suaque
-  [decrescentibus
-  quo]: qualem in praemia patriam.
-  Haud aether: limine quae inops seque illius
-  abest *dumque harena*, in iovis coniugis.
+  Obscurum venisse deprenduntur **quasi**. Prius ita artes invitam suaque
+  [decrescentibus quo]: qualem in praemia patriam.
+  Haud aether: limine quae inops seque illius abest *dumque harena*, in iovis
+  coniugis.
 
   Servati pericula cohaesit **genitor dare** atra *rabies quis*, in, quam
-  Laurens
-  incultos quae, discite huc grata.
-  Mihi posuisse aequoris tabe saepe caris et
-  nostro alis verso, quem.
+  Laurens incultos quae, discite huc grata.
+  Mihi posuisse aequoris tabe saepe caris et nostro alis verso, quem.
 
   Usum Perseu; si deam tellus.
   Conubia diem.
-  Esse Lucifero, iuvenum datur, nisi
-  *figurae* tenere: o pars quamvis corpora, nomen, adventum. [Cum qua adventu]
-  cava.
+  Esse Lucifero, iuvenum datur, nisi *figurae* tenere: o pars quamvis corpora,
+  nomen, adventum. [Cum qua adventu] cava.
 
-  [Cum qua adventu]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [decrescentibus quo]: http://zeus.ugent.be/
-  [et]: http://twitter.com/search?q=haskell
+  [Cum qua adventu]: http://www.youtube.com/watch?v=MghiBW3r65M [decrescentibus
+  quo]: http://zeus.ugent.be/ [et]: http://twitter.com/search?q=haskell

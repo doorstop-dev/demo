@@ -16,11 +16,13 @@ LLR = os.path.join('docs', 'llr')
 HLT = os.path.join('demo', 'cli', 'test', 'docs')
 LLT = os.path.join('demo', 'core', 'test', 'docs')
 
-SYS_COUNT = 50
+SYS_COUNT = 5
 HLR_COUNT = SYS_COUNT * 2
 LLR_COUNT = HLR_COUNT * 2
 HLT_COUNT = HLR_COUNT * 2
 LLT_COUNT = LLR_COUNT * 2
+
+MAX_LINKS = 5
 
 
 def main():
@@ -43,24 +45,61 @@ def main():
         tree.delete()
 
     # Generate new random requirements
-    if not len((item for item in (document for document in tree))):
+    items = []
+    for document in tree:
+        for item in document:
+            logging.info("item: {}".format(item))
+            items.append(item)
+    if not any(items):
 
         logging.info("generating random requirements...")
-        document = tree.new(SYS, 'SYS')
+
+        document_sys = tree.new(SYS, 'SYS')
         for _ in range(SYS_COUNT):
-            _generate_item(document, shall=True)
-        document = tree.new(HLR, 'HLR', parent='SYS')
+            _generate_item(document_sys, shall=True)
+
+        document_hlr = tree.new(HLR, 'HLR', parent=document_sys.prefix)
         for _ in range(HLR_COUNT):
-            _generate_item(document, shall=True)
-        document = tree.new(LLR, 'LLR', parent='HLR')
+            _generate_item(document_hlr, shall=True)
+
+        document_llr = tree.new(LLR, 'LLR', parent=document_hlr.prefix)
         for _ in range(LLR_COUNT):
-            _generate_item(document, shall=True)
-        document = tree.new(HLT, 'HLT', parent='HLR')
+            _generate_item(document_llr, shall=True)
+
+        document_hlt = tree.new(HLT, 'HLT', parent=document_hlr.prefix)
         for _ in range(HLT_COUNT):
-            _generate_item(document, verify=True)
-        document = tree.new(LLT, 'LLT', parent='LLR')
+            _generate_item(document_hlt, verify=True)
+
+        document_llt = tree.new(LLT, 'LLT', parent=document_llr.prefix)
         for _ in range(LLT_COUNT):
-            _generate_item(document, verify=True)
+            _generate_item(document_llt, verify=True)
+
+    else:
+
+        document_sys = tree.find_document('SYS')
+        document_hlr = tree.find_document('HLR')
+        document_llr = tree.find_document('LLR')
+        document_hlt = tree.find_document('HLT')
+        document_llt = tree.find_document('LLT')
+
+    # Generate random levels
+    links = []
+    for document in tree:
+        for item in document:
+            for identifier in item.links:
+                link = "{} -> {}".format(item, identifier)
+                logging.info("link: {}".format(link))
+                links.append(link)
+    if not links:
+
+        logging.info("generating random links...")
+
+        for parent, child in ((document_sys, document_hlr),
+                              (document_hlr, document_llr),
+                              (document_hlr, document_hlt),
+                              (document_llr, document_llt)):
+            for item in child:
+                _apply_random_links(item, parent)
 
 
 _LM = "Lorem markdownum"
@@ -76,6 +115,7 @@ _LM_URL = ("http://jaspervdj.be/lorem-markdownum/markdown.txt"
 def _generate_item(document, shall=False, verify=False):
     """Generate a new requirement or test case."""
     item = document.add()
+
     text = _get_random_text()
     if shall:
         assert verify == False
@@ -84,6 +124,7 @@ def _generate_item(document, shall=False, verify=False):
         assert shall == False
         text = text.replace(_LM, "Verify l" + _LM[1:], 1)
     item.text = text
+
     logging.info("generated: {}".format(item))
 
 
@@ -92,6 +133,13 @@ def _get_random_text():
     response = requests.get(_LM_URL)
     assert response.status_code == 200
     return response.text
+
+
+def _apply_random_links(item, document):
+    """Randomize an item's links."""
+    item.links = []
+    for _ in range(random.randint(0, MAX_LINKS)):
+        item.add_link(random.choice(document.items).id)
 
 
 if __name__ == '__main__':

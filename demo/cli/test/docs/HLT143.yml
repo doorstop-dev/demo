@@ -1,23 +1,22 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR039
 normative: true
 ref: ''
 text: |
   Lorem **markdownum parentes inposuit** gelidos tactus resumit sana nec, et
-  tuos
-  est.
+  tuos est.
   Artes misit quod facientibus Titania, aeacidae, telum, ora seductus Icare.
   In iram imbres desierant dolentius spatium: pennas *alta longas* mutata
-  officium
-  [orbataque quam].
+  officium [orbataque quam].
 
   Humus dubio esse ignibus.
-  Arma erat nec vices quaeratur abscidit dolor admotas,
-  dea subitam vidit adunca ferarum, secum?
-  Subvolat Lycurgum movet tempora
-  volucrum fuit simulatas, fusum fontes, in nimium Ialysios.
+  Arma erat nec vices quaeratur abscidit dolor admotas, dea subitam vidit
+  adunca ferarum, secum?
+  Subvolat Lycurgum movet tempora volucrum fuit simulatas, fusum fontes, in
+  nimium Ialysios.
 
   - In armenti tellus iuveni
   - Patera et formam illius notas coloribus et
@@ -28,15 +27,13 @@ text: |
 
   Tulerunt mole: me fauces, dulces? *Bello Phoebo* findit, feres est summasque
   fronte consonus fata possunt, **et** cadit, guttura mortalis, notus.
-  Matri
-  tectus spatiantur praemia.
+  Matri tectus spatiantur praemia.
   Aevo palato perdere videt?
 
   Ultima sunt, dum membra audenti tremulo ducit at virum est trunco.
-  Hoc ter
-  pondera hunc **alto** clamare succendit locumque regia **illam**, Pallados.
-  Quas
-  repulsam vota.
+  Hoc ter pondera hunc **alto** clamare succendit locumque regia **illam**,
+  Pallados.
+  Quas repulsam vota.
 
   1. Ille hoc certamine causa nec
   2. Troiae aestuat pensandum signa ego
@@ -46,11 +43,10 @@ text: |
   6. Sanguine hoc silentia domi praetulit vomentem
 
   Positamque illa, producit malorum nacta; habenas quem isset contingere utque
-  et
-  parentes.
+  et parentes.
   Et pater sinuosa Oribasos et ignarus dotibus Erysicthonis modumque,
   multifidasque.
-  Illas conveniunt iaculo Regi fortuna antra congressus humiles,
-  avos fatorum raptos.
+  Illas conveniunt iaculo Regi fortuna antra congressus humiles, avos fatorum
+  raptos.
 
   [orbataque quam]: http://en.wikipedia.org/wiki/Sterling_Archer

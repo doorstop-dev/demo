@@ -1,15 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR045
+- LLR162
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum praeterque vultus, ab Orphei parte isse, sic
-  declivibus, dicens
-  nimium sitvs quod, ultra.
-  Manum laborum spatio, viros, in meam meruisse vitarit
-  **ora** male *mole rem* defensatque certe ripae.
+  declivibus, dicens nimium sitvs quod, ultra.
+  Manum laborum spatio, viros, in meam meruisse vitarit **ora** male *mole rem*
+  defensatque certe ripae.
 
       if (partition_gate + bootOpacity) {
           token.scrollConstant -= hub_copy + ddl_lag - click(4, -4);
@@ -29,8 +30,7 @@ text: |
 
   Facto erat ponti his promisitque, virgine, divum harenis clamat, gradus.
   Pressistis vultus tremor, ad letique dextris eburnae genitor lacrimisque
-  proles
-  sit, in.
+  proles sit, in.
   Oris seque.
 
   Dumque fisa scinditur colore **erat quod** illis omne; rati non primordia
@@ -42,10 +42,10 @@ text: |
 
   Tum lacertis ingentem datis me est est, has oscula Helicen Phorbas populumque
   terga, ex fissa?
-  Tecta est quos tutum proturbat inpia; et haec iam dixi et hic
-  dominum quam gravis.
-  Incipit vulnere, altique cum dubitatis tamen naides, et
-  [illi inachus], ne taedia fletus.
+  Tecta est quos tutum proturbat inpia; et haec iam dixi et hic dominum quam
+  gravis.
+  Incipit vulnere, altique cum dubitatis tamen naides, et [illi inachus], ne
+  taedia fletus.
   Et opus.
 
   1. Huc funera et nullis postquam harenosae posita
@@ -54,25 +54,19 @@ text: |
   4. Et deus
 
   Ammon ille vultus citius concolor parte, indigenaene tamen custos duabus.
-  Tum
-  dum!
+  Tum dum!
   Gorgone iam concipiunt vitam Augustum, cumque tu luctus ensem?
-  Esse non,
-  vim quae quanto concavat damnatur magicaeque sine; vir matrem Alpino ancipiti
-  petit dum mori palluit sonumque?
-  Operis Asopiades materna temeraria et puer, est
-  *voce* aeternum ora nec expetitur isse ore memorantur et.
+  Esse non, vim quae quanto concavat damnatur magicaeque sine; vir matrem
+  Alpino ancipiti petit dum mori palluit sonumque?
+  Operis Asopiades materna temeraria et puer, est *voce* aeternum ora nec
+  expetitur isse ore memorantur et.
 
   Ardentibus dedit; et laedat figentem.
   Caenis cesserunt timendi animus?
-  Poscit
-  primo, fuit Iunonis excussit rapit et esto ore.
-  Hic leti aut qui nitidos adhuc
-  carinas agros, nec vides procul foresque pectore tepentibus possint
-  triplicesque
-  tamen pestiferaque.
-  Facta sine pone, sua inrita dumque, mediis vindice, lateque
-  vestigia ossibus.
+  Poscit primo, fuit Iunonis excussit rapit et esto ore.
+  Hic leti aut qui nitidos adhuc carinas agros, nec vides procul foresque
+  pectore tepentibus possint triplicesque tamen pestiferaque.
+  Facta sine pone, sua inrita dumque, mediis vindice, lateque vestigia ossibus.
 
-  [illi inachus]: http://www.reddit.com/r/haskell
-  [pugnat]: http://www.wtfpl.net/
+  [illi inachus]: http://www.reddit.com/r/haskell [pugnat]:
+  http://www.wtfpl.net/

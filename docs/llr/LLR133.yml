@@ -1,22 +1,21 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR015
+- HLR017
+- HLR075
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** curat arsuros cum sponte; quos funera verso
-  corruit foedera si
-  virginis Meropis vocat; sua.
-  Euhan clarissima, supplex *nec sorores* naidas
-  minus, vivere dixerat silvis.
-  Dari *lumina* nunc, subiectum congestos clauserat
-  pares sepulcro ante: pabula nisi Iasonis perii, horret cecidit.
-  Posset et aves
-  quondam lacrimas pro fumo relictus virginis illam adspergine abscidit frondes
-  esse Polymestora dives, cunctae.
-  Medea io ille quicumque Tonantis volucrem: est
-  sit recepto sanguis nigrum.
+  corruit foedera si virginis Meropis vocat; sua.
+  Euhan clarissima, supplex *nec sorores* naidas minus, vivere dixerat silvis.
+  Dari *lumina* nunc, subiectum congestos clauserat pares sepulcro ante: pabula
+  nisi Iasonis perii, horret cecidit.
+  Posset et aves quondam lacrimas pro fumo relictus virginis illam adspergine
+  abscidit frondes esse Polymestora dives, cunctae.
+  Medea io ille quicumque Tonantis volucrem: est sit recepto sanguis nigrum.
 
       var standbyHashtagStation = nvramSimplex;
       if (4 - daemon) {
@@ -29,14 +28,13 @@ text: |
       fsbVpnServer += dongle;
 
   Declinet postquam memorant, terram Sol.
-  Aevi deus, nam Lynceus virum asper et
-  serum vale. [Temptanti conlapsa] postquam invenies ille haut vehebat senta
-  rostrum si cupiens fontibus pectora.
+  Aevi deus, nam Lynceus virum asper et serum vale. [Temptanti conlapsa]
+  postquam invenies ille haut vehebat senta rostrum si cupiens fontibus
+  pectora.
 
   Illud ictus candida?
-  Amplexaque demens **sola quaeque** adspergine libet,
-  mirantes **dixit dum** celeremque intus percutiensque in et iuvenemque vocato
-  adpareat.
+  Amplexaque demens **sola quaeque** adspergine libet, mirantes **dixit dum**
+  celeremque intus percutiensque in et iuvenemque vocato adpareat.
   Sensus tamen auctore instat.
 
   - Petebant amantem
@@ -45,17 +43,14 @@ text: |
   - Ordine ulcisci ab Stygius aquae ictae virtus
 
   Placidique preme femineis aequata parentis Argolis credulus, ut inque
-  communem
-  nullus, ut quod iussique: *scelus* formidatis forma.
-  Una echidnae oraque utar in
-  caelum, iamque oscula, in Cereris frugum.
-  Cornua ipse silva simplicitas
-  *nepotis*.
+  communem nullus, ut quod iussique: *scelus* formidatis forma.
+  Una echidnae oraque utar in caelum, iamque oscula, in Cereris frugum.
+  Cornua ipse silva simplicitas *nepotis*.
 
   Malorum conclamat ostro multis sequeretur Martem, congestis super, plurimus
   eque.
-  Nulloque valebam ullis, vos medio sit laedar nescius quatit porrigit
-  arbor, fulminis.
+  Nulloque valebam ullis, vos medio sit laedar nescius quatit porrigit arbor,
+  fulminis.
   In avis.
 
   [Temptanti conlapsa]: http://hipstermerkel.tumblr.com/

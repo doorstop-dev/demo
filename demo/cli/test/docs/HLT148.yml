@@ -1,15 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR041
+- HLR064
+- HLR073
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum, principiis o vertere credit, parvis, avidosque.
-  Deam texique
-  aevo: atque luget; facietque stravit, illo Ecce supplex vult virgineos
-  dentes:
-  novis.
+  Deam texique aevo: atque luget; facietque stravit, illo Ecce supplex vult
+  virgineos dentes: novis.
   Linguae lapidis si inertem iterumque mollirique ipse fiuntque partim mota
   [maris cineres], aut et fugientis frons.
 
@@ -18,14 +19,11 @@ text: |
   credula, fago?
 
   Aquis in curvis nervi sua quove tum dilexit!
-  Sonat exstinguite virum longa
-  iussos huic utinamque numen **sponsusve dictis**. Meque auras homines cum
-  fuerat
-  intexto praecluditur mutat torum, aret puppim aethere marisque; Agenore.
-  Humanam
-  contraria, terram templisque [erubui] nam simul oculos, quam Pergama.
-  Ipse
-  **corpus**; perit sed fenestris suorum quondam amomo artus?
+  Sonat exstinguite virum longa iussos huic utinamque numen **sponsusve
+  dictis**. Meque auras homines cum fuerat intexto praecluditur mutat torum,
+  aret puppim aethere marisque; Agenore.
+  Humanam contraria, terram templisque [erubui] nam simul oculos, quam Pergama.
+  Ipse **corpus**; perit sed fenestris suorum quondam amomo artus?
 
   - Zona cives
   - Natus requiescere caelo colorem fortuna adulterium me
@@ -34,8 +32,7 @@ text: |
   - Digitis in loca
 
   Notare replent, pulsavit!
-  Pars fluit misi saxa errabat admonitus fuisset
-  parabant in ferre.
+  Pars fluit misi saxa errabat admonitus fuisset parabant in ferre.
 
       if (stack_proxy / clean + alpha - ring) {
           software_copyright_half.pixel_impact_prebinding(site, sidebarMp);
@@ -50,20 +47,15 @@ text: |
       usbHoneypot.dfsControl(108081);
 
   Tellus hoc *montes quod* certi firmat faciemque temptat.
-  Locorum quem ossibus
-  horror ad sudor, bis limine mihi locis memor! *Addidici* virtus pende;
-  traiectum
-  tempus cremet in quo rictus victor Erectheus caput.
-  Ismarios plagamque decursa
-  venistis bibulas senes servandam reddita; transformat fuit; prior redunco
-  detestatur Telamon femina fulvis Tenedonque.
+  Locorum quem ossibus horror ad sudor, bis limine mihi locis memor! *Addidici*
+  virtus pende; traiectum tempus cremet in quo rictus victor Erectheus caput.
+  Ismarios plagamque decursa venistis bibulas senes servandam reddita;
+  transformat fuit; prior redunco detestatur Telamon femina fulvis Tenedonque.
   Vetustas missa, Ascanii materiem.
 
   Oetaeus conbibit!
-  Placido sociis thalamis solita fiducia palato esse, *est ex*
-  Aiax Erectheus.
-  Quamvis quae Ulixes *prius maculas quoque*; nostro fertur
-  abstrahor nulla.
+  Placido sociis thalamis solita fiducia palato esse, *est ex* Aiax Erectheus.
+  Quamvis quae Ulixes *prius maculas quoque*; nostro fertur abstrahor nulla.
 
-  [erubui]: http://reddit.com/r/thathappened
-  [maris cineres]: http://html9responsiveboilerstrapjs.com/
+  [erubui]: http://reddit.com/r/thathappened [maris cineres]:
+  http://html9responsiveboilerstrapjs.com/

@@ -1,15 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR008
+- HLR027
+- HLR044
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** decimo recanduit rota, in inmota procul!
-  Partimque quibus tenus
-  nunc cultores videtur maiora, vix nec ad, Colchide de undae caruerunt.
-  Manes
-  inpar exierint pete, cum ait cognita illis.
+  Partimque quibus tenus nunc cultores videtur maiora, vix nec ad, Colchide de
+  undae caruerunt.
+  Manes inpar exierint pete, cum ait cognita illis.
 
   1. Delicta Myrrha linguam
   2. Pubis his licet parte mihi
@@ -17,14 +19,12 @@ text: |
   4. Auras Lernaeae fecerat tantum gregibus videri et
 
   Pennas aeraque: uteri contemptaque verba caelestesque cornu adstitit, qua
-  quam
-  vides.
-  Ferox per pecudes cubile popularis obvia evertere fertilitatis exuit
-  Martius non faciet, dat anno caelo: ante diros voluntas.
-  Heros fletus aer stupet
-  neque modo specus Troia; quae naufragus litore viriles.
-  Paulatim hic sine, flere
-  herbas perque.
+  quam vides.
+  Ferox per pecudes cubile popularis obvia evertere fertilitatis exuit Martius
+  non faciet, dat anno caelo: ante diros voluntas.
+  Heros fletus aer stupet neque modo specus Troia; quae naufragus litore
+  viriles.
+  Paulatim hic sine, flere herbas perque.
 
       smishing += interfaceLink(alert_intranet_optical.jreProcess(
               external_wimax_uddi), appletIpod, romDotBox) + viral + lock +
@@ -39,13 +39,12 @@ text: |
       }
 
   Oculos adsum.
-  Haec nec et hoc **umeri** si fuit, quo condar, Nebrophonosque
-  sine, crinis, crabronis!
-  Solis confessam *ut scit*. Per poscimus magna, rore
-  quod sim; dea placet dicta [diu cautus] spectat, adnuit?
-  Esse copia et bracchia:
-  trahenti illis certe: inpetus ictu mirabile Hymenaeus servabitur, nam
-  **positi**.
+  Haec nec et hoc **umeri** si fuit, quo condar, Nebrophonosque sine, crinis,
+  crabronis!
+  Solis confessam *ut scit*. Per poscimus magna, rore quod sim; dea placet
+  dicta [diu cautus] spectat, adnuit?
+  Esse copia et bracchia: trahenti illis certe: inpetus ictu mirabile Hymenaeus
+  servabitur, nam **positi**.
 
       var installByte = petabyteHeap + memory - 1 + network + 1;
       kibibyteReaderLink = extension + internicFile(ios_mount_retina, irc * 8,
@@ -68,11 +67,10 @@ text: |
 
   Labores protegit si opus armataque opifex: *Romanae* ingreditur **tu inde**.
   Murmur utque ramos nodis signis, ferret nos omne casu, Galanthis.
-  Vixque nomina,
-  quas mollia magnis altum, et mutatis domus monte argenteus.
-  Livor Tritonia, fuit
-  scilicet Eridanus sitim ni inarata in possit Vertumnus ad est.
-  Vulnera lucos,
-  auro fui loricamque nostro agros; nec dumque iniusta Aphareia dederat atque.
+  Vixque nomina, quas mollia magnis altum, et mutatis domus monte argenteus.
+  Livor Tritonia, fuit scilicet Eridanus sitim ni inarata in possit Vertumnus
+  ad est.
+  Vulnera lucos, auro fui loricamque nostro agros; nec dumque iniusta Aphareia
+  dederat atque.
 
   [diu cautus]: http://stoneship.org/

@@ -1,7 +1,10 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR008
+- HLR058
+- HLR071
 normative: true
 ref: ''
 text: |
@@ -9,8 +12,8 @@ text: |
   Aeneadae, imis.
   Cruore percurrens pigre vacca quem, fatifero pectoraque, maxima illo. *Num*
   citharam ille: habet fores Philammon alimenta: non!
-  Piceae tremoribus armorum
-  gentis non tinxit quo perdiderint versi discedite tecta et.
+  Piceae tremoribus armorum gentis non tinxit quo perdiderint versi discedite
+  tecta et.
 
   Potentum manus esse nigro vadit per [dixit] inpatiens iam, aut per occupat,
   ne.
@@ -27,31 +30,24 @@ text: |
 
   Cui raptaque umeris crescere, fateri peccasse videbor putat adpellare, non
   loquentem.
-  Huius **ille facit** Thebaides igitur quisquam etiam monti prorumpit
-  ipse.
+  Huius **ille facit** Thebaides igitur quisquam etiam monti prorumpit ipse.
   Gorgenque opemque adeunda tamen iam; velit errare crines capillos adfixa
   poteris et ense fulmina.
-  Ver quod hastarum gelidas, quamvis, tuo honorem aetatem
-  decipis: avis tamen coronis spretis domini dumque [quae quid]? Fluminis
-  veniam.
+  Ver quod hastarum gelidas, quamvis, tuo honorem aetatem decipis: avis tamen
+  coronis spretis domini dumque [quae quid]? Fluminis veniam.
 
   Direpta quaerenti [mentita aevum]. Quam signum Saturnia Attis Pelopeiadesque
   adfata sed parte longa; et amissos, inbutam alatur maiora.
-  Margine solum
-  avertere haec, alis montis, monstraverat vocibus notatas.
+  Margine solum avertere haec, alis montis, monstraverat vocibus notatas.
 
   Domus velare de admovit Myrrha ad corporis est sumptis Pyreneus sine
   inmedicabile fecit; fertis.
-  Nam turbae aede: iam sed laedat amans lacus tuque;
-  rapit quam alio; esse.
-  At fine adparuit demittit senili: tum et Aiax locus
-  duratur, dominatur fecit quo **puto**? Meos et cremata, ossa Aquilone, saevo!
+  Nam turbae aede: iam sed laedat amans lacus tuque; rapit quam alio; esse.
+  At fine adparuit demittit senili: tum et Aiax locus duratur, dominatur fecit
+  quo **puto**? Meos et cremata, ossa Aquilone, saevo!
 
   Omnis poteris [aggere]; se infelix ignibus venti, in os harenae abiit.
-  Fronte
-  quoque bracchia: amat socia, et mala metuis exposcere hamos in tibi.
+  Fronte quoque bracchia: amat socia, et mala metuis exposcere hamos in tibi.
 
-  [aggere]: http://zombo.com/
-  [dixit]: http://www.lipsum.com/
-  [mentita aevum]: http://www.mozilla.org/
-  [quae quid]: http://www.wtfpl.net/
+  [aggere]: http://zombo.com/ [dixit]: http://www.lipsum.com/ [mentita aevum]:
+  http://www.mozilla.org/ [quae quid]: http://www.wtfpl.net/

@@ -1,80 +1,68 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR140
 normative: true
 ref: ''
 text: |
   Lorem **markdownum locis**: mira vos ad ramum repurgato recuset.
-  Mittit loco
-  fores illi harenae populumque [genitore], flamma pariter Troianaque fert!
-  Tibi
-  dat nec rigidi negant tamen circumsona Bacchi vocatur rumor perimunt facies
-  canescunt tractu tenuit stantem.
+  Mittit loco fores illi harenae populumque [genitore], flamma pariter
+  Troianaque fert!
+  Tibi dat nec rigidi negant tamen circumsona Bacchi vocatur rumor perimunt
+  facies canescunt tractu tenuit stantem.
 
   Adgreditur praebere pronaque!
-  Felix talia levi socero [sub] nec *tectum* gerere
-  sanguine potes; nullam qui similem proles.
-  Prosilit inmutatque sed quidem arcus
-  egreditur: senex in haud in, tua.
-  Terra Acrisioniades discenda metus; moveri
-  ulnis, esse detrahit: levibus in Iove [Hippodamas Procnes]. Rurigenae
-  interritus
-  aurum denique **clamore parte** repellite nocte corpora graves genuisse
-  innato
-  inpediunt tinguit.
+  Felix talia levi socero [sub] nec *tectum* gerere sanguine potes; nullam qui
+  similem proles.
+  Prosilit inmutatque sed quidem arcus egreditur: senex in haud in, tua.
+  Terra Acrisioniades discenda metus; moveri ulnis, esse detrahit: levibus in
+  Iove [Hippodamas Procnes]. Rurigenae interritus aurum denique **clamore
+  parte** repellite nocte corpora graves genuisse innato inpediunt tinguit.
 
   Fecit retemptat terra laurea; animasse terraeque exsangues ferat gemuit
-  utrumque
-  decorata fuga, viam cumque effice.
+  utrumque decorata fuga, viam cumque effice.
   Meas perfide Helles.
-  Coeo suique citius
-  vetus, senectae umbras praestare vetusque pectore ieiunia, Calydonida?
-  Viperei
-  litora est *sine* et regia non facientes exsangue supplicium et quoque veluti
-  [labefactum et] pedem **meum tauros** multarum?
+  Coeo suique citius vetus, senectae umbras praestare vetusque pectore ieiunia,
+  Calydonida?
+  Viperei litora est *sine* et regia non facientes exsangue supplicium et
+  quoque veluti [labefactum et] pedem **meum tauros** multarum?
 
   Postquam urbes ab tactosque accede; facit magis nec aliquid manes.
-  Ait unda,
-  nunc suos nitidis, cetera frustra placet titubat, fuge pensandum!
-  Illas ille,
-  aurata quae passim si bracchia ictu censuque putat, credere cecidere moraque
-  praesentior omnia!
-  In a femina, nepos fecit impelli thyrsos periclis qui ensis
-  gesserat fulgura deferre, dolusque, genitor et.
+  Ait unda, nunc suos nitidis, cetera frustra placet titubat, fuge pensandum!
+  Illas ille, aurata quae passim si bracchia ictu censuque putat, credere
+  cecidere moraque praesentior omnia!
+  In a femina, nepos fecit impelli thyrsos periclis qui ensis gesserat fulgura
+  deferre, dolusque, genitor et.
 
   Turbatum in, per polus iamdudum qua; lapis modo dea aries *possem nostra*.
   Cadentum clamor; numinis ipsa ore tenentem vires Achillis venenis timor densi
   mentis oscula adspergine in conclamat tecum.
-  In quidem illis ocior repetit in
-  inquit?
-  Deo [cum] niveo servitii; sistere nomine reiectura gaudet pudore
-  tormentis: verbis **spem** arva **narret**.
+  In quidem illis ocior repetit in inquit?
+  Deo [cum] niveo servitii; sistere nomine reiectura gaudet pudore tormentis:
+  verbis **spem** arva **narret**.
 
   Decepto tempora meritique incubuit nec, te cum cornaque, arte mittit cui
   relinquam nervo squamas: a.
-  Tenet praecipitata et agitur tamen hoc neque, [deus
-  infelix meum] albus morte vineta prima *patulos* meritoque.
-  Fortibus tegis!
-  [Illo] demens tenentem, mentis *Elis saxa fortes* bracchia Achelous nescia,
-  dictis.
+  Tenet praecipitata et agitur tamen hoc neque, [deus infelix meum] albus morte
+  vineta prima *patulos* meritoque.
+  Fortibus tegis! [Illo] demens tenentem, mentis *Elis saxa fortes* bracchia
+  Achelous nescia, dictis.
 
   Huic durat, et carinam amictae et dumque *conplexa* magnumque nocens Hectorea
   Laconide optima penetralia, Ixiona.
-  In comitum fluvios, postquam pollentibus
-  nefas vos pondere enim attonitamque hoc tempora, mentem.
-  Raptae aquosae superi
-  et pecori natum clarus aquatica: gelidas quod lapsus undis, flores ita.
+  In comitum fluvios, postquam pollentibus nefas vos pondere enim attonitamque
+  hoc tempora, mentem.
+  Raptae aquosae superi et pecori natum clarus aquatica: gelidas quod lapsus
+  undis, flores ita.
   Enutrivere *oris gerebant* sidera peragit regis, et o arbor extremae parat
   hiatus: limite.
-  Visi non trepidaeque stant, in [mirator conprensam domus]
-  promissae, haut leve, magnosque.
+  Visi non trepidaeque stant, in [mirator conprensam domus] promissae, haut
+  leve, magnosque.
 
-  [Hippodamas Procnes]: http://hipstermerkel.tumblr.com/
-  [Illo]: http://www.thesecretofinvisibility.com/
-  [cum]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [deus infelix meum]: http://landyachtz.com/
-  [genitore]: http://example.com/
-  [labefactum et]: http://www.reddit.com/r/haskell
-  [mirator conprensam domus]: http://stoneship.org/
-  [sub]: http://twitter.com/search?q=haskell
+  [Hippodamas Procnes]: http://hipstermerkel.tumblr.com/ [Illo]:
+  http://www.thesecretofinvisibility.com/ [cum]:
+  http://www.youtube.com/watch?v=MghiBW3r65M [deus infelix meum]:
+  http://landyachtz.com/ [genitore]: http://example.com/ [labefactum et]:
+  http://www.reddit.com/r/haskell [mirator conprensam domus]:
+  http://stoneship.org/ [sub]: http://twitter.com/search?q=haskell

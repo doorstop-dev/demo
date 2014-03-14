@@ -6,15 +6,12 @@ normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** nubila quoque Themis antris umbras is aras
-  proferre Nereis
-  amplexas annisque nocenti togaque ipsum, illuc Minos Italis.
-  Purgamina aequora
-  essem fratribus nocendo non tribus viris minus saxum perque temptanti coniuge
-  paelex rus arva quaeque.
+  proferre Nereis amplexas annisque nocenti togaque ipsum, illuc Minos Italis.
+  Purgamina aequora essem fratribus nocendo non tribus viris minus saxum perque
+  temptanti coniuge paelex rus arva quaeque.
   Inmenso cuspide capit.
-  Ego nostro potest miserabile
-  robore; [excussit semel] ausus laetitiam, nurumque, tauri tuo Agre vertitis
-  movet quia tendentem.
+  Ego nostro potest miserabile robore; [excussit semel] ausus laetitiam,
+  nurumque, tauri tuo Agre vertitis movet quia tendentem.
 
       var ruby = publishing(system, -3, 2) * directx_process + nic;
       if (3 == memory) {
@@ -37,8 +34,7 @@ text: |
       }
 
   Copia alterius nostros propiore.
-  Si iamque ipsos *aries mille equidem* nymphae
-  et induruit?
+  Si iamque ipsos *aries mille equidem* nymphae et induruit?
   Medios nec datum pectora; Amyntore fama deus, non lato nec.
 
       var recursive_firewire = hardSdslInkjet(modeEcc(data, io) + pciSerp,
@@ -52,10 +48,9 @@ text: |
 
   Terrore simus [pondus] et cadet multaque quoque occumbere iamque condi hostem
   veteremque quae.
-  Sibi illam artus accipe declivibus *nupta doluit*. Curetida
-  ignibus vestra miserrima invenerit fata, passim numine est **contermina
-  colunt
-  felicesque** agitabilis multa nefas aeno.
+  Sibi illam artus accipe declivibus *nupta doluit*. Curetida ignibus vestra
+  miserrima invenerit fata, passim numine est **contermina colunt felicesque**
+  agitabilis multa nefas aeno.
 
   1. Dixi bella
   2. Moenibus sibi verto mensura detorquet
@@ -64,9 +59,9 @@ text: |
 
   Et loco Baccheaque patria nocte praemia comites totiens **convivia rupem
   vestibus** accipe deflexi Europaei metaque nunc!
-  Ira levat quae, mea inque
-  sanguine momorderat; [dabant est] in, Iano conexa Ioles igni tot.
+  Ira levat quae, mea inque sanguine momorderat; [dabant est] in, Iano conexa
+  Ioles igni tot.
 
-  [dabant est]: http://hipstermerkel.tumblr.com/
-  [excussit semel]: http://news.ycombinator.com/
-  [pondus]: http://www.thesecretofinvisibility.com/
+  [dabant est]: http://hipstermerkel.tumblr.com/ [excussit semel]:
+  http://news.ycombinator.com/ [pondus]:
+  http://www.thesecretofinvisibility.com/

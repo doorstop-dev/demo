@@ -1,20 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR074
+- LLR179
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum me multum, vacantem quem, viae incursu te.
-  Sive manus, sit
-  certe fraudare pastor cuius ferunt animalia corpora est quercus spatium,
-  summum
-  iram.
-  Canis *putat acta* quaerunt **regia**. Hoc *digiti* late est signataque
-  atque munere fausto *fecerat puero* occumbere annis ille spumantia. **Sub**
+  Sive manus, sit certe fraudare pastor cuius ferunt animalia corpora est
+  quercus spatium, summum iram.
+  Canis *putat acta* quaerunt **regia**. Hoc *digiti* late est signataque atque
+  munere fausto *fecerat puero* occumbere annis ille spumantia. **Sub**
   plangorem horrentia videt *iam ille tum* equos lapidosos repulsa nudos
-  documenta
-  aquarum, duas aerias, amicas?
+  documenta aquarum, duas aerias, amicas?
 
   1. Repetam ventos
   2. Iunctae inculpata semimari iacet de malas
@@ -24,9 +23,8 @@ text: |
   6. Illa tamen Danais rex medio
 
   Genu vicit bos matre dentibus quoque?
-  Auras cum cortex montis, **medium** presso
-  altoque umquam et nodum iactant exsternata undae, nobiscum muneraque quondam,
-  hanc.
+  Auras cum cortex montis, **medium** presso altoque umquam et nodum iactant
+  exsternata undae, nobiscum muneraque quondam, hanc.
   Dantque dedi levis artus: cum et vultus lacertis domus in ungulaque signa!
   Spes illo noctis?
   Possunt caelestia dolor in illic; iuncisque Palladios.
@@ -42,8 +40,7 @@ text: |
   Lumina est licet vestigia erigitur arva.
   Totas anilem.
   Turris [tulit]: teque fluit, me avem conscendit satae contraria.
-  Et Caeneus
-  illis.
+  Et Caeneus illis.
 
   1. Facit crinita
   2. Infecit amores
@@ -52,8 +49,7 @@ text: |
   5. Ignes placitas recessu
 
   Crevit tibi duras, metu mitior, rapto scopuloque aversus pavefacta quique,
-  edita
-  Quid est!
+  edita Quid est!
   Cum tamen sustinet leni suis nulla.
 
   [tulit]: http://www.metafilter.com/

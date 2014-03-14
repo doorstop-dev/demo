@@ -1,17 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR027
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum maeonis accersite saxis, tenebrosa sumpsisse dentes
-  viscera
-  attollit pater certus, in si [perque]. Favilla fata Iovi ora!
-  Iuppiter mentesque
-  in facies cubile ab nam pectoraque Tridentifer senectae.
-  In virus, ille imbres
-  fretum, Methymnaeae teste pudori.
+  viscera attollit pater certus, in si [perque]. Favilla fata Iovi ora!
+  Iuppiter mentesque in facies cubile ab nam pectoraque Tridentifer senectae.
+  In virus, ille imbres fretum, Methymnaeae teste pudori.
 
   - Agrestis inmisitque longe nate lacerat
   - Mei fert
@@ -24,30 +22,25 @@ text: |
   Magna iunctura!
 
   Parentes colat, et invidia quis tutela, [ut nihil]. Loci altum Labros,
-  summis,
-  cuspide, te voce Bacchus cui exanimi meminere obsequio dextra.
+  summis, cuspide, te voce Bacchus cui exanimi meminere obsequio dextra.
 
   Fecit **est** vocibus coniuge, **sic ardua certe** copia praedone iuvenem
   Phrygii si fortuna ignaram plebe dispar cum ambae ferreus. [Undis] talibus,
   Paridis Leucothoen loco testarique flammis, est vera Riphea fueram, causa!
-  Erat
-  ea lecto, non et [decidit] perpetuo Amore valuit.
+  Erat ea lecto, non et [decidit] perpetuo Amore valuit.
 
   Erectheus luxuriant exhalantem, inposuit qui cunctae demittit gentis honorati
   succedit antro ruit deae petitur est.
-  Quo illum qui solebat omnes quod,
-  placabilis magni at novit!
+  Quo illum qui solebat omnes quod, placabilis magni at novit!
 
   Dare est **licet orantem** manet.
   Furor ab barbae et hoc carmen equorum tellus!
   Eoo ira, pendentibus quae spectansque quam [quoque crescere medii] iuranda.
 
   Inplent Phoebes in tantum homine.
-  Hoc quoque cornua communia: rite iam, pollice
-  carina, videre sic tibi!
+  Hoc quoque cornua communia: rite iam, pollice carina, videre sic tibi!
 
-  [Undis]: http://eelslap.com/
-  [decidit]: http://html9responsiveboilerstrapjs.com/
-  [perque]: http://www.raynelongboards.com/
-  [quoque crescere medii]: http://seenly.com/
+  [Undis]: http://eelslap.com/ [decidit]:
+  http://html9responsiveboilerstrapjs.com/ [perque]:
+  http://www.raynelongboards.com/ [quoque crescere medii]: http://seenly.com/
   [ut nihil]: http://gifctrl.com/

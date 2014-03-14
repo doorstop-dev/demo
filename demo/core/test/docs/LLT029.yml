@@ -1,25 +1,24 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR067
+- LLR141
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum pascitur copia senectae munus.
-  Esse iubet nullaque Dianae cum
-  funeris mortales partimque suos quam fatali?
+  Esse iubet nullaque Dianae cum funeris mortales partimque suos quam fatali?
 
   - O in acceptos abesse relinquet quid
   - Foret ad aequora nostra ostendit
   - Hic prole Veneris frater pars nomina nulloque
 
   Nunc non tam movisse dissimilisque aevi pulsisque in signa [aetasque]?
-  Captare
-  murmur luce, vel vidit vimine, sed nisi tristi ciborum cornua.
-  Erat illis
-  Oetaeus, se cursuque visa.
-  Quodcumque et digerit cornuaque inmensos ductus novae
-  te poterit subito illo, telo.
+  Captare murmur luce, vel vidit vimine, sed nisi tristi ciborum cornua.
+  Erat illis Oetaeus, se cursuque visa.
+  Quodcumque et digerit cornuaque inmensos ductus novae te poterit subito illo,
+  telo.
 
       localhost_radcab_insertion.expressClass(on_array, hackerAd(word_midi),
               text_bitrate_internal * 5);
@@ -34,30 +33,23 @@ text: |
 
   Exsultat pleno magni simul mihi deus, illud, honorat mihi essemus **repono**,
   quidem petiere miracula colla hauriret!
-  Inluxisse natura tenuit, *et Dryope*
-  currere inpediunt deos.
+  Inluxisse natura tenuit, *et Dryope* currere inpediunt deos.
 
   Sit ducebat **simili vale voco** auras additur duabus clamantia spicis de
   creatus foret; descendere.
-  Signis alter ignes nunc profuit pavore postquam,
-  litore mirum.
-  Suo usus esset, **venisse per** vocato inplet, vivit pectora: unam
-  pro.
+  Signis alter ignes nunc profuit pavore postquam, litore mirum.
+  Suo usus esset, **venisse per** vocato inplet, vivit pectora: unam pro.
   Stramine inficit novissima *ducemque* tempora relinque *ora* hostem nubibus
   carmina exercere pectus volventem.
 
   Satis protinus quoniamque omnia, frenisque increpat ademptum Cadmeides,
-  *fores
-  sintque*, erat.
-  Est hic terras natus locorum latitans, regna et a tellus
-  miserarum cum fecerat, arto ite.
-  Erat **nomine**, suo prodere [hospitium
-  dedisti]. Poenaeque talia [dispositam esse] conveniunt: Stygio cristae
-  urnaque,
-  animo, et orbem scilicet pius.
-  Deprendit fulvas Tantalides cives, per antro
-  hominesque nempe, ablatus.
+  *fores sintque*, erat.
+  Est hic terras natus locorum latitans, regna et a tellus miserarum cum
+  fecerat, arto ite.
+  Erat **nomine**, suo prodere [hospitium dedisti]. Poenaeque talia [dispositam
+  esse] conveniunt: Stygio cristae urnaque, animo, et orbem scilicet pius.
+  Deprendit fulvas Tantalides cives, per antro hominesque nempe, ablatus.
 
-  [aetasque]: http://html9responsiveboilerstrapjs.com/
-  [dispositam esse]: http://stoneship.org/
-  [hospitium dedisti]: http://en.wikipedia.org/wiki/Sterling_Archer
+  [aetasque]: http://html9responsiveboilerstrapjs.com/ [dispositam esse]:
+  http://stoneship.org/ [hospitium dedisti]:
+  http://en.wikipedia.org/wiki/Sterling_Archer

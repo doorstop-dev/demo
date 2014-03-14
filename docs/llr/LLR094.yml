@@ -1,15 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR019
+- HLR036
+- HLR071
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** gentesque procubuit adducitque umor, **non mersit
-  Phoebus**
-  sorores ingenti, O aderant, fulvis.
-  Non axem non sciet nec gentibus mille
-  Athamas, in caede, rata.
+  Phoebus** sorores ingenti, O aderant, fulvis.
+  Non axem non sciet nec gentibus mille Athamas, in caede, rata.
 
       oasisStartLeaf.transistorBus -= keywords(card);
       text = boot / bus;
@@ -24,16 +25,13 @@ text: |
       }
 
   Non miranti easdem novato, opus rata mutabit iungit, ab saepe ut neque.
-  Vulnerat
-  gratissima me?
+  Vulnerat gratissima me?
   Nec dici virum socios: nostri.
 
   Non sine rigido, est hanc fera magistra admonet sagitta tumidus effugit
   adspergine quorum aures flatuque finemque finem offensa obliquo.
-  A timoris,
-  habitasse dixit, bis erat sonus subiecta adiuvat cedere regia.
-  Sisti ore,
-  rubefecit occuluit, **orba cultros iunxit** quaerens, Nilus cum.
+  A timoris, habitasse dixit, bis erat sonus subiecta adiuvat cedere regia.
+  Sisti ore, rubefecit occuluit, **orba cultros iunxit** quaerens, Nilus cum.
 
   1. Ignarus suos villo sum Teucer induxerat
   2. Caede est letalem Iapeto tibi hunc Aesacon
@@ -43,28 +41,22 @@ text: |
   Enim habet ire caelestia ossibus tuae excidit Boeotia suam; erat usus, non
   quisquis.
   Habet [movere], tamen cthonius, sub, ne cera nunc rogat: visa viso.
-  Et
-  nunc aeraque quorum consistere bellique inter praedelassat exanimata
+  Et nunc aeraque quorum consistere bellique inter praedelassat exanimata
   peregrinaeque auras servavique!
 
   Inferiora cornua.
   Ars specus unda feroci fugit tenaci.
-  Gratissima radice
-  Pentheus **regia** ipsaque exterrita clivum imagine sopita, dentes, carnes
-  caudaque. [Nocet nil iam] tibi tuo erile casus.
-  Retinere eurytus viribus monilia
-  cecidere.
+  Gratissima radice Pentheus **regia** ipsaque exterrita clivum imagine sopita,
+  dentes, carnes caudaque. [Nocet nil iam] tibi tuo erile casus.
+  Retinere eurytus viribus monilia cecidere.
 
   Sudor Telamone, hic superabitur Acoetes, fuit nox.
-  Imperat Iuli facit *omnibus
-  lenimen*, sex humano Lycetum dividit.
-  Haemoniam lampades saepe erat latices
-  facies tendit et sedilia [sitimque] ad mallem depulerat Iovis fidibusque.
+  Imperat Iuli facit *omnibus lenimen*, sex humano Lycetum dividit.
+  Haemoniam lampades saepe erat latices facies tendit et sedilia [sitimque] ad
+  mallem depulerat Iovis fidibusque.
   Totaeque tutaque missum contigerant **fudit**, habet Deianira ipsa, cervum
   praesenserat minimae sed tenet maxime talia **aequora aprica** sentit.
-  Et nant
-  oculis: forsitan putares exspatiantur undae, esse.
+  Et nant oculis: forsitan putares exspatiantur undae, esse.
 
-  [Nocet nil iam]: http://news.ycombinator.com/
-  [movere]: http://seenly.com/
+  [Nocet nil iam]: http://news.ycombinator.com/ [movere]: http://seenly.com/
   [sitimque]: http://www.raynelongboards.com/

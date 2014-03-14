@@ -1,17 +1,18 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR061
+- HLR086
+- HLR098
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** quamvis.
-  Per sonabat ait vestibus nervi rescindere ferro
-  lacrimis iuga timui fatentem, ore rapta viscera cui sicut, liquida.
-  Est media
-  est volucris, monebat, peto verba solacia: sagitta edidit ad, *haec
-  tenebris*;
-  in fit.
+  Per sonabat ait vestibus nervi rescindere ferro lacrimis iuga timui fatentem,
+  ore rapta viscera cui sicut, liquida.
+  Est media est volucris, monebat, peto verba solacia: sagitta edidit ad, *haec
+  tenebris*; in fit.
 
       if (toolbar_mpeg_samba != asp) {
           dosResolution(overclockingDitheringSwitch);
@@ -41,12 +42,10 @@ text: |
 
   Nec **erit**; sic, retractant armos mentis, nivea te additus odoratis taurum
   iniustaque greges evolvit in relinqui!
-  Vincar quam tunc natorum habet quae
-  intrat lyra pericli patent Troiana laudem **freta**. In obsita cruorem
-  parentum
-  infra formatus an ad in nubes.
-  Quoque te **in Aeson** in manu; continet verbere
-  concipit Dignane spemque quinquennia.
+  Vincar quam tunc natorum habet quae intrat lyra pericli patent Troiana laudem
+  **freta**. In obsita cruorem parentum infra formatus an ad in nubes.
+  Quoque te **in Aeson** in manu; continet verbere concipit Dignane spemque
+  quinquennia.
   Terga quoque, squalidus isque.
 
   1. Auro est a et non naves Piscibus
@@ -62,9 +61,8 @@ text: |
   Minos Pittheus Hippalmon nomine urbem iaces corpora [soporem] ipsaque
   pudorem.
   Poscit et a **melius famulos** locutum heres acceptissimus forma ex dant
-  nomina
-  divum; oculi.
+  nomina divum; oculi.
   Mente **posito**, tam oneri et tuus concretaque qua susurro esse.
 
-  [coniunx Helenus nefanda]: http://twitter.com/search?q=haskell
-  [soporem]: http://www.uselessaccount.com/
+  [coniunx Helenus nefanda]: http://twitter.com/search?q=haskell [soporem]:
+  http://www.uselessaccount.com/

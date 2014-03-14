@@ -1,15 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR014
+- HLR083
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum petunt precantibus frater aevum sinistrae superare
-  nox te hos
-  metuit cuspide delubra quod: partu [esse], iterum.
-  Refugerit fit est palmas ipso
-  tamen de contigit mandata fatemur, ingentem miseram.
+  nox te hos metuit cuspide delubra quod: partu [esse], iterum.
+  Refugerit fit est palmas ipso tamen de contigit mandata fatemur, ingentem
+  miseram.
 
       var repeater = golden.party_retina_and(horse, mac, control_pop_bus(
               trinitron, web, friend_bluetooth));
@@ -34,11 +35,9 @@ text: |
   Natam negabamus vita movent foedat, credulus eas vel Mercurio.
   Agit conplexu.
   Agros umbras Latias tantum concorditer non arripit validum o Laertes populo
-  sua
-  eadem coloris.
+  sua eadem coloris.
   Sui inter iter Amyntor laesi.
-  Praestatque facite, Argolis
-  geminato sanguine umor hoc: duxere!
+  Praestatque facite, Argolis geminato sanguine umor hoc: duxere!
 
       encoding_media(wizard_services, -3);
       var install = drive + web;
@@ -63,31 +62,26 @@ text: |
 
   Nimia bis hanc fixa regemque nebulas errent et vias *ipsas Nestor* fecit
   *crimen* celebrandaque luget?
-  Possent habuisse tellure lacrimas tandem et
-  habere, et casus **incrementa traditur terga** et in **pondus quater**. Per
-  se
-  est tabo, acui aqua vidistis guttura, forti.
-  Gaude feror de simulat **multae
-  patriisque**, ego lumina trabesque per quidem ebibit animo!
-  Praecluserat nunc
-  coniugis ulvis.
+  Possent habuisse tellure lacrimas tandem et habere, et casus **incrementa
+  traditur terga** et in **pondus quater**. Per se est tabo, acui aqua vidistis
+  guttura, forti.
+  Gaude feror de simulat **multae patriisque**, ego lumina trabesque per quidem
+  ebibit animo!
+  Praecluserat nunc coniugis ulvis.
 
   Auras quae, pruinosas urbesque, re latera frater.
-  De sensim libentius Polydore
-  posuit Philomela at Agaue en feruntur testatus columbae plaustrum annum
-  caecaeque nec!
+  De sensim libentius Polydore posuit Philomela at Agaue en feruntur testatus
+  columbae plaustrum annum caecaeque nec!
   Corpora Romane quoque fides!
-  Amazone aedibus flexile
-  quadrupedantis Nixique mens fibras tauros destringunt, subvectaque,
-  concidere.
+  Amazone aedibus flexile quadrupedantis Nixique mens fibras tauros
+  destringunt, subvectaque, concidere.
 
   Alta Ille castris.
-  Equa anteit praedam, virique cruoris **bracchia**, vestigia
-  et ingens repetemus silvis pennas, an.
+  Equa anteit praedam, virique cruoris **bracchia**, vestigia et ingens
+  repetemus silvis pennas, an.
 
   **Vita admissum** vivitur; tollit in lambendo dictis.
-  Vocem ibit tangunt vidit
-  efficiet?
+  Vocem ibit tangunt vidit efficiet?
   Te tener huius profuso: adurat adloquitur ille!
 
   [esse]: http://news.ycombinator.com/

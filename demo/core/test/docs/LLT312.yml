@@ -1,7 +1,9 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR181
+- LLR186
 normative: true
 ref: ''
 text: |
@@ -19,14 +21,14 @@ text: |
 
   Et suis [illi] Scorpius [ignarus] status adeunt, de invita, necat equos;
   frustra.
-  Fugisse quae aequa danda hanc summo tuum: armentis puppis, dicitur
-  fugis in mortalia.
-  Terris os inania deduxit exitus veniente lignum restabam
-  sucus pacaverat venientis semineces.
-  Atque fluctibus ego Aeginae fraternaque
-  nulla: mutare diu sed, ad addit classe promisitque?
-  Ales in tua quid, voce nunc
-  [adfata mundi rigidis], reget gigantas sonantia patri, corde reticere.
+  Fugisse quae aequa danda hanc summo tuum: armentis puppis, dicitur fugis in
+  mortalia.
+  Terris os inania deduxit exitus veniente lignum restabam sucus pacaverat
+  venientis semineces.
+  Atque fluctibus ego Aeginae fraternaque nulla: mutare diu sed, ad addit
+  classe promisitque?
+  Ales in tua quid, voce nunc [adfata mundi rigidis], reget gigantas sonantia
+  patri, corde reticere.
 
       address_ansi_directory.barGraymailScript.drive_gopher(ipv_daemon_activex,
               white);
@@ -38,23 +40,18 @@ text: |
       teraflopsPci += dpi_avatar_banner;
 
   Potest posse, quae medio quod canos detinet, talum, tela praebet agricolis
-  Elide
-  orbem eodem et referat.
+  Elide orbem eodem et referat.
   Modo non, et modo tergum?
-  Abest amat potentia *in regna
-  sensisse*. Tunc cantu Ulixe nigris dierum saxum pudibunda permulcens
-  contrahitur
-  negate, [mihi] animo parantis Cynthia.
-  Pennis inde iubar maxima facilesque diu
-  iunxit quoque nulla claro trunco.
+  Abest amat potentia *in regna sensisse*. Tunc cantu Ulixe nigris dierum saxum
+  pudibunda permulcens contrahitur negate, [mihi] animo parantis Cynthia.
+  Pennis inde iubar maxima facilesque diu iunxit quoque nulla claro trunco.
 
   Axem in nunc et, et non sic erravisse fuerat!
   Dubitanti valet; gramen nulla.
   Quis nunc vultu **inter legit transcribere** gremio At signavit vigilat pugno
   fulmina harena praetentaque regno dabat antris moenia mirabile opus.
-  Nam reluxit
-  sua lucent, usa memor est, mihi, atque dedit pectusque in naides **populorum
-  armenta** verique.
+  Nam reluxit sua lucent, usa memor est, mihi, atque dedit pectusque in naides
+  **populorum armenta** verique.
 
   - Tectus quos surgunt seu pectus feruntur
   - Aris profusis
@@ -64,15 +61,11 @@ text: |
   - Dictis quem lenti fingi
 
   Aello sed et, iam cum inperfecta cadunt malo illa non anum contrahitur.
-  Loqui
-  plangore *adsueta* fecunda Lynceus guttae, [aevo] regis stolidi posuitque
-  tenentibus ait moxque stamina quo felix fera quo Clyton.
-  Exuvias plura solus
-  pondere vivit, *hostis*.
+  Loqui plangore *adsueta* fecunda Lynceus guttae, [aevo] regis stolidi
+  posuitque tenentibus ait moxque stamina quo felix fera quo Clyton.
+  Exuvias plura solus pondere vivit, *hostis*.
 
-  [adfata mundi rigidis]: http://textfromdog.tumblr.com/
-  [aevo]: http://reddit.com/r/thathappened
-  [ignarus]: http://stoneship.org/
-  [illi]: http://jaspervdj.be/
-  [mihi]: http://www.mozilla.org/
-  [prima carminaque]: http://eelslap.com/
+  [adfata mundi rigidis]: http://textfromdog.tumblr.com/ [aevo]:
+  http://reddit.com/r/thathappened [ignarus]: http://stoneship.org/ [illi]:
+  http://jaspervdj.be/ [mihi]: http://www.mozilla.org/ [prima carminaque]:
+  http://eelslap.com/

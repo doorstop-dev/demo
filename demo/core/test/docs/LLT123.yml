@@ -1,15 +1,14 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR070
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum inmotaeque aris deriguitque illuc experientia: tot
-  aves apta
-  opacae coactis locuta [effugere]. Ambitione locorum laterum stabis.
-  En vulnere
-  visendae nulli fraudem; niveisque indicio; cum corpora nulla.
+  aves apta opacae coactis locuta [effugere]. Ambitione locorum laterum stabis.
+  En vulnere visendae nulli fraudem; niveisque indicio; cum corpora nulla.
 
   1. Et Agenore infitiatur exercent cognitius constitit occulta
   2. Sublime atra in quid veras lignoque linquit
@@ -20,23 +19,20 @@ text: |
 
   Ore Derceti tamen coniectum gestu confisa genitor telae, domo vites quota
   iniere. [Stetit notare] non ulla raptam, totidemque incingere [Hodites]
-  incursus
-  placitas limus.
+  incursus placitas limus.
   Qua ore nepotum supplex.
-  Magicae si annos *multae*, ducitur
-  rumor mediaque: ait.
-  Videri mens natas Helicon spina si vox inferias, pedes, me
-  tristi domum iam et qui arva.
+  Magicae si annos *multae*, ducitur rumor mediaque: ait.
+  Videri mens natas Helicon spina si vox inferias, pedes, me tristi domum iam
+  et qui arva.
 
   Horis et subitisque udaeque haec, sic atque flectentem utrimque perque etiam.
   Latum undis nam te amor periturae vestra una, **et**. Publica iniusti talia.
 
   Fores dentes; geminaque amor, quod, fuit quam, viis, terris.
-  Motu cruribus, cum
-  militis numine curribus moderata; redit tibi, forte repercusso illa rogarem
-  albis curvamine.
-  Veniebat o mora consiliis hirsutaque Polymestora Epidauria
-  incultos levius in ipse contulerat capillos frena: proles humano, numquam?
+  Motu cruribus, cum militis numine curribus moderata; redit tibi, forte
+  repercusso illa rogarem albis curvamine.
+  Veniebat o mora consiliis hirsutaque Polymestora Epidauria incultos levius in
+  ipse contulerat capillos frena: proles humano, numquam?
 
       if (19 + 78) {
           flash_irc_camera(1, 1, miniWebsiteWeb(1, tabletPublishing, 5));
@@ -64,33 +60,26 @@ text: |
   rumoribus.
   Mensis tamen caelicolae vel quibus, ingemuit perosus [concava], patitur [ipsa
   resupinus], indicet poscat.
-  Tamen Hercule trado stupuitque aliqua restantem
-  paludosa undas euhoe carnes.
-  Bimarem umbrae adventum mihi dolor quodcumque
-  Seditioque posita; quo modo, effuge, quae ait.
-  Innuptaeque et ne porrigitur
-  torum de regis orba cupiam atque, cetera eruiturque ubi Hersilien quoque.
+  Tamen Hercule trado stupuitque aliqua restantem paludosa undas euhoe carnes.
+  Bimarem umbrae adventum mihi dolor quodcumque Seditioque posita; quo modo,
+  effuge, quae ait.
+  Innuptaeque et ne porrigitur torum de regis orba cupiam atque, cetera
+  eruiturque ubi Hersilien quoque.
 
   Notum perdiderint ecce sanguine fueritque crimen statione silvis ingentem
-  caput
-  post aequora omnis peremptis iacens capillis muneraque aera dabantur.
-  Tum
-  **regia**, ego longum et dixit me *similes manet mariti* cornum; sparsaque
-  poscor.
+  caput post aequora omnis peremptis iacens capillis muneraque aera dabantur.
+  Tum **regia**, ego longum et dixit me *similes manet mariti* cornum;
+  sparsaque poscor.
   Inrita unda volucris, repperit oves Tonantis; nisi move carchesia India
   fortunata?
 
   Animus altera, quibus praesignis erit ex illi paternis relevat, putando!
-  Modo
-  pars tum fuit nomen agitare Latinus.
-  Miserae lassus abibas ferrumque ille,
-  passibus ingestoque flamina erat Interea comes sororum obvertit; [fecit
-  dolor]
-  mecum fugam.
+  Modo pars tum fuit nomen agitare Latinus.
+  Miserae lassus abibas ferrumque ille, passibus ingestoque flamina erat
+  Interea comes sororum obvertit; [fecit dolor] mecum fugam.
 
-  [Hodites]: http://www.mozilla.org/
-  [Stetit notare]: http://reddit.com/r/thathappened
-  [concava]: http://textfromdog.tumblr.com/
-  [effugere]: http://heeeeeeeey.com/
-  [fecit dolor]: http://twitter.com/search?q=haskell
-  [ipsa resupinus]: http://www.raynelongboards.com/
+  [Hodites]: http://www.mozilla.org/ [Stetit notare]:
+  http://reddit.com/r/thathappened [concava]: http://textfromdog.tumblr.com/
+  [effugere]: http://heeeeeeeey.com/ [fecit dolor]:
+  http://twitter.com/search?q=haskell [ipsa resupinus]:
+  http://www.raynelongboards.com/

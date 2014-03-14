@@ -1,16 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR036
+- HLR088
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum iubet.
-  Laudatve **suae** protectum umbram, tibi qui dant
-  opprimere inquit *teneris*, aequo.
-  Quas favore an potentum ululatibus pharetrae
-  proles concordant pondus, haec quam unum folio pelagoque, colore hic maduisse
-  grates.
+  Laudatve **suae** protectum umbram, tibi qui dant opprimere inquit *teneris*,
+  aequo.
+  Quas favore an potentum ululatibus pharetrae proles concordant pondus, haec
+  quam unum folio pelagoque, colore hic maduisse grates.
 
   - Hymenaee sed tereti ultricibus velantque
   - Tune puero foret idem vidit soceri matrem
@@ -19,15 +20,15 @@ text: |
 
   Mille cantu.
   Amores et capiti, quaesitus cruore haberet.
-  Ille dei Medusaei
-  mansit lacrimis Ceres nullos **Agamemnona prece offensa** ditia.
+  Ille dei Medusaei mansit lacrimis Ceres nullos **Agamemnona prece offensa**
+  ditia.
 
   Quem orbem illis ulla et **modo dabat pumice** ut [circumfusa] Orionis haud,
   artes.
   Et undas dextraque intumuit angues invia proles, se tremulo nondum dea
   auferat!
-  Harenam tum **causam mergum**; in ferunt in rictu oscula [corpore].
-  **Ad suum** quam inprobe vos stipulae multo.
+  Harenam tum **causam mergum**; in ferunt in rictu oscula [corpore]. **Ad
+  suum** quam inprobe vos stipulae multo.
 
       extensionUdp -= export - burnReal - configuration;
       var wired_domain_lossy = cell_ipad;
@@ -35,9 +36,8 @@ text: |
 
   Currus Hyllus palmiferos luctatur iunctis huc: hi sub, ad unco subito domus.
   Regia tangentiaque: [carpit] studiosior tibi, est seque recanduit.
-  Auguror
-  nostri curvarent nexuque mutatus epulis sit obsita carmine miles oculos,
-  cupit!
+  Auguror nostri curvarent nexuque mutatus epulis sit obsita carmine miles
+  oculos, cupit!
 
   1. Pontus nunc Marmaridae quam dixi ignibus
   2. Illum ratis cute iuvencae Veneris regnat sermone
@@ -46,9 +46,8 @@ text: |
   5. Est ulla exul vipereos
 
   Manus exhortatur, quotiensque est qui: secernit rura.
-  In quam qui multaque, equi
-  arma terrae voce scelus austri per dato non servata nefas.
+  In quam qui multaque, equi arma terrae voce scelus austri per dato non
+  servata nefas.
 
-  [carpit]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [circumfusa]: http://heeeeeeeey.com/
-  [corpore]: http://www.billmays.net/
+  [carpit]: http://en.wikipedia.org/wiki/Sterling_Archer [circumfusa]:
+  http://heeeeeeeey.com/ [corpore]: http://www.billmays.net/

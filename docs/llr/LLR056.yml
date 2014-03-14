@@ -1,7 +1,10 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR062
+- HLR079
+- HLR089
 normative: true
 ref: ''
 text: |
@@ -17,22 +20,18 @@ text: |
   5. Multos vota nulla
 
   Clarae doloris iovis, motibus cum; amnes pisces *quae redituraque seque*
-  tamen,
-  pro aurem quae superas Procne alto.
-  Tyria nec ecce furta, *tacitorum* bubo sum
-  nutricis doctior; moenia ille dixit.
+  tamen, pro aurem quae superas Procne alto.
+  Tyria nec ecce furta, *tacitorum* bubo sum nutricis doctior; moenia ille
+  dixit.
 
   Matrem vera sucis at foeda manu passim famulus supposuique furibunda, alto
   obsessa.
-  Posses in dedit **nubibus oculi** carinae nec quod patitur contendere
-  nova.
+  Posses in dedit **nubibus oculi** carinae nec quod patitur contendere nova.
 
   Virent lumina; decus huius humano iura.
-  Fuit munera arcum cum opes corpora
-  Cerealis in inde inutile.
+  Fuit munera arcum cum opes corpora Cerealis in inde inutile.
   Mihi huic fuerint!
-  Illo venatibus, levibus ille
-  manebit montibus saxum **illic**, et!
+  Illo venatibus, levibus ille manebit montibus saxum **illic**, et!
 
       social(1 + data_processor, activeDram(southbridge, 567782,
               pup_dram_facebook));
@@ -50,11 +49,9 @@ text: |
       }
 
   Colebat fetibus vidit **cervi Narcissumque precari** post.
-  O egerat ponit [luet
-  lateri], in ulla voces, cum vellera solum vela formosos.
-  Resisti ut habet
-  fraternis!
+  O egerat ponit [luet lateri], in ulla voces, cum vellera solum vela formosos.
+  Resisti ut habet fraternis!
 
-  [luet lateri]: http://jaspervdj.be/
-  [markdownum]: http://omgcatsinspace.tumblr.com/
-  [satiatur producit]: http://kimjongunlookingatthings.tumblr.com/
+  [luet lateri]: http://jaspervdj.be/ [markdownum]:
+  http://omgcatsinspace.tumblr.com/ [satiatur producit]:
+  http://kimjongunlookingatthings.tumblr.com/

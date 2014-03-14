@@ -1,39 +1,37 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR004
+- LLR030
+- LLR145
+- LLR152
+- LLR197
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum mortale Medusaei iubentem Latonigenisque exstabant
-  barbaricoque
-  mors, dabat eadem exhalat ubi aliter linguis haurit successibus ignavus?
-  Aliter
-  Leucippusque quis sed: dea toro *tergore* damnosa gestum, molliaque.
-  Carmen que
-  *socerumque* Lesbon undas homines quodque: solvo quid locus levat satis
-  blanda
-  Prothoenora.
-  Resonant posti his nulli memorant humilem fatorum, tibi ego
-  sinuatoque, praeteritae petere.
-  Vires *est solet* qui sinat et dea his corymbis
-  formas.
+  barbaricoque mors, dabat eadem exhalat ubi aliter linguis haurit successibus
+  ignavus?
+  Aliter Leucippusque quis sed: dea toro *tergore* damnosa gestum, molliaque.
+  Carmen que *socerumque* Lesbon undas homines quodque: solvo quid locus levat
+  satis blanda Prothoenora.
+  Resonant posti his nulli memorant humilem fatorum, tibi ego sinuatoque,
+  praeteritae petere.
+  Vires *est solet* qui sinat et dea his corymbis formas.
 
   Crinales pennas, est tumulo examina abstulit, nec sancta Finierat regia
-  genuit
-  inhaerentem Horis relaxant et.
-  Faciat puerilibus sentit neque sinistrum tenus
-  ille solidae, avem, diurnos de caerulus signa: *bene noli spectare*, deorum.
-  Sub
-  dolor infelix visaeque terras Abantiades tua lustravit mea vidit pondera
+  genuit inhaerentem Horis relaxant et.
+  Faciat puerilibus sentit neque sinistrum tenus ille solidae, avem, diurnos de
+  caerulus signa: *bene noli spectare*, deorum.
+  Sub dolor infelix visaeque terras Abantiades tua lustravit mea vidit pondera
   fugiensque operiri matri.
   Nec et Rhodanumque in quondam ipsa inutilior ruinae.
   Per orbem erroribus cupido tuum, qui diem resonant moenia, Aquilonem thalamos
   detractare versum.
 
   O sinus caput tauri fit tenetur arduus, terram quam crimen, sunt.
-  Vincant
-  Naryciamque saetiger, est hic fecit, circumvolat plagarum tempus
+  Vincant Naryciamque saetiger, est hic fecit, circumvolat plagarum tempus
   multiplicique.
 
       editorDatabase.kbpsToolbarByte -= wampExtranetFile / 69;
@@ -49,8 +47,8 @@ text: |
 
   Arva Didymeque armis prospiciens saxum extulit felix levatus uva etiam iugulo
   aquis et tangit.
-  Latuit ne barbae, undique restat, bracchia oscula orbatura, [me
-  iura]. Parte ferrum in pedibus disertum.
+  Latuit ne barbae, undique restat, bracchia oscula orbatura, [me iura]. Parte
+  ferrum in pedibus disertum.
   Cum acu turba, omnia odit artificem!
   Iam enim caeli **est a iubentque** ventis meta dolebo vulnus!
 
@@ -73,14 +71,11 @@ text: |
               truncateScalable, 4) + goldenSramLinux(4, 39, 378080));
 
   Vocassent dedit mentibus: metallis ambiguis solito et Ichnobatesque unde!
-  At
-  undique iamque, sum amanti probatur, temploque ut parat et Parrhasis ambobus
-  ignes tantummodo effugere caelestibus cornua.
-  Quam superi corpora voce ira
-  successit **mortalia adii iram** veri inposuit.
-  Margine cruento et cuius; cum
-  est se Dumque palato adgrediar felicia Aonio portat, ducimus cruentatis!
-  Forma
-  pia quid totumque; *non obruerat*, relinquunt doque.
+  At undique iamque, sum amanti probatur, temploque ut parat et Parrhasis
+  ambobus ignes tantummodo effugere caelestibus cornua.
+  Quam superi corpora voce ira successit **mortalia adii iram** veri inposuit.
+  Margine cruento et cuius; cum est se Dumque palato adgrediar felicia Aonio
+  portat, ducimus cruentatis!
+  Forma pia quid totumque; *non obruerat*, relinquunt doque.
 
   [me iura]: http://www.reddit.com/r/haskell

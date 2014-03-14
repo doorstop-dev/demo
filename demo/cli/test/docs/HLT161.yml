@@ -1,25 +1,25 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR002
+- HLR099
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum [operiri vidit] Tereusque, in corpora ponto,
-  certamina est,
-  levis!
+  certamina est, levis!
   Pharetramque verba: pulmone queat cognoscere nubibus Tagen, **haud** in
   luctantiaque estis possederat.
-  Crura flexos monstra omnia; et meus iamque boum
-  boum dona distulit Iasonis.
-  Serisque ossibus, [iungitur Semeles], atque at
-  mittere caelesti removit exul umbras et cur iactatis eius: hausto.
+  Crura flexos monstra omnia; et meus iamque boum boum dona distulit Iasonis.
+  Serisque ossibus, [iungitur Semeles], atque at mittere caelesti removit exul
+  umbras et cur iactatis eius: hausto.
 
   Non pedes praecipue tendens, fuit.
-  Repperit tibi centum: maius et virginis iam
-  Aegides domibus dissuaserat erat coepere.
-  Praeteriti ille curvique sublimis,
-  summis ecquid in, duae terras in geminum conferat reiectura.
+  Repperit tibi centum: maius et virginis iam Aegides domibus dissuaserat erat
+  coepere.
+  Praeteriti ille curvique sublimis, summis ecquid in, duae terras in geminum
+  conferat reiectura.
 
   - Sed tegi revocabile herbas
   - In prima adspicit sperabam illi ille agit
@@ -28,21 +28,17 @@ text: |
   - Regna silvas vulnus invecta iure Venerem quamvis
 
   Erat saxo evincere Phrygiis levis; sibi Latia edidit sua mecum.
-  Astris postquam
-  [Stygiae indotata] volucris **virgo fuerat** ingeminat victus periclo locavit
-  adparuit elusam territus foramine ignes; hoc.
-  Fulva nosti omnem remoto; cui
-  pacis divitias venabula, socero ero vela; plumbum ardentior; conpescit illa
-  constitit.
+  Astris postquam [Stygiae indotata] volucris **virgo fuerat** ingeminat victus
+  periclo locavit adparuit elusam territus foramine ignes; hoc.
+  Fulva nosti omnem remoto; cui pacis divitias venabula, socero ero vela;
+  plumbum ardentior; conpescit illa constitit.
   Fecisse laetor genas imagine summa artus humo sensit.
-  Vulnere tradunt
-  Naxoque et tanta excipit parentis de rursus sunt per sensit, ales nostras
-  notavi!
+  Vulnere tradunt Naxoque et tanta excipit parentis de rursus sunt per sensit,
+  ales nostras notavi!
 
   Praemia orbe Atlas, praerupit imperat trunco abdita in telae.
-  Nec nova vel
-  sternere genitor: superis sine quid dis propiore *parentis tamen feris* in
-  dederat armenta.
+  Nec nova vel sternere genitor: superis sine quid dis propiore *parentis tamen
+  feris* in dederat armenta.
 
   - Fugit Bromiumque sibi capro pennis
   - Colligit orbem de animae et erat
@@ -50,24 +46,21 @@ text: |
   - Erat solitum calentes maturo proculcat
 
   Et sic uno fulmina, uno thalamis dissimulant tela adpellare.
-  Ab [modo] tabellae
-  repetens, vultibus precari, anima, umbras natantibus sit cum.
-  Misit tecto
-  pascere.
+  Ab [modo] tabellae repetens, vultibus precari, anima, umbras natantibus sit
+  cum.
+  Misit tecto pascere.
 
   Cetera et gradus nomen quae Saturnius letum heros rigida an tale natus te
   membris omnia Callida explicat vana.
-  Postquam coagula auferat externa et
-  *avidis* hinc dubio mihi rura colla venae, aura unum sibi fatorum: quid per.
+  Postquam coagula auferat externa et *avidis* hinc dubio mihi rura colla
+  venae, aura unum sibi fatorum: quid per.
 
   Mandata hospitis, nam illis, Penthea modum concussit mente, *te qui* ipse
   proque!
   Lapides pectus agmen.
-  Gemellos *mallem*; verba toto suis, ille natam
-  fuerat callida.
+  Gemellos *mallem*; verba toto suis, ille natam fuerat callida.
   Ab tristia nautae ministris ille!
 
-  [Stygiae indotata]: http://seenly.com/
-  [iungitur Semeles]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [modo]: http://jaspervdj.be/
+  [Stygiae indotata]: http://seenly.com/ [iungitur Semeles]:
+  http://en.wikipedia.org/wiki/Sterling_Archer [modo]: http://jaspervdj.be/
   [operiri vidit]: http://example.com/

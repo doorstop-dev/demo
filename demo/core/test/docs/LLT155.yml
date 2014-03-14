@@ -1,34 +1,31 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR108
+- LLR113
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum patri, et somnique faecis sequuntur gurgite tamen
-  Region,
-  petunt, Argolis moderamine stridore velis.
+  Region, petunt, Argolis moderamine stridore velis.
   Clamantem erubuere.
-  Quam factorum
-  anhelitus armos terraque [et Ceyce adiectoque], quoque re retro ille aeolis
-  in
-  et amplexuque premebat.
+  Quam factorum anhelitus armos terraque [et Ceyce adiectoque], quoque re retro
+  ille aeolis in et amplexuque premebat.
 
   Eripui et *nobis*, ex moram illud sententia interea tamen omnia Theridamas
   intentare facundia. *Videam quam*: soluto restatque, servit bis durum sum.
   Civiliter agris, tenuit scire fata anno Eurylochum fictos di pondus, greges.
-  Di
-  potest deorum magnanimo, praepes ova pugnat crevit illis tauros movet Hiberi
-  obscenae **excutit**, quidem furiisque incendia.
+  Di potest deorum magnanimo, praepes ova pugnat crevit illis tauros movet
+  Hiberi obscenae **excutit**, quidem furiisque incendia.
 
   Domos nec adfert.
-  Magis hinc urebant cantus blandis dabantur digitorum tibi cum
-  Menoetae fit pelagi laudat.
+  Magis hinc urebant cantus blandis dabantur digitorum tibi cum Menoetae fit
+  pelagi laudat.
 
   Cumque aeoliam debebunt variarum fatus obsessae id liceat ut innumeris
   timidusque sola diro postquam novissima in tuta vulnera.
-  Moveri equidem supplex:
-  qua: damnatus!
+  Moveri equidem supplex: qua: damnatus!
   Monstravit ipsi.
 
   Tuo dederat aurora montibus valle Semele ante illa precibus. [In unde quae]:
@@ -55,13 +52,10 @@ text: |
       }
 
   Hoc infert cur quae harundine.
-  Toto periturus pariterque periit poenaeque
-  generi, est dum, Attonitae.
-  Sum tingui figitur, temptanti cristis [elige], per
-  sed.
+  Toto periturus pariterque periit poenaeque generi, est dum, Attonitae.
+  Sum tingui figitur, temptanti cristis [elige], per sed.
   Congreditur medicata tellus.
   Una curam!
 
-  [In unde quae]: http://hipstermerkel.tumblr.com/
-  [elige]: http://zombo.com/
+  [In unde quae]: http://hipstermerkel.tumblr.com/ [elige]: http://zombo.com/
   [et Ceyce adiectoque]: http://reddit.com/r/thathappened

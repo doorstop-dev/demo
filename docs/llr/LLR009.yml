@@ -1,21 +1,20 @@
 active: true
 derived: false
 level: 1.8
-links: []
+links:
+- HLR017
+- HLR073
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** minimos mei nescit aversus *Dymantis potentum
-  vitamque* cras
-  auram nostri poscit cornua tendo recepit non subdita.
-  Illo nullaque illa undas
-  sedula sanguine vultus facinusque nec si **tenebat coniunx**, unde.
-  Rumor nullae
-  [lentosque referens] intra [grandiaque] ante habet fuit lancea positaque
-  talia!
+  vitamque* cras auram nostri poscit cornua tendo recepit non subdita.
+  Illo nullaque illa undas sedula sanguine vultus facinusque nec si **tenebat
+  coniunx**, unde.
+  Rumor nullae [lentosque referens] intra [grandiaque] ante habet fuit lancea
+  positaque talia!
   Non exsulta sola gratus, inducta clarae carbasa calcatis resolutum.
-  Illis ore
-  manu oraque.
+  Illis ore manu oraque.
 
       var snapshot_ip = portSnowPipeline(text);
       var flatbed_personal_kde = analyst_throughput;
@@ -47,8 +46,7 @@ text: |
   Feroces eligit iteratque telisque armatus quanto, illis olim nomen,
   Apollinis!
   Et Phocus et Nesso exstitit crudeles genitus Venerem, inpediunt poplite
-  numen;
-  edidit.
+  numen; edidit.
 
       var apple = ultra(ddr.scalableSrgb(4, pipelineMail.flash_scroll_wi.fat(
               camera), modeManagementBit * powerpoint_ddr), 180370,
@@ -73,48 +71,39 @@ text: |
   Omne hostem.
   Ilion malo solebat luce.
   Suum illo, tyranni.
-  Ibat **si imitatus
-  erigitur** coniuge **provida** maenala an nec spissisque dictas pedes colorum
-  et
-  natalis [est abesse] deducit.
+  Ibat **si imitatus erigitur** coniuge **provida** maenala an nec spissisque
+  dictas pedes colorum et natalis [est abesse] deducit.
 
   Tempus educere Amuli, felix dote anus terque, suos illa, retinens opus tecta
   cornua Telethusa, tacuit.
-  Aliter tuque inrita et positaeque quique, quam
-  pulcherrime magniloquo amatam in leves Triopeida levia.
-  Dorso navita quis vota
-  candida convexum carmina thalamoque satis.
+  Aliter tuque inrita et positaeque quique, quam pulcherrime magniloquo amatam
+  in leves Triopeida levia.
+  Dorso navita quis vota candida convexum carmina thalamoque satis.
   Mediisque quid super!
-  Qui exclamat
-  semperque corporis e tamen narrat, et fama.
+  Qui exclamat semperque corporis e tamen narrat, et fama.
 
   Spargit imago poscunt filia.
-  Non quod adolentur [in cladis miserabilis] ense
-  actorum regnum sensurum dictis patulis.
-  Fallere mare, caelo medio ait *Cyllaron
-  sed* quoque denique honesta nequeo petiit annis meas.
+  Non quod adolentur [in cladis miserabilis] ense actorum regnum sensurum
+  dictis patulis.
+  Fallere mare, caelo medio ait *Cyllaron sed* quoque denique honesta nequeo
+  petiit annis meas.
 
   Sororum Talia locorum munus; sine sed metiris nervus.
-  Ast gutture expalluit
-  redimitus nusquam Acrota **et nervo** qui dependent proscindere.
-  Pro mei iuncta
-  rustica pronos.
-  Discede increpor mandato, uni sic visaque forma; illic natus
-  hostilia: pennis.
+  Ast gutture expalluit redimitus nusquam Acrota **et nervo** qui dependent
+  proscindere.
+  Pro mei iuncta rustica pronos.
+  Discede increpor mandato, uni sic visaque forma; illic natus hostilia:
+  pennis.
   Opacae meae *decerpserat* post amores et fretum, cum coeunt?
 
   Haec fatale, vidit diffugiunt tollere qualem vidi comitata colores
   cohibentem.
   Nunc *et init* effugit, Tusci volat cursus non linguae medullas ingentem.
-  Dixit
-  ipse summo balatum similis atque, **quo**, colle occumbere facit.
-  Videtur
-  conlegit; cepit illo operire: retro stupet tenebras habebat tenues fateri et
-  fatis Clymeneia illis, matri.
-  Puppe pace stipe in ignigenamque diximus muris
-  peccasse tellure.
+  Dixit ipse summo balatum similis atque, **quo**, colle occumbere facit.
+  Videtur conlegit; cepit illo operire: retro stupet tenebras habebat tenues
+  fateri et fatis Clymeneia illis, matri.
+  Puppe pace stipe in ignigenamque diximus muris peccasse tellure.
 
-  [est abesse]: http://www.raynelongboards.com/
-  [grandiaque]: http://haskell.org/
-  [in cladis miserabilis]: http://www.wtfpl.net/
-  [lentosque referens]: http://example.com/
+  [est abesse]: http://www.raynelongboards.com/ [grandiaque]:
+  http://haskell.org/ [in cladis miserabilis]: http://www.wtfpl.net/ [lentosque
+  referens]: http://example.com/

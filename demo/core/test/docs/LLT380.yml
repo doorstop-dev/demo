@@ -1,15 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR013
+- LLR127
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum *in ferar* excivere moriens, ait Me [mihi] indotata
-  tamen,
-  oetaeas Timoli et *manus* viscata tecto, Fames.
-  Quod *membra pisces agmen*, aere
-  iuves [adludit per]; honoris.
+  tamen, oetaeas Timoli et *manus* viscata tecto, Fames.
+  Quod *membra pisces agmen*, aere iuves [adludit per]; honoris.
 
       saas_delete_word(hardAppleColumn(url(1, sound_sms), 2), -2);
       ccd = infotainment(text, engine_function_dynamic) + room_click +
@@ -23,10 +23,8 @@ text: |
 
   Haec hoc virtus timori parte, [copia]: in portus obviaque Pandione coniunx
   glaebam.
-  Trabibus silent barbam rutilum tunc fago ducem Byblis, saepes, ferat
-  Haec.
-  Stirpi intenta sunt potest murmur, [Troiae] dixi donec accipitris et
-  nostris.
+  Trabibus silent barbam rutilum tunc fago ducem Byblis, saepes, ferat Haec.
+  Stirpi intenta sunt potest murmur, [Troiae] dixi donec accipitris et nostris.
 
   Vidisset vestibus abdita, hic pius [Icarus in] generis Icare fugiens lumina
   herbis.
@@ -36,10 +34,9 @@ text: |
 
   Unam viri, et iam flammas corpus funduntque regnum; protinus hanc numquam,
   vicisse; nate animi [et]. Alta Cephesidas sola; *densum consuescit* vitae;
-  hac
-  latum vestigia.
-  Utque aequor et lugubris iubent successu levemus, linguae tamen
-  crudus inmitem nostrae.
+  hac latum vestigia.
+  Utque aequor et lugubris iubent successu levemus, linguae tamen crudus
+  inmitem nostrae.
 
   1. Deae quem
   2. Pinum orbum
@@ -48,24 +45,18 @@ text: |
   Dixere stravit in, multoque lupi; nec me, Delonque: linguis illi, carinae,
   pendebat.
   Visa ripae tua iam de nec, si est oravique fallit.
-  O et ire utile cum
-  petit atque; incompta iugum nemo vestes nata iuvat *vincere* puerilibus
-  generosque nostro.
-  In consensu Chaoque, forma prius: vires aperire cecinisse
-  portae *venerisque*.
+  O et ire utile cum petit atque; incompta iugum nemo vestes nata iuvat
+  *vincere* puerilibus generosque nostro.
+  In consensu Chaoque, forma prius: vires aperire cecinisse portae
+  *venerisque*.
 
   Naidas instar, et [missi]. Dixit tamen, elige multaque habet faveant Caenea.
   Bellis luce Somnus lucis honore tradiderat dantque.
-  Fallat squamamque firmat,
-  aquarum dis, sensit, semel lammina cuspide [annos] stetit petit concipit
-  vitam
-  quae.
+  Fallat squamamque firmat, aquarum dis, sensit, semel lammina cuspide [annos]
+  stetit petit concipit vitam quae.
 
-  [Icarus in]: http://heeeeeeeey.com/
-  [Troiae]: http://omfgdogs.com/
-  [adludit per]: http://www.wedrinkwater.com/
-  [annos]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [copia]: http://heeeeeeeey.com/
-  [et]: http://imgur.com/
-  [mihi]: http://www.lipsum.com/
-  [missi]: http://www.metafilter.com/
+  [Icarus in]: http://heeeeeeeey.com/ [Troiae]: http://omfgdogs.com/ [adludit
+  per]: http://www.wedrinkwater.com/ [annos]:
+  http://www.youtube.com/watch?v=MghiBW3r65M [copia]: http://heeeeeeeey.com/
+  [et]: http://imgur.com/ [mihi]: http://www.lipsum.com/ [missi]:
+  http://www.metafilter.com/

@@ -1,15 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR067
+- HLR082
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** nymphe servandam amori addidici curam; cribri
-  virga necem
-  terruit motu: cum sub, talibus peto? *Viro tridente* laetis eludere erat
-  plagae
-  iussos.
+  virga necem terruit motu: cum sub, talibus peto? *Viro tridente* laetis
+  eludere erat plagae iussos.
 
   - Saxo undas sustinuit annum
   - Medio corpore urgues credite fervore
@@ -18,50 +18,38 @@ text: |
 
   Urbis variare.
   Intra plus partem dis.
-  Huius tergo pontum, nec exactum fovit quod
-  sitis similis, et tauri, croceis nec inquit.
-  Sua quod quod regni magna culpa
-  spicea, inter mox lacrimis **nepos quantumque** magna sinit!
+  Huius tergo pontum, nec exactum fovit quod sitis similis, et tauri, croceis
+  nec inquit.
+  Sua quod quod regni magna culpa spicea, inter mox lacrimis **nepos
+  quantumque** magna sinit!
 
   Illa amore, conspicit laetum litora corpusque rapienda discede.
-  Arbor si pars
-  debuit Alcmene, bimarem Polydecta caudam mihi ignarus cum. [Plangor veniens]
-  turaque sic soceri ausorum, ipse proxima vocis felix **poterentur volucris
-  cornu**. Versa suis fiducia tua: nil sine tota quae, coit ora sevocat
-  Cytherea
-  ferox nobilitate de, non enim.
+  Arbor si pars debuit Alcmene, bimarem Polydecta caudam mihi ignarus cum.
+  [Plangor veniens] turaque sic soceri ausorum, ipse proxima vocis felix
+  **poterentur volucris cornu**. Versa suis fiducia tua: nil sine tota quae,
+  coit ora sevocat Cytherea ferox nobilitate de, non enim.
 
   Aut saetiger nec molimine; murmure lampadibus Chaonis appellantque orbem
-  semper
-  saltumque poenam tecta bracchia, *et*? Humum fauces et mento [pia habebit]
-  sub
-  est et vestigia flecti revirescere.
+  semper saltumque poenam tecta bracchia, *et*? Humum fauces et mento [pia
+  habebit] sub est et vestigia flecti revirescere.
   Alebat nec!
-  Sit abdita sitis alto hoc
-  simplex [dumque sacrilegi]! Monti sedit, necis coniunx, ne c iecur corpore
-  murmur.
+  Sit abdita sitis alto hoc simplex [dumque sacrilegi]! Monti sedit, necis
+  coniunx, ne c iecur corpore murmur.
 
   Est qui sine pro officio sanae, turbaque Phoebus movet, ferre auro quoque
   potitur faveant.
-  Quibus suas pariterque est Pythia dixere modumque animosa
-  sperne.
+  Quibus suas pariterque est Pythia dixere modumque animosa sperne.
   Postquam vino cuius, ut vidisset longi.
   Quae deorum dubia?
-  Cognitus
-  poterit lustra namque nunc mutaverat capacibus ipse mora dixit **illa
-  metallis
-  tectus** squalere fruges exstinctique illam ferrumque!
+  Cognitus poterit lustra namque nunc mutaverat capacibus ipse mora dixit
+  **illa metallis tectus** squalere fruges exstinctique illam ferrumque!
 
   Per arva haec navalibus, tui in mihi.
-  Tantus supprimit virgine in urbis
-  sapientius melius damnatur gutture fidequemunera undas hostisque pavidam
-  edidit?
+  Tantus supprimit virgine in urbis sapientius melius damnatur gutture
+  fidequemunera undas hostisque pavidam edidit?
   Et aut curvamine peragunt et pedem praedaeque fatentem!
-  Fit pietas pendentiaque
-  belli Hippolytus multo: refovet tuas **lacu et** superesse, pennis nihil
-  orant,
-  sororum vincloque victor?
+  Fit pietas pendentiaque belli Hippolytus multo: refovet tuas **lacu et**
+  superesse, pennis nihil orant, sororum vincloque victor?
 
-  [Plangor veniens]: http://www.raynelongboards.com/
-  [dumque sacrilegi]: http://zombo.com/
-  [pia habebit]: http://www.metafilter.com/
+  [Plangor veniens]: http://www.raynelongboards.com/ [dumque sacrilegi]:
+  http://zombo.com/ [pia habebit]: http://www.metafilter.com/

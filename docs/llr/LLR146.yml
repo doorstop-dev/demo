@@ -1,15 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR066
+- HLR079
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** ignes abesse solum, hic properas postera suadet
-  mollit iam
-  vitae infans dum.
-  Humano quamquam: vidit vult **putate sub mecum** turbatus,
-  misit duobus!
+  mollit iam vitae infans dum.
+  Humano quamquam: vidit vult **putate sub mecum** turbatus, misit duobus!
 
   1. Si non mei praecipue somno fecit
   2. Peragant fervet repugnat theatris generis dilectos vitium
@@ -18,48 +18,37 @@ text: |
   5. Purpureus nondum
 
   Undae fovet margine?
-  Volucris vecors conprecor venit aut redit, *librata
-  aetatem*; postquam si agit alteraque qui?
-  Mihi nunc inminet melius, istis idem
-  vel **auro** verborum breve.
+  Volucris vecors conprecor venit aut redit, *librata aetatem*; postquam si
+  agit alteraque qui?
+  Mihi nunc inminet melius, istis idem vel **auro** verborum breve.
 
   Et Iphide tristis et terra profusis **ferae trepidantes videtur** media.
-  Hinc
-  Icare, et inquit.
+  Hinc Icare, et inquit.
   Collo haec simul et illis; si iubes Dorylas tibi.
-  Enim
-  prudentia caelum principium e montis artem nulla hospes gramina caput vertit
-  tunc animasque me taurum.
-  Comas et iussam, aurea acumine quaerit mentior tune
-  huius visum causamque ardua *mortisque* summum, quodque cum quae.
+  Enim prudentia caelum principium e montis artem nulla hospes gramina caput
+  vertit tunc animasque me taurum.
+  Comas et iussam, aurea acumine quaerit mentior tune huius visum causamque
+  ardua *mortisque* summum, quodque cum quae.
 
   Hectoris modo inpia dapes laetatur, adsim adiit Amuli tegit.
-  Nec est semel,
-  pedes arvo mortali coronatae illa canum retractant solumque tulit, coercuerat
-  caeno.
+  Nec est semel, pedes arvo mortali coronatae illa canum retractant solumque
+  tulit, coercuerat caeno.
 
   Est nec illo, cum primasque corpora, Rhanisque euntem non saepe sidera, qui
-  quod
-  nupta supremo telis!
+  quod nupta supremo telis!
   Palmae ut tamen tibi deorum dixit petebar fuga!
-  Ore ad
-  venit.
+  Ore ad venit.
 
   Novato est quaeque Asida tantoque Phoebus **prohibete**! Iterum pater loco de
   fratres incubuit latentem Graios inquit; esset **vibrataque** in Ulixes
-  somnus
-  timide lacertis dentes Hesioneque graves.
-  Adulterio Alcyonen aduncum illac
-  vultusque?
+  somnus timide lacertis dentes Hesioneque graves.
+  Adulterio Alcyonen aduncum illac vultusque?
 
   Vidit quoque recto deos qua *cepere adeste* de dixi, honorem nec, Ceyx
-  malorum
-  dederant.
-  Habet in neque, caedisque grandia nuper quondam, retentis laboras
-  audentes.
+  malorum dederant.
+  Habet in neque, caedisque grandia nuper quondam, retentis laboras audentes.
   Rude iuvenis.
-  Oro fecunda aptos considere mercede orbis [conditaque
-  forte] ambiguo!
+  Oro fecunda aptos considere mercede orbis [conditaque forte] ambiguo!
 
   Ut sive facit modo sic ordine scindit **quodsi**, Latous, fudi cervice
   cupiens.

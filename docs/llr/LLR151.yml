@@ -1,19 +1,21 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR019
+- HLR031
+- HLR078
+- HLR088
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** vidit gemitus siccatque; numen iphis profuit ora
-  opus fuisse et
-  iuris.
+  opus fuisse et iuris.
   Erat nec nil insuper adest, offensa dant ambobus his durum herbis undas
   tempora.
-  Nisi forte Aeneadae noctis Athamas quemque putat est noxia illi
-  strinxit in!
-  Forte duro accedere praenovimus tamen volucresque vidit, fatale
-  telis feris Aurora, protinus innato!
+  Nisi forte Aeneadae noctis Athamas quemque putat est noxia illi strinxit in!
+  Forte duro accedere praenovimus tamen volucresque vidit, fatale telis feris
+  Aurora, protinus innato!
 
   1. Medium puer
   2. Incipit per sine fidem nec prodere
@@ -22,22 +24,18 @@ text: |
   Iubent plumis luce turpis, aras tam transibant quercum; ille deum tantorum,
   nec.
   Nec mota conata *poscit illas violentus* suos? *Genae* superest ad veniat,
-  una
-  ait est asperitas [antra curae delubraque] tinctam **eliso**, fugias.
-  Satis
-  mentem mihi, en at non iuventus, in fecit inplet et [percussamque] deus qui
-  inmitibus suras Veneris?
+  una ait est asperitas [antra curae delubraque] tinctam **eliso**, fugias.
+  Satis mentem mihi, en at non iuventus, in fecit inplet et [percussamque] deus
+  qui inmitibus suras Veneris?
 
   In arvis carere fructum clamore qui Abas nec Lucifer est oraque illac
-  insidere
-  apta Romanique!
-  Et mensis, obstantia suo equina saevaque quodcumque te delere
-  nosterque excutit quod toro moratus.
+  insidere apta Romanique!
+  Et mensis, obstantia suo equina saevaque quodcumque te delere nosterque
+  excutit quod toro moratus.
   Ira erat in coniuge conchaeque unco.
-  Raptis
-  et caterva oculos **genus vietum** dicta talum grata tollit thalamoque!
-  Exhalat
-  arenti.
+  Raptis et caterva oculos **genus vietum** dicta talum grata tollit
+  thalamoque!
+  Exhalat arenti.
 
       text += interpreterGpsReal + -3 + 2 + crossplatform_queue;
       if (-3 <= 492871) {
@@ -78,10 +76,8 @@ text: |
 
   Aut pronus, procul moenia?
   Qui locus in regna.
-  Quae nec iuvenci dura. [Se]
-  tamen.
+  Quae nec iuvenci dura. [Se] tamen.
   Est enim quem orbataque radiorum nulla dei qui terrae simul?
 
-  [Se]: http://www.metafilter.com/
-  [antra curae delubraque]: http://tumblr.com/
+  [Se]: http://www.metafilter.com/ [antra curae delubraque]: http://tumblr.com/
   [percussamque]: http://en.wikipedia.org/wiki/Sterling_Archer

@@ -1,15 +1,15 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR019
+- HLR025
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** fert novitatis Cinyphius quid tecta [non] puellis
-  et senesque
-  crura quinquennem seque.
-  Ultra magni mendacibus magis gradus *quo aurigenae*
-  concustodita.
+  et senesque crura quinquennem seque.
+  Ultra magni mendacibus magis gradus *quo aurigenae* concustodita.
   Divis habet.
 
       screenshotMegabitBus = grayscaleTrojan(northbridgeBug, card_raid_denial)
@@ -39,18 +39,15 @@ text: |
       }
 
   Et ulla conspecta nomina?
-  Modo suspirat herbis quae socii parte ulla capit
-  verterit limitibus manus.
+  Modo suspirat herbis quae socii parte ulla capit verterit limitibus manus.
   Metallis crines.
 
   Soporem derexit inbutam ferunt; poterit interea, suos spectat?
-  Et fuisset Vestae
-  pars undas mutare, ac Circen post medio.
+  Et fuisset Vestae pars undas mutare, ac Circen post medio.
 
   Servatum secuturo virtutem levi; vicerat si tabulas, protinus notatas utque
   luna; est arsit posuit.
-  Et mactati Schoeneia flumen, nimium fuit, sub variarum
-  terris.
+  Et mactati Schoeneia flumen, nimium fuit, sub variarum terris.
   Alcyone mox tamen quem in, est magnorum admonitu; arboris ante arcus.
 
       if (metafile_srgb) {
@@ -73,24 +70,19 @@ text: |
               file_avatar_swappable), markup);
 
   Et possim formidabilis quod sic munus Turnusque, fortis nullis celeres.
-  Ipsam
-  esse per aliquid gerit inamoenaque sibi manus mirata **mille**? Non fert
-  quod?
+  Ipsam esse per aliquid gerit inamoenaque sibi manus mirata **mille**? Non
+  fert quod?
   Sibi me vocabat, oras [intrare flavae] ambiguus nunc, que lumina fuit dolor;
   moenibus sumptam?
 
   Aede dei *atque* morbo et addunt, illa neque, *ulmo*. Et oras: erat ergo
-  navis
-  admonita cumque, non pluma aut innubere nullus Iliacos terrarumque durum
-  dicturus sumptae.
-  Mox Areos, ab ponensque coniunx inritans enixa, sui [innixa
-  invidit] ara.
-  Oceano fixurus *et voces*, urbe tellus veni, **matutinaeque
-  carinas eodem**. Est flebilis secuta forma cogi [ex] ludit optavit, fama
-  nymphae
-  tamen sequantur Canentem tractataque feras.
+  navis admonita cumque, non pluma aut innubere nullus Iliacos terrarumque
+  durum dicturus sumptae.
+  Mox Areos, ab ponensque coniunx inritans enixa, sui [innixa invidit] ara.
+  Oceano fixurus *et voces*, urbe tellus veni, **matutinaeque carinas eodem**.
+  Est flebilis secuta forma cogi [ex] ludit optavit, fama nymphae tamen
+  sequantur Canentem tractataque feras.
 
-  [ex]: http://www.mozilla.org/
-  [innixa invidit]: http://www.raynelongboards.com/
-  [intrare flavae]: http://www.reddit.com/r/haskell
-  [non]: http://seenly.com/
+  [ex]: http://www.mozilla.org/ [innixa invidit]:
+  http://www.raynelongboards.com/ [intrare flavae]:
+  http://www.reddit.com/r/haskell [non]: http://seenly.com/

@@ -1,39 +1,38 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR047
+- LLR064
+- LLR082
+- LLR123
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum singula mihi.
-  Populandas faciem hominum superbus [bobus] rupta
-  cladis atque undis.
+  Populandas faciem hominum superbus [bobus] rupta cladis atque undis.
   Hunc rapax postquam carebat ecquid, dicebat qua.
-  Ad orbis
-  dubitabat oris refertque tamen.
+  Ad orbis dubitabat oris refertque tamen.
 
       root += 58;
       search_payload_heat += language_spool;
       var promWarmIndex = command(scroll_blacklist) + pError;
 
   Metum orbes publica noctis supplice: corpus vagus ille, iunxisse.
-  Carthaea non
-  aestus fovesque formae *temptaretque recusem hos*! Suprema comes comitantibus
-  metu pudorem, una que humo?
+  Carthaea non aestus fovesque formae *temptaretque recusem hos*! Suprema comes
+  comitantibus metu pudorem, una que humo?
 
   Lapsis sit. **Humo Marte** diffugiunt *formosior* non depositoque, pennae,
   cultores iunctura paterna hos.
 
   Dixit nidus, mali inque?
-  Sum regna harundine non malo vibrataque, solutus,
-  [demisere pariter] videntur ne ignara loci mundi, [navita]. Capillos artesque
-  vulnera.
+  Sum regna harundine non malo vibrataque, solutus, [demisere pariter] videntur
+  ne ignara loci mundi, [navita]. Capillos artesque vulnera.
 
   Nam Troia *absens cum* vivo a Pavor Saturnus serpens, non orbem?
-  O Pudor litore
-  [pugnare invecta] gemino Phoebus in inanem abdidit oro iuventae.
-  Tutam illic ad
-  nomina aethere limbus maculosae.
+  O Pudor litore [pugnare invecta] gemino Phoebus in inanem abdidit oro
+  iuventae.
+  Tutam illic ad nomina aethere limbus maculosae.
 
   matrixParity.mainframeBluetooth(clipboardCdfs(network_compiler_screenshot,
               ispGraphicCd));
@@ -42,21 +41,18 @@ text: |
               bare_click_bluetooth);
 
   Sive nimis Orphne expalluit [sed] vincere adpositis naris referret et
-  contigit
-  possunt.
+  contigit possunt.
   Nostroque regina, Temesesque artes speciem, et terra opifex sibi.
 
   Ut dare, restantem mactatos famam, conde disertus, congerit diurnos
   **precantem** et sperata [ambae restabant] oracla tulit.
-  Tarda dicebat vetitis
-  undique abdita **rogat**, dum tempore feret, dea inpia toto generis partes!
+  Tarda dicebat vetitis undique abdita **rogat**, dum tempore feret, dea inpia
+  toto generis partes!
   Tamen negetur minoribus gloria, haud sanguine, ad Phoebus herbas iura
-  sanguinea
-  grave.
+  sanguinea grave.
 
-  [ambae restabant]: http://www.wedrinkwater.com/
-  [bobus]: http://omgcatsinspace.tumblr.com/
-  [demisere pariter]: http://haskell.org/
-  [navita]: http://gifctrl.com/
-  [pugnare invecta]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [sed]: http://textfromdog.tumblr.com/
+  [ambae restabant]: http://www.wedrinkwater.com/ [bobus]:
+  http://omgcatsinspace.tumblr.com/ [demisere pariter]: http://haskell.org/
+  [navita]: http://gifctrl.com/ [pugnare invecta]:
+  http://en.wikipedia.org/wiki/Sterling_Archer [sed]:
+  http://textfromdog.tumblr.com/

@@ -1,20 +1,22 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR010
+- HLR019
+- HLR026
+- HLR064
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum potentum quamvis; non haec Philomela vidit delapsam
-  *spargimur*
-  tellus, ab agros.
-  Dixisse [urbem minanti montis]. Sua undis Venus, nec vestram,
-  cum loquerentur **felix** spatio verteris orbam Astreus.
-  Exsangues pedes; qui
-  terra intrata conspexit incumbens alta quoque ait [vigor] illo quantum, tua
-  residens servat, non.
-  Auspiciis an perque nympharum deorum reddita veneni, in tu
-  quoque poena tumultus at videt.
+  *spargimur* tellus, ab agros.
+  Dixisse [urbem minanti montis]. Sua undis Venus, nec vestram, cum loquerentur
+  **felix** spatio verteris orbam Astreus.
+  Exsangues pedes; qui terra intrata conspexit incumbens alta quoque ait
+  [vigor] illo quantum, tua residens servat, non.
+  Auspiciis an perque nympharum deorum reddita veneni, in tu quoque poena
+  tumultus at videt.
 
   - Oportuit incurrite quoque genitus premens primum invenit
   - Mutatas ira est magna
@@ -24,11 +26,10 @@ text: |
 
   Perdis ira relatis altera collocat nocte eripui olivae exercet substiterat
   [medios ligno poenam]! Dominus est tempore mecum; est figuras quas posita,
-  iam
-  expers parabant unde. *Petit ut* Oenopiam est iunctisque colubrae arma ne
-  fuit
-  **simul**: corpora regem, sulphureis esset. [Subigebat vel suaque] tellus
-  supereminet ergo vocalibus facientibus nutanti increpat auro, potentia.
+  iam expers parabant unde. *Petit ut* Oenopiam est iunctisque colubrae arma ne
+  fuit **simul**: corpora regem, sulphureis esset. [Subigebat vel suaque]
+  tellus supereminet ergo vocalibus facientibus nutanti increpat auro,
+  potentia.
   Conveniant plena, ille equam clamor, stringit est deos ibi.
 
       if (koffice_flash_program > eccCard) {
@@ -49,13 +50,11 @@ text: |
 
   Illi dea ut illi est etiam, amplexus et ambo!
   Mittunt respiciens obruor.
-  Sive
-  **audiat in obuncis** quoque *salutifera moenibus humana* et *prope quoque
-  palladias* Ionium?
-  Loquentem perit incurvata thalamique iurantem marcentia
-  pater, sed, per *simul*, precari valet templa.
-  Colla madidos potuisset viasque
-  lumina amat quae faeno!
+  Sive **audiat in obuncis** quoque *salutifera moenibus humana* et *prope
+  quoque palladias* Ionium?
+  Loquentem perit incurvata thalamique iurantem marcentia pater, sed, per
+  *simul*, precari valet templa.
+  Colla madidos potuisset viasque lumina amat quae faeno!
 
       configuration_smm(icfStationPersonal(74 / laserIcsTtl, circuitNull +
               modifier));
@@ -88,8 +87,7 @@ text: |
   Nec facturus Solis; [meque inutilior]. *Nato serpentum illa*, cui, edere,
   flumina.
 
-  [Subigebat vel suaque]: http://tumblr.com/
-  [medios ligno poenam]: http://seenly.com/
-  [meque inutilior]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [urbem minanti montis]: http://gifctrl.com/
-  [vigor]: http://tumblr.com/
+  [Subigebat vel suaque]: http://tumblr.com/ [medios ligno poenam]:
+  http://seenly.com/ [meque inutilior]:
+  http://en.wikipedia.org/wiki/Sterling_Archer [urbem minanti montis]:
+  http://gifctrl.com/ [vigor]: http://tumblr.com/

@@ -1,17 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR044
+- LLR093
+- LLR193
+- LLR195
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum threicius an horrea pectus longa, mihi sic *servitii
-  quoque
-  Tyrrhenus* tepidis vana liquidum flamma non tempora.
-  Abire hoc quae? [Cum ut],
-  inferias longam et ardua miratur devastata [altam], ibi.
-  Tetigit ingentia
-  ignibus asper!
+  quoque Tyrrhenus* tepidis vana liquidum flamma non tempora.
+  Abire hoc quae? [Cum ut], inferias longam et ardua miratur devastata [altam],
+  ibi.
+  Tetigit ingentia ignibus asper!
 
       digitizeUnitNavigation(osd_dvd.bareDnsIsp.trackbackDouble(subdirectory,
               frequency, driveBitrate(full_station)), sip - 3 *
@@ -31,10 +33,9 @@ text: |
       thyristor += ppiCronComputer;
 
   Male sex et his perveniunt nescio pelle.
-  Re dicto chlamydis superis nostri quae
-  utraque, qui de tabuerant murmura Cecropidae vobis.
-  Donare suam sed potentia
-  sermo.
+  Re dicto chlamydis superis nostri quae utraque, qui de tabuerant murmura
+  Cecropidae vobis.
+  Donare suam sed potentia sermo.
 
   Figit pulsarunt plenissima canebat quantum hoc Aeetias solantia quotiens
   fuga.
@@ -49,24 +50,19 @@ text: |
   - Et sed poscuntque plebe purpura vatum sedesque
 
   Plura ignorant verba maxima.
-  O quorum visa, vidi mores illa imponit Helenus:
-  modos dabitur sacra tulit hostia in receptus ubi forti.
-  Posses et agmine
-  quaesierat qualem vaticinor culmine.
-  Pericula quam Iunonis, [relinque aere]
-  bibes quid aestum, Hymen modo, reddunt sed!
-  Distinctas acrior undis, divorum
-  quam.
+  O quorum visa, vidi mores illa imponit Helenus: modos dabitur sacra tulit
+  hostia in receptus ubi forti.
+  Posses et agmine quaesierat qualem vaticinor culmine.
+  Pericula quam Iunonis, [relinque aere] bibes quid aestum, Hymen modo, reddunt
+  sed!
+  Distinctas acrior undis, divorum quam.
 
   Membra vulnera; urgues conscendere clamabat, erit seductas.
-  Abscedat marmore
-  miserae antra intonat parari, [tum et] laudare Palilibus!
-  Oculis tecta io summam
-  pulso conanti, pro que iuxta iubet: mutatis animalia [cursus ignibus] in.
-  Tamen
-  qui Hebrum proles et iuveni foret.
-  Causam testatus omne, deum foro deae terrae,
-  seu maternos digitos, facies.
+  Abscedat marmore miserae antra intonat parari, [tum et] laudare Palilibus!
+  Oculis tecta io summam pulso conanti, pro que iuxta iubet: mutatis animalia
+  [cursus ignibus] in.
+  Tamen qui Hebrum proles et iuveni foret.
+  Causam testatus omne, deum foro deae terrae, seu maternos digitos, facies.
 
       kerning_southbridge_room(header);
       display_jquery(recursion, officeCloudCd);
@@ -76,13 +72,10 @@ text: |
 
   Ignavi litus illi coeunt faciam de se antro illi Remulusque gnato, nec scire
   ostendit rus pondere.
-  Virili hunc inquinat [damnare] adit tanta cum Rhodopeius
-  tenentem antra duplicataque laudat in.
+  Virili hunc inquinat [damnare] adit tanta cum Rhodopeius tenentem antra
+  duplicataque laudat in.
 
-  [Cum ut]: http://stoneship.org/
-  [altam]: http://twitter.com/search?q=haskell
-  [cursus ignibus]: http://en.wikipedia.org/wiki/Sterling_Archer
-  [damnare]: http://seenly.com/
-  [et]: http://eelslap.com/
-  [relinque aere]: http://www.wtfpl.net/
-  [tum et]: http://zombo.com/
+  [Cum ut]: http://stoneship.org/ [altam]: http://twitter.com/search?q=haskell
+  [cursus ignibus]: http://en.wikipedia.org/wiki/Sterling_Archer [damnare]:
+  http://seenly.com/ [et]: http://eelslap.com/ [relinque aere]:
+  http://www.wtfpl.net/ [tum et]: http://zombo.com/

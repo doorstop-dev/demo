@@ -1,20 +1,21 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR006
+- LLR068
+- LLR128
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum nescia.
-  Bracchia amantis; quid [clamore ait] legem felicior
-  nostri conspecta eripies; Theseius.
-  Ipse violentia Ulixis: quod in cretus
-  crudelis, Desinet trieterica ut dicenti rexit.
-  Gemitus sed, pudore et falsa et
-  tenuere virgineo exstabant inde quantum mihi virgo referunt sidere restare
-  oculos coniunx, in.
-  Ignaram ingemuit truncis, sua edocuit erat, nate utrique,
-  aetas; dat.
+  Bracchia amantis; quid [clamore ait] legem felicior nostri conspecta eripies;
+  Theseius.
+  Ipse violentia Ulixis: quod in cretus crudelis, Desinet trieterica ut dicenti
+  rexit.
+  Gemitus sed, pudore et falsa et tenuere virgineo exstabant inde quantum mihi
+  virgo referunt sidere restare oculos coniunx, in.
+  Ignaram ingemuit truncis, sua edocuit erat, nate utrique, aetas; dat.
 
       var wysiwyg_platform = modifierOutbox.graphicsSocialSimplex(bugSpeakers);
       if (pretestLock(opacityBaudNode)) {
@@ -25,10 +26,8 @@ text: |
   Deus quidem **age crevit libratum** et herbas lacrimasque praesens, recurrunt
   multi.
   Quidem et sacra sine turbamve levatus lepus.
-  Cum et choreas concursibus
-  auras quos ordo canori, qui altus, corpus.
-  Gravitate venit inpatiens veniunt
-  vidi cumque primum te utinam et terga.
+  Cum et choreas concursibus auras quos ordo canori, qui altus, corpus.
+  Gravitate venit inpatiens veniunt vidi cumque primum te utinam et terga.
 
   - Erysicthonis rudis habitat Achille Lebinthos arbore
   - Viva vulneribus urbe
@@ -36,15 +35,14 @@ text: |
 
   Terrae mihi recepto socer: sub dum quam **silva me heros** at structa laborum
   vocis.
-  Dixi impediet Colchide quae aequoreae semicaper, pignora nurus neci
-  quaeris.
-  Quas loquor imperio **sparsae infames Sipylus** clausas **nomenque**,
-  ille lingua erudit vixisse Cynthus siqua quoque.
+  Dixi impediet Colchide quae aequoreae semicaper, pignora nurus neci quaeris.
+  Quas loquor imperio **sparsae infames Sipylus** clausas **nomenque**, ille
+  lingua erudit vixisse Cynthus siqua quoque.
   Mihi latices.
 
   Sonantia et falli.
-  Per invia, haustum cinnamaque haec: [potura] fraudate
-  induruit cortice coniugis pascua iuvenes; somnum calido.
+  Per invia, haustum cinnamaque haec: [potura] fraudate induruit cortice
+  coniugis pascua iuvenes; somnum calido.
 
       gif = logic_queue(trimMirrorDdr, 2);
       if (flaming) {
@@ -76,20 +74,17 @@ text: |
       }
 
   Te lympha ab Lelegeia haec suadet, in cum, vir spatii in sanguine?
-  Vocantem
-  longeque quis soceri, tantum vel *pariter* saepe et aquarum Tereus, non
-  novercae
-  plenumque resecuta annum dis.
-  Mei sceptra negat quam iacentis; latuit quaerens
-  precor in laudisque cornua, funibus.
-  Annos neci mecum alimentaque, levis senecta
-  quique aguntur: avertere alimenta inlatum, Aeneae Babylonius?
+  Vocantem longeque quis soceri, tantum vel *pariter* saepe et aquarum Tereus,
+  non novercae plenumque resecuta annum dis.
+  Mei sceptra negat quam iacentis; latuit quaerens precor in laudisque cornua,
+  funibus.
+  Annos neci mecum alimentaque, levis senecta quique aguntur: avertere alimenta
+  inlatum, Aeneae Babylonius?
 
   Qua manu loquor versato huic vidisti vincas ex mei potuit.
-  Fuerant ter Sparten
-  figuram.
-  Post faveas inpositum quam saltu nomen et face mirabilis angulus
-  thalami omnipotens.
+  Fuerant ter Sparten figuram.
+  Post faveas inpositum quam saltu nomen et face mirabilis angulus thalami
+  omnipotens.
 
-  [clamore ait]: http://omgcatsinspace.tumblr.com/
-  [potura]: http://www.lipsum.com/
+  [clamore ait]: http://omgcatsinspace.tumblr.com/ [potura]:
+  http://www.lipsum.com/

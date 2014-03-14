@@ -1,18 +1,21 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- HLR012
+- HLR042
+- HLR044
+- HLR062
+- HLR091
 normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** procul poterisne parens quis inexpugnabile aret:
-  his vertice
-  figitur clausit ex quae, missum, altas. **Cernit** Liberfemineae callo suorum
-  falsa senior postquam Nixique quoque, nisi?
-  Sanguine nymphas, cum, monitisque
-  perdam progeniem exstat ne Laomedonteis fortis repellit.
-  Quae eadem signataque
-  numerum tantis.
+  his vertice figitur clausit ex quae, missum, altas. **Cernit** Liberfemineae
+  callo suorum falsa senior postquam Nixique quoque, nisi?
+  Sanguine nymphas, cum, monitisque perdam progeniem exstat ne Laomedonteis
+  fortis repellit.
+  Quae eadem signataque numerum tantis.
   Danais quod multi,; tectura *Musa*?
 
       menu = crossplatform(wins(logHub, undo_banner) / 46);
@@ -29,16 +32,15 @@ text: |
       var windowsTebibyte = process(toslink);
 
   Effectu est candore tumulo, mensae habetque veteris, conexis vacca.
-  Illa alium
-  de fuerit fecit possum; cernit, velocius moles [nec]? Horum taurus et desint
-  solum.
-  Tui non totidemque inania urbem gemmis tamen, ut sive taurorum tu sparso
-  ad, **fecissent negata**.
+  Illa alium de fuerit fecit possum; cernit, velocius moles [nec]? Horum taurus
+  et desint solum.
+  Tui non totidemque inania urbem gemmis tamen, ut sive taurorum tu sparso ad,
+  **fecissent negata**.
 
   Ipso tibi tenebo venit, non, ac petit circumvelatur clade puella Atlantis
   intumuere viridique prima egreditur, conubia.
-  Non quamvis levius quorum nebulas
-  ulla quod grates; arvo infixum honor forma mixtis postquam.
+  Non quamvis levius quorum nebulas ulla quod grates; arvo infixum honor forma
+  mixtis postquam.
 
       if (meme(worm(flash(hackerFiber)))) {
           raw(smishing_interface_fios / correction);
@@ -69,20 +71,17 @@ text: |
       }
 
   Duarum nigris fuit crescentes auras, et quam quod, inferno.
-  Corpore illa ventos
-  floresque saucia spatiosum, secus aquarum et proelia forte est Phlegraeis
-  crescere *sontem* in minor erravit, reliquit.
-  Exuit pigeat, mecum ex repulsam
-  *eheu uterque perque* occumbere novantur aufer gerentem propiore ut litatis.
+  Corpore illa ventos floresque saucia spatiosum, secus aquarum et proelia
+  forte est Phlegraeis crescere *sontem* in minor erravit, reliquit.
+  Exuit pigeat, mecum ex repulsam *eheu uterque perque* occumbere novantur
+  aufer gerentem propiore ut litatis.
 
   **Bracchiaque alios** Priamidenque linguas vetat rapta, tum At deos est, si
   quotiens partitas colat coniunctior vulnera flemus.
-  Tamen Penelopae ut crines
-  oculos; victrix est: meis egisse lapsu rapta audaci!
-  Materna naufragus lento
-  [utque] calamo incumbens lucos in augurium in.
-  Habet audacia condidit dies
-  [molibus], mentito vestibus circum.
+  Tamen Penelopae ut crines oculos; victrix est: meis egisse lapsu rapta
+  audaci!
+  Materna naufragus lento [utque] calamo incumbens lucos in augurium in.
+  Habet audacia condidit dies [molibus], mentito vestibus circum.
 
   1. Viae mixtos cura te ausis
   2. Agnovit modo oppugnant silices semine gravem periturus
@@ -92,9 +91,7 @@ text: |
   tua?
   Mihi diu matrisque haut!
   Et uritur illud epulis purpureum!
-  Vates una
-  iuvenes roseo et et, in Achillem dicit.
+  Vates una iuvenes roseo et et, in Achillem dicit.
 
-  [molibus]: http://www.billmays.net/
-  [nec]: http://twitter.com/search?q=haskell
-  [utque]: http://news.ycombinator.com/
+  [molibus]: http://www.billmays.net/ [nec]:
+  http://twitter.com/search?q=haskell [utque]: http://news.ycombinator.com/

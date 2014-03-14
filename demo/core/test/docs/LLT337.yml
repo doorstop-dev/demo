@@ -1,17 +1,17 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR053
+- LLR167
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum iubet desertae recurva *agmine Cephisius fuerit* vel
-  **unco**
-  ego!
+  **unco** ego!
   Abi contigerant distulit civit, [in] quo secundis quid quis artus virgine
   quarum mutabile tauri regia est Thesea.
-  Sedebant posito; ossa libat litora
-  nubilis ad solvit in vides.
+  Sedebant posito; ossa libat litora nubilis ad solvit in vides.
   Quam quem aras sinu, que est: **merum** iam ubi; et.
   Mars datos plagarum si cava viderunt!
 
@@ -26,10 +26,8 @@ text: |
   Fines foci crimenque caeli: tutaque sudantibus Venus Iunonem colla Quirites;
   esto uterque? [Arbore pompa]. *Sonantibus* quaeque ista: esse quo movet,
   verticibus usque erat pellem, [meae], equus.
-  Mediam pectora cui alternare
-  continui absit Asiae attollo.
-  Modo voluisse sequi si cineres donec interserit
-  miserrima **homini**.
+  Mediam pectora cui alternare continui absit Asiae attollo.
+  Modo voluisse sequi si cineres donec interserit miserrima **homini**.
 
   1. Loquendo velociter Haemonio filia circumlitus adde sinuavi
   2. Eleleusque adest devotaque nec suis potuit det
@@ -39,11 +37,9 @@ text: |
 
   Utraque duarum tuos Haemoniae habuit.
   Invecta peregit.
-  Ducitur vivaci veni nati
-  adopertaque sensi sinunt suaque eras dedit nec tum.
-  Dignior ait diu Acheloides
-  manum Euippe quod testantia, deos titulum. [Dea modo et] laetis aqua Pyrrhus
-  splendida, manus nunc inter miseratus.
+  Ducitur vivaci veni nati adopertaque sensi sinunt suaque eras dedit nec tum.
+  Dignior ait diu Acheloides manum Euippe quod testantia, deos titulum. [Dea
+  modo et] laetis aqua Pyrrhus splendida, manus nunc inter miseratus.
 
   Tibi celat sua audax ipso repulsam primo, perque tuus exsatiata, mortes quae.
   Hymenaeus exigui micantes refundit de **magna** Lycetum pars, biceps solet
@@ -56,24 +52,18 @@ text: |
 
   Augent nec bene inplebat turbantes portabat natum, fraude, ad valles herbis;
   tantum vagas guttura Troiae.
-  Sic pererrant aeternum cuspide: iuga, laevaque
-  deam: *ferrum* sanguine.
+  Sic pererrant aeternum cuspide: iuga, laevaque deam: *ferrum* sanguine.
   Et candida lacu!
-  Ego viroque et extensus solverat
-  excipit, scopulo, sive stipite nymphae haerentem quaeque Aurorae laesaque
-  favillam.
+  Ego viroque et extensus solverat excipit, scopulo, sive stipite nymphae
+  haerentem quaeque Aurorae laesaque favillam.
 
   Ait cognovi **virilem** cum mihi officiis *se ignes successit* bidentes
-  mendacis
-  et ponit se O. Quicquid angues sub illis Inoosque procurrunt auras suos aut
-  solidissima ponendi levitate: Lavini hoc illa nunc.
-  Nec deberi amantes omne
-  sonabile longoque paulatim tua medio faciunt pietate altera oppositoque vidi
-  cunctis submisit.
-  Arboris sed cunctis omnes ite imagine *amans Saturnia* ab
-  lumina *omnia*.
+  mendacis et ponit se O. Quicquid angues sub illis Inoosque procurrunt auras
+  suos aut solidissima ponendi levitate: Lavini hoc illa nunc.
+  Nec deberi amantes omne sonabile longoque paulatim tua medio faciunt pietate
+  altera oppositoque vidi cunctis submisit.
+  Arboris sed cunctis omnes ite imagine *amans Saturnia* ab lumina *omnia*.
 
-  [Arbore pompa]: http://zombo.com/
-  [Dea modo et]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [in]: http://omfgdogs.com/
-  [meae]: http://twitter.com/search?q=haskell
+  [Arbore pompa]: http://zombo.com/ [Dea modo et]:
+  http://www.youtube.com/watch?v=MghiBW3r65M [in]: http://omfgdogs.com/ [meae]:
+  http://twitter.com/search?q=haskell

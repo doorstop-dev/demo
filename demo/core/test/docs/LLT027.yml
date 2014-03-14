@@ -1,13 +1,16 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR021
+- LLR030
+- LLR067
+- LLR111
 normative: true
 ref: ''
 text: |
   Verify lorem markdownum facti et omnia at accessi summis cura circuit
-  auxilium, *unus*
-  habenas regis?
+  auxilium, *unus* habenas regis?
   Mentisque malorum aures messes, leucada pendens mater, solvit!
 
       xhtml_storage = seo;
@@ -31,20 +34,17 @@ text: |
       }
 
   Sinus subitarum nec ego vulnere [Lunae], unda ducitur?
-  Ossa sorores solutus
-  ignorat.
-  Et haud, dabant ictu **ambagibus** paravi altam cum ipse Scyrumve
-  [eundo].
+  Ossa sorores solutus ignorat.
+  Et haud, dabant ictu **ambagibus** paravi altam cum ipse Scyrumve [eundo].
 
   Undis quam multo frater et munus.
-  Victus hac certe Quid interea ipsorum vulgus
-  invidet, per pes ibat.
-  Limumque poterat spernimus vacuosque in simul: titulos
-  aera visaque dicere aevoque, at lumina Caucason.
+  Victus hac certe Quid interea ipsorum vulgus invidet, per pes ibat.
+  Limumque poterat spernimus vacuosque in simul: titulos aera visaque dicere
+  aevoque, at lumina Caucason.
 
   Regione siccat.
-  Otia postes oravere, Hypaepis temptat et Titani missus facundis
-  laude coniugis arduus.
+  Otia postes oravere, Hypaepis temptat et Titani missus facundis laude
+  coniugis arduus.
 
   - Et Achivi fugavi nati misit mutare exaestuat
   - Ab haesit causa fuit lacertis dolens decentia
@@ -53,11 +53,8 @@ text: |
 
   Nulla nectar potius calido resonat tepido; *nisi subiecit* oscula: grata sic.
   Verba inpositaque murram amoris, tulit ambieratque Panaque Euippe; et.
-  Vires et
-  fuit, et sit [filia hunc]; haud tellus stupuit modo.
-  Cervice liber; ita ire
-  observo annua harundine capellae illis demit.
+  Vires et fuit, et sit [filia hunc]; haud tellus stupuit modo.
+  Cervice liber; ita ire observo annua harundine capellae illis demit.
 
-  [Lunae]: http://twitter.com/search?q=haskell
-  [eundo]: http://www.metafilter.com/
-  [filia hunc]: http://heeeeeeeey.com/
+  [Lunae]: http://twitter.com/search?q=haskell [eundo]:
+  http://www.metafilter.com/ [filia hunc]: http://heeeeeeeey.com/

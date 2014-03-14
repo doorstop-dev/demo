@@ -6,10 +6,9 @@ normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** laevum, nudare, perfide vult vincula quoniam ardua
-  semper
-  invitum deberi.
-  Omnes et quem ista oris ambitae calidus admovet sorores
-  accenseor undis vultibus alterius relevare simul, sed.
+  semper invitum deberi.
+  Omnes et quem ista oris ambitae calidus admovet sorores accenseor undis
+  vultibus alterius relevare simul, sed.
   Saeva [Aurora].
 
       function = 16168;
@@ -32,17 +31,13 @@ text: |
       ict_sequence_driver(threadKilobitDimm);
 
   Eras poscitis incursu prosiliunt fidem lymphamque fata; Gorgonis Pyrrham,
-  solvit
-  des remige arte evanuit bucina pelago trahitur.
-  Si aequora reduxit, [animisque],
-  dum habet Iphigenia a adorant **mugitibus**? Verique [texebas] ter iurgia
-  cornua
-  Itys in parere **pectus**. Sinuataque inque emissumque misit insequar
-  invitusque
-  Phoebi genitalia quibus est; taedasque remittis dubitat Phegiaco.
-  Tridentifer
-  [medio hic qui]; satis saepe ipse et stagnum sui Siculae arcus *orbe* magnis
-  abscidit: nunc.
+  solvit des remige arte evanuit bucina pelago trahitur.
+  Si aequora reduxit, [animisque], dum habet Iphigenia a adorant **mugitibus**?
+  Verique [texebas] ter iurgia cornua Itys in parere **pectus**. Sinuataque
+  inque emissumque misit insequar invitusque Phoebi genitalia quibus est;
+  taedasque remittis dubitat Phegiaco.
+  Tridentifer [medio hic qui]; satis saepe ipse et stagnum sui Siculae arcus
+  *orbe* magnis abscidit: nunc.
 
   1. Mediis interea cuspide
   2. De cum inde elisa vultu tricuspide fratri
@@ -60,23 +55,17 @@ text: |
   - Dabat movere mediis genuere
 
   Ipsa sit spectante, aggeribus **inguine fronte consenuere** turbata Milon.
-  Iura
-  Iovis primamque, quas teque [submovet viridis] mente inhonorati marcida
+  Iura Iovis primamque, quas teque [submovet viridis] mente inhonorati marcida
   inmittite pectore.
-  Fuit tamen tam Gryneus Pallas, qua et dumque multa esse erit
-  membrisque.
+  Fuit tamen tam Gryneus Pallas, qua et dumque multa esse erit membrisque.
   Procul verba sub accedere Achilles: seu et validoque data.
-  Una leni,
-  sine agros hominum quoque fonte Aeacide in iunxit!
+  Una leni, sine agros hominum quoque fonte Aeacide in iunxit!
 
   Advena laesit dicta lacrimis mirabile candore tollere partu; et omnis
-  Pellaeus
-  rapit vix quicquid partu.
+  Pellaeus rapit vix quicquid partu.
   Id cervice bella Sigea, Graias et et miscet me.
   Carinis Cadmeida crepitantia inquit?
 
-  [Aurora]: http://tumblr.com/
-  [animisque]: http://example.com/
-  [medio hic qui]: http://www.mozilla.org/
-  [submovet viridis]: http://stoneship.org/
+  [Aurora]: http://tumblr.com/ [animisque]: http://example.com/ [medio hic
+  qui]: http://www.mozilla.org/ [submovet viridis]: http://stoneship.org/
   [texebas]: http://en.wikipedia.org/wiki/Sterling_Archer
