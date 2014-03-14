@@ -3,10 +3,12 @@
 """Randomize the requirements."""
 
 import os
+import sys
 import random
 import logging
 
 import doorstop
+import requests
 
 SYS = os.path.join('reqs', 'sys')
 HLR = os.path.join('reqs', 'hlr')
@@ -24,51 +26,72 @@ LLT_COUNT = LLR_COUNT * 2
 def main():
     """Delete and create new random requirements."""
 
+    # Parse arguments
+    delete = '--delete' in sys.argv
+
+    # Configure logging
+
     logging.basicConfig(format="%(message)s", level=logging.INFO)
 
     # Get current requirements
     logging.info("loading the current requirements...")
     tree = doorstop.build()
 
-    # Delete all requirements
-    logging.info("deleting the current requirements...")
-    tree.delete()
+    # Delete the old requirements
+    if delete:
+        logging.info("deleting the current requirements...")
+        tree.delete()
 
-    # Generate random requirements
-    logging.info("generating random requirements...")
-    document = tree.new(SYS, 'SYS')
-    for _ in range(SYS_COUNT):
-        _generate_item(document)
-    document = tree.new(HLR, 'HLR', parent='SYS')
-    for _ in range(HLR_COUNT):
-        _generate_item(document)
-    document = tree.new(LLR, 'LLR', parent='HLR')
-    for _ in range(LLR_COUNT):
-        _generate_item(document)
-    document = tree.new(HLT, 'HLT', parent='HLR')
-    for _ in range(HLT_COUNT):
-        _generate_item(document)
-    document = tree.new(LLT, 'LLT', parent='LLR')
-    for _ in range(LLT_COUNT):
-        _generate_item(document)
+    # Generate new random requirements
+    if not len((item for item in (document for document in tree))):
+
+        logging.info("generating random requirements...")
+        document = tree.new(SYS, 'SYS')
+        for _ in range(SYS_COUNT):
+            _generate_item(document, shall=True)
+        document = tree.new(HLR, 'HLR', parent='SYS')
+        for _ in range(HLR_COUNT):
+            _generate_item(document, shall=True)
+        document = tree.new(LLR, 'LLR', parent='HLR')
+        for _ in range(LLR_COUNT):
+            _generate_item(document, shall=True)
+        document = tree.new(HLT, 'HLT', parent='HLR')
+        for _ in range(HLT_COUNT):
+            _generate_item(document, verify=True)
+        document = tree.new(LLT, 'LLT', parent='LLR')
+        for _ in range(LLT_COUNT):
+            _generate_item(document, verify=True)
 
 
-def _generate_item(document):
+_LM = "Lorem markdownum"
+_LM_URL = ("http://jaspervdj.be/lorem-markdownum/markdown.txt"
+           "?"
+           "no-headers=on"
+           "&"
+           "no-quotes=on"
+           "&"
+           "reference-links=on")
+
+
+def _generate_item(document, shall=False, verify=False):
+    """Generate a new requirement or test case."""
     item = document.add()
-    item.text = _get_random_text()
+    text = _get_random_text()
+    if shall:
+        assert verify == False
+        text = text.replace(_LM, _LM + " **SHALL**", 1)
+    if verify:
+        assert shall == False
+        text = text.replace(_LM, "Verify l" + _LM[1:], 1)
+    item.text = text
     logging.info("generated: {}".format(item))
-
-# taken from http://pythonfiddle.com/random-sentence-generator/
-s_nouns = ["A dude", "My mom", "The king", "Some guy", "A cat with rabies", "A sloth", "Your homie", "This cool guy my gardener met yesterday", "Superman"]
-p_verbs = ["eat", "kick", "give", "treat", "meet with", "create", "hack", "configure", "spy on", "retard", "meow on", "flee from", "try to automate", "explode"]
-infinitives = ["to make a pie.", "for no apparent reason.", "because the sky is green.", "for a disease.", "to be able to make toast explode.", "to know more about archeology."]
 
 
 def _get_random_text():
-    return ' '.join((random.choice(s_nouns),
-                     '**SHALL**',
-                     random.choice(p_verbs),
-                     random.choice(infinitives)))
+    """Get random text using lorem-markdownum."""
+    response = requests.get(_LM_URL)
+    assert response.status_code == 200
+    return response.text
 
 
 if __name__ == '__main__':
