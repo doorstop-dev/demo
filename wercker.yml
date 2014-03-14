@@ -1,7 +1,6 @@
 box: josh/python
 build:
   steps:
-    - flenter/py-virtualenv
     - script:
         name: create virtualenv
         code: make env
