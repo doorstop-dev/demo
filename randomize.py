@@ -70,7 +70,7 @@ _LM_URL = ("http://jaspervdj.be/lorem-markdownum/markdown.txt"
            "&"
            "no-quotes=on"
            "&"
-           "reference-links=on")
+           "reference-links=off")
 
 
 def _generate_item(document, shall=False, verify=False):
