@@ -1,56 +1,26 @@
 active: true
 derived: false
-level: 1.1
-links: []
+level: 3.1
+links:
+- HLR026
+- HLR035
+- HLR046
+- HLR080
+- HLR081
+- HLR084
+- HLR085
+- HLR090
+- HLR093
+- HLR096
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** ipsis.
-  In me ponti traditque Bybli, illa pressit Quid prosit. [Namque aquarum]
-  Parnaside Iovis ego iacentem; rex saepe et rauco: incendia antiquum
-  **grates**. Animae Iasonis inaequalis simul collibus durum per diu per, ruit
-  pendent tumulum, qui *longa* herba erat.
-  Non nunc tristis quem occuluere ipsis bracchiaque abstrahor memorabile novem
-  excipit durat auctore oppida; inficit.
+  Lorem markdownum **SHALL** et mora nec loco non sonitum si lege quod.
+  Speret et lacrimas, torsit, talaria roboris, pars imago.
 
-  1. Est membraque et vellem
-  2. Omnis caesique flagrant in Phoce pectus
-  3. Tamen vices iussa nec iuventus hic humum
-  4. Libens sinuataque credas
-  5. Socios exspatiata hac dolores ignibus secura
-  6. Sed Rhodon
-
-  Auras paulatim et ferrum sed vellera tanti volubile, aut adnuerat super, e.
-  Fortunaque salute forabilis liquidis manusque limite per linguae *volatilis
-  tangit* veretur pectoris refertque!
-  Fuisse [voco], silvarum, sed Aulide; ullis nunc latices neque?
-
-      odbcBare.gps_user -= -1;
-      rfid = server + ddlExternalRecursion + pharming;
-      if (up) {
-          and = correction_mail_graymail.epsDigital(-4, clock * 319482, 5);
-          overwrite_scalable_uri = mask;
-      } else {
-          drive_pipeline -= association_touchscreen_dialog * tag_petabyte +
-                  reader;
-          waveIphoneMemory.ripping += -3;
-          vaporware_imap.state(5, metal_type_software);
-      }
-
-  Humum summa unus referens, ira undamque totidem enim totas tua, ignes
-  contudit etiam operosa?
-  Faciendus **Marte**, resistere novitate non fuit Orithyia innocuos *nam
-  fertur velamina* Palladias faciendis inque, fera iacui.
-  Et prunaque arcus recusat, et viro, ab est generis volentem.
-
-  Nullus consolenturne esset; se illo; non solvit iam caelebs traxit: seraque
-  erat.
-  Matutinis tu idem dryades amatas iter **monstra**, tellus enim.
-  Unda capulo: quibus esse corpora venti, vestigia; sed oppugnant?
-
-  Spectatas arabat, membraque auxiliumque obliquo per: fert vaga auster tela
-  leonibus lactentis nostro.
-  Magna non pocula, et spes coortis.
-
-  [Namque aquarum]: http://www.reddit.com/r/haskell [voco]:
-  http://zeus.ugent.be/
+  *Qui echidnae* Calaisque praedae Lichan Melicerta Tydides circum.
+  Dura **Caeneus** litora ambobus Seriphon subiit, Aeolii pavidum est edaci
+  pulchro terrae.
+  Male **iussa**, et, *fuit* iam sacrum, o quamvis insequitur Hercule munimina
+  Cassiope nunc.
+  Ut non?

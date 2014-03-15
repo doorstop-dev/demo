@@ -1,43 +1,37 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
+- HLR001
+- HLR002
+- HLR011
+- HLR018
+- HLR020
+- HLR027
+- HLR031
+- HLR037
+- HLR041
+- HLR042
+- HLR043
+- HLR044
 - HLR046
+- HLR052
+- HLR054
+- HLR056
+- HLR057
+- HLR069
+- HLR082
+- HLR086
+- HLR087
+- HLR088
+- HLR095
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** matertera erat penthea, [aere ordine], abit nec
-  ita sic neve, ille **sinus**. Seu ignoscere dignus mihi micuerunt solio, ulla
-  tibi inquit aequalis.
-  Color aura ulterius occupat?
+  Lorem markdownum **SHALL** columnae reminiscitur manus refert erat sum.
+  Ferarum ille pete Ino scopulos, arma relatis exibit venturi formosa.
 
-  Bimembres negat visceribus humo primo arboris dictis traxit, at *ulla*. Sive
-  tenderet.
-  Blandita Abantiades interdum extremis: quam sono, pervenit vivo; opemque
-  Phoebo!
-  Ei tectus naidas terris tu torvum refrixit, o Cynthia collo *in patruus
-  litora*. Et viri.
-
-  Nece hosne currendo sic.
-  Ratae erat et multi finitimi; contraria misit.
-
-  Manu freti fruges insistere calet est hunc e Plura moriuntur pulchro
-  propensum.
-  Nomine vigilans nec nullum pigra meum fulmina Neptunus calido promissi
-  ingredior multae tristisque rotato, ante tardos dimittit.
-  Tantae vastior: septem ferinos nabat nisi Clymene sua quid **veteres
-  hauriret**, deus pater.
-
-  Legi mirabantur in seque magis carpitur posito, euhoe artus.
-  Achivae [solent]. Amorem **ubi** arce, per, cor in fine opem.
-
-  - Tulit nuribus loqui
-  - Et suspicere at sub lumina serpentis duxerat
-  - Te stipite quoque Phrygios enim quam munera
-
-  Et narrare maxima; versos isto multaque, Iuppiter eas his epulis. *Dapes ait*
-  dignatus Latois et mens quereretur [silvis] Quirini *in fert* lapides?
-
-  [aere ordine]: http://www.billmays.net/ [silvis]:
-  http://www.thesecretofinvisibility.com/ [solent]:
-  http://news.ycombinator.com/
+  - Aut Naxoque ut ritu revulsos baculum cognoverat
+  - Utrumque artus legem simili diverso
+  - Munera ingemuit serosque canendo matrem
+  - Me has spatium nostri

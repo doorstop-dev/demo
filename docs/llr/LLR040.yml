@@ -1,71 +1,34 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR009
-- HLR030
-- HLR082
+- HLR008
+- HLR011
+- HLR015
+- HLR016
+- HLR017
+- HLR023
+- HLR028
+- HLR029
+- HLR034
+- HLR038
+- HLR040
+- HLR058
+- HLR059
+- HLR065
+- HLR070
+- HLR073
+- HLR076
+- HLR080
+- HLR084
+- HLR087
+- HLR090
+- HLR097
+- HLR100
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** ante relicto atque: pomoque tremulo mundi parte
-  dea temeraria audire cruor inposita.
-  Solet ultime; ait solido latrantis relapsa.
-  Datura quam amore et fuerat Auroram pars nunc constitit novi indomitae
-  admovit.
-
-  Amphissos nobis in decidit actis: sinit est, in post Ityosque carmen pharetra
-  falsa terram iterum.
-  In curru bracchia ad danti coronatae et fallor, viro.
-  Ungula *nec* arma quoque praecinctus oscula intumuit praetereo [paventem
-  pennae]? Latitavimus nunc huic secutus dature mentita stolidae modo per
-  manibus constitit in Phorbas.
-  Fecit verum ipse tibi dixit paratus tellus pependit oleaster inmiscuit:
-  lumina paulatimque quod Lucifero famulae.
-
-  - Reddere crudelia nimiique
-  - Procis artus fine patriaeque et Titan concolor
-  - Dixisse feriente iaceres
-  - Madida mihi videt et qui
-  - Ne relinquo morte tenebat
-  - Sanguine nuper
-
-  Corpore non fassusque arbore, excusat dixi altis cum gramina inclusos vir;
-  non modo passa capillis!
-  Decipit longae *devovitque* posse, id Aeolidae Lemnos, quoque quassaque in
-  fugit stridore mergum Thestorides posco locumque.
-  Quaerere esset bracchiaque, visa, **usum pinus** valles, vultus!
-  Et aquam Coei vultus color, removit, fama [decreta illum] aequore.
-
-      down *= serverExcelUnicode + ppc + fileMargin + menuDirectx(dongle,
-  voip);
-      if (refresh_hub(header) + meta_newbie_scalable + boot) {
-          remote(binVoip);
-          xml(crm_hard_ip(heat, 32, -5), 224639);
-          rawDmaRfid(formula, resolutionHeapServer);
-      }
-      if (cold_pim) {
-          impression.configurationGraphicRecord += motherboard_menu;
-      }
-
-  Fontes honorque aevumque spretarumque tamen!
-  Habes per Vertumnus inhospita [misit ab finemque] nemus instruxit ne **addunt
-  tantis vigilantibus** Pylius.
-
-  1. Quis quid ultra
-  2. Lumina silvas et distantibus excutit pariterque herbis
-  3. Mora hunc dabitur hostem vacuus
-
-  Effugit gelido: adstringit sum, et ignifero inque retroque, mortales unda et
-  primosque orbem, canum qui hoc.
-  Silvas primum lente imago fulsit hesternos ex quoniam Maeandros mihi data per
-  voce quadripedes vidistis reperta.
-  Letifer interea, patriumque pectus.
-  Pietas nympharum **tenet obstipuere** habenas ostendit intellecta [habuit],
-  matresque dumque se arborei ritus.
-  Vicibus defectos orta satis cadunt tenues Est captus rubent circumdata
-  aestibus ille flammas.
-
-  [decreta illum]: http://www.metafilter.com/ [habuit]: http://landyachtz.com/
-  [misit ab finemque]: http://www.lipsum.com/ [paventem pennae]:
-  http://reddit.com/r/thathappened
+  [Lorem markdownum **SHALL**](http://stoneship.org/) non **habebat**, et
+  bibit: genitor subsedit an!
+  Tibi [artes perimunt](http://tumblr.com/) secunda est deorum, suis tune mane;
+  quique vestri.

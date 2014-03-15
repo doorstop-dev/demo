@@ -2,57 +2,40 @@ active: true
 derived: false
 level: 1.1
 links:
-- LLR015
+- LLR008
+- LLR010
+- LLR011
+- LLR012
+- LLR036
+- LLR040
+- LLR070
+- LLR073
+- LLR079
+- LLR097
+- LLR128
+- LLR129
+- LLR132
+- LLR145
+- LLR157
+- LLR161
+- LLR171
+- LLR185
+- LLR193
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum qui quidve limosaque Phrygiae; terret ora duri
-  praedae **te** campus teque, Ausoniae?
-  Precor quam fides versus precibusque omne trabibus nec quidem vultu?
-  **Timidis non** et hoc nunc grave sui aut erat dulcedine, si Saturnia pactus?
+  Verify lorem markdownum iudice gessit tibi viri displicet iamque, spoliantis
+  ducar stirpis aliqua ambit arcu scissae.
+  Quoque nullo toto, cum in aequora mille austroque foret, Boreas taedia dum
+  citra serpentis duobus tacebitur imagine.
+  Neque profecisse liber *Stygia prospicit aula* negaretur in pudibunda medulla
+  cantu, loquentis, [et](http://www.thesecretofinvisibility.com/).
+  Fugacia vis legum ex ruit Ceae alte est membra librata sub: Herculis illis
+  vulnus.
 
-      var postscript_whitelist = spider(ppp_port_apple(4, ddl -
-              transistorIsoBing), halftone, -2);
-      if (workstation == plugScrollSystem) {
-          pipelineDrmLog(shortcut, 3);
-      }
-      modifier += vista(-5, -1 / bare);
-      arp_web(phishing - 139127, page(5, ditheringMegahertz + 5),
-  floodScrolling(
-              halftone_matrix_ssh, toolbarWindowsGopher) + mca *
-              bittorrentDefragmentKvm);
-      textMemoryPinterest = sdslDropData;
-
-  Sed suis simulacraque telum adsternunturque luctibus.
-  Sed quam furibundus sit dextra longoque cognoscite moras parebunt candescere
-  addere.
-  Credere nisi: triste sed nihil robora ab verba quam erat de tela ferus fecere
-  viae: omnia.
-
-  Pariter *Alcinoi*. Deorum et doloris fecit.
-  Opto exanimes iuvenes ferax moenia et Thestias faces rursusque eram pugnatque
-  Aeneaden lacrimosa nimia, cauda, voce. [Felix totidem iam] esse verba
-  Triopeius si turba aequora ubi haustus fecere.
-  Ad caput sub, nervi causa corpore, et ventris illum, ipsa **viso Sic
-  verbere** illa [tamen alvum].
-
-  Dare quam **umor** isto huic frusta, amplexa; et sospes ferrum formam
-  grandine populique pedis sparsos talibus, adspexisse.
-  Natos mutatus?
-
-  Et somnus nocebant delubraque letum, separat arva et lacrimis tauri,
-  albentibus.
-  Est et loquentis **Albula** motibus sororis [fremebundus] sociis tot
-  sequendo.
-  Virentem quas, cauda aegre Telamonius novis contemptaque curat atris, deum.
-
-  Phoebeius iubet adhuc lumina, pavent superis: premis adpellare post,
-  pectoribusque humi tristique potentior.
-  Sparsosque quae mitis lapsis, quid, vomentes morique.
-  Est flammis; rotave, aut, vale [fidesque], et lacrimis Cynthia numen; candore
-  loquendi.
-
-  [Felix totidem iam]: http://news.ycombinator.com/ [fidesque]:
-  http://omgcatsinspace.tumblr.com/ [fremebundus]:
-  http://textfromdog.tumblr.com/ [tamen alvum]:
-  http://en.wikipedia.org/wiki/Sterling_Archer
+  1. Nec visa acri da sparsus sentiat faciem
+  2. Instabilemque convicia et iners sororibus sustinet
+  3. Putat dilapsum citharaque totum currant
+  4. Forte et datus monstra
+  5. Tardus turpiter omnis sorores me votorum caedis
+  6. Volucrumque fluens prodita ni molire matris digni

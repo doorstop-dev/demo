@@ -1,53 +1,35 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR041
+- HLR008
+- HLR014
+- HLR035
+- HLR039
+- HLR046
+- HLR054
+- HLR065
+- HLR068
+- HLR072
+- HLR074
+- HLR080
+- HLR087
+- HLR091
 - HLR097
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** famularia marito dominumque partim nebulas.
-  Fide sine suae vulnera suasit custodia frondis rubefactaque remane
-  graniferumque vina est Parnasi, has terrae!
-  Per **sua**: nec traxisse spiris perque Phoebo arva certare est altius.
-  Suoque sunt aut in vident unus quoque **laboribus consequar** habent, non
-  nomen; nam campi madefecit novem.
-  Alti tenuissima, pater.
+  Lorem markdownum **SHALL** **e famae** exul tot Anaphen simul coepto, primis
+  praenuntia fovet saetigerosque faece; erant corpus fugias; regibus. [Hector
+  scopulis dant](http://zeus.ugent.be/) dixit donec caelo futura fateor *in
+  vaccae* terras.
+  Gemino induxerat caecaque semper sacrificat, Laelapa aevum [adscendit
+  peti](http://www.wedrinkwater.com/) et aderat.
+  Pro ire.
 
-  1. Tyrrhena cuspide
-  2. Te flammae acuto sua vidit mansit si
-  3. Serpit eos Iovis erat erat statuit nunc
-
-  Contigit via vincis, sit miscet, illius!
-  Et quique: nisi ille has Oenopiis **acrior**.
-
-  Cretaeas coleretur decurrere anguem e petens et residens miles copia,
-  silvasque altera.
-  Dum nomen fuit quorum volucrum vota mora expositum adfecit **proles
-  Alcyonen** et labi, se figit Iuppiter **fasque offensa**. Cladis **ut orbe**,
-  meminisse ignis gemitum sic recondita non, se quod.
-
-      direct_master(hoc_safe_redundancy, minicomputer_mp_input);
-      var quicktimeSession = word_view_scalable;
-      dvrYottabyteFont = 3 + nosql_megabyte(rom);
-
-  Partem pede, **non venter** et voco cetera exire inpono duris, vel?
-  Causa rura, certeque pluma, adunco sanguine **latus** cum seposuit et mendosa
-  **quondam tangi**.
-
-  1. Sum clivum erat quemque violata minus removit
-  2. Iuvenis caelo
-  3. Hac mira excussaque oneris accipe flava silentum
-  4. Terga seque non
-  5. Hector adsiluit paravi mensuraque natus patria
-  6. Plus pares visa
-
-  Telamon quoque lassataque rigent usus cum prior deus flammis alimenta vocat
-  [sic]. Urit quam esse vices *alter catulo* Phrygiisque quidque tenentibus
-  hanc, aram equidem intrat, in illo Philomela.
-  Supplex aut notavi deae timor ramos: Licha tendentem quidem pro Occupat
-  ambitae!
-  Aula signa totiens?
-
-  [sic]: http://news.ycombinator.com/
+  Concita *patris* mari rapidas et gloria vellet hamatisque vestigia inductum.
+  Puer veniebat tanta tam fraterque nigra obice, inventum mota, imbribus ait
+  ipse dominum.
+  Refugit dixi sit sororis cognovit, tauri Aegides retia testes amores, neque.
+  Palladis infundere multa validis, solverat harenas euntis nube facientes
+  positas.

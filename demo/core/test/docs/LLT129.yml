@@ -2,55 +2,36 @@ active: true
 derived: false
 level: 1.1
 links:
+- LLR015
+- LLR016
+- LLR017
+- LLR025
+- LLR027
 - LLR029
-- LLR041
-- LLR067
-- LLR085
+- LLR035
+- LLR036
+- LLR070
+- LLR091
+- LLR101
+- LLR105
+- LLR114
+- LLR122
+- LLR124
+- LLR126
+- LLR138
+- LLR139
+- LLR142
+- LLR143
+- LLR152
+- LLR153
+- LLR157
+- LLR171
+- LLR174
+- LLR184
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum purasque deos primus dea arma, ergo turba magnanimus,
-  amoris dura unus et castos.
-  Duo est umbraque ut restant Aesonis nostros turbata amantem umeros.
-  Repulsa salutifer et noctem picto occupat: hanc sit: quae.
-  Sinit redeuntis in exarsit Cinyra quondam nec est Troades visam.
-  Sceleratus malis spatiumque illinc finita.
-
-  1. Ubi forma imis superi et viso fecit
-  2. Aguntur pendebat uritur Parcite ira non arbor
-  3. Inque serta insequitur pars damnosasque fugerat creditus
-  4. In Danae neu
-  5. Et saevior defendite mali est saepe hydros
-
-  Dubiis post cursus, sed terra Baucisque magnae qua venabula nulla timentur
-  Bubasides lumina, tulit quod.
-  Erat muneris, et nescit unguibus, cum fuit, ubi.
-  Dixit iungit quae Sibyllae perit perpetuo. *Ex quae* aestuat aura sinisterior
-  quod haesurum spina radiantia numina iura, enim parvis innumeris.
-
-  - Laeva fiet
-  - Classe nemorumque corpora felici vipereos in quae
-  - Quid laudata cruoris imagine fores
-  - Magnus tu si
-  - Animalia iactant fugit lumen comas in aves
-  - Honorem et matris tum abdidit minus eripui
-
-  Illa haec post petunt at **quater si super** tenet nutritur: deceptus Ixiona.
-  Adspicit suam, magis fatebor, labor sententia duros procellae me saepe
-  positoris secundum, canor **tibi funesti fracta**. Rugosoque ire natalibus,
-  ei i Delphos nonne dixerat *facta placuerunt* iuventus amantem fulminis
-  puerpera non vires tuae!
-  Oculos in ut eminet, cum, *caede*, declinat vestem potuit in perque amor Quid
-  meaque, si.
-
-  - Sua cum postera natura doloris
-  - Viscera morsus ramis ipse tectoque
-  - Ipse postquam tristis invida
-  - Unda surgit meis caput datam viri non
-  - Tibi parente corpore hominum in quadrupedes manus
-  - Spe quae exstimulat nescio
-
-  Freta [foedus terram] mille exta fertur flammas formae dictis?
-  Veros nec ferentes nomen?
-
-  [foedus terram]: http://stoneship.org/
+  Verify lorem markdownum summis.
+  Sine citra et undis construit **decuit sua**, perire torum illa.
+  Sceptro [creber tuas raptae](http://seenly.com/) vacuis inutilior insistit
+  volutant telis!

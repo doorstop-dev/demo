@@ -1,53 +1,25 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR006
+- HLR010
+- HLR014
+- HLR025
+- HLR034
+- HLR037
+- HLR040
+- HLR043
 - HLR046
-- HLR054
-- HLR074
-- HLR088
+- HLR050
+- HLR055
+- HLR056
+- HLR061
+- HLR067
+- HLR078
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** veniam timor virentem nec [precesque inrita], sine
-  functus, pectus: tenues et.
-  Siqua revelli Piraeaque novissima unda; est nec hominis pollice [virago] dum.
-  Linquendus rapitur notum: erant sed: dixit detrahis conanti surgit fluentibus
-  sine garrulitas, nobiliumque missa profuit traherent.
-  Parabat at velle: dispar vestrumque **sermone** pende retemptat.
-
-  Licet tantum Iovis, pontus [Argolico]. Alatur et fortissimus Tydidae
-  spectatam tibi, bos per ad patet et ora.
-
-  Senior medium humanum aequore facis repugnat alta, nati socium clarus nostris
-  capillos os pelagi fortuna tangit io?
-  Dominus Phocis: ignibus omnis rura: et est ferrumque et iussit auferor aptae
-  Phoenicas domibus.
-  Tuta *coniunx soceri ille* tenetis nihil sed mihi Perseus grege moderantum
-  puer **profugaque**.
-
-  Pericli capulo.
-  Nunc voluit!
-  Viro pietas freto; quod et descendit pone ferar At ignes!
-  Pars perstat curasque invidiosus honorem **notas**.
-
-  Lapis profuga frustra, Thestius pennisque vaticinor in traho ibi longius
-  simulacraque?
-  Terrae aequoris agmina.
-  Legit voces, in Coei?
-  Saepe dare non qua credulitas domum *umeris* murice aut.
-  Tremebunda euhoe.
-
-  1. Cum suam recepit Luna tamen molire tu
-  2. Timuit baculumque per ferre aspera notavi Solis
-  3. Nigram et quidque imbre obliquaque iactatis non
-  4. Quibus poplite
-
-  Possum **regia in** suos, in animumque corpore quisquis **nomine**, efflant
-  tellure, terras.
-  Terrore tristisque proceres.
-  Qui curru in undae, quoniam ede est prohibente quos superi!
-
-  [Argolico]: http://news.ycombinator.com/ [precesque inrita]:
-  http://omfgdogs.com/ [virago]: http://haskell.org/
+  Lorem markdownum **SHALL** levis et rudi plaustrum latitantia herba, postulat
+  sacra, raucis.
+  Quem quoque.
+  Nitidissima patefecit, sua antro Caenis perque et populo constitit denique?

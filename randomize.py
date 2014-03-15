@@ -16,23 +16,22 @@ LLR = os.path.join('docs', 'llr')
 HLT = os.path.join('demo', 'cli', 'test', 'docs')
 LLT = os.path.join('demo', 'core', 'test', 'docs')
 
-SYS_COUNT = 5
+SYS_COUNT = 50
 HLR_COUNT = SYS_COUNT * 2
 LLR_COUNT = HLR_COUNT * 2
 HLT_COUNT = HLR_COUNT * 2
 LLT_COUNT = LLR_COUNT * 2
 
-MAX_LINKS = 5
+MAX_LINKS = 50
 
 
 def main():
-    """Delete and create new random requirements."""
+    """Create new random requirements if none exist."""
 
     # Parse arguments
     delete = '--delete' in sys.argv
 
     # Configure logging
-
     logging.basicConfig(format="%(message)s", level=logging.INFO)
 
     # Get current requirements
@@ -43,6 +42,14 @@ def main():
     if delete:
         logging.info("deleting the current requirements...")
         tree.delete()
+
+    # Generate random requirements if needed
+    _randomize_items(tree)
+    _randomize_links(tree)
+
+
+def _randomize_items(tree):
+    """Create random item text if no items exist."""
 
     # Generate new random requirements
     items = []
@@ -74,13 +81,16 @@ def main():
         for _ in range(LLT_COUNT):
             _generate_item(document_llt, verify=True)
 
-    else:
 
-        document_sys = tree.find_document('SYS')
-        document_hlr = tree.find_document('HLR')
-        document_llr = tree.find_document('LLR')
-        document_hlt = tree.find_document('HLT')
-        document_llt = tree.find_document('LLT')
+def _randomize_links(tree):
+    """Create random item links if none exist."""
+
+    # Get documents
+    document_sys = tree.find_document('SYS')
+    document_hlr = tree.find_document('HLR')
+    document_llr = tree.find_document('LLR')
+    document_hlt = tree.find_document('HLT')
+    document_llt = tree.find_document('LLT')
 
     # Generate random levels
     links = []
@@ -99,7 +109,7 @@ def main():
                               (document_hlr, document_hlt),
                               (document_llr, document_llt)):
             for item in child:
-                _apply_random_links(item, parent)
+                _randomize_item_links(item, parent)
 
 
 _LM = "Lorem markdownum"
@@ -117,10 +127,18 @@ def _generate_item(document, shall=False, verify=False):
     item = document.add()
 
     text = _get_random_text()
-    if shall:
+
+    if item.level == (1, 0) or (item.level[-1] > 2 and random.random() > 0.75):
+        words = text.split(' ', 10)[2:random.randint(3, 10)]
+        text = ' '.join(words)
+        if item.level != (1, 0):
+            item.level = [item.level[0] + 1]
+        item.heading = True
+
+    elif shall:
         assert verify == False
         text = text.replace(_LM, _LM + " **SHALL**", 1)
-    if verify:
+    elif verify:
         assert shall == False
         text = text.replace(_LM, "Verify l" + _LM[1:], 1)
     item.text = text
@@ -132,10 +150,13 @@ def _get_random_text():
     """Get random text using lorem-markdownum."""
     response = requests.get(_LM_URL)
     assert response.status_code == 200
-    return response.text
+    paragraphs = response.text.split('\n\n')
+    count = random.randint(1, min(3, len(paragraphs)))
+    text = '\n\n'.join(paragraphs[:count])
+    return text
 
 
-def _apply_random_links(item, document):
+def _randomize_item_links(item, document):
     """Randomize an item's links."""
     item.links = []
     for _ in range(random.randint(0, MAX_LINKS)):

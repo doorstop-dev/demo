@@ -2,57 +2,51 @@ active: true
 derived: false
 level: 1.1
 links:
-- HLR075
-- HLR077
-- HLR091
+- HLR002
+- HLR005
+- HLR007
+- HLR011
+- HLR015
+- HLR018
+- HLR021
+- HLR023
+- HLR025
+- HLR027
+- HLR028
+- HLR030
+- HLR031
+- HLR035
+- HLR037
+- HLR038
+- HLR042
+- HLR043
+- HLR044
+- HLR046
+- HLR047
+- HLR048
+- HLR049
+- HLR050
+- HLR053
+- HLR062
+- HLR064
+- HLR067
+- HLR069
+- HLR072
+- HLR073
+- HLR079
+- HLR082
+- HLR084
+- HLR086
+- HLR087
+- HLR095
+- HLR099
+- HLR100
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum neve, locorum dicebant puppes gravi pomi pontum
-  senectus exitio. **Fata duas** Atrides oculos oscula Saturnia exsulta
-  disertus et Iovis; nempe **loca tamen**? Et **Venerem sorores** clipei per
-  oculos rubescere foret consequitur refert.
-  It Saturnia factum **est bina** incandescit non vatibus: esset.
-
-  - Est erat mortalis alis orbem senex fibris
-  - Iterum non felix tuos
-  - Moras lacrimis aera
-  - Qui verba deformes captis
-  - Sua sub luna moenia spumantia Othrys animosque
-
-  Se sistetur plurimus segetis potuit.
-  Pomoque credite dives, Amnis post tollere rati capro, ego [et eripies]
-  vertice solet numen venerit, indignantibus.
-  Cernimus fidesque tibi voce de pars reddidit aderant, pronas nec nisi non
-  lenimen solebat tantum in credula **laudabat** Phoebi.
-
-      installer += 4 - displaySla;
-      readerInterfaceAgp = responsive_paste - soa_parse_pack;
-      if (expression) {
-          repeaterPlatformText += matrix;
-          bitmapParity.schema(hit_esports_boot);
-      } else {
-          networkText = bit * functionApi;
-          bcc_upnp_spool *= platform(odbcMenu, rpm_on * operating_web);
-          uddi -= thickWhiteSdk;
-      }
-      character_sector_ppga = clone + 3 - ram;
-
-  Deducit equo!
-  Tyrios velamina exiguo cum omnes aeripedes dixit [Frigus tamen undique]
-  fluminis pietate numina reminiscor pectus.
-  Protervis suis votum in querno fuit!
-  Ferox ad publica portentificisque nutricis contulerat tremuere inter, propter
-  retentus et signa tegitur partim, in eodem.
-  Est Scylla *septem* Achilles dabat in manus in vestibus adire.
-
-  1. Sic tot quamvis nonne
-  2. Atque aether
-  3. Arbore Ulixem nomen
-
-  Ligdo mox.
-  Rus perstat, cuspide labores iusta cruentum Finierat, tollens desertae
-  corpora imo callida nullaque et nefandis?
-
-  [Frigus tamen undique]: http://omfgdogs.com/ [et eripies]:
-  http://www.mozilla.org/
+  Verify lorem markdownum linguae vulnera: ecce Isthmo diva vivitur pictis
+  hanc.
+  Exire et ait agrestes oscula tumet festinat lympha nullo.
+  Agiturque procul, turbasti fulva celebrant sequitur manus, arma ficta esset.
+  Cum alta, si adfixa *stratis et additus* clarum; de naides?
+  Rubescere ingentem urbes; sive suco ille; nisi supervenit.

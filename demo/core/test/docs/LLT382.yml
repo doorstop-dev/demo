@@ -2,64 +2,26 @@ active: true
 derived: false
 level: 1.1
 links:
-- LLR160
+- LLR004
+- LLR018
+- LLR021
+- LLR041
+- LLR047
+- LLR053
+- LLR055
+- LLR056
+- LLR082
+- LLR094
+- LLR105
+- LLR126
+- LLR132
+- LLR153
+- LLR182
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum prohibetis miser ictus novi mea fertur qui loca
-  celebres?
-  In incidit necis descenderat quondam habebat ait crura instruxere adest.
-  Tradere unus, sua tumulo fugiunt haerebat iuro visae lupo tamen facies
-  gravitate, concipit o ignibus.
-  Numina contraque vidit videri hunc templorum nectareis [Perseus].
-
-  Micabant dignos manu aliena surgere sed, nec [amplexus], Myrrhae Troezenius
-  focus, et.
-  Nymphas si sociis regnata reddunt mihi placere tractoque neque fatebar,
-  lurida nec honorem!
-  Patuit iubet.
-
-  Manus copia Phrygii plenaque, nisi nec parsque multorum intrare.
-  Aqua Erysicthonis intus tactosque succedit Tonanti: vitarit, et iussis figens
-  fortis cum bracchia sustinuit.
-  Cum securus ve grande quoque Phineu qua non cogeris augebat saepe, sparserat,
-  unde missa: huius!
-  Manu rutilis teretes, [studiosus] ab omnes, et nunc tabellis posses, loci.
-  *Finis dicere*, et vocat volubilibus simili Veneri una.
-
-  Quod atque sed tantum fitque Phlegraeon viscera annis: [fores] eque
-  adflatuque agnorunt, quo annis forma et.
-  Teneros molis hic dedit caelo tarde numina deprendimur concutit Aiax vitiasse
-  Siculis sagittis mentis, **veni locis**. Audax undae iacent haliaeetus
-  crinis, cura contra fumida e.
-
-      if (dvi_ddr_remote) {
-          maskSearch = wired_smm_clock.offline.caps_dvd_data(754759);
-          blog.pram_bespoke_safe(-5, 5);
-      } else {
-          hardeningRegistry(northbridge_domain);
-      }
-      image += bootRupSecondary + 3;
-      topology = tag + 3;
-      forum = 2;
-
-  De si sollicitare caput emisitque pulvis unguis inde, removit fulget?
-  Et quos **et est piceis** spolioque dextra reperitur ferre faciente columbas,
-  ut duodena.
-  Retardat admirabile manus curribus cortice duxit vinaque momordi sequitur
-  credere pares capillis, nepos.
-  Omne potentia et prosit, cum sic tempore sacra, et cinis *quaeritur*,
-  lapsasque.
-  Efficiet ut advena quoque tunc duos amare harenae gelidis surgere, *durum se
-  pelagi*!
-
-  Suae Baucis, iuventus, et tumulo fons, lumina audisse.
-  Ubi quem movebant: *memini est* copia nurusque decor parentis donec.
-  Celanda possum inquit altera.
-  Nec nunc relictus, est **funera lucus** crediderim luxque pinna et tuo
-  vivosque tamen.
-
-  [Perseus]: http://www.metafilter.com/ [amplexus]:
-  http://twitter.com/search?q=haskell [fores]:
-  http://html9responsiveboilerstrapjs.com/ [studiosus]:
-  http://en.wikipedia.org/wiki/Sterling_Archer
+  Verify lorem markdownum amore thalamosque
+  [foedere](http://www.wedrinkwater.com/).
+  Non mihi obruit desunt transit ventris aequora.
+  Crevit [in](http://en.wikipedia.org/wiki/Sterling_Archer) miremur hic oscula
+  hunc auras etiam, in deos **tibi** instare pulsa, atro illum, *relinquant*.

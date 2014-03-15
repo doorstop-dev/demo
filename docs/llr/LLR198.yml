@@ -1,73 +1,34 @@
 active: true
 derived: false
-level: 1.1
-links: []
+level: 3.1
+links:
+- HLR006
+- HLR024
+- HLR038
+- HLR046
+- HLR054
+- HLR057
+- HLR061
+- HLR062
+- HLR064
+- HLR093
+- HLR097
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** dubitat, est tenet moenia; iacet tanta meque anus
-  ullo **et**. Dextra nunc latuitque aura conspectior rerum tonso velit
-  dubitati ira.
-  Ipsamque riget es cervice vincula Circaeo, ab meque labuntur reccidat;
-  consilioque.
-  Malignas frenabas habeo se intravit fessusque fluidoque cadat *sequiturque*
-  iusto inbellibus et aere vix: neu diri pectus corpora ut.
+  Lorem markdownum **SHALL** simul, qua quodsi, sed tauri aer Priamus videre
+  concubitus annis per sic suae.
+  Apertos sternentemque est excutit [ducit](http://www.lipsum.com/) gemino
+  atria, illa passisque silentia, quam enim rapite, ore optas ut.
+  Merui nubibus placet [promissa vultus](http://eelslap.com/).
+  Duplex vise norint putes, duo nunc pedibus carceris redit.
 
-  1. Pedum multa te iuventus aliter
-  2. Alti Aethionque foedera
-  3. Flammis cursus non mors duri in qua
-  4. Sed camini residunt interea
+  Nec coniunx dies, solent sede supprimit ignis, arma tanti.
+  Dicar Haemonio Arcton nebulas, glomeravit ubi, silva liceat tigridis!
 
-  Properatus nihil exstanti, incidit valent silva.
-  Omnia si abest Phoebes pacatum: non quo!
-  Est ab damna freta: sub nec somnus acti, sub longi circumdata cornicis.
-  Residentem caelo relinquit [certare occurrensque] sibi est qui Troiana aquas
-  [dique velis]!
-
-  Visa monstra.
-  Pependit et Zephyro utilibus communem **glaebas** herba acti, deus potentia
-  [altaria]! Erant nobis altior litora **ego fraga**, pura virgo, hac est
-  feruntur auras sub fruitur iuncta, praestant.
-  Corpus ipse, cui mecum?
-
-  Et [tantoque non] est in, nuda nescio alas Vulcani tolle hector, dum aliquid
-  subitae.
-  Sermone secreta soporem requirenti segnibus referat sacris.
-  In vero et, Arcadiae certa innato truces, effigiem.
-  Deus longus, liquebat dignus spatiantibus inter Amphitryoniaden situsque
-  Cecropidum enim: dictis illi Rhoetus anilem, sit a.
-
-      if (4 >= technology_barebones_facebook) {
-          recordBps.us_e_desktop.media_compile_and(5 + fileSeoModule);
-      } else {
-          column_radcab += commercial(65, -5 - firewire, balancingEps);
-          driveShareware = -5;
-          server_wildcard += flatbedWordFlash;
-      }
-      boot.coreLog = word;
-      if (-3) {
-          master_megabit = bar;
-          barebones_class_volume += bank_keywords_string * markup -
-                  clipboard_system_target(5);
-          publishingTerahertz(ppgaCcdCore);
-      }
-      var rpmText = memoryErrorForum;
-      suffix(-4 - 3);
-
-  Voluptas undis est tamquam iaculum Semiramis et magnaque pronus secernit.
-  Moribunda innecte, unda summam lege odorant evulsum fit quondam [poena].
-  Tamen primosque nitidis rogat coniunx.
-  Oris mea et turgida *Aetnae nutantem videndum* sonum quam novercam fata
-  hactenus.
-
-  Thalamis eventus vos?
-  In modo dat aqua, inseruitque mihi Sidonis loco caelo integer certos at
-  latura.
-  Te nil possis, Sithon pascitur relinque.
-  Sit deos, haec [ense]: et tulit in quid Aphidas invidit.
-
-  [altaria]: http://tumblr.com/ [certare occurrensque]:
-  http://reddit.com/r/thathappened [dique velis]:
-  http://kimjongunlookingatthings.tumblr.com/ [ense]:
-  http://kimjongunlookingatthings.tumblr.com/ [poena]: http://omfgdogs.com/
-  [tantoque non]: http://seenly.com/
+  Unda cornua ausorum praedivite solet narrasset fertur annis regia num.
+  Differt te diva sonanti duobus Theseus acuti: populi moveant.
+  Fugit depositoque finierat cuspis, non male procul, duplicataque pennas
+  addere subvectaque cono corporis rectior posce.
+  Colubris habebant, in stagna.
+  Fodiebant vigor.

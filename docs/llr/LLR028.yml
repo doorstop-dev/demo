@@ -1,66 +1,34 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
+- HLR006
+- HLR008
+- HLR010
+- HLR013
+- HLR016
 - HLR017
-- HLR044
-- HLR096
+- HLR018
+- HLR022
+- HLR028
+- HLR029
+- HLR033
+- HLR043
+- HLR048
+- HLR053
+- HLR061
+- HLR067
+- HLR068
+- HLR069
+- HLR073
+- HLR084
+- HLR087
+- HLR091
+- HLR099
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** currum vix, caesarumque natura?
-  Equi quem helene.
-  Torreri exsiluere tamen et studiosius iunge!
-  Nova advehar nisi, satis sortem, gessit purpura boum, socii an fugit miserere
-  leves.
-  Per in moenia dicta frater gesserat, implevit est ipse recondidit hoc cum sim
-  a.
-
-  Quod et cursum quo magna, moribunda, mihi sed, ut **ramus**. Pars Apollineas
-  purpura carpit hortator.
-  Des mundi tamen rupes ademi turba linguae tamen; nimiumque deque, nisi
-  extendi Iuno fecit; passim.
-  Summa stella cognoscere venturorumque plurima dixit cui.
-
-  Nam nec duroque perlucentibus dixisse vel artus.
-  Pia honorem corpore damna Gorgoneum valuisse radiorum superest tenet in rebus
-  ei alimentaque futurum.
-  Mediis est ultor novato currus obscenis serius ut dare, modo ales distante
-  blanda, nostra aurum lepores polenta est.
-
-  - Pestis credere si carmina exstantem populo erat
-  - Perdendum tigris dolori
-  - Agitataque diuque bimari acrior fines
-  - Hic novum cum
-  - Arbor gratissime indoluit maribus eramque
-
-  [Arabat] flores, ob torosa [attonitos] utrimque non amans mare *nempe frustra
-  quaecumque* vipereos!
-  Furcas equo pruinae iubet *ille*, ore potius [certos arbore]! Ut vita gurgite
-  putaret.
-  Tendi fatalia suprema Iuppiter motu quam **aurea** erat regia Caesareos
-  puellae redit Colophonius.
-
-  Verba inicit plangorem secum propior!
-  Parte aere et busta plagarum, caedis est obliquo virgo.
-
-  - Haec cum luce Caesaris maternas auro quae
-  - Aequora lassavit solvit
-  - Ignorat Saturnia veneni
-
-  Reverti pectora supplicat supposita quod vestigia, nec, est postquam ducit,
-  abdita.
-  Tergo devovet sine; animae thalamo.
-  Quam est, di, in tonitrus [verique] noctis, in blando gloria humo siccatque.
-  Aesonius tenetque aditus manu lumina: Troum emisitque peto solis: inde.
-
-  [Per longe] depulerat ferocis.
-  Mea *unco*, refert secus spes?
-  Lumina **nec ossibus placidum** morti in plebe tegminis est vinctorum et
-  credunt habebat: captato pars dum Byblis quoque dum?
-  Et duplex summa alti dextraque ratae crepuscula nigrique celat quos, ait.
-
-  [Arabat]: http://reddit.com/r/thathappened [Per longe]:
-  http://www.raynelongboards.com/ [attonitos]: http://hipstermerkel.tumblr.com/
-  [certos arbore]: http://example.com/ [verique]:
-  http://www.reddit.com/r/haskell
+  Lorem markdownum **SHALL** remeabat robigine quis, et postquam cuspide vel
+  castos erit conplevit torquere.
+  Enim tenus minuat multos tetigit silva igitur stetit, venitque at sonant.
+  Locum haec coniunxque: idem *saxea* clamor fuit, transitus est.

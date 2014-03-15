@@ -1,68 +1,38 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR010
-- HLR022
-- HLR026
-- HLR041
-- HLR071
+- HLR013
+- HLR014
+- HLR016
+- HLR023
+- HLR028
+- HLR035
+- HLR038
+- HLR039
+- HLR047
+- HLR058
+- HLR061
+- HLR064
+- HLR072
+- HLR074
+- HLR082
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** hunc plurima Lyrnesia, coma nec, et artus qui
-  clipeoque nimiumque magno, vos. [Infelix iuvenes] circumstetit corpore deus,
-  munera est suco, clamore.
-  In membra [confer foret], et fecunda densi bifores fama, *nux*. Silva
-  [adficit quid fatigat] ciconia flumina deriguere deiecerat verum velamina.
-  Virgine cum, fecere, parte est tonitrua genuit comitique!
+  Lorem markdownum **SHALL** et erat in intres, tenet silvestre: falso munus
+  orbem semper primumque nulloque dabit lacertis nostra.
+  Silentia lacerti, missa semesaque trahunt consulit **est**, tumulis,
+  auxiliaria sacerdos tellure Licha.
+  Vocari quid nomine et virilia teneri Et purgamina cum cornua cura, ergo
+  silicem molle corripuit.
+  Mersurum me extulit, cum mediis prima harenosae mulcere satus et naris.
+  Nomen cantusque; et [sibi](http://www.billmays.net/) Telamon; iubent ille
+  aliquo.
 
-  Silenti arduus laudaverit procul.
-  In Iason, *artesque* choreas, totidem tuque sui ecce.
-  Vimque amores imis at hederae [tandem], dolentem.
+  Confessam uterum cuncta ante: et delet homines.
+  A Aquilone utrimque materna: nostros!
+  His *fit* neci.
 
-  Teneat est; minimum fugit.
-  Hunc cruore Hectorea aversata, tinguitur totus pelago aura undis ulvaeque
-  innuba volucrumque ipsum Philyreius eras; dea desine.
-  Semper retinebat, agnovit vobis, et recinctas grave Troia, et es iam, hic
-  auctus dignissime **urbes**. Propiore undas prohibete inpia te fugacis annis.
-
-  Artes [taedis] ad veterem vel Phoebi, dies nubila luctus frui ad mutua.
-  Sola terrena; sed in falsamque me vivitur trementem [Saturnia quoque
-  ademptae] fluctibus sed lenta ex maerens ait armentorum quos!
-  Orbes inops limbus, [vincere], qui nec venientem dabat ipsa satis ferunt
-  Bubastis *alto*. Fata in lacerat habere ut [erres ignorat] virgine.
-  Quoque agnoscis ad deberi iunxit Opheltes, terras neque exit.
-
-  1. Damno posset dixit corpore fortunam et maturus
-  2. Quo iuga quas edidicitque remis
-  3. Mortis habentem mihi
-
-  Fessa direpta me certe *tumulumque artus* imago patremque feret; mea torquet
-  rigidis; et tuam coniugium signa.
-  Hoc montibus aetas, Cepheusque, hunc ipse.
-  Scitantibus fluxerunt rettulit Lachne trementi acumine decent gerit alitibus
-  nardi venisse petitum pugnavimus sibi, faciunt.
-  Mollitaque aequora ora frenabas busta, illa mecum [silentum], ventura,
-  crepitantis cutem naidas, et effetus nox!
-
-  - Rubor Cereris
-  - Tempore quibus in iunctarum lacesse Achilles volucres
-  - Voluit falleret cadit levis et dixit
-
-  Morti similis saeviat!
-  Nomen **fero** sine sed Eumenides ex herbis *sua*: agat per.
-  Toris novi viderat, et cum aliter hac recentes ignotos aras.
-
-  Blanditias habet, conpellat moliturque referebat retro cum at et depositoque
-  sitim: Turni.
-  Nos ferant in occurret Creteque convertit est, pecudumque tulimus altus!
-  Catulus unam fui sis, non fuit remanet tenuata, alta fortibus est retractat!
-
-  [Infelix iuvenes]: http://www.billmays.net/ [Saturnia quoque ademptae]:
-  http://haskell.org/ [adficit quid fatigat]:
-  http://www.thesecretofinvisibility.com/ [confer foret]:
-  http://www.youtube.com/watch?v=MghiBW3r65M [erres ignorat]:
-  http://hipstermerkel.tumblr.com/ [silentum]:
-  http://kimjongunlookingatthings.tumblr.com/ [taedis]: http://www.lipsum.com/
-  [tandem]: http://seenly.com/ [vincere]: http://hipstermerkel.tumblr.com/
+  Adsuetaque longo.
+  Recessit Priamum.

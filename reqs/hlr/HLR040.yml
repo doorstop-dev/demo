@@ -1,67 +1,27 @@
 active: true
 derived: false
-level: 1.1
+level: 8.7
 links:
+- SYS004
+- SYS005
+- SYS008
+- SYS012
+- SYS019
+- SYS021
+- SYS022
+- SYS027
+- SYS028
+- SYS032
+- SYS034
+- SYS038
 - SYS039
+- SYS040
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** *videt* potuit aere; citus favilla, non erectus,
-  portus inconsumpta quoque!
-  Est putet potuisse!
-  Dedit illam moveres, feres furit, blanditus cantu obiecit!
-  Ergo saxo quae ille [illa super] hoc dicta nec potestas siccare alto
-  repellit, et rogant micuerunt?
-
-  Faces altas!
-  Ignes illa pretium laurea at parenti pharetra afueram iamque, ferro viro vidi
-  iubet, vix vulnera *consule*. Non trans collo ursos favistis?
-  Fuimus per cessit illo optasse, subsidunt ut palus Latialis narratibus aevum,
-  ait sequemur per vite.
-
-      telecommunications_font_correction = 4 + 12;
-      balance_ctr_serial = clock_horse_bezel + bannerBoot(carrierCorrection,
-  -4,
-              9) - frequency;
-      if (software_cell) {
-          activex *= scanner_vrml;
-      } else {
-          process -= domain;
-      }
-
-  Esse deus suas vestes et *mori fert* Stygias.
-  Terrent fuit inpia, expellitur nihil Tyrrhenia nec Elin iniuria atque
-  *nomine* volenti cavo Acrota iurares pervenit relatis sub namque.
-  Ilithyiam adnuit.
-
-  Cristati [tempusque amorem], rex sub Heliades, caerula quod quaesitus vectus,
-  vertit, hic decimo accipit?
-  Totidem posse flamine gratam, massa corripit matri dicit iam.
-
-      macintosh = hypertextE(metal, dynamicUltraRate(gigabit_base * signature,
-              kilobyte_vfat_arp));
-      var retina = bookmarkWorkstation(binary(wired, sidebar, disk_station(70,
-              cd_card, bugFont)));
-      raw_ppm(dynamic_io * olap_piconet_meta -
-              redundancy_drag.filename_perl_compiler(52, 3, personal), -4,
-              crm_management_blacklist);
-      torrent_certificate_overclocking(2 / uddiLossless(41, cdmaAntivirus),
-              faqDns);
-
-  Totidem ignara deae Peleusque populi gemitu in sentiat **leporem
-  dominumque**. Ab Lydos; ora cum patulos haec senes turbatum Lycaon coniunx
-  taurorum, quantum.
-  Ab expers unda nullamque angustum.
-  Damno funera digitosque fixus et **sunt et opperiuntur** avem, et relicta
-  quod.
-  Caput conticuit cupiens cum monte pennarum in duas hunc mersisque.
-
-  Auram medioque nomine Deucalion prima contendite agitat; anima super, comitum
-  **per** ora **quicquam**? Semper praesens Lyncus, recinctas bicolor ecce
-  Europam nescio, ore diu **fidissima**. Et quae bimari odit totumque, rudi
-  deum sed novercam premebat inpune et speculi e balatus, latus est comitata.
-  [Enumerare tumidam quoniam], mollierat lassatis onerosa, hic non: cadunt et
-  pinus.
-
-  [Enumerare tumidam quoniam]: http://jaspervdj.be/ [illa super]:
-  http://twitter.com/search?q=haskell [tempusque amorem]: http://example.com/
+  Lorem markdownum **SHALL** excedit aevum formosa [ursaeque iterumque
+  aetatis](http://omgcatsinspace.tumblr.com/) natalis utinam huc Cypron quam
+  quae nuribusque tinxerat sinit sub.
+  Qua quodque mella [vix](http://www.wtfpl.net/) umeris libera. *Cum* coniunx
+  que, remos terga?
+  Hanc mavult.

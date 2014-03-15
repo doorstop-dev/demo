@@ -1,61 +1,39 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR052
-- HLR072
+- HLR003
+- HLR007
+- HLR012
+- HLR017
+- HLR018
+- HLR023
+- HLR031
+- HLR034
+- HLR041
+- HLR045
+- HLR049
+- HLR050
+- HLR056
+- HLR059
+- HLR062
+- HLR064
+- HLR065
+- HLR066
+- HLR069
+- HLR075
+- HLR076
+- HLR082
+- HLR086
+- HLR088
+- HLR092
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** cuncta concipit sumptis arce [per] abrupta videri?
-  Cum **ille venter haud** officium quid: crimen attolle suos Lyciae urbis,
-  via!
-  Sunt utque essem, est Cecropidae tibi aptarique se ille Lunae quantum ambo
-  gerebat conicit oportuit.
-  Possunt det [simul metuunt] nec, est pro ardent penderet donavi amplexuque
-  ait.
-  Talibus opus alma, quam eripuisse utque et ultima quisquis temerasse credite
-  inquit.
-
-  Ferre mihi petere, proles progenies.
-  Filia et arva, si fingens iubet umbra pomi, non fuit volans, gelidumque
-  spatioso concursibus solus sed.
-
-  Proximus sim portus cuspide quietum inania et nare.
-  Omnibus a Vesta tamquam gradumque **suas**, fluunt, fertilitatis formam.
-  Aut male iungere et molli.
-
-  - Parente resonis sed ad ripis et inmodico
-  - Vidit sub additur torum studeat reverentia utque
-  - Mala albentia numen
-  - Dominis dives alter ipsa postmodo
-  - Raptos peregerit raptaque est
-  - In quadripedes siquid spargit
-
-  Iacent [hic longa] ora in, et post!
-  Adspice eripui [cuperet] precari furiosior vicisse, servet rore deus sed,
-  preces nec concursibus cecidere.
-  Sub huc praesensque, tutius viri vicit Agaue, videnda vitarit ore nata
-  Panaque est aliquis ille, qui.
-
-  *Eadem facti nati* animalia Hippotadaeque pariter pulvereamque talia et
-  dixerat [fessamque non par], proximus tela asello ait. **Invita levis** unde
-  neci, ille filia Frigus editus nescit.
-  Non **facti** et parvis repperit Tyrios ad nescit, nudaeque iuventus interea
-  mors verba.
-
-  Lumina parentis, [sponte lumen fore] vimque siqua et Vulcania quoque tenebat,
-  idem?
-  Quidem in arboreis lydia dare abdita in procorum ergo siccam!
-  Absentem scopulis.
-
-  Invidit iras hoc Pelagonaque revolvor senis, pro mea sacra parentes de aquis
-  ferebat tenentes, huic.
-  Virque stimulatus pallor, nati valuit constitit usquam satos inde avem
-  additur proque Hyleusque nescia; est pectora.
-  Tumulo lunae per me quas gestu proximus tradidit quid.
-
-  [cuperet]: http://www.wedrinkwater.com/ [fessamque non par]:
-  http://www.metafilter.com/ [hic longa]: http://zeus.ugent.be/ [per]:
-  http://www.billmays.net/ [simul metuunt]: http://www.raynelongboards.com/
-  [sponte lumen fore]: http://landyachtz.com/
+  Lorem markdownum **SHALL** fassusque superque fecundus oculosque pressum quam
+  quidem praepositam opus effulget.
+  Verus forsitan ac digitis paruit intempestiva vate videntur sume.
+  Praebebat haustos detrusum vero, geminae et admonet origo, dira patrem turpi.
+  Simulavimus quoque precor, Ephyre fasque [esse gelidos
+  in](http://news.ycombinator.com/) refert patitur, flendoque.
+  Et stella ab velamine orant.

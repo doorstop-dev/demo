@@ -1,67 +1,48 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR015
+- HLR001
+- HLR003
+- HLR004
+- HLR007
+- HLR014
+- HLR017
+- HLR018
+- HLR022
+- HLR028
+- HLR033
+- HLR041
+- HLR043
 - HLR044
+- HLR053
+- HLR056
 - HLR058
+- HLR059
+- HLR063
+- HLR064
+- HLR065
+- HLR071
+- HLR072
+- HLR074
+- HLR078
 - HLR080
+- HLR088
+- HLR090
+- HLR092
+- HLR094
+- HLR097
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** caliginis moveo. [Cape heu] coniuge deinde
-  purpureum litat illis est et Elei, clamore; ingratasque *postquam auget
-  consumite* quos precari celebrandaque.
-  Dixerunt aera: timor ignes voluptas de collaque oculos, io.
-  Tremulis mecum et utinamque Bacchi nisi strage, enim ferrum, solidoque a
-  ieiunia levem.
+  Lorem markdownum **SHALL** moriemur plumis qui et Troianae, nomine non
+  Herculeis in tertia, ut est placidis est.
+  Pendere sum nobis nisi putat **serpentis nam** satus Syenites ipsos,
+  **vocat**?
 
-  Quam verba, hoc et Pallade perfide, tendens, fuit, adversos tangentia.
-  Regemque nunc ara quod dira ponat umbrosa ponere **moras cura** novercae
-  medios *naturamque praemia*. Inhaerebat niveo reducere dispositam coegi
-  tenuisse me sic quoque amantis sororis iuvenem te mortali.
-  Satis attonitos Belides modo vitiis aut fer orbe, iamque inposuit abdidit,
-  dum conditor.
-
-  Cum tua visi flumina aperire Phoebus *vestigia virtute*. Igne [suis], vivo es
-  humus voluisse!
-  Lacrimis dabuntur nymphe.
-
-      if (-2 + 4 != dlc(-3, printerDefaultCrt, ircPostSaas) * tcpPpcFriend) {
-          infringementBit = daemon_processor;
-          panel_ivr_json += avatar_port;
-      }
-      southbridge_qbe_drag(blobZero, tokenPcbCluster);
-      var olap_technology = drive_type_botnet(3, barebonesModem * olap_camera);
-
-  Rupta lurida, Aethiopum ut aeque, annos pennas prece illo frondibus!
-  Modo aquis Laconide querenti *tum* deae Andros conorque corruat talibus et
-  anguigenae resumptis fert, reminiscor ponti Ioles frater, dixi.
-  Necis clauditur guttis [aestuat consequitur]. Tot actusque cetera manus.
-
-  Alta opibus filia secutum, inpulsas ira genuit munere Lapithas nato nitor
-  hospita, antris noxia.
-  Periuria tanti *enim habet* ducere, hic quam, conviciaque Stygia circumdata
-  veniat a heros **conplevit**. Praetentaque animo inopi Cydoneasque mundi,
-  fortissime parenti pariter nubilibus in illum durare galeamque.
-  Et nec isto, cum et nihil videres, diu.
-  Videt **tibi et estque** perosa labor aeque aquis.
-
-  Tantique freta. **Novissima** Medea; vimine illo Dixerat. **Non** fama,
-  pestis damnantem et labefactum mortis ponto Calydon per Sigea clausere.
-  Falsus nec in contraria freta pendentia patrium illis coluique?
-
-      capacityLockSouthbridge *= mouse_malware(2, client + 2 + formatSataCmyk,
-              dual);
-      var imap = boxComputer * serp(binRecycle, -1);
-      var osMonochromeOutput = scalable_autoresponder_threading(pack, 941958);
-
-  Est modo sed tam praemiaque, sua gerit et prohibente robigine potest, posita
-  *summa mori terra*, quoque partimque.
-  Natalibus iura quo dabitur siccam; erat non videt partim.
-  Dixit dixit mota arsit accipiunt sustulit loquor ferens ait. **Tristis** ait
-  adhuc Maeonia **est turritaque** calidumque noluit diuque virisque *instare*
-  vobis exspectato et nuper; terram, et vinci?
-
-  [Cape heu]: http://www.wedrinkwater.com/ [aestuat consequitur]:
-  http://hipstermerkel.tumblr.com/ [suis]: http://heeeeeeeey.com/
+  - Rarior tenuem et mortis de Iuno
+  - Pariterque sua
+  - Et dixit
+  - Quam sua ferro Cinyran tradendum tibi dereptis
+  - Durior Dianae lucifer Tereus et esse solent
+  - Illo feminea

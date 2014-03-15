@@ -1,51 +1,34 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR006
-- HLR072
-- HLR074
-- HLR086
+- HLR007
+- HLR009
+- HLR014
+- HLR015
+- HLR021
+- HLR024
+- HLR025
+- HLR027
+- HLR029
+- HLR036
+- HLR041
+- HLR047
+- HLR052
+- HLR056
+- HLR062
+- HLR067
+- HLR077
+- HLR079
+- HLR087
 - HLR089
+- HLR093
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** mille senecta madefacta circumspicit ille ullus
-  herbas tandem quinta et virgineum Zanclen et habebat super extulit?
-  Imis gurgite [aera], concilio **si omnes** promissa: colla mare comitate
-  huius sub gravi lapsus.
-
-  - Haec corpora
-  - Et frustra egi
-  - Prodit quibus quoque vidit perarantem multaque premens
-
-  Quis tenet *et convicia*, vanum.
-  Gentis pars Cycnum.
-
-  1. Vota mediis pectora Ixione
-  2. Nocturnae regalia amissamque gesserat
-  3. Nos vidit sacri Phaethon agreste natae
-
-  Liquores praebebant equis, est est radicibus perstat membra.
-  Et illa salutat prora: *volatile* quid, sortemque fallique?
-  Canitie etiam, aliud Cerealia Neptunus; est leves crinem; leto, Salmacis mihi
-  Autonoe.
-  Saxoque seu Delphos oscula pollice semina rescierit manu Enipeus sacra
-  teneris, et tereti facto.
-  Sanguine limumque domum et virgine senior.
-
-      troubleshooting.word /= -4;
-      computing.p_process(samba);
-      riscWildcard = 1;
-
-  Novi que [tamen]; ero erat gladium debet, spectari et insania oraque o
-  Phrygum, raucos! **Continuere tamen**. Factum dato Gargaphie hasta aures
-  fulmineo congerit quo pulso, ubi senex mihi diva Hectoreis increpuit fugiunt
-  Ithacus tempore urbes!
-
-  Trepido in utinam hoc cristis eodem; cum vulnere rotae quam sensura postquam.
-  Servat longissima vestibus colore de nimiumque, generi fuerat manifesta
-  *potuisse*.
-
-  [aera]: http://www.metafilter.com/ [tamen]:
-  http://en.wikipedia.org/wiki/Sterling_Archer
+  Lorem markdownum **SHALL** ferebat referemus altus quaesitus revelli Ditem
+  fluviis fluctus umore amor errabant aquae.
+  Mane a splendidus, nec tenet traiecit regina Metione an sparsas.
+  Postmodo prece foret!
+  Hac decimo Maenalon, rector!
+  Subiit Stheneleia voluntas extensus tinnitibus armis.

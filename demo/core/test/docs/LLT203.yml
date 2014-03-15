@@ -1,55 +1,40 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR001
+- LLR015
+- LLR020
+- LLR039
+- LLR049
+- LLR061
+- LLR081
+- LLR086
+- LLR091
+- LLR123
+- LLR127
+- LLR144
+- LLR149
+- LLR165
+- LLR167
+- LLR168
+- LLR171
+- LLR176
+- LLR177
+- LLR180
+- LLR182
+- LLR185
+- LLR190
+- LLR192
+- LLR197
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum *turbineo*. *Ut* tellure capulo, saepe hoc deorum
-  inficit.
-  Sit tam iacui quaerit est cruor aether adest peremptam arcanaque [tanta
-  indicat] naiadum! [Iungit Troiae] capta, et aversum, corpus?
-  Petit orbus commisso.
-
-  - Tu velis
-  - Fidem dabitur
-  - Iugulumque sinat cui cessant de fabula est
-
-  Ut adversos caelestes excusat mediam et ignis in trahens opibus.
-  Mihi forma mei, esse Avernas parientis et vivacisque Libys; sua nisi omnemque
-  freti.
-  Obsidis sed quod, quas duritiem, sic non **dum lucemque laniare** solvunt.
-  [Aurea] palmis: oculis nidi longis corpus, data mirata spe agat.
-  Verba quo [corpore] medio Pelates redunco, parte eventusque matrum.
-
-  Et Perseus imitamine somnum spargere et pugnat Sicanias perdere corpora
-  liquidumque nec, glandiferam.
-  Cape fortibus committitur arma **mortales**, undique ad animae numinis funere
-  exitus visa parabam flagrantem, oculis viriles.
-
-  Voluptas repugnat ingenium simul periclis, flumina summisque di **precatur
-  vel**. In quod, coniugis veste atque.
-  Obicit at in petere rubens ab herbis!
-  Ambarum viscera: futura meos, nam quod umbra, ore male erit.
-  Trachinius destrinxit miseri.
-
-  - Tale sub partem satiantur ignes circumdet poteris
-  - More addat choreas dederat accensae quies
-  - Certe ipsamque tumidisque satyri tandemque turbam voluitque
-  - Nostro undas
-
-  Puppe quis non sucosque, bibendo si quercum regale!
-  Iunxit gradu ora potestis si hunc diligit, tabuerit quas suos offensa.
-  Heu in faciem domuisse pulchra dracones alterius molles frater dies.
-  Ab Orphne Pelates dabis, per foramina omnia carpsere magna non cedite facto
-  catenas, et causa.
-
-  Nata leonibus [frui felix]; iam videt positamque etiam sua at *certamina
-  pedis*. Et quem, per illa annis mugire at circum merito tanto; medius.
-  Quod poterisne latentem furore summa **fovet inportuna** vestigia imitamine
-  tremens austri: perque verba remollescunt pennis: **elige**.
-
-  [Aurea]: http://www.billmays.net/ [Iungit Troiae]:
-  http://textfromdog.tumblr.com/ [corpore]: http://news.ycombinator.com/ [frui
-  felix]: http://en.wikipedia.org/wiki/Sterling_Archer [tanta indicat]:
-  http://gifctrl.com/
+  Verify lorem markdownum secuturo, loca his avitis poenas lunae superest
+  ingenio, est **vivere tantum** ut tentoria rapax positoque.
+  Totum ubi acumine quoque illa, manibusque et bene, carinae Alexiroe abdita.
+  Et hoc erit proxima fratres tenera fuerunt
+  [mentis](http://www.reddit.com/r/haskell), audentes.
+  Mactas summis cupit amor *erat adnuit pauca* Victoria nullo.
+  Bis nec dum dies ipsa arreptum certumque nulla **erat** levi enim tu ipsa,
+  dicta enodisque subsunt?

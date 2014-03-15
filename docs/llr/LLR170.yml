@@ -1,49 +1,50 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR025
+- HLR003
+- HLR005
+- HLR007
+- HLR009
+- HLR010
+- HLR014
+- HLR015
+- HLR016
+- HLR017
+- HLR018
+- HLR019
+- HLR021
+- HLR023
+- HLR030
+- HLR031
+- HLR032
+- HLR035
 - HLR050
-- HLR088
-- HLR091
+- HLR057
+- HLR058
+- HLR059
+- HLR060
+- HLR061
+- HLR063
+- HLR064
+- HLR069
+- HLR070
+- HLR072
+- HLR073
+- HLR074
+- HLR075
+- HLR076
+- HLR089
+- HLR090
+- HLR094
+- HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** fata videt inutile Phaethon terga Agyrtes, non
-  quorum.
-  Auro Tonantis patriae adventuque virens Pactolonque grata *superare moderere
-  haesit*: haut dolorem adulterium conticuit.
+  Lorem markdownum **SHALL** nunc, nymphis procul cum!
+  Aut templa hoc nullo genis [iacent](http://stoneship.org/); illa Cephison
+  quoque.
 
-  - Seditio fuerant cognoscendus fugit ut orbem sui
-  - Quae limite caelo et tacetve artus obstitit
-  - Vidit terra exstant et mihi figuris parte
-
-  Saevissime aurea oscula, carpitur feto; adeste concurrere frustra viscere
-  quibus pete honorant *longis decutit*. Nulla arva [et parenti] adamante
-  frater ad et in securi fregit quas nisi leones?
-  Iasiona tractu.
-  Civibus aliquem, sola felicia Rhadamanthon plura; prohibete solos fama verba
-  ordine suum agrestes ligno forte cum coniunx.
-
-  In **da ante** revocare modus ait subito gaudent *sollerti*! In atra tympana
-  undis sumere te honorem carmina natusque et nostro summa tot omnia exsiluere
-  parvo.
-
-  In genitor potentia, petebat fraudate optime te aula adessent votum excusare,
-  quibus tum; in.
-  Qui magna spumosis equidem, est procerum lacusque cornibus.
-  Ictus iube dira circa alimenta clamor, digna vita pascua.
-  Modo simulacra aetherias lacrimae patrem habet, sanguis an fronte honor
-  concursibus ineamus laniavit: arcuerat: sic quae *debere*.
-
-  His esset lucis inde Arachnes.
-  Pro **vati aut** contigit par agros, timor iter Arethusa, letum.
-
-  Septemplicis subdita.
-  Tamen reccidimus rettulit aede.
-
-  Adverso quid sola populis Aethiopasque deorum conexa humum mugitibus mihi
-  commune linguae: coniuge esse Aurora Acheloe mater; vidit.
-  Esse undae ingens penetravit et vivum vocatur citius at carmine stupri.
-
-  [et parenti]: http://imgur.com/
+  1. Nunc cave figere
+  2. Cephalum genitum Caencu adversam dixi tenebor hamis
+  3. Et fecit miracula ibat auso tamen sceptra

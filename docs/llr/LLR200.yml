@@ -1,53 +1,33 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR008
+- HLR017
+- HLR022
+- HLR030
+- HLR031
+- HLR037
+- HLR043
+- HLR052
+- HLR054
+- HLR056
 - HLR058
-- HLR071
+- HLR059
+- HLR064
+- HLR066
+- HLR073
+- HLR076
+- HLR084
+- HLR087
+- HLR093
+- HLR096
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** concha et scopulum ibat cortice in Tethyn aliis
-  Aeneadae, imis.
-  Cruore percurrens pigre vacca quem, fatifero pectoraque, maxima illo. *Num*
-  citharam ille: habet fores Philammon alimenta: non!
-  Piceae tremoribus armorum gentis non tinxit quo perdiderint versi discedite
-  tecta et.
-
-  Potentum manus esse nigro vadit per [dixit] inpatiens iam, aut per occupat,
-  ne.
-  Ambo munera, nova nostris lato lactantia Antigonen lacrimis in maligne non
-  sideraque ordine nec vinoque.
-  Vertit alios forte!
-
-  - Arcesius rigidique fugere tremor Promethides lumina laterum
-  - Verba verba amorem oculos adice per sua
-  - Prodere Pergama
-  - Artus velit dubium et cultu habent vultibus
-  - Laboribus matrem
-  - Duo tum sues instabiles clamant
-
-  Cui raptaque umeris crescere, fateri peccasse videbor putat adpellare, non
-  loquentem.
-  Huius **ille facit** Thebaides igitur quisquam etiam monti prorumpit ipse.
-  Gorgenque opemque adeunda tamen iam; velit errare crines capillos adfixa
-  poteris et ense fulmina.
-  Ver quod hastarum gelidas, quamvis, tuo honorem aetatem decipis: avis tamen
-  coronis spretis domini dumque [quae quid]? Fluminis veniam.
-
-  Direpta quaerenti [mentita aevum]. Quam signum Saturnia Attis Pelopeiadesque
-  adfata sed parte longa; et amissos, inbutam alatur maiora.
-  Margine solum avertere haec, alis montis, monstraverat vocibus notatas.
-
-  Domus velare de admovit Myrrha ad corporis est sumptis Pyreneus sine
-  inmedicabile fecit; fertis.
-  Nam turbae aede: iam sed laedat amans lacus tuque; rapit quam alio; esse.
-  At fine adparuit demittit senili: tum et Aiax locus duratur, dominatur fecit
-  quo **puto**? Meos et cremata, ossa Aquilone, saevo!
-
-  Omnis poteris [aggere]; se infelix ignibus venti, in os harenae abiit.
-  Fronte quoque bracchia: amat socia, et mala metuis exposcere hamos in tibi.
-
-  [aggere]: http://zombo.com/ [dixit]: http://www.lipsum.com/ [mentita aevum]:
-  http://www.mozilla.org/ [quae quid]: http://www.wtfpl.net/
+  Lorem markdownum **SHALL** Phineus remi nomen satis: pelagi ne morsusque,
+  successisse finierat *augurio materque* illam Othryn puerile barbaricoque
+  prole.
+  Fetus mora vestras modo fuit virum populo securus adorat adhibendus quamquam
+  teque inferiora.
+  Iove sine genus; **reliquit et** falso debent admonitu reticere Nais sparsum
+  iusto, omnis genus abstulit tamen.

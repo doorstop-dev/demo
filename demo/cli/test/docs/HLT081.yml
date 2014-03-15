@@ -2,62 +2,26 @@ active: true
 derived: false
 level: 1.1
 links:
+- HLR010
+- HLR016
+- HLR019
+- HLR022
+- HLR036
+- HLR039
 - HLR042
-- HLR050
-- HLR072
+- HLR043
+- HLR055
+- HLR059
+- HLR074
+- HLR100
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum rigido peperisse, *ventos* tu utque dat, patrumque.
-  Cetera quereretur omnia et passibus enim membra.
-  Ultra lucoque **parares ipso** quorum verus natat *annis movet* lumen
-  servaberis ne. **Factis** patulas, ubi dei vela, sedes quae, murice
-  genibusque concita velis laboris.
-  Erat Hectora, neve ubi [cuius forte Iliacas] pressos dumque, vatis neque et
-  victus.
-
-  - Origine et locis misit Iolciacos tibi certatimque
-  - Litus respicit illis
-  - Celeri dabat sine necem raucum sacra sentire
-  - Ligavit miserrima fata parentem
-  - Canenda portae agna duris
-  - Tenero palaestrae labores fit
-
-  Remige et parvos pallor, nec nec mihi fieretque coloni.
-  Pater mora graves pennis reddebant caput ut anili tamen **quod**, ut eripere
-  pictarumque careat putat!
-
-  - Si Libycas numen e molle flebant alter
-  - Gener canendo
-  - Dum parat alis erexit
-  - Aut sic probavit demum induruit
-  - Per caput sive ferarum nati victor somnia
-
-  Aere quam verbis, nec quam ubi haec arduus.
-  Cepit est unus iacet urbesque et latuitque sequuntur de namque facies parva
-  nympha [vias]. Sedit modo quae exsangue crimen tectus iuvencae volat dedit:
-  diu praecipites tanta praecluserat **animus** parte.
-  Cum Peneide fortis revulsos gelidoque arcus; et et dignatus forte requiemque,
-  tot quam fornace Anchisae, o.
-  Rus rex.
-
-  1. Domos poena nives restituit mecum inveniunt
-  2. Minuit cruentatus umerum et non Coroniden in
-  3. Veniat de refer
-
-  Per foret cumque *latet* Cnosiaco densus nudae antro, mea ora curvamine
-  cornibus [toto]. Non modo suos latrator in mergit sanguine narrantia
-  continget in haec, ire!
-
-  1. Non sibi grave utque enim quas crearat
-  2. Addita iuvat illa caelebs
-  3. Repetito detulit
-  4. O per formamque quoque inpia
-
-  Cum ergo, profecti vos idem dixit Erasinus.
-  Nunc facta humo amores Hectora velocior, messibus caruerunt corpus.
-  Ritu quoque per Actaeis parcere, et cursus adicit [contactu civilia]!
-
-  [contactu civilia]: http://twitter.com/search?q=haskell [cuius forte
-  Iliacas]: http://tumblr.com/ [toto]: http://haskell.org/ [vias]:
-  http://www.lipsum.com/
+  Verify lorem markdownum finge praecipitem inani precando, priscum toto procul
+  aliter albet, actis.
+  Pertimuitque intra pudoris, pia tendit ad unam notissima inquit, cuspidis
+  est, addit telum auroque sperataque viribus, odiis.
+  Nubes corpus virgo variatus *vellet*. Dea at Nyseus Phineus, media, habendus
+  pedum, hac edidit metus?
+  Preces spes tanti concutit Arcas interea utroque *stillanti tamen*; caedis
+  mater sortitus sagittas!

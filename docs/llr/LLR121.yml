@@ -1,59 +1,35 @@
 active: true
 derived: false
-level: 1.1
-links: []
+level: 3.1
+links:
+- HLR005
+- HLR008
+- HLR010
+- HLR013
+- HLR021
+- HLR023
+- HLR024
+- HLR026
+- HLR027
+- HLR042
+- HLR048
+- HLR051
+- HLR065
+- HLR068
+- HLR069
+- HLR070
+- HLR085
+- HLR090
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** ignemque; de ecce.
-  Tutior nunc, fune: sed hostis, et nervo, frigore vos qua vite ille fert,
-  quod.
+  Lorem markdownum **SHALL** placabat igitur.
+  Aera spinis, ut in eodem Euboico et late numinis hunc, vix vimen orbi placato
+  ingemuit, cur precor.
+  Sit fecere pacem undas motibus, est, ut acceptum aequora.
 
-  Tabe erat haec factum pulmone ad Phoebo antiquo pomum lacrimas continget
-  aethera adeo, aeratas longe.
-  Adsimulat ventris Iuppiter velis emittitque sensit floresque clipeus agros
-  marinae nisi, Ilus nec.
-  Reminiscor imitata redit, raptas [quem], terra, venti carne pharetraque
-  vagitque animum consolantia tamen.
-
-      var router_unfriend = 3;
-      header_prom_streaming = oasisKeySafe;
-      recursive_unit_telecommunications += 604362 + console_adsl +
-  ics.ping_vdu(
-              irc_retina);
-      dragVaporware.tftp.im_management_rw(3, piracyNonProgram(
-              tweetWindowsIllegal));
-
-  Non non, retemptatis viseret seque; digitorum paritura adsueta.
-  Mollia Avernas Thisbes Morphea Thescelus et callo validos supplex germane
-  nocte **undis**; quicquam popularis exuritque ausim superabat subiit.
-  Tuque *ora quondam ignavos* ut mutantur tribuisse suis, agrestes Chaonis
-  Proreus *membra* huic, curvavit manum, hebetarat.
-
-      var radcab_internet = queue + troll + bluetooth * multimediaBareGraymail;
-      spider_burn = camelcaseModem * printerMarginPng + ribbon;
-      if (prebindingCgiMeta(2)) {
-          horsePythonTooltip.symbolic_rfid *= monitor;
-      } else {
-          hotIpv = twain(office(3, gopherFiosPup, postscriptCut), -1 -
-                  domainBitmap,
-  hypermedia.url_peripheral.ftp(java_token_switch,
-                  and_publishing_disk));
-          driveIcann = 2;
-          smishing_wireless_shareware.telecommunications *= fragmentation;
-      }
-      var sidebar_lte = internet_debugger(oem + dvd_ups_compact);
-
-  **Versarunt sinunt** quo Pisenore lupi Atlantiades manus mortalia musco:
-  accipiam prendere munera cogeret tollit.
-  Igne latitant iuppiter infelix inertem canendi obliqua.
-
-  Parentis que nebulae vitale cernens Pelion adcubuere [tinctam turba] aliter
-  in sibilat, umeris, membra.
-  Regni mutari unda postquam stetit flammas effluat novique, est est ulnas
-  monimenta tremulo, comes.
-  Bacis virgineum quacumque, Amnis pressa absumpsit nivibus harena et magicae
-  aethere nec haemonii anum.
-  Arma herbis: missus a educta adhibere viroque.
-
-  [quem]: http://stoneship.org/ [tinctam turba]: http://www.metafilter.com/
+  - Caelaverat opta Harpyia ventos quos magis peteret
+  - Iactatis quid sua vocant
+  - Amor non tibi honesta Calydon locatas videt
+  - Vivacemque canos uno inerti litora
+  - Nostri stantemque colla Cyllenius Thebaides hausi

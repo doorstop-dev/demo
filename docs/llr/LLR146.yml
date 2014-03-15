@@ -1,57 +1,38 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
+- HLR002
+- HLR003
+- HLR012
+- HLR018
+- HLR020
+- HLR027
+- HLR031
+- HLR034
+- HLR035
+- HLR042
+- HLR047
+- HLR058
 - HLR066
-- HLR079
+- HLR077
+- HLR080
+- HLR082
+- HLR088
+- HLR089
+- HLR094
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** ignes abesse solum, hic properas postera suadet
-  mollit iam vitae infans dum.
-  Humano quamquam: vidit vult **putate sub mecum** turbatus, misit duobus!
+  Lorem markdownum **SHALL** odoro pater inveniebantur **eadem** radice fuit,
+  arbore ales murum duorum?
+  Ossa *vocabis*; nec ubi habentem animi deum terruerat subito prima Ionium.
 
-  1. Si non mei praecipue somno fecit
-  2. Peragant fervet repugnat theatris generis dilectos vitium
-  3. Hausimus naturae rotato quam numerum
-  4. Sticteque canum
-  5. Purpureus nondum
+  Ne undae egerat!
+  Quae *sit* has: egreditur quoque Actaeonis studio.
+  Sit **vide**.
 
-  Undae fovet margine?
-  Volucris vecors conprecor venit aut redit, *librata aetatem*; postquam si
-  agit alteraque qui?
-  Mihi nunc inminet melius, istis idem vel **auro** verborum breve.
-
-  Et Iphide tristis et terra profusis **ferae trepidantes videtur** media.
-  Hinc Icare, et inquit.
-  Collo haec simul et illis; si iubes Dorylas tibi.
-  Enim prudentia caelum principium e montis artem nulla hospes gramina caput
-  vertit tunc animasque me taurum.
-  Comas et iussam, aurea acumine quaerit mentior tune huius visum causamque
-  ardua *mortisque* summum, quodque cum quae.
-
-  Hectoris modo inpia dapes laetatur, adsim adiit Amuli tegit.
-  Nec est semel, pedes arvo mortali coronatae illa canum retractant solumque
-  tulit, coercuerat caeno.
-
-  Est nec illo, cum primasque corpora, Rhanisque euntem non saepe sidera, qui
-  quod nupta supremo telis!
-  Palmae ut tamen tibi deorum dixit petebar fuga!
-  Ore ad venit.
-
-  Novato est quaeque Asida tantoque Phoebus **prohibete**! Iterum pater loco de
-  fratres incubuit latentem Graios inquit; esset **vibrataque** in Ulixes
-  somnus timide lacertis dentes Hesioneque graves.
-  Adulterio Alcyonen aduncum illac vultusque?
-
-  Vidit quoque recto deos qua *cepere adeste* de dixi, honorem nec, Ceyx
-  malorum dederant.
-  Habet in neque, caedisque grandia nuper quondam, retentis laboras audentes.
-  Rude iuvenis.
-  Oro fecunda aptos considere mercede orbis [conditaque forte] ambiguo!
-
-  Ut sive facit modo sic ordine scindit **quodsi**, Latous, fudi cervice
-  cupiens.
-  Oculos bubo manus dignos; semper audete.
-
-  [conditaque forte]: http://www.reddit.com/r/haskell
+  Tristitiam dicere sororis anili, longe tradat porrigit et nunc sollertia
+  totumque.
+  Fortia invida sub mihi vel sis probaverat portitor auras erat Arcton Tyrios
+  vidi ferarum.

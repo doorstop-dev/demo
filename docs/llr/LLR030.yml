@@ -1,55 +1,40 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR011
-- HLR036
-- HLR054
+- HLR001
+- HLR002
+- HLR007
+- HLR010
+- HLR021
+- HLR022
+- HLR027
+- HLR034
+- HLR057
+- HLR058
+- HLR069
+- HLR086
+- HLR090
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** te fessis, malorum aures planxitque intermissa
-  sucos ore modo et illa Scythiam?
-  Flammis ignisque terram membra intorquet guttura quemque naufragus tinguamus
-  cupidine Memnonides si aevi **Pandione** laeva, cetera.
+  Lorem markdownum **SHALL**: artes ordo neque sumpsisse conceperat nutrit
+  raptamque Troiana!
+  Iapygis **sed telluris locis**, natus non Finis tertius pullosque!
+  Condar alasque, nate navalibus et nobis repetunt formam credulitas etiam
+  trahebant semper.
+  Fuit non salutet, dederat, et iunctoque agros ego montis Hebre robora color.
 
-  Cui dolor dira contentus Phoebe undis dic iunctus tigris.
-  Petere Hippocoonte etiamnum erit solitis nexuque, quem, memorabat antris
-  signataque.
-  In fera latus Giganteo sucos [quid alta] omni possent videbit ille sunt,
-  cognoscendus quidem naturae, est et.
-  Calentes Thebis adsensit enim nataeque?
+  1. Miserrimus vestigia in deus rictus passa
+  2. Habebas retroque hastas Cecropidum potentem
+  3. Non idcirco aut cervi longius summo erubuit
+  4. Ursos ultricibus littera
 
-  Sidonida altis, *semper*, aut illi **claudor dentes hic**; nec.
-  Prodere cuique.
-
-  1. Quae Perseia ante
-  2. Fugis ripa albis tamen dumque miserabilis tangat
-  3. Vel ipsam habebat limum fides posses blanditias
-  4. Notavi ferus verba terricula truncaeque utque pocula
-  5. Dum in castumque amatas
-
-  Valle perque aures; vestris levitate calorem simulamina humano quam.
-  Hic [solis] Memnonis genu; qui verba dixi nutrix quid torvamque perspicit
-  alter inmixtaque praecluserat.
-
-      alu.cdn(classOpenMebibyte);
-      install = ajax(shift_debugger, 891078) + boxEmulation(21 + pcb);
-      var flowchart = javaHoverDrag;
-
-  Removit tibi una utque quaeque harenas cana dant discordia gemina!
-  Dirum accipe.
-  Huic posses feror et omne commune [melius ipse] auras arto.
-  Ferrumque *agros* spumam super *vota umeris* rapit maiora oscula, rex pectore
-  undis, tanto mare tepido vidit.
-
-  Quattuor eripiam locus, tertius Salmacis Caesareo numeroque poterat carebunt.
-  Purpureum confessa solita pictasque supplex atque quater nec taceo erat.
-  Aeacidae videt omnia, ad bubo: et mille deteriora aurea [dature ecce] illi et
-  inque laesaque!
-  Pronus est fuimus ignes inde: cum sole ossa, curvantem Hippomenes advena
-  *quoniam*, geminis eadem.
-
-  [dature ecce]: http://hipstermerkel.tumblr.com/ [melius ipse]:
-  http://landyachtz.com/ [quid alta]: http://news.ycombinator.com/ [solis]:
-  http://imgur.com/
+  Fetibus demi.
+  Morari atris est tamen dei dea intremuere, vulgus, intra.
+  Bracchia dexteriore movet tincta *per nescia* est vocato socero sunt addenda,
+  caelo annos ne.
+  Summis lapides, arma incerti caelum saevaeque loqui, Saturnia protinus
+  nostrae Ulixis.
+  Aestus poscuntque exstant inscripta caede cohibentur curvamine vincere
+  cumque?

@@ -1,57 +1,39 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR014
-- HLR015
+- HLR001
+- HLR005
+- HLR006
+- HLR012
+- HLR024
+- HLR026
+- HLR030
+- HLR031
+- HLR032
+- HLR035
+- HLR037
 - HLR039
-- HLR069
+- HLR043
+- HLR056
+- HLR060
+- HLR062
+- HLR066
+- HLR074
+- HLR083
+- HLR086
 - HLR089
+- HLR097
+- HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** Tellus inlaesas superi sol modo velat, fugaverat
-  mea hunc et recentibus in **haec**. Hi coniunx quibus.
+  Lorem markdownum **SHALL** Mittor at serpit coniunx tibi, praedone spemque:
+  ore, sine.
+  Sinit patrios bella in tuum per Quo sed aere rapidisque fugae si circumspicit
+  tenuit manibusque murra cursu cuspide super ergo.
 
-      interlacedUpHoneypot *= hddSwitch + bluetoothSwitch + microcomputer /
-  point;
-      ospf = qbe(mediaMemoryDocument, 19) + -5;
-      var uri_jumper_horse = ssh_queue;
-      var visualRom = pupFileBloatware;
-
-  Quem tendit agros, et lacertis, suo quod una mortales illi utere nec.
-  Post crimen trementi gemitus, sed estis arcus, molliaque ferro postquam?
-
-      bit_bare = fsb_fios(so(web, jre.playFileAnsi.cookie_storage(rpm)));
-      halfSystemDsl(84930, cifsClock(vram_flaming_scalable(dataWindows, 5,
-  asp)),
-              bootLaptopClient + hdmiFileMedia);
-      var phreaking = 2;
-      runtime = vaporware_undo_im -
-              baud.tiffLcdBalancing.spreadsheet_web_filename(web_text_font);
-
-  Quereris sublimibus radio?
-  Pavidam Livor velamina primo et primusque in prius, die auxilium mortem
-  Iuppiter, in exit.
-  Pater ramo nec concavaque saeviat: aras exemplumque Thracis aequorea nostra
-  matrem.
-  Si sinusque *evincere conata* terra.
-
-  Iam verbis dissidet reticere germanae flagellari sunt venere quae mihi.
-  Florent carbasa, axis non livent tantum lacertis celat germanam flammas.
-  Verum tamen est fingetur lacus avis de ruinas, sacra clade.
-  Circes mediusve [et ipsa] fecit *pulsavere Helicona* folioque collige
-  servatoremque comis.
-  Quem segnem poterentur tanta *generosam urbemque* quoniam Phineus, iam ut
-  ferunt.
-
-  Prohibemur vesica quam gerit cornua mihi.
-  Suos animaeque cum [sua dux litoris] minister sinus fluidoque plus linguis
-  dicitur obicit, Leucosiamque hunc.
-  Ilicet Milete metas caelestibus Amyclide amnes fumantis locus, vitam, ita,
-  prosiliunt nate dixit.
-  Nomen facis iratus feri sagitta deae quem Murmura neque exstabant queruntur
-  in?
-  Quid cum centum; contigit utiliter et, per per.
-
-  [et ipsa]: http://gifctrl.com/ [sua dux litoris]: http://gifctrl.com/
+  1. Ebur supremaque certa cum
+  2. Catenis meus magna manu plena similis utque
+  3. Mihi hostes nil
+  4. Pignus incandescit mearum pro cutis aerata

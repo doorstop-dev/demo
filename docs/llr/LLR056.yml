@@ -1,57 +1,46 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR062
-- HLR079
-- HLR089
+- HLR001
+- HLR003
+- HLR007
+- HLR009
+- HLR019
+- HLR021
+- HLR026
+- HLR043
+- HLR049
+- HLR059
+- HLR064
+- HLR065
+- HLR067
+- HLR086
+- HLR087
+- HLR091
+- HLR094
 normative: true
 ref: ''
 text: |
-  Lorem [markdownum] pectore oscula! **Ovis namque caedit**. Cruoris versus
-  [satiatur producit] squamis invocat, in sit solum suos uberrima adeo caput in
-  simulasse tunc.
-  Loco palmis cum versuta praeda.
+  Lorem markdownum **SHALL** color pontus illo Latous, ferenti, caelumque spes;
+  et germana uritur: rima stabat: arva.
+  Fores Orphei pollue Tyrios, discedere nares quoque, vestigia et derecti
+  suoque ver crudelibus nomine.
+  Caede vulnera sistraque sata neque, in Achivi, ait pignora aut populo ut
+  valle renuente sub!
+  Terga aetatis thalamoque accedere fide inportunusque Cipe rictus canor carnes
+  tellus et denique merito?
 
-  1. Stantis a et huic vivacisque accedat siccata
-  2. Se invidit de hastae canum
-  3. Bracchia se caesis eadem ab nubila
-  4. Telum Lelegeia sociantem aliis quoque protentaque recisum
-  5. Multos vota nulla
+  1. Mutata ponti et tantum iussa medioque nec
+  2. Sum fata nostrum extemplo certeque a auratum
+  3. Occasu cives tutus canibusve Fortuna
 
-  Clarae doloris iovis, motibus cum; amnes pisces *quae redituraque seque*
-  tamen, pro aurem quae superas Procne alto.
-  Tyria nec ecce furta, *tacitorum* bubo sum nutricis doctior; moenia ille
-  dixit.
-
-  Matrem vera sucis at foeda manu passim famulus supposuique furibunda, alto
-  obsessa.
-  Posses in dedit **nubibus oculi** carinae nec quod patitur contendere nova.
-
-  Virent lumina; decus huius humano iura.
-  Fuit munera arcum cum opes corpora Cerealis in inde inutile.
-  Mihi huic fuerint!
-  Illo venatibus, levibus ille manebit montibus saxum **illic**, et!
-
-      social(1 + data_processor, activeDram(southbridge, 567782,
-              pup_dram_facebook));
-      thick(atmMonochrome(resources, numPrinterCpl, volume), 4 + access,
-              infringement + youtube_formula_dimm(icf_module,
-              cursorFunctionCmyk));
-      if (virtual_runtime_extension <= busBugKey.warm_throughput_codec(third,
-              fullZeroInstaller)) {
-          wiCircuitHard.modifierHostIsdn *= format;
-          upnp_trackback_multithreading.crop += device(250434);
-      } else {
-          bare = 3 + cellFrameworkLan - captchaPcb;
-          resolutionChipset -= -4;
-          drive_simm += cycle;
-      }
-
-  Colebat fetibus vidit **cervi Narcissumque precari** post.
-  O egerat ponit [luet lateri], in ulla voces, cum vellera solum vela formosos.
-  Resisti ut habet fraternis!
-
-  [luet lateri]: http://jaspervdj.be/ [markdownum]:
-  http://omgcatsinspace.tumblr.com/ [satiatur producit]:
-  http://kimjongunlookingatthings.tumblr.com/
+  *Deam* vulnera Phoebus [lustrantem tamen](http://imgur.com/), reperto
+  tollensque venere, nox parvum.
+  Is usus peteret ut, adiectoque [partes](http://www.wtfpl.net/), litora
+  detectique [colat](http://www.wedrinkwater.com/), sed armo evincere sortes
+  caede.
+  Nec non parabat dumque.
+  Sine nec suo, me nec guttura sentit liquidis nimiumque in!
+  Vultu cunctari, ingreditur fratri insidiis turba ea ratione illi augurio
+  rogis.

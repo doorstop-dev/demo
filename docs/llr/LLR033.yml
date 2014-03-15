@@ -1,70 +1,37 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR005
-- HLR011
-- HLR046
+- HLR002
+- HLR006
+- HLR009
+- HLR017
+- HLR022
+- HLR024
+- HLR027
+- HLR030
+- HLR033
+- HLR035
+- HLR036
+- HLR039
+- HLR040
+- HLR042
+- HLR047
+- HLR048
+- HLR062
+- HLR064
+- HLR071
+- HLR072
+- HLR076
+- HLR079
+- HLR089
+- HLR091
+- HLR094
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** sua qua, requiescit annus corpore est, forsitan.
-  Graia stridentibus, Ixione suos, adest proelia aliquid ipse pendebant illo
-  contempsere magno Neptunius teneras animos, modo?
-  Adhuc mox sitim raras, pulcherrime dies vetuit rigore instabiles est ignibus
-  **artus suspiria** adactus **patriae**.
-
-  Meorum carissime fuit, erat oppressos abest [Cytherea clivo] quo quibus in se
-  est siccis [tenebras]. Habendum repleam.
-  Olivis nec placido et noctis, *et a poscor* dextra.
-
-  Ulla est intexuit conditor de habet reddidit, et quae summe, plurima.
-  Moderator Helles, et non.
-  Quod quis natus praeceps.
-
-  1. Rura signa huc quaerere mergeret decrescentibus tractaque
-  2. Dentibus te suoque canistris pullosque comitique at
-  3. Opposui doloris bos tantum dolores
-  4. Multa praebuerat longi placido curvo
-  5. Vana se atque terque ad incidit petens
-
-  Manu mille me scilicet praesenserat pascas.
-  Inde pro tantumque ad sedem is visa moenia primus reminiscitur [male gaudet]
-  in [silvas lumina], glaebas.
-  Mortalibus bello Thetidis occidit; deducere latus nam perque nec Pergama.
-  Fatale aurum inter.
-  Fessa vocis aduncis dixit sic multis operis, ad quas!
-
-      if (ccCloud.gigo_multithreading_ccd(-3, clone_console_host,
-              printerInfringementXhtml) >= import) {
-          flashNvram(1);
-          hardware_led_word -= 1;
-      } else {
-          pup_illegal.dual(printer(5, -5, 2));
-          ibmBridgeOpengl.beta_dos_cad(defragment_shift_native, 5, webcam +
-                  balancingIcio);
-          nuiEndBoot.clob *= 2;
-      }
-      if (pinterest != vga(skin_toggle_jre)) {
-          record = active_dlc;
-          thyristor.ssl_quad_wheel = impact_dll_basic;
-          parityVpi = folder.alu_recycle(saasBareInterface, fpu_real) / 2;
-      }
-      if (vfat_plain >= definitionRdfPermalink) {
-          router_technology += matrix + ctp_browser_big.accessBar(-3);
-          deviceXslt += boxCrm;
-          service -= megahertz;
-      } else {
-          basic = honeypotFrequencyCloud - wimax_mp;
-      }
-      rgbFileEditor -= disk(outboxFile(smmBackbone, view) - 3, 3,
-              logMacTransfer.record.operating_web(functionSimmFlash));
-
-  Numina Latona Amuli annua anguem [ad] dempto, manu et!
-  Placui qui guttur tibi, heu pateres tamen rapit, quotiens o qua huc est
-  Silenum.
-  Agreste tertia o ab tamen.
-
-  [Cytherea clivo]: http://www.wedrinkwater.com/ [ad]: http://heeeeeeeey.com/
-  [male gaudet]: http://hipstermerkel.tumblr.com/ [silvas lumina]:
-  http://haskell.org/ [tenebras]: http://eelslap.com/
+  Lorem markdownum **SHALL** destinat filia. **Utve** sumit fecisses curvare
+  promissas an quem qua concutiens rictu somnum.
+  Gratulor aeger tua [permisit](http://hipstermerkel.tumblr.com/) totoque ora
+  dum fortia parentis et!
+  Videt torique.

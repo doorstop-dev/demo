@@ -2,65 +2,41 @@ active: true
 derived: false
 level: 1.1
 links:
-- HLR040
-- HLR060
+- HLR012
+- HLR013
+- HLR017
+- HLR018
+- HLR019
+- HLR022
+- HLR024
+- HLR027
+- HLR028
+- HLR033
+- HLR034
+- HLR035
+- HLR036
+- HLR039
+- HLR044
+- HLR050
+- HLR057
+- HLR058
+- HLR071
+- HLR073
+- HLR074
+- HLR076
+- HLR078
+- HLR082
+- HLR083
+- HLR084
+- HLR086
+- HLR088
+- HLR091
+- HLR092
+- HLR094
 - HLR099
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum veritus rauco nato Diomede omnis.
-  Et atque restabat concutiens perstant, modo unda hic epulasque socerum latum.
-
-  - Sua bimarem crinibus cruores attactu
-  - Opem aera similis coeptis tecum digestum largi
-  - Tendentem auctor sit Autolyci humanam
-  - In pectora oculos
-  - Neque confinia fusus tulisset
-
-  Novas et sectamque, [aut] alto, petunt ut, adrides, monuit tamen.
-  Totque raptos medio artibus quod prope boum iter haut cornua.
-  Suo quam scelus credar, frangit tanta: erat iunctissima neque.
-
-  1. Aegides dura ferae copia insignia Lernaeae forem
-  2. Exitium inritata summa referre hoc
-  3. Per cum
-  4. Nate Cydoneasque erit labori Hypseus exercita pignus
-  5. Desierat suo vesti equo
-  6. Guttur numerusque videt servat
-
-  Illis non *bracchia* demitteret locis labuntur *saliunt riget* et, quid
-  volant his sacerdos risitque?
-  Inponique melioris.
-  Quid sede an habuisse latus specus; munere, corporeusque tristi
-  Sperchionidenque mansura confessaque mecum clamato radicibus move mensis.
-
-  - Ille aether agricolis inlaesos
-  - Communia et quia feras ipse Brotean
-  - Ferox et prima quaeque auctore
-  - Dat Ennomon a enixa abditus ab Delius
-  - Aequa discretus armis non
-
-  Deos somnus, quod quoque inmutat alium colla genibusque ductum dives,
-  faciunt.
-  Flammaeque enixa gravitate colla reflectitur vocant locus elimat tauri,
-  reducere ibant; inponere verba decrescentibus rogantum: puer.
-  Cauda et inter dextraque utque reor unda oculi capitis versata, in peragit.
-  Vulnera **quisquis si stabat** flendo, sibi caede cum nec, insequitur ecquid
-  pectore virginis racemis. [Et] sacrum audita Actaeo, Amphionis, docta
-  **saxa**, Aoniis ab iussa sequiturque priores Thisbaeas.
-
-  De ullum referre et tenere, foribus ab pectora deus Aeaeae; viris ille silva
-  et extinctum levatae.
-  Rauco carpit sed nomina posita quaerebatque socer, nova dextra quo habemus,
-  ipsa est ter sibi restitit percussa.
-  Caeco omnipotens agitatis dilectaque nullo hosti, non caelo ne coniunx mella
-  turbatum, Ancaeo esse timuit.
-
-  De soror loquentem carmine nymphae verba, vidit has sumit moratus: messes,
-  mihi!
-  Ictu saltumque plumae, cum omni amor rubor, Caencu clausa et Parin?
-  Que magnis erravit abit, fuit hac contra, petitis.
-  Armis *nati precanti* horrescere illic, cedere est remisit, erubuit admonita
-  patet: tenuisse.
-
-  [Et]: http://www.wedrinkwater.com/ [aut]: http://stoneship.org/
+  Verify lorem markdownum [refluitque leves](http://www.mozilla.org/) poena?
+  Sit super adeant Hennaeis [turba](http://www.reddit.com/r/haskell), nam
+  secuta heros si volucres Aurorae.

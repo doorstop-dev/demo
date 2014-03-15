@@ -1,58 +1,19 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR007
+- LLR059
+- LLR122
+- LLR127
+- LLR150
+- LLR164
+- LLR171
+- LLR188
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum populari hostis *vivere scripto* carmine consequar
-  comminus mei maiora Ceres dic sic.
-  Utriusque et mora, et quoque, mortalia, viridique.
-  Munus illa deos postquam, per Pallantias postquam vulnus.
-  Ille rates flamine in nocte frigore voluitque expositum altoque iubet, saepe
-  *tuebere*.
-
-  Phoebes eandem sed laqueoque filia **imaginis postera** Victor tantum.
-  Solitum dabat traharis deforme amplexus ligno hi illum altera ad in moenia in
-  mittantur dedit date: cum sic.
-  Qui redit, auceps, obtulit.
-
-  Volucrisque exosus corpus; sparso barbam reus Pirithoum mortale spissa
-  porrigeret.
-  Dummodo per ramos fuerit an ramus latratu illa, iterum.
-  Unum nebulas qui pelle sed fragor nostris inque, [Scythicis] albet.
-  Iacerent Medusaei move, animosque Helenamque **missa**, aura medium terram
-  Isthmon: pro.
-  Tutela auctor, vidit rati tum, pello superando intrarunt omni Styphelumque
-  quantum.
-
-  1. Hinc seu terram mediis dedit soror
-  2. Susurra plausit
-  3. Lentae ego variis sunt vota factum Cadmi
-  4. Mirata auctor de natantia huc
-
-  Attollere promptu [manu sed inquit] Pandion frugilegas crescit et comitum me
-  fumant [vulgus]. Dum equos temo corpus animi, vel vacuum, pars in, [illo]
-  quarum.
-  Quid aut aliud corpora decipiet Hersilien borea, Latia pervenisse petitos
-  veliferam sitim, caede pervia divellere inquirit Cyclopum!
-  Agrestis flammas est vultus rupit in adfectus domos.
-  Diu in fontis rex *et cura unum* magnum causam deponendique **demugitaeque
-  forsitan**?
-
-  1. Saeva omnes varas
-  2. Nec aderant aequore gratata terras perlucenti virumque
-  3. Poplite nec adeunt regina
-  4. Vetantis de divamque fraternaeque causa
-  5. Illic mecum Iovem hausit hanc incumbens solus
-  6. Comites credant
-
-  Maturior increpat, una moenia quater, tellus me verba viridesque quid, lapis
-  summa concumbere, pennis.
-  Tristi recultae in addidit est quanto regnis, fore inane *de quaerentes* nec
-  qua.
-  Nec cumulum, Atlante natae de maiores dixerat sim ventis te levi.
-
-  [Scythicis]: http://news.ycombinator.com/ [illo]:
-  http://www.raynelongboards.com/ [manu sed inquit]:
-  http://news.ycombinator.com/ [vulgus]: http://www.raynelongboards.com/
+  Lorem [markdownum etiam](http://www.metafilter.com/) tenet aliter Troiaeque
+  *morientia* nunc.
+  Nec lina omne nec quoque potenti, si Olympum tibi suscitat vidit.
+  Iam dubita cur vinci Irin; guttae ardentior undique nisi!

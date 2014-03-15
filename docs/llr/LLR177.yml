@@ -1,63 +1,40 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
+- HLR007
 - HLR010
+- HLR014
+- HLR015
+- HLR019
+- HLR021
+- HLR022
+- HLR028
+- HLR029
+- HLR030
+- HLR031
+- HLR034
+- HLR035
+- HLR042
+- HLR046
+- HLR050
+- HLR059
+- HLR060
+- HLR063
+- HLR064
+- HLR065
+- HLR069
+- HLR073
+- HLR074
+- HLR075
+- HLR086
+- HLR097
+- HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** **dumque Lesbon** Minerva cruentas posita, per
-  illis iubent generisque **frigus**! Invictos repetita quae femina velut
-  dextra vis veniamque, properatis, Boreas.
-
-  1. Peto cum non
-  2. Ventis aras nec profuit
-  3. Pependit pellor
-  4. Somnus erat robigine puppes superest
-
-  Hic cognita undae, quam feret ad [carinas] quippe per perosus aethere summos
-  opem pruinae redditque isse.
-  Primumque sola sinistrae quae est brevissimus opem.
-  Non tecta te corruat cuique vitamque qui; honore [tumescunt diem] subiecto ad
-  enim manu scire in in signaverat.
-  Dextra amantem, litora *motura*! *Secuta* amor humo anteit avita casus, hic
-  tura [me belua] iram idque.
-
-  Vulnere es studii [restitit] pependit lectus, apros adstricta dixit erubuere,
-  acervo constantia multos.
-  Meum traxit, aequora limine aspicit defrenato!
-  Non in Dardanidas aequora aquas Clytiumque posse adhuc nondum, **quo**.
-
-  Lumina usum, ministrarum, *alteraque* die si raptam, sternit ergo **equi**.
-  Belloque canam Aricinae Tritonia: ego certum caloris in **ipse vulnere**
-  auxiliaribus semperque edaci, quod non.
-  Vellem ignota manibusque [contra], caedit constituit clara, Dianae suo radice
-  sola.
-
-  1. Foret turba atris esse vox aut via
-  2. Est nomine quo pruinas vestri unde metuam
-  3. Fila precor hominum et corpora armatosque rupisque
-  4. Et violenta cupidine silvas illa curribus quaeque
-
-  Et maior conpulit, terra?
-  Inpositus praedae Thestias tellus.
-  Dare egressa postquam: sed victum fata vidit mella erant quid robora infelix
-  nec numinis et numero Pergama illi! [Mora sagitta], deposuit ea primum altera
-  moenibus incoluit tantis rudentes et ire visi deus.
-
-  1. Tegmine puer
-  2. Iam fuit medio formas cremabo talia
-  3. Mihi licet instar adulterium quaedam ultima ventisque
-  4. Redunco quem
-  5. Erit buxus
-
-  Posses **se crura quamvis** umbrosa mando unum tibi ire crudele, nec.
-  Nostras plumbo roboris paries lanas, hamo quoque mutataque quique Zetesque et
-  aurea.
-  Pararis nocturnos arcus rigavit et Latia Celmi; fulvaque, amanti.
-  Unco Ceyce viis dignus viscera, lyncum, positis, quem.
-
-  [Mora sagitta]: http://news.ycombinator.com/ [carinas]: http://eelslap.com/
-  [contra]: http://zeus.ugent.be/ [me belua]: http://www.mozilla.org/
-  [restitit]: http://www.metafilter.com/ [tumescunt diem]:
-  http://www.billmays.net/
+  **Lorem markdownum **SHALL** vires**, inseruitque sospite sub umero, nunc
+  dedit **faciemque**, ab bella silvas ducitur.
+  Quam hinc ingemit patrio, nomen possim, laevae ulla pectora.
+  Minoris lugenti nobis quereretur carmen agnovit sceptri circumspicit ramo
+  misereri cepit claudit; mille.

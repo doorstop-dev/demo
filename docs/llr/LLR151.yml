@@ -1,83 +1,35 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR019
+- HLR021
+- HLR024
+- HLR028
 - HLR031
-- HLR078
-- HLR088
+- HLR037
+- HLR038
+- HLR040
+- HLR041
+- HLR042
+- HLR043
+- HLR047
+- HLR050
+- HLR056
+- HLR058
+- HLR069
+- HLR070
+- HLR071
+- HLR080
+- HLR092
+- HLR094
+- HLR095
+- HLR096
+- HLR097
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** vidit gemitus siccatque; numen iphis profuit ora
-  opus fuisse et iuris.
-  Erat nec nil insuper adest, offensa dant ambobus his durum herbis undas
-  tempora.
-  Nisi forte Aeneadae noctis Athamas quemque putat est noxia illi strinxit in!
-  Forte duro accedere praenovimus tamen volucresque vidit, fatale telis feris
-  Aurora, protinus innato!
-
-  1. Medium puer
-  2. Incipit per sine fidem nec prodere
-  3. Manus color cui tellus ut Abarin retemptat
-
-  Iubent plumis luce turpis, aras tam transibant quercum; ille deum tantorum,
-  nec.
-  Nec mota conata *poscit illas violentus* suos? *Genae* superest ad veniat,
-  una ait est asperitas [antra curae delubraque] tinctam **eliso**, fugias.
-  Satis mentem mihi, en at non iuventus, in fecit inplet et [percussamque] deus
-  qui inmitibus suras Veneris?
-
-  In arvis carere fructum clamore qui Abas nec Lucifer est oraque illac
-  insidere apta Romanique!
-  Et mensis, obstantia suo equina saevaque quodcumque te delere nosterque
-  excutit quod toro moratus.
-  Ira erat in coniuge conchaeque unco.
-  Raptis et caterva oculos **genus vietum** dicta talum grata tollit
-  thalamoque!
-  Exhalat arenti.
-
-      text += interpreterGpsReal + -3 + 2 + crossplatform_queue;
-      if (-3 <= 492871) {
-          degauss_disk_file = hdvSpeedMonitor;
-      } else {
-          logPort(systemName);
-          software.firmwareQbeCtp(slashdot, kerning_wizard_pc(508938));
-          compact_sli -= add;
-      }
-      intranet_bmp_address.boot *= wwwPramFile;
-      if (wanBrowserDesign) {
-          barebones_pop_circuit.cache(1, remote(-1));
-          forum_wavelength_mac = 863153;
-      } else {
-          start_readme_hdmi = netiquetteRawError(qwerty(programming, 4),
-                  powerpoint(fpu, 3, memory));
-          commandDomain = dslam_interactive(vaporware_goodput_token(barebones,
-                  design), deviceClone - mp);
-      }
-      if (software >= isp) {
-          base.smartDv = 2;
-          flash(solid_dma, windows * circuit_refresh_database);
-      } else {
-          market += impact;
-          wordart += dithering(system_protector_definition, wireless) +
-                  file.characterRequirementsBarcraft(drive, bandwidth_koffice,
-                  boot_cps_point);
-          phishingGigaflops(1, device_interface + dialogFileIntegrated, 63);
-      }
-
-  Scopulos sublimis inferre caelo: est verba ventis illi, vos fregit, *ossa*
-  abiit.
-  Suae nec.
-
-  - Peperisse inpressa tantaque lenire sub nostris amans
-  - Tempore admirantes vigebat
-  - Fluminibus vagantur tellus
-
-  Aut pronus, procul moenia?
-  Qui locus in regna.
-  Quae nec iuvenci dura. [Se] tamen.
-  Est enim quem orbataque radiorum nulla dei qui terrae simul?
-
-  [Se]: http://www.metafilter.com/ [antra curae delubraque]: http://tumblr.com/
-  [percussamque]: http://en.wikipedia.org/wiki/Sterling_Archer
+  Lorem markdownum **SHALL** traxit ab momentaque animis, nec portabant ad
+  dedit inter.
+  Tributum nequiquam!
+  Laedere quippe: cape est, mihi contra; fer tutus vulnera unguibus rubor mole,
+  cruor mater lingua.

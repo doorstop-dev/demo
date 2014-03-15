@@ -1,64 +1,32 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR035
-- HLR072
-- HLR094
-- HLR095
+- HLR010
+- HLR016
+- HLR022
+- HLR046
+- HLR054
+- HLR069
+- HLR073
+- HLR084
+- HLR091
+- HLR096
+- HLR099
+- HLR100
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** morte [quisquis ad] modo inclinata proceres
-  multorum erat.
-  Humana quaerenti squamae: ultusque discedens pedis, pressistis classes
-  *loca*. Translata nulla: ipsum videre superat, plurimus velamina multorum
-  caelum inter verique ora qui latices.
-  Tremulo admovet, caede habet eundem singultuque inpressa pro.
+  Lorem markdownum **SHALL**! Nova Diana in [legerat hunc
+  avoque](http://twitter.com/search?q=haskell) tristisque *laesi* dixit
+  durescit mirarique carpant requieque tecta: hoc: signat.
 
-  - Hoc dixit quid pericula
-  - Cum grani neque
-  - Ipsam quem flexos sistrorum montibus
-  - Sit saepe tamen fetus sedere non
-  - Arma declinet mira o reperitur sua foret
+  1. Attritas tenebas
+  2. Aiax sine convertit inquit nec bucina
+  3. Quod quae trabes deorum
+  4. Qua ante belua
+  5. Stetimus Cupidinis fortis pars fugit fortibus radiantibus
+  6. Tinctus nova terras
 
-  Est certaminis nubibus neve modo pectore enim, surrexit, ab labi [per]. Fuit
-  mea sic imperet, is, meorum sub pennis, digna [et fidesque parce].
-
-  Nepoti nostri parvo viri hic; sonanti infans nubigenasque deum posses cur
-  aquis triplex foco arvis parabat! *Viroque sed* conplevit facitote tutaeque
-  conceperat quoque ulla pretium, non candida timet.
-  Deum nec cum rostro cadit mare et iacentia orbem arma, per gerens!
-  Pars ventusve posset non, videndo [caeli], gratissima deae a dat ubi
-  scrobibus: et quaeque, linguae!
-  Recepta flammas, tectus pugnantemque cum dum longave vultu, deum denique
-  Amymonen excoquit.
-
-  Navigiis quo quem cum postes Bacchus nymphe sanguine testes.
-  Credere nec iacebas accipit altis iniit, sui frater ne lymphata *equus*; quot
-  postquam vocando.
-  Inhonestaque post, mea ad mihi, procorum vota ab vitibus: saevitiae concha.
-  Deus fit!
-  Labor si mora maximus, numquam domestica marmore utque; evocat conspexit.
-
-  Qui cum tamen querenda dignos humus, ante, derepta oculosque nulla conata
-  iterum tenuit, qui cives petiere [faciat]. Ubi cur, adhuc missa boni effugit
-  facta mollierant vestras, saevus surgunt aliter expugnacior.
-  Pompa supereminet ad cultro inimica, mutanda!
-  Enim ovis ego nunc locus dies glomerari sub adest ambiguus adspergine in
-  erat, aut.
-  Borean sparserat opibusque scire, ales tectum poma terga in iaculo se
-  sanguine.
-
-  Me flumina litatis palmis.
-  Est fila; mox infans victoremque metuenda manant recludi.
-
-  In nescio minimum venerit in quam, indignatus sublimia cornibus Augustum
-  incidit tepido, corpore receptae est a genus.
-  Vox impetus; fida non prato *potentem qua* omnis; dici virginitate Asopidos
-  hoc.
-
-  [caeli]: http://www.metafilter.com/ [et fidesque parce]:
-  http://www.wedrinkwater.com/ [faciat]: http://twitter.com/search?q=haskell
-  [per]: http://www.youtube.com/watch?v=MghiBW3r65M [quisquis ad]:
-  http://imgur.com/
+  Et lanigerosque [tempore](http://www.reddit.com/r/haskell) nervis?
+  Pinus haec Luna sequuntur poenas; magna nexu madent declivis probant.

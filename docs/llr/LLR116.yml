@@ -1,49 +1,22 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR011
+- HLR002
+- HLR008
+- HLR009
+- HLR033
+- HLR037
+- HLR052
+- HLR055
+- HLR100
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** Maeonia parit, quod avus propiora, oculos hic.
-  Obvius *arma venabula* ut felix communis.
-  Pro tibi, per agat nisi idem hoc auro duos, dextera novam, laeta! *Umbrae
-  quam* primus erili ea o tellus et via illa muneris dimovit praeferret iunxit.
-  Visus conspecta in vincere nuper.
-
-  1. Qui suum
-  2. Concurrere istis omnia Ino tandemque pennas
-  3. Nobis cernentem huic et una
-  4. Dicta Saturnia ponendi mecum veluti ait arcus
-  5. Echo his dona Cinyphius vidi mundi harundine
-  6. Quisque faecis et refugitque sinistra Iuppiter
-
-  **Cognoscere venabula** totoque *tamen in alter* miseroque seque trita.
-  Iussus et adspicit auctor si simque tamen est poterat quoque, instat unde
-  guttura?
-  Parem obstipuere vires fugae ipse, laqueos mora quam quoque [iam aret]
-  geminas ait credere vertice, ulterius.
-
-  Undique secant **auguris carpebat** Dianae timent metallis intrasse dixit,
-  amat qua procumbit!
-  Fatentur petito.
-  Ense Pisaeae domus sarisa motura, tenui capiat, nomine miserere: qua dixerat
-  ire reicerer ecce.
-
-  1. Ab isque tertia inquit autumnos populari dubita
-  2. Non nec gentis auratum Somnia
-  3. Ille hic tantoque
-  4. Feruntur pudet in liquidis inque
-  5. Vix qui locorum egrediturque toto mergit properant
-  6. Notavi citus Iuppiter urbes
-
-  Est nubila genuit caelestibus vaga spatium visa iterum in fuerant adhuc esset
-  inscius, gratia nemorum inter Phoebeamque patri.
-  Furtisque Dixerat, *tegitur* parabam.
-
-  Vicem suo visi oculos?
-  Os vultum [fera], luctus!
-  Ira in tenues opifer, concita sua quid mundi tempora honoratos flammis.
-
-  [fera]: http://twitter.com/search?q=haskell [iam aret]: http://imgur.com/
+  **Lorem markdownum **SHALL** undis** memor dexteriore accedere altera ventos
+  luce imagine.
+  Inaequalis natum penetralia **quattuor**, hunc crescentem saepe gratissime
+  igne aliquid exstinctique utve: deorum vovistis Theseus.
+  Parabat esse filia, venefica corporis tenues viam quae Delphis.
+  Dulci locum audiat quae quod *tamen*, Iuno.
+  Terraeque rudis solidum Pelion non contentique fuit flamma.

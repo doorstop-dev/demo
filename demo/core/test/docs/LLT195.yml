@@ -2,73 +2,60 @@ active: true
 derived: false
 level: 1.1
 links:
+- LLR006
+- LLR008
+- LLR011
+- LLR019
+- LLR024
+- LLR025
+- LLR029
+- LLR030
+- LLR032
+- LLR036
+- LLR038
+- LLR043
+- LLR054
+- LLR058
+- LLR065
+- LLR066
+- LLR072
 - LLR074
-- LLR106
-- LLR163
+- LLR079
+- LLR084
+- LLR095
+- LLR100
+- LLR103
+- LLR120
+- LLR123
+- LLR124
+- LLR135
+- LLR138
+- LLR140
+- LLR144
+- LLR146
+- LLR148
+- LLR159
+- LLR161
+- LLR164
+- LLR170
+- LLR172
+- LLR174
+- LLR178
+- LLR181
+- LLR183
+- LLR188
+- LLR189
+- LLR194
 normative: true
 ref: ''
 text: |
-  Lorem [markdownum illis miserabile] culmine obsuntque fuerat ad cuncti teneat
-  ad sit: o Troiam cum; passu?
-  Versi abesse multorum ademit prodigiis protinus est nec, fibras imber,
-  dentes.
-  Essem **popularis valens** secuti non ut convivia fuerat quibus hoc indicat
-  involvitur quem dea non [in induat].
+  Verify lorem markdownum dicor venerande parvasque at unus, Cnosius pariter.
+  Quod Leucothoe eodem: erigitur **impediunt quamcumque** sibi, quem sunt
+  thyrsos Pallene negabamus intonsis gravitate.
 
-      if (backboneBatchHorizontal.minicomputer_multiprocessing_wimax(
-              losslessPaperSupply)) {
-          screenshotCyberspace.web(drive);
-      } else {
-          dataSoftwarePower = shell(-4 - hertz, web_ipv_vlb);
-          dac_gnutella_registry += password;
-      }
-      desktop_state = 80;
-      resources += webProcessorTerminal(officeMulti);
-
-  Ab lingua taedae tamquam aliter, sinistro cur subit duce iubebat.
-  Arces est me levatum, neque te patet lauro, imagine dictis, merguntque
-  superi, Drya.
-
-  Ait ignes iam latos mea: **quaeque pater**, Troiaeque dixit dona parentem,
-  bracchia.
-  Et nefas in abest virtutis dominos ac fronti poenaeque et.
-  Si hoc et dira crudelis pennis Nessus lucis caelumque temperat **confessa**
-  et inter?
-
-  Auras ilia *caespite Erectheus gaudet* insuetum.
-  Crudelia iaculi tu absens Aventino virtutis tecta cruciatibus quos post
-  facitis, nec unam omnipotens umbra custodia rerum cui abstulerit?
-  Vires memorat Parnasos si efflant animam cognosci, me scilicet illuc in vix
-  ducunt sustinet proripit indicium mihi foret, traherent.
-  Signa adit, aer adducere ungues muris,; inlimis.
-  Talibus Alcyonen consedere mensam praetendat ille: cupressu!
-
-      var mail_soap_t = traceroute.shortcut(1);
-      if (-1) {
-          servicesClusterStation.exploit_saas = correction_caps_rup;
-      }
-      ribbon_unicode_file(jumper, cold - dhcp(bcc_lock, graphicModeDelete),
-              wanYoutube);
-
-  Oceanum qui partem exitus; lapis sua prius quae non duobus veluti ripis
-  laurus ceu erant equidem, dixit, modo?
-  Inmemor nulla; vates Iove sic hanc huius experiar, nocens hiatu.
-  Exanimem sonuere esse verbis?
-  Leaena ite ictus tectis, a querellae quibus, agnovique et hinc ubique.
-
-      if (4 + toslink_uml * adc_pda) {
-          megahertz_clip_dhcp(compactSystem(servletCropCopy), asp_pci);
-          fios_ftp_virtual += isa_clean(xp(up), rw.uml(target_widget, 55));
-      } else {
-          output -= external_workstation_smart;
-      }
-      application += digital_text;
-      left_newline.icannOdbc(shareware_gate(file, 3), load_software_method(2));
-
-  Redditus facitote ad nymphae fuit superos quod, fecit.
-  Vomens sunt instructa atque cui est poscuntque coactis tunc non obstipuere,
-  consternatique.
-  Lacrimis est densum, suam exstant; fecit spectator.
-
-  [in induat]: http://tumblr.com/ [markdownum illis miserabile]:
-  http://www.lipsum.com/
+  - Leporem conantem vidi idemque
+  - Fraterno nulla laevo habet genae tantique dum
+  - Missa modo non concubitu duris
+  - Unius pete scripsi vultus atque limen
+  - Illo tamen vertice muros
+  - Agros permisit terrae fugiamus Cupido

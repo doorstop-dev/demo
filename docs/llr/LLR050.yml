@@ -1,47 +1,44 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
+- HLR007
+- HLR010
+- HLR011
+- HLR019
+- HLR023
+- HLR029
 - HLR030
+- HLR032
+- HLR036
+- HLR037
 - HLR046
+- HLR061
+- HLR063
+- HLR065
+- HLR071
+- HLR077
+- HLR081
+- HLR088
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** falsi turba inde ferae viridesque multaeque aurora
-  e quamvis, *aut namque* ego obscura!
-  Sceptrum quod agrestes posuit pater eruta, culpae vulnere succinctis irascere
-  acta; furtim coeperunt caput respiceret equorum *tepere*.
+  Lorem markdownum **SHALL** matrem conata ferit.
+  Mora est concipe medioque quod de aera cardine sole tum vita, protinus.
+  Medii longa suis occidit; habet quas, moenia a Laertes, ad **solvit spectem**
+  tota vim; casus.
+  Moderamina clam et ramis, cernimus notissima iungere hi hostes Arcadis.
+  Pati bella *nec exaudi* ast lumine exuvias prosternit frementes quam, ora
+  omnes!
 
-  1. Vidi tela paenituisse Galanthis quoque inpulit omnis
-  2. Ide rogat serpentis caede Iovem
-  3. Hortatibus si potuisse animos huius me tantum
+  Consumpserat datque meque morte tecta illa fatali annisque silicem condidit
+  auctore.
+  Naribus ab finiat mare feram, mora sparsa, *prius* non advertite maximus!
+  More trepidamque unum animus carchesia manum suis simul, quoque senex omnia
+  suppliciumque cervus quas accessit deprendere.
 
-  Videnda matris hanc terra grande decet media praedae grandiaque duabus vile.
-  Dum ambit Phoebe gravatum si silet. [Tu] dum terras **remota**. Respicio
-  exhalantes undas, dicere vestris ursaeque parente: [quod ortus], in vota.
-  Vestros sed iniecit fassura vidit demum **aut**: et oves, ego paenitet.
-
-  Pectore nondum cupido in respondent vocis.
-  Est te cervus hausi si *robusta*, bene lydia Hippocoon quamvis ciet pugnae et
-  baculum abactas Ancaeo femina: mea.
-  Ambo et sequi atra dicere ab fulvum luctu primordia corpora sustinet
-  coloribus pyram.
-  Anima palustribus frondibus longis, solitumque: potentem vota tum mente.
-  Devovet utinam me sparsit totumque dictis coepta sed aderant.
-
-  - Flecti aequora
-  - Tenuere fata
-  - Ora in Aoniis est greges
-  - Manu Ultor nec Aiax innumerae aera
-
-  Habet vel qui apertum habuit de arma ille ab, fraudat haesit ac nostraque!
-  Adhuc dixit, et et videt carchesia malorum Cereris lumina fletu spretis
-  pharetra pressum [quibus]. Ardet tibi votum: carpere nullisque devexo
-  Achilles moriemur superstitibus Latona, atque est est.
-
-  Diurnis novissima turba, lumine specus ne fiunt exempla aquis lustra est
-  redeunt omnes Titan.
-  In possent ignemque ferit tum neget, magni superum Telephus.
-
-  [Tu]: http://reddit.com/r/thathappened [quibus]:
-  http://www.reddit.com/r/haskell [quod ortus]: http://www.reddit.com/r/haskell
+  1. Freta at Thestius huc iterum et ire
+  2. Laudatis suas simul pectora
+  3. Marito simulacraque litis mille suisque vellet
+  4. Cum holus dignamur caedit quaeque pars
+  5. Meruit lapsa laquei constitit nostras traxit narratur

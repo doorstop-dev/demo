@@ -1,49 +1,51 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR013
+- HLR001
+- HLR007
+- HLR009
+- HLR015
 - HLR016
+- HLR017
+- HLR021
+- HLR023
+- HLR026
+- HLR027
+- HLR032
+- HLR039
+- HLR042
+- HLR046
+- HLR047
+- HLR053
+- HLR060
+- HLR061
+- HLR064
+- HLR068
+- HLR071
+- HLR076
+- HLR077
+- HLR078
+- HLR079
+- HLR080
+- HLR082
+- HLR083
+- HLR092
+- HLR093
+- HLR094
+- HLR097
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** habitantem aequore *mox*. Aristas est ignes dedit
-  mea Saturnia causas rigorem Agenoream accipe paulumque.
-  Novi quid vocatum dotabere spes, congressus parte horrenda nomine mea
-  rigescunt.
+  Lorem markdownum **SHALL** equi leonem ira solari auctoris rumor; inclitus
+  corpore, sed ille qui nam ipsa maneat, cum.
+  Spectans inclita contulerat vitat pennis [mihi](http://tumblr.com/) fugiunt
+  Erectheas, solae virgine deorum sub.
+  Cumque concussit iubeas, virent, Phoebus aenea.
+  Ante huic [hanc quis](http://reddit.com/r/thathappened) abditus varios.
+  Rediere qui quis eligit Sinuessa te modo, et si ore pugnem inpulsaque Euboica
+  [undis ni](http://www.wedrinkwater.com/) fetibus per.
 
-  Septemplicis vimque etiam paulatim artus mihi nec aetate, et rapit caelestia,
-  placet.
-  Arto tamen faciebant, arida lacrimaeque quos factum et favilla Phoebique
-  incurvo.
-  Amans fronte et pulverulenta **felicia mora**. Lumina proxima obliquum
-  instrumenta hausti, subterque merere queritur Mulciber talia percussae videt
-  fratremque adest, et Iris!
-
-  Est at armis dum inmissa manibus; **ponit quid** si doctus pudore ut saxo
-  occidit terrae.
-  Finis accedere ab honori et situsque obvia rogat, duri recolligis monstra
-  portus finita?
-  Futurus iste.
-
-  - Hic ego ipsa vestigia grator de onus
-  - Matrisque iaculum
-  - Gemit genus illae vix invitum annis quod
-  - Iacto domitamque acumine incidit mors
-  - Sed fastus
-
-  Nullam quam Telamon, aut fontem superest et gurgite specie Aventino in uterum
-  quidem veteris.
-  Lacerto duc aere urbem caelo celebrare fune [flammamque proxima], colles bene
-  dixit avidoque vilisque, fulva mactatur pertimuit rector.
-  Phrygiae sanguineae et rerum.
-
-  1. Fons nunc at putes tum nostris nocendi
-  2. Fremebundus nomine
-  3. Sine leti alte Thaumas amplexans corpus capillos
-
-  Iunonem populos.
-  Arcuit olim tenens bipennis et Alcyone ferro ademptum, tantum dixit.
-  Simillimus obsedit.
-
-  [flammamque proxima]: http://haskell.org/
+  - Opibusque cunas
+  - Plura ante
+  - Quam erat

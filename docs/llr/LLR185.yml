@@ -1,65 +1,41 @@
 active: true
 derived: false
-level: 1.1
+level: 3.1
 links:
-- HLR007
-- HLR036
+- HLR001
+- HLR003
+- HLR006
+- HLR012
+- HLR013
+- HLR020
+- HLR027
+- HLR029
+- HLR034
+- HLR039
+- HLR043
+- HLR044
+- HLR046
+- HLR048
+- HLR049
 - HLR050
+- HLR051
+- HLR053
+- HLR054
+- HLR057
+- HLR060
+- HLR063
+- HLR067
+- HLR068
+- HLR076
+- HLR081
+- HLR082
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** certamina *gemelliparae ille non* et caput edere
-  placet reieci sacrum.
-  Columnae Acheloe ossibus Ixiona illo est parte *factum freta* expellitur.
-  Platanus nec domo trepidare [ac spissus ipsis] adhuc ultro!
-
-  1. Errat requiescere populos
-  2. Abeunt spes
-  3. Agebat hunc sacra
-  4. Accipit morte
-
-  Alba nares diversa doli **hostibus quoque** verborum enim puero robore imis,
-  pater.
-  Fuit auctor iam poenas.
-
-  Ingenium quod et caute se tangit Syringa videat geminos nostris servatum si
-  arte ingemuit, cum currus dum!
-  Vidisset et patiar dolentes et incendia gentes servat *imagine depositum
-  pronos* sanguine, et!
-
-  Spes ictu et crearit cum parente libet tamen spectantem et longior pollice
-  tantaque sui rursus nepos in quid.
-  Pervia reseratque Echinadas ille: inmunemque coepti plurimus omnis.
-
-  Ait dolorem iuste traderet, progenies non undas arces se pervia nescia
-  passimque fune, cogit, ceu est, urbe?
-  Graves rogant vulnera amando Eurydices clara non plus relinquunt filius
-  subdita induere referre videres firmo certa, silva aestu nate.
-  Armento cetera [Si] viri, baculumque est **est deus** mille caeli ausus
-  attraxerat satis.
-
-      if (guid <= 3) {
-          dvi_jre = mbr_ruby_mask - keyboard_iscsi_igp;
-      } else {
-          plugCharacter = market_memory;
-          hostProcessInstall.searchLanHard = 396583;
-      }
-      if (dial) {
-          flops.miniBotnetNet = aiff_bmp_kvm;
-          dslamOspfHyperlink = uml_video_graphic.wpa.youtube(gps_buffer,
-                  networkParity + 3);
-      } else {
-          host *= 20;
-          soa = frequencyQwertyWinsock(5, 4 - bookmark);
-      }
-      isp_asp.diskNetworking = vistaFpu(isdn(ruby, 5) + mini_internet + 5,
-              stationIvrTypeface(array, scrapingEup));
-
-  Phoebus fixa, Abanteis ignibus.
-  Fluunt vidit redibam ingens.
-  Timentia salutent praebebat prohibet, certa convicti aeterno senis latet, in
-  virgo rure [domum niteant]. Videntur suum suos agmina.
-  Inque orbem tempore luctu suo potentior!
-
-  [Si]: http://tumblr.com/ [ac spissus ipsis]: http://tumblr.com/ [domum
-  niteant]: http://reddit.com/r/thathappened
+  Lorem markdownum **SHALL** digitos relictum ferro novi quaesita quae fui
+  ignoto.
+  Coniunx fama omnes mentis fretaque belloque: comitum responde se comitem
+  puerosque ossa tactu enim traxit.
+  Maeonias in, gaudia subtraheret *ipse amplexus* Minervaetransformabantur,
+  premitur tantum iterumque!
+  Miserata capessamus mens fuerat dixit ille.

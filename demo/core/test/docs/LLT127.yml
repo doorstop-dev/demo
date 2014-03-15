@@ -1,77 +1,26 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- LLR002
+- LLR009
+- LLR010
+- LLR023
+- LLR038
+- LLR041
+- LLR058
+- LLR106
+- LLR107
+- LLR116
+- LLR133
+- LLR138
+- LLR151
+- LLR177
+- LLR181
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum ille occupat facto *corpore ambibat tauros*
-  refoventque quicquid ferens fidesque.
-  Quae talibus matre **iuncisque Somnus** triones, famulasque fama corniger;
-  pro.
-  Plaga attulerat unde quid profuit versasque, iam medio deformes, Andraemon
-  Arctos, **praemia** Augustum.
-  Et eadem culmine Peliden digna, Cyllenaeo aevi votivi nollet, velut vinci
-  primus sanguine.
-
-      bot += vci_mp_veronica;
-      var cursor_scraping_resources = -4 + x;
-      if (login_white_num + vdslRamOverwrite) {
-          analogUrlOrientation(dv_widget);
-          twitter.stick_session_session.payload_powerpoint(3,
-                  network_superscalar_networking);
-          vlogAsp.oopTarget += pdaCursor(15);
-      } else {
-          bmp_service_social -= asp;
-      }
-      floatingBooleanUltra = 758550;
-
-  **Forsitan** nec discussa cursu exprimitur luctus mersis est exigua lapis
-  agit paludem, qui penna patuere?
-  Venandi vallem dumque armis, est ergo vox cincta ingemuit.
-  Adulantes removente [ut] parens perque, corpore conplevit in terret spatii
-  amabat.
-
-  Flammis ora imas caede **est annos** vidit, quas quam sed, nemus.
-  Incipere velocius tanto.
-  Caedis oris te Troica [amore reliquerat nullo] illi ab mea udaeque evertere
-  inquit consensu plenum.
-  Et iram sua, nec ore Iuppiter cornua corpore spernimus dictis habebat
-  quaerebat Argos et crederet litora.
-  Vero leges, ego arce spectabilis mandatam callem at insequitur omne fregit
-  petunt pulvere cultor.
-
-  - Contactu habebam parva coloribus inertes lapides propior
-  - Veteris in lumina lupum deficiunt
-  - Et qui suadet guttura et vidisse didicit
-  - Incomptis silvas coquiturque feratis vellem
-  - Partes Hectoris
-
-  Ecce tibi suo lenisque tenet plura Helicen tantae, suscipiunt vulnus eodem
-  sibi: ipse: eque sucis sit.
-  Rupit est rem et, nunc pleni raptis gemino coniugialia linguae sunt supplice
-  deque illi miseris nostras: quaerens.
-  Verba se, et quercum fonti.
-  Alit passimque veniat: obscura nostrasque abest harenae, [saepe] illa dura
-  mora hunc, erit at.
-
-  Ulla suo vidit cursuque iamque linguaque ipse locutus; mare dea vultibus quo
-  inde, nec proque mali.
-  Troia uberaque qui visa tamen lacu colloquium referre lingua.
-
-  1. At iuvatis et adest et fuisset vertice
-  2. Queri sed subito perde
-  3. A videri e removit metuis quem fessus
-  4. Numine cornibus inque flumina est dimittere remorum
-  5. Quid si iuvenalis an Lyciae licet fratribus
-
-  Tyrrhenus ergo, sis quod, mihi loca tura, Achelous fratribus [meliore]
-  Dryantaque detulit.
-  Hoc ego obest sistere aura: corpus iusta, versus deum tellus iungit, ergo
-  occulte.
-  Vagantur at tamen et abditus, video laeva mihi telum amplexans ulvaeque quid;
-  summae neque generosos, fontis.
-
-  [amore reliquerat nullo]: http://www.youtube.com/watch?v=MghiBW3r65M
-  [meliore]: http://landyachtz.com/ [saepe]:
-  http://html9responsiveboilerstrapjs.com/ [ut]: http://gifctrl.com/
+  Verify lorem markdownum Aeneas renidenti studiis quater, res socii maximus
+  et.
+  Pectore *vocant* Ulixes, quo manet doloris ora *natis quaerere bibulis*, tota
+  *domus submovet* communis horrida reliqui velatus.
