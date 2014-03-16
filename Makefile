@@ -63,7 +63,7 @@ depends: .depends-ci .depends-dev
 .depends-ci: .virtualenv Makefile $(DEPENDS_CI)
 $(DEPENDS_CI): Makefile
 	$(PIP) install pep8 pep257 nose coverage
-	$(PIP) install git+git://github.com/jacebrowning/doorstop.git@master
+	$(PIP) install git+git://github.com/jacebrowning/doorstop.git@881bc705024bedabaa0abd41d09db9a5a1b355c4
 	touch $(DEPENDS_CI)  # flag to indicate dependencies are installed
 
 .PHONY: .depends-dev
@@ -98,20 +98,11 @@ doorstop: .depends-ci
 .PHONY: html
 html: .depends-ci docs/gen/*.html
 docs/gen/*.html: $(shell find . -name '*.yml')
-	mkdir -p docs/gen
-	$(BIN)/doorstop publish SYS docs/gen/SYS.html
-	$(BIN)/doorstop publish HLR docs/gen/HLR.html
-	$(BIN)/doorstop publish LLR docs/gen/LLR.html
-	$(BIN)/doorstop publish HLT docs/gen/HLT.html
-	$(BIN)/doorstop publish LLT docs/gen/LLT.html
+	$(BIN)/doorstop publish all docs/gen
 
 .PHONY: read
 read: doc
-	$(OPEN) docs/gen/LLT.html
-	$(OPEN) docs/gen/HLT.html
-	$(OPEN) docs/gen/LLR.html
-	$(OPEN) docs/gen/HLR.html
-	$(OPEN) docs/gen/SYS.html
+	$(OPEN) docs/gen/index.html
 
 # Static Analysis ############################################################
 
