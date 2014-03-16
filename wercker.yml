@@ -26,9 +26,9 @@ deploy:
         name: install dependencies
         code: make .depends-ci
     - script:
-        name: generate documentation
+        name: generate html
         code: |-
-          make apidocs html
+          make html
           echo http://jacebrowning.github.io/doorstop-demo > docs/gen/README.md
     - script:
         name: configure git
