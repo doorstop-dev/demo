@@ -1,64 +1,53 @@
 active: true
 derived: false
-level: 1.1
+level: 12.1
 links:
-- LLR005
-- LLR008
 - LLR010
-- LLR015
+- LLR011
 - LLR019
-- LLR024
-- LLR026
+- LLR023
 - LLR028
-- LLR032
-- LLR052
-- LLR063
-- LLR064
-- LLR065
-- LLR081
-- LLR088
+- LLR036
+- LLR037
+- LLR049
+- LLR053
+- LLR082
 - LLR091
-- LLR102
-- LLR121
-- LLR124
+- LLR093
+- LLR097
+- LLR103
+- LLR108
 - LLR136
 - LLR137
 - LLR138
-- LLR141
+- LLR140
 - LLR144
-- LLR156
-- LLR162
-- LLR175
+- LLR146
+- LLR151
+- LLR155
 - LLR183
-- LLR185
-- LLR186
-- LLR190
-- LLR199
+- LLR187
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum colle Aesoniden motura tegitur ut date tuo: senectae
-  vulnera nostro.
-  Sub *perque levis huic* hospes Troiae est et pete volatile superos, ut partim
-  cinxit foedumque.
-  Ad tangere quidem illa sociantem, lustro sub testa, pugnatque horrenda
-  verbisque superbus caelo tum: bellum: belli.
-  Auras dixit pestifera videre mox ablatus, hausti puer auribus.
+  Verify lorem markdownum Pyramus, ambo undae extremo monitis capillos:
+  experiar vidisse.
+  Subeunt maiestas in memores labant sed spemque quid gutture per transit
+  minimo; pax medio medentes iaculum.
+  Teloque potes pro aether Abantiades gerunt maneas saepe bracchia cum languore
+  alas ab sonantia secto caede?
 
-  Ore saxum certamina Pandione.
-  Peremptam dolens tendens incursus traiecit crescentis deinde parantem altis
-  deus certo, ululatibus, quid aut.
-  Induruit diurnos liquidis. *Ab sed clipeumque* hunc neque vellem socero ecce
-  ambo currum aurum nesciet adibat sibi, pro peregit.
+  1. Tellus ablatus abest
+  2. Adhuc et te tristia
+  3. Constitit quis
+  4. Spumas omnes
+  5. Est repagula non Procne mitis conantem praecipitique
+  6. Quis quaecumque aethera Phrygiaeque isto
 
-      if (dcim(traceroute, dns_vector(xmp_localhost, mainframeWheelRdf),
-              pathHibernateBig)) {
-          flops(webcam(88, firmware_scsi), 73, 2);
-          hypermedia_lock /= rowFlatbed;
-          tooltipPing += 3;
-      }
-      recordInbox.linkedin_halftone(5, 4);
-      batchCorrectionTape = malware;
-      isp += 2;
-      var nosql_volume_friendly = vfat_boot(software_lion.tag_raid(desktop),
-              ctrFloating);
+  Nec mearumin Danais postquam admisso exclamat domito sic cuius sui lumina
+  usque; sibi.
+  Iter et dum Cereris flamma!
+  Inpune illos.
+  Gnatis bene volucrem limen madefactus more vellet, tum mota silva vultus,
+  Achivam!
+  Scinditque est acres addendum forem funeribus vulnera.

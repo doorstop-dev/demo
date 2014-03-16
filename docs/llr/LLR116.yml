@@ -1,22 +1,48 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR002
-- HLR008
-- HLR009
-- HLR033
+- HLR004
+- HLR007
+- HLR010
+- HLR012
+- HLR013
+- HLR014
+- HLR020
+- HLR022
+- HLR025
+- HLR026
+- HLR030
+- HLR035
 - HLR037
-- HLR052
+- HLR041
+- HLR042
+- HLR045
+- HLR046
+- HLR047
+- HLR048
+- HLR050
 - HLR055
-- HLR100
+- HLR056
+- HLR057
+- HLR059
+- HLR062
+- HLR063
+- HLR069
+- HLR073
+- HLR076
+- HLR086
+- HLR088
+- HLR089
+- HLR090
+- HLR093
+- HLR098
 normative: true
 ref: ''
 text: |
-  **Lorem markdownum **SHALL** undis** memor dexteriore accedere altera ventos
-  luce imagine.
-  Inaequalis natum penetralia **quattuor**, hunc crescentem saepe gratissime
-  igne aliquid exstinctique utve: deorum vovistis Theseus.
-  Parabat esse filia, venefica corporis tenues viam quae Delphis.
-  Dulci locum audiat quae quod *tamen*, Iuno.
-  Terraeque rudis solidum Pelion non contentique fuit flamma.
+  Lorem markdownum **SHALL** licet, tamen te putat nequeunt manibus, quod!
+  Ore me, flavescere iubent pecudes aratro.
+  Socio ad [tangor](http://twitter.com/search?q=haskell), superas et habetur
+  stemus!
+  Suos et iocos [avis cetera mansit](http://gifctrl.com/) guttura, et Dodonaeo
+  mea esse nulla dea flexerat fuit destruitis latet adstringit.

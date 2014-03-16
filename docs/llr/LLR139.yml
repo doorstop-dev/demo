@@ -1,51 +1,25 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR001
-- HLR007
-- HLR009
-- HLR015
-- HLR016
-- HLR017
+- HLR003
 - HLR021
-- HLR023
-- HLR026
-- HLR027
+- HLR024
+- HLR029
 - HLR032
-- HLR039
-- HLR042
-- HLR046
-- HLR047
+- HLR051
+- HLR052
 - HLR053
-- HLR060
-- HLR061
-- HLR064
-- HLR068
-- HLR071
 - HLR076
 - HLR077
-- HLR078
-- HLR079
-- HLR080
-- HLR082
-- HLR083
-- HLR092
-- HLR093
-- HLR094
-- HLR097
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** equi leonem ira solari auctoris rumor; inclitus
-  corpore, sed ille qui nam ipsa maneat, cum.
-  Spectans inclita contulerat vitat pennis [mihi](http://tumblr.com/) fugiunt
-  Erectheas, solae virgine deorum sub.
-  Cumque concussit iubeas, virent, Phoebus aenea.
-  Ante huic [hanc quis](http://reddit.com/r/thathappened) abditus varios.
-  Rediere qui quis eligit Sinuessa te modo, et si ore pugnem inpulsaque Euboica
-  [undis ni](http://www.wedrinkwater.com/) fetibus per.
-
-  - Opibusque cunas
-  - Plura ante
-  - Quam erat
+  Lorem markdownum **SHALL** celeberrima stimulosque non *reddit silvas
+  serpentibus* catulo et tandem fregit sponte.
+  Prorumpit stricto ursos ite ferar Seditioque tertius.
+  Tela ille tenuisset Erycis et **cum** enectum ulli fatale confessis habemus
+  prosit silvae faciemque quidem.
+  His gremio pectore, **urbes** una undis primae ramos, inpono prior.
+  Est viva iunctura ad angues arma vultus quaeque: est
+  [nota](http://www.wtfpl.net/) minimum Philomela idem fluidoque!

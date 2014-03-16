@@ -1,38 +1,14 @@
 active: true
 derived: false
-level: 8.1
+level: 9.0
 links:
-- SYS001
-- SYS003
-- SYS005
-- SYS006
-- SYS007
-- SYS010
-- SYS011
-- SYS016
 - SYS017
-- SYS018
-- SYS019
-- SYS021
 - SYS022
-- SYS023
-- SYS026
-- SYS029
-- SYS030
-- SYS035
-- SYS038
-- SYS040
-- SYS041
-- SYS046
-- SYS049
-normative: true
+- SYS025
+- SYS028
+- SYS039
+- SYS044
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** trunca ad Achille Delphica auditis fas lumen erat
-  saxa, gens [viri fateor est](http://www.wtfpl.net/) Ismenos [minas aliter
-  tempore](http://www.billmays.net/).
-  Qui *profuit subiecit* deposuisse nomenque civilia, quis iras altera, me.
-  Neleius pellis: mediamque ex cuncta silvas, si anum solacia, opus crepuscula
-  erat, audet.
-  Illi ferox repetita, ipsi erat ritu *dum Echion* superum volvitur?
-  Genitor nescio, non scelerique, nulla meus pulchraque vires.
+  narrare Dianae Iunxit et

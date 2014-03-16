@@ -1,28 +1,33 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR004
-- HLR013
-- HLR019
-- HLR023
-- HLR041
-- HLR042
-- HLR044
-- HLR051
-- HLR059
-- HLR063
-- HLR070
-- HLR077
-- HLR087
+- HLR001
+- HLR026
+- HLR034
+- HLR035
+- HLR045
+- HLR048
+- HLR050
+- HLR055
+- HLR056
+- HLR062
+- HLR064
+- HLR092
+- HLR094
 - HLR096
-- HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** succedere rerum exercita si saepe, data totidem
-  protinus ultima flectere, te.
-  Fratrem est duxerat veluti harenosae ab habet nudorum quascumque mensae sub
-  dederant in dixit iunget descendat utere.
-  Sit mutua.
-  Cui regio pallor!
+  Lorem markdownum **SHALL** detque iam, est nocenti quod est manu dempsistis,
+  ait?
+  Nota mentes vicinaque peregrina alumnus et urbis ad coniuge te vultus
+  [adiutis](http://www.thesecretofinvisibility.com/).
+  Et cur in adhuc, saevo, inclamare quod: est felici, non vocat tibi nomen,
+  aquarum.
+
+  1. Vivebat a parentes Cancri deprimeret Dianae vini
+  2. Omni offensus pectus ille
+  3. Quem nuper petit cruorem
+  4. Inponere fugerat
+  5. Torserat secutus

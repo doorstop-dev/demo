@@ -1,54 +1,37 @@
 active: true
 derived: false
-level: 3.2
+level: 3.0
 links:
+- HLR001
 - HLR002
-- HLR005
-- HLR006
+- HLR004
+- HLR009
+- HLR011
+- HLR014
 - HLR019
-- HLR023
+- HLR020
+- HLR021
 - HLR024
 - HLR027
-- HLR030
-- HLR034
-- HLR037
-- HLR042
-- HLR044
-- HLR047
-- HLR050
+- HLR035
+- HLR039
+- HLR052
 - HLR053
-- HLR057
-- HLR058
-- HLR061
-- HLR062
-- HLR063
+- HLR054
+- HLR059
+- HLR065
 - HLR067
 - HLR068
-- HLR071
-- HLR077
-- HLR079
-- HLR080
+- HLR069
+- HLR070
+- HLR072
 - HLR081
-- HLR083
 - HLR086
-- HLR088
-- HLR089
-- HLR097
-- HLR098
-normative: true
+- HLR094
+- HLR095
+- HLR096
+- HLR099
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL**: insuper et saltus vultus sacrificos fecissem, cum
-  currat obliquantem et socium oritur ignotae conplectitur iuvat. *Tarda
-  corpus* flammas Erycis! *Densa constiterat* saxis dicentem, et volvitur
-  qualia resolutum, fugiens, rapto vitae dextera, quem.
-  Vacuus ad et in dicere infelix et membra nullos.
-
-      storage = hyper(basicWheelBarebones, thin(analogDesktopTablet, 3));
-      var troll_monochrome_twain = cluster + cron_interface + text_data;
-      e_computer += kbps_pinterest_banner(backbone_web_clone(formulaSync));
-      token(matrixMode.lunAssociation.tPage(debugExpansionWireless));
-
-  Mentae sed tum iungere tenentem hunc.
-  Narrat non devia postulat, invidiosa, inquit ingrederis me ponendi populos
-  sub laeta.
+  aquae fide

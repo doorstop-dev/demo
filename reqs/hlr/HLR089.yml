@@ -1,33 +1,32 @@
 active: true
 derived: false
-level: 8.1
+level: 14.1
 links:
 - SYS004
-- SYS009
-- SYS012
-- SYS020
-- SYS022
-- SYS042
-- SYS047
+- SYS007
+- SYS014
+- SYS015
+- SYS018
+- SYS019
+- SYS023
+- SYS024
+- SYS025
+- SYS028
+- SYS033
+- SYS034
+- SYS035
+- SYS037
+- SYS038
+- SYS040
+- SYS041
+- SYS043
+- SYS045
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** linquit, et vidit gelido fraterni filia.
-  Viro vobis exstabat mons paravi iamque has pugnacem ergo, Troades Iphigenia
-  **fortibus**.
-
-      if (camera_management_drive(hdv)) {
-          personal += installer.wimaxOpacity(wepBespokeCron, -3);
-      }
-      wordSambaAta(85, firewallUmlPdf(degauss, codec + computing), -5);
-      realAgp.smart += install;
-      card(keyboard, vrml_logic_mamp(dnsHard, 1) + 5 + protocol);
-
-  Lecti sint aequa digna fortissima lapis circumfunditur gerens at ulmo favore
-  aliter piscem.
-  Caecamque Thracum spatio tegat, lateri *tot* querenti primo quid sim inlatum
-  mihi vasti pharetram vocis responsaque creati.
-  Te locoque et suas, hac quacumque certe, est versa forma atque dolori coniuge
-  ista magis ibi crimine, non.
-  Aula haut locorum duorum Neptunus nubibus et tremulo gente, narratur tradere
-  matri.
+  Lorem markdownum **SHALL** vocavit ego **plus** ullam cur detectique laeta
+  cupidine pectora *Illyricos ad* conscendit dextra.
+  Praemia aliis.
+  Truces est genus altaria dempsistis [aquosis](http://news.ycombinator.com/)!
+  Mutata suum suo potest per ad tellus vultum inperfectus notae fonti *puppes*
+  semina. **Pudet gratia**, cupit telum!

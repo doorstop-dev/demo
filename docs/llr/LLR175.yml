@@ -1,25 +1,12 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR010
-- HLR014
-- HLR025
-- HLR034
-- HLR037
-- HLR040
-- HLR043
-- HLR046
-- HLR050
-- HLR055
-- HLR056
-- HLR061
-- HLR067
-- HLR078
+- HLR069
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** levis et rudi plaustrum latitantia herba, postulat
-  sacra, raucis.
-  Quem quoque.
-  Nitidissima patefecit, sua antro Caenis perque et populo constitit denique?
+  Lorem markdownum **SHALL** petis
+  [arcuerat](http://twitter.com/search?q=haskell)!
+  Rogat multaeque mirantes ipse auctoremque duro, similisque forte causa: nec
+  officiis curae resupinoque tumultus te erunt.

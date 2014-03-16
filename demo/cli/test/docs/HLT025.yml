@@ -1,43 +1,26 @@
 active: true
 derived: false
-level: 1.1
+level: 5.7
 links:
-- HLR004
-- HLR008
-- HLR012
-- HLR014
-- HLR020
-- HLR023
-- HLR024
-- HLR029
-- HLR030
-- HLR040
-- HLR041
-- HLR042
-- HLR044
+- HLR005
+- HLR007
+- HLR009
+- HLR017
+- HLR025
+- HLR026
+- HLR027
+- HLR033
 - HLR050
-- HLR060
-- HLR064
-- HLR065
-- HLR067
-- HLR070
-- HLR072
-- HLR075
-- HLR081
-- HLR083
-- HLR090
-- HLR095
-- HLR096
-- HLR099
+- HLR066
+- HLR085
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum *verso*, et membra?
-  Et [capere vidit](http://example.com/) tandem.
-  Iam pars muris laedere et eque adparuit regnumque Canentem, serta carchesia.
-
-  Inoosque datis ponat ruit tua: tempus, saepe, est videt!
-  Pectus arserat superbia, et recusat quem omnia caesoque [ait
-  senior](http://www.billmays.net/) dextra.
-  Ira patet caelesti signat qui diverso; nec an non Amphrysi mollem, ferre
-  **utque parte**.
+  Verify lorem markdownum legem deus eadem *patulis Acheronte* movent
+  sarculaque Abarin diligitur!
+  Sed curva cui primo elabique, ambiguis rectumque credita torquent aer veluti
+  texta; haec homines forsitan.
+  Cadentem flere accingere quam.
+  Dicto ad est nec caducifer [atque ferire ne](http://zeus.ugent.be/) sensit
+  armatur illius crus fulmen demissam armentum voto.
+  Vimine recordor sanguine fecit.

@@ -1,53 +1,34 @@
 active: true
 derived: false
-level: 1.1
+level: 5.1
 links:
-- HLR001
-- HLR009
-- HLR010
-- HLR011
-- HLR014
-- HLR019
-- HLR021
-- HLR023
-- HLR028
-- HLR031
-- HLR038
-- HLR044
-- HLR050
+- HLR005
+- HLR027
+- HLR033
+- HLR034
+- HLR037
 - HLR052
-- HLR054
-- HLR056
-- HLR060
-- HLR061
-- HLR065
+- HLR055
+- HLR059
 - HLR066
-- HLR068
-- HLR070
-- HLR076
-- HLR084
-- HLR086
-- HLR089
-- HLR091
-- HLR092
-- HLR095
-- HLR096
-- HLR099
+- HLR075
+- HLR077
+- HLR078
+- HLR090
 - HLR100
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum tu mare sedem, me **veni derepta** fuerat tamen
-  retentus fide.
-  Fuit in lacertos paucis pectora tractu idemque fauces lacerto neque
-  **Melicerta exuvias** patulos totidem permulsit acie revulsum.
-  Fit quae qui abrumpit in freta.
-  Quos replet nube; Taurusque corporis liceat.
-  Quod heros, ne belli Iovis turis fibras recingunt maturus finiat adspiceres
-  vicit catenis genetrix gladiis.
+  Lorem [markdownum flecti](http://kimjongunlookingatthings.tumblr.com/)
+  perdere, expulit lacrimaeque invadere parilique duo almus *maxima*. Est sed
+  tot socios lugubris inpressa amores forte cecidisse segetes rogat, per et
+  abiit inrita refugitque excita lactentis.
+  Trita sintque est sorori sacros metuens Stygias haut vultus genetrixque
+  carinis aequoreae adfuit traxit deceperit crescere, qui.
+  Murmura Antaeo per circuitu me **adverti terris** trementem **illa**, genuum
+  licet *stratis bis*!
 
-  - Metuam AI rediit
-  - In meque resolvent et forti cornua
-  - Fortis diuque novissima natant
-  - Erit erat ea pello considerat excipiunt sedebat
-  - Utendum funera
+  Eloquitur illa, ire nec sonantibus Tusca proxima **memini**; vitae quem
+  docuisse perculit.
+  Divesque candida, caelo notissima: tum mecum sanguinis pulcherrima sine
+  volucres pedibusque prope, nec mea Andraemon, ille.

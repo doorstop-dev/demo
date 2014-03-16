@@ -1,44 +1,24 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR001
-- HLR004
-- HLR006
-- HLR014
-- HLR026
-- HLR028
-- HLR029
-- HLR033
-- HLR034
-- HLR035
-- HLR037
-- HLR040
-- HLR042
-- HLR044
-- HLR049
-- HLR051
-- HLR054
-- HLR057
-- HLR067
-- HLR070
-- HLR071
-- HLR092
-- HLR093
-- HLR094
-- HLR099
-- HLR100
+- HLR017
+- HLR021
+- HLR073
+- HLR086
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL**, haec si faceret solus venisse diras montes telae?
-  Sumit pontum, dat, Phorcynidos corpore vultu, non de me frontem filia dextro
-  prolis est sum tamen Exadius.
-  Sed senectus celsior radiantia: baculo dubitare di radices deos manat
-  iterque, victae Tartara in vivit herbis.
-  Discriminis contingit vultuque.
+  Lorem markdownum **SHALL** silicem nocte finemque hinc pontus neve molire,
+  nec sustinet urbes dedit iamque.
+  Rogantum venit Symplegadas modo procubuit ictu campis patrio habes; aevo
+  undas, telo, ignes, sonant.
+  Fidissima **et est**: cernis guttae, nullo est este maestisque angues.
+  Causa hoc bene, pulsa regina dicentem meorum moderamen *imagine orant*
+  facturus peccavimus alae, hic.
 
-  Suus cruciatibus pulsavit tum, index ignem polus resonabat abigoque protinus
-  procumbit fumavit.
-  Iamdudum **Pyramus** desiderat pennisque Teleste fortes patriosque pomum:
-  urebat Ericthonium augur, tum.
+  1. Nisi quoque
+  2. Rima Lyrcea magnaeque humi
+  3. Luridus ab illo dente stetit
+  4. Estque illum
+  5. Ipse neque viderat de funes formosissimus prohibete

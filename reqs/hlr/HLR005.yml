@@ -1,53 +1,35 @@
 active: true
 derived: false
-level: 2.1
+level: 1.4
 links:
 - SYS001
 - SYS002
-- SYS003
 - SYS004
 - SYS006
-- SYS007
-- SYS009
 - SYS011
 - SYS012
-- SYS013
-- SYS014
+- SYS017
+- SYS019
 - SYS020
-- SYS022
-- SYS024
+- SYS021
 - SYS025
 - SYS028
 - SYS029
-- SYS030
-- SYS032
+- SYS031
 - SYS033
-- SYS034
-- SYS035
 - SYS036
 - SYS037
+- SYS038
 - SYS039
 - SYS040
-- SYS041
-- SYS042
 - SYS043
 - SYS044
 - SYS045
 - SYS046
+- SYS047
 - SYS049
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** quodcumque nomine, inclusit O! Fatigant hoc, prima
-  verba Tyriam semper, inficit mei et esses: prospicit retinete semina; dixit
-  esse sit.
-  Cepheaque saxum, **Panopesque natis** rettulit: dei et sinamus stellatus *et
-  Minyis* faecis age invidiosior.
-  In ruinas notissima serpentis condidit viroque vidit, nec undis auferat
-  cervi: tum hoc flamine clamant vestigia lapidem, ferenda. **Potes** eversam
-  trepidant serpente *radice*, obstem dare utere fronde.
-
-  1. In sanguine heros
-  2. Cetera ab ventisque cursu auro quereretur ama
-  3. Hic turbatum scindunt conatur Faunigenaeque quinque Nonacrina
-  4. Generisque causam aquilonibus agros versabat
+  Lorem markdownum **SHALL** instruitur quoque.
+  Ibat **sic Eumolpo tempore**, interea *Cupido* sua!

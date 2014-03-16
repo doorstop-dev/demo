@@ -1,50 +1,35 @@
 active: true
 derived: false
-level: 1.1
+level: 12.1
 links:
-- LLR001
-- LLR002
-- LLR021
-- LLR029
-- LLR040
-- LLR041
-- LLR046
-- LLR051
-- LLR060
-- LLR065
-- LLR068
-- LLR079
-- LLR080
-- LLR100
-- LLR104
-- LLR106
-- LLR133
-- LLR164
+- LLR014
+- LLR022
+- LLR024
+- LLR030
+- LLR036
+- LLR062
+- LLR073
+- LLR074
+- LLR076
+- LLR095
+- LLR118
+- LLR121
+- LLR125
+- LLR131
+- LLR136
+- LLR138
+- LLR149
+- LLR152
+- LLR154
+- LLR155
 - LLR169
-- LLR172
-- LLR174
+- LLR175
+- LLR183
+- LLR189
+- LLR197
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum ex tenetis saxea habitabat puerum Tirynthia, casa,
-  utrum bina ultoris concussaque odisse *vident*. Ferebam Boreas.
-  Charopem *quoque longa*, sic fautrix virum, capillis?
-  Cypron vehi mariti nymphae ambiguus praecorrupta, et sed specto quis!
-  Ferri caluere exiguam Stygio prius fixo Perseus Saturnius et, non Marte
-  nullus pennaeque partem invita veni harundine acres.
-
-      aspStandby = executableJpeg;
-      var eide = 4;
-      var tftp = cameraStation(gigabit_ddr, oop_smtp, recursive(-1 + 62, xml,
-              standbyComputer));
-      card_scanner(graymailMiddlewareGpu + operating_card_kerning(c));
-      keyboard_horizontal -= bandwidth_rw;
-
-  Debebunt filis dederat alatur.
-  Artus dixit nudos tu hospes, aras artus, at, prosilit purpuraque [fuit
-  similes](http://en.wikipedia.org/wiki/Sterling_Archer), vultu erit.
-  Iam ille alta: vocem uvae *generoso cum* sedes loci exanimata vero manus
-  moribundum traxit, electarumque ponere.
-  Promittuntque sint *laurumque* tumidis agnus, dum corpus, satyri mundi
-  flumina.
-  Sidus vites vertuntur Desine Cnosiacas hederae!
+  Verify lorem markdownum leges laniavit, quoque quae solvit mox certe illi
+  totidem.
+  Et quondam currus, dona ignoscite condita, protinus partimque decoro.

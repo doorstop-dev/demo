@@ -1,17 +1,19 @@
 active: true
 derived: false
-level: 1.1
+level: 11.6
 links:
 - LLR040
-- LLR049
-- LLR061
-- LLR141
-- LLR142
+- LLR062
+- LLR075
+- LLR086
+- LLR149
+- LLR171
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum prodierat **parassent** quoque sic laesum.
-  Sic paene everberat plumbea oblivia saepe somnia puraque spes.
-  In media templa, sollertia pecudes ipsum leonum toros nubibus temerasse
-  solido nemus es rediit ligat plenissima quoniam.
-  Caesaris ferrum auctoribus utendum, thalamosque utrumque timor iuvenes licet.
+  Verify lorem markdownum sublime requirit, nec arent et enim, quam?
+  Dei est superasset ergo confinia [sunt quondam](http://omfgdogs.com/) tingui.
+  Ad pro litus turbavere Priapi [miserere dominos
+  corpore](http://reddit.com/r/thathappened); segnem pectus, intumuit modo
+  umquam, utinamque socerque cum misso.
+  Solis crepitante cibos vates?

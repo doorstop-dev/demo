@@ -1,42 +1,36 @@
 active: true
 derived: false
-level: 5.2
+level: 4.0
 links:
-- SYS001
 - SYS002
 - SYS003
-- SYS004
-- SYS007
+- SYS005
+- SYS006
 - SYS008
 - SYS009
+- SYS012
 - SYS013
 - SYS015
-- SYS016
 - SYS018
 - SYS019
-- SYS020
+- SYS021
 - SYS022
+- SYS023
+- SYS024
 - SYS025
-- SYS026
-- SYS033
-- SYS034
+- SYS027
+- SYS028
+- SYS029
+- SYS032
+- SYS035
+- SYS036
+- SYS038
+- SYS039
+- SYS043
 - SYS045
-- SYS046
-- SYS048
+- SYS047
 - SYS049
-normative: true
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL**: **curam illa** intus tepidique is tamen!
-  Spernitque erat numina.
-  Locus usus, nefasque Carthaea sinum, inducitur!
-
-  Ambit et ruunt, esse.
-  Habuit **decens**, Atrides et nigra pariterque duris, Ionium Clymeneque audit
-  Hecateia coniunx.
-  Versa suos [servati et hostis](http://www.lipsum.com/) eventus honore
-  periclum et invida lacrimas, omnis pars Achilles, prensamque.
-
-  - Telephon infelix sensit
-  - Denos facies
-  - Virisque veniendi foedataque apta hortanda quos
+  videre Vero Antium et Nemeaea

@@ -1,31 +1,25 @@
 active: true
 derived: false
-level: 1.1
+level: 9.0
 links:
-- LLR024
-- LLR046
-- LLR065
-- LLR092
-- LLR106
-- LLR132
-- LLR145
-- LLR146
-- LLR169
-- LLR172
-- LLR174
-- LLR176
-- LLR183
-- LLR186
-- LLR188
-- LLR191
-normative: true
+- LLR017
+- LLR020
+- LLR027
+- LLR032
+- LLR035
+- LLR041
+- LLR066
+- LLR071
+- LLR072
+- LLR079
+- LLR120
+- LLR139
+- LLR141
+- LLR148
+- LLR155
+- LLR166
+- LLR185
+normative: false
 ref: ''
 text: |
-  Verify lorem markdownum vero quo Phoebique, et noctes, *carmina* in, manu
-  ter. [Iaciuntque caput Andraemon](http://heeeeeeeey.com/), tellus sua sola,
-  ordine mollia, venientesque satis, ego tale nepos post tempore?
-  Undis coeuntia nulla se Olenios est maestae corpora his Saturnia?
-  Aede exhalata, laudaverit caesariem arboris tamen quarum Beroe, et, aera
-  verba cura.
-  Rapta ovis, Finierat in erit di matri tympana matris generosque Ciconum sui
-  bellica miser?
+  iaculatoremque sudore in Graios caeli pelle Parvo

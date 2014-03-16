@@ -1,25 +1,26 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR005
-- HLR008
 - HLR016
-- HLR035
-- HLR070
+- HLR023
+- HLR025
+- HLR033
+- HLR047
+- HLR054
+- HLR058
+- HLR068
+- HLR078
+- HLR080
+- HLR081
 - HLR087
+- HLR094
+- HLR097
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** micant, armo rector.
-  Arvo sic Ilithyiam umbras **circumdat iacens**. Ipse orbem non fontes epulis,
-  peperisse ortuque dominique doctior.
-  Iovem casus solet quid tunc hospes in hanc, clamor, mea huc et Phasis
-  excipit.
-
-  Quadriiugi ponti repetens maxima auresque profanus **cuspidis pectore**.
-  Illic cera, ora tuli sed numerare deos caraeque nunc forma ipsorum, illas
-  crepitantis orba *labori* et sonos gemitus.
-  Habuit precibusque gemmis; dis in, **gurgite** hastam mille clarus mittuntque
-  fraxineam quibus Aurora?
-  Muros nunc ignare viscera forsitan, in natura est navis alterno quaesita?
+  Lorem markdownum **SHALL** rector habitabilis ramos dictis id exire certumque
+  et secura dictis flores *tenebras eras*; sed.
+  Quam ut moveant habebant adfuit gravis sortes positi, est summo quem, sit
+  terrae est eius in catenis rostro.
+  Quondam altior fissaque Panchaia frustra.

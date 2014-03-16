@@ -1,32 +1,38 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR010
-- HLR016
+- HLR006
+- HLR013
+- HLR017
+- HLR018
+- HLR019
 - HLR022
+- HLR023
+- HLR032
+- HLR033
+- HLR034
+- HLR035
+- HLR037
+- HLR039
+- HLR041
+- HLR043
 - HLR046
-- HLR054
-- HLR069
-- HLR073
+- HLR050
+- HLR052
+- HLR058
+- HLR063
+- HLR064
+- HLR068
+- HLR078
+- HLR079
 - HLR084
-- HLR091
-- HLR096
-- HLR099
-- HLR100
+- HLR085
+- HLR090
+- HLR095
+- HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL**! Nova Diana in [legerat hunc
-  avoque](http://twitter.com/search?q=haskell) tristisque *laesi* dixit
-  durescit mirarique carpant requieque tecta: hoc: signat.
-
-  1. Attritas tenebas
-  2. Aiax sine convertit inquit nec bucina
-  3. Quod quae trabes deorum
-  4. Qua ante belua
-  5. Stetimus Cupidinis fortis pars fugit fortibus radiantibus
-  6. Tinctus nova terras
-
-  Et lanigerosque [tempore](http://www.reddit.com/r/haskell) nervis?
-  Pinus haec Luna sequuntur poenas; magna nexu madent declivis probant.
+  Lorem markdownum **SHALL**! Nova et quondam levatae maior.
+  Remis ad dixit, electus referam remos.

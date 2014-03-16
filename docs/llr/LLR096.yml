@@ -1,46 +1,29 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR010
-- HLR011
-- HLR022
-- HLR023
-- HLR027
-- HLR028
-- HLR034
-- HLR038
-- HLR043
-- HLR046
+- HLR007
+- HLR008
+- HLR033
+- HLR041
 - HLR048
-- HLR056
-- HLR061
-- HLR062
+- HLR055
+- HLR058
+- HLR063
 - HLR064
-- HLR069
-- HLR074
-- HLR075
-- HLR083
+- HLR067
+- HLR077
 - HLR091
+- HLR095
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** hostem cortinaque te pater **genu** aquas voverat
-  flere suis longas: visum copia, magis perde.
-  Meo subitisque, membris distuleratque pulchra adfatur Pyracmon, o pulsa
-  *verecundo*: angue quod.
-  Fluxit ferox ad Tenedon mariti membra pontum seminaque de proxima!
-
-  Narratur ne tamen est, tum tale capiunt faucesque speciem.
-  Telamon hos forti meque famae saepe erat flammas tolerare in.
-  Cuius fuit qui **respondent** alta Threicius.
-  Namque esse, male tibi dilacerant [modo sollicitae
-  quoniam](http://www.lipsum.com/) munus Danaen cornibus curvamine; vulnerat
-  sed loco magis genitus roganti. *Simulasse ausa* quam concidit, post ara huic
-  nuntiet disiunxisse.
-
-  1. Superetque occiduo dextra
-  2. Mortalem mixta obambulat
-  3. Omnes fluctibus conanti
-  4. Temperius tethys auctoremque recessit ut Amor nondum
-  5. Forti anxia meritum fastigia corpore primum
+  Lorem markdownum **SHALL** an moriere eadem Sidonida [loca
+  in](http://html9responsiveboilerstrapjs.com/), sanguine potenti; ore.
+  Luce decimo alter, mox erat **iuva modo** levavit reor, omnia tinxit adhuc:
+  Daedalon Ismenides.
+  Bello in manes hoc vir: tenebat tum geminat petentem, quantusque vocisque
+  ingentem est ac modo, ut.
+  Fluctus terrae factas omnes, igitur parvumque gradere, ab ferre quae mei
+  **cum** Neptunia imago tundunt, quam magna.
+  Longis ab, reduxit arida pro neque **coloni**, patitur pulsi.

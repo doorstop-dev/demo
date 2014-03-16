@@ -1,39 +1,22 @@
 active: true
 derived: false
-level: 8.1
+level: 7.3
 links:
-- SYS002
 - SYS003
-- SYS006
-- SYS007
-- SYS009
-- SYS010
 - SYS013
-- SYS016
-- SYS017
-- SYS022
-- SYS025
-- SYS028
-- SYS029
-- SYS030
+- SYS014
+- SYS020
+- SYS026
 - SYS031
-- SYS032
-- SYS033
-- SYS035
-- SYS036
 - SYS037
-- SYS041
-- SYS048
-- SYS049
+- SYS038
+- SYS050
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** vestras tu quis resistere leaena malas victi
-  sentes, clamant, certamine silvas attonitus licet.
-  Esse pluma puro *doliturus Cepheus oras*, positas in loca!
-  Excutiunt sperni nomina.
-
-  Aiax quoque pars accessit instantem Heliadum rictus Fluctibus nulloque.
-  Putares aut utraque sed me in sacrata peremi ulla, steriles, cum, ipso.
-  Manus fuerat, studiosus pulsi: missa *tam* nectare eiectas contende oppugnare
-  rigida ire genuit.
+  Lorem markdownum **SHALL** dolos in facto Zephyro serisque fulvis
+  effervescere quacumque fatetur mortis.
+  Pectore carcere ipso Latonigenisque virgo laesaque utrumque, condidit, pocula
+  latentia, dictis terraeque sequar **collis**, bis.
+  Tanto adicit et prodis suum, tam hoc **canistris sacrorum** ab Cycnum, deme
+  Venulus inane antro in Iapygis.

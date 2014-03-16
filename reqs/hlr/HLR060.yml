@@ -1,39 +1,34 @@
 active: true
 derived: false
-level: 8.1
+level: 12.0
 links:
+- SYS001
 - SYS002
-- SYS003
+- SYS004
 - SYS005
 - SYS006
-- SYS008
-- SYS012
+- SYS007
+- SYS010
+- SYS011
+- SYS013
 - SYS014
-- SYS015
 - SYS016
-- SYS021
 - SYS022
+- SYS023
+- SYS025
 - SYS026
-- SYS029
-- SYS030
-- SYS031
+- SYS027
+- SYS028
 - SYS033
+- SYS034
+- SYS035
 - SYS037
 - SYS039
 - SYS041
-- SYS042
-- SYS043
+- SYS044
 - SYS045
-- SYS047
-- SYS048
-- SYS049
 - SYS050
-normative: true
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** simulacra Olympi; illo ipsam quo ora foresque ab
-  nobis inter.
-  Illi Alcyone quibus aquis deus voce saepe suam ramis, et vero **in iube**
-  spolioque dolore, diu fierent; suis.
-  Anima rector liquefactis spatiosa adventus huius in loquenti ut semper Midan
-  quia caligine et cavis mira conicit, natorumque.
+  greges tum

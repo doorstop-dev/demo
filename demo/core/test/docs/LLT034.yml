@@ -1,35 +1,36 @@
 active: true
 derived: false
-level: 1.1
+level: 7.3
 links:
-- LLR001
-- LLR025
-- LLR035
-- LLR043
-- LLR060
-- LLR077
+- LLR014
+- LLR027
+- LLR049
+- LLR056
 - LLR085
-- LLR087
-- LLR111
-- LLR120
-- LLR134
-- LLR153
+- LLR089
+- LLR116
+- LLR118
+- LLR133
+- LLR150
 - LLR157
-- LLR177
+- LLR176
 normative: true
 ref: ''
 text: |
-  *Lorem* markdownum cavo fuit brevis iuvenesque subeunt.
-  Certam iubes est: tibi tempus, nec hanc et cornum frons nec: a dant octonis.
+  [Lorem](http://html9responsiveboilerstrapjs.com/) markdownum sequiturque
+  taurus calcavere intonsis relinquentur Creten.
+  Duce aptumque femina iusto Vestae **pulchrosque rupes** est carceris telis.
 
-  - Clarus manu praecincti partem siluere surgentibus vera
-  - Sumitque cape maerenti carina
-  - Doctos esse mihi adamante
-  - Nec si ocior cavas lauroque quam rite
+  Ferarum ver; cingens, est avem miserabile audita vocat pedum te tibi ubi
+  Phoebes, natura veri Cnosiaci. *Aberat* clamore, venit quoque ille terrae
+  concolor saevit; flamma tum parvi iuppiter lapillis adest.
+  Inde pes vix, fata verba: fuit, sidera avos
+  [qua](http://www.reddit.com/r/haskell), et dubitavit aegide profundum mittit.
+  **Carens florente** flumineis Nais in Erycis vestrae secundo!
 
-  Neu purpureus lumina: cum dant absens patris sensisse cur barbaricoque?
-  **Latens sub**, me Amorum **fias** fore: *Italis*: tota voce cognita tamen.
-  Mora imagine ramis contemptaque damna, arae dici avido socio.
-  Amissam tu adversum Poemenis subit fisso [rictus amantem
-  proxima](http://example.com/); linigera. *Tamen minitantiaque trepident*
-  venit, de vidistis sed Glaucus vulnera parte!
+  Fessi in [et mergit gerit](http://en.wikipedia.org/wiki/Sterling_Archer)
+  antro castris annos, hostem, adhuc!
+  Et caducas campo, terram non magis thalami [parte
+  inposito](http://www.youtube.com/watch?v=MghiBW3r65M).
+  Temperat formosior Abarin, qua illic deforme similesque pudorem fortia!
+  Mora erat nemus genus mihi finiat madescit, et auras.

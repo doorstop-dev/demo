@@ -1,18 +1,11 @@
 active: true
 derived: false
-level: 2.8
+level: 2.3
 links:
-- SYS006
-- SYS008
-- SYS013
-- SYS017
-- SYS029
-- SYS036
-- SYS046
+- SYS020
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL**, arboribus mater, *vocem hoc Tigris* utroque de
-  sulphure nam inquit plenum, illo.
-  Venti an quidem colli truncis repetunt in erat alius, excipit.
-  Latrantibus cornua intendensque soror noctis carica phaedimus obliquo, in.
+  Lorem markdownum **SHALL** ferenda medullas victor: causa esse saxum
+  [undas](http://omfgdogs.com/).
+  Et deus: est ut, suae caede: flamma.

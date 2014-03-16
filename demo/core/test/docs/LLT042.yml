@@ -1,59 +1,39 @@
 active: true
 derived: false
-level: 1.1
+level: 10.0
 links:
-- LLR001
-- LLR002
-- LLR007
-- LLR009
-- LLR013
-- LLR014
+- LLR006
+- LLR008
 - LLR016
-- LLR022
-- LLR024
-- LLR031
-- LLR034
+- LLR017
+- LLR018
+- LLR028
 - LLR036
-- LLR040
-- LLR041
-- LLR045
-- LLR049
-- LLR050
-- LLR055
-- LLR060
-- LLR066
-- LLR068
-- LLR069
-- LLR073
-- LLR076
+- LLR038
+- LLR047
+- LLR058
+- LLR067
 - LLR077
-- LLR079
-- LLR080
 - LLR081
 - LLR094
-- LLR096
-- LLR101
 - LLR108
-- LLR116
-- LLR132
-- LLR137
-- LLR140
-- LLR141
-- LLR149
-- LLR176
-- LLR186
-normative: true
+- LLR110
+- LLR119
+- LLR121
+- LLR122
+- LLR139
+- LLR142
+- LLR143
+- LLR153
+- LLR168
+- LLR169
+- LLR171
+- LLR180
+- LLR187
+- LLR189
+- LLR191
+- LLR194
+normative: false
 ref: ''
 text: |
-  Verify lorem markdownum verteris, de, cognovit oneratos revulsum natarum.
-  *Est* manus opes patet arida vides alipedi.
-  Verbis fuit cladi vulnere impetus ter vobis, et caelum paries prodest, funera
-  via, est *sedes certaque*.
-
-  Speque **fallis**. Timor animo petit moram, foci innoxia vultusque utinam.
-  Dextra mox delusa: alias, coma adhuc infractaque decet contractosque saeva!
-
-  - Nulli quam tibi exilium ciconia aliquidque graviore
-  - Duos requiris tegebat
-  - Dea vivere sopitus
-  - Quid Numici qui et orsa Aconteus
+  quam hoc forma

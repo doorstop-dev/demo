@@ -1,54 +1,44 @@
 active: true
 derived: false
-level: 3.5
+level: 3.3
 links:
-- HLR001
-- HLR002
-- HLR006
-- HLR007
+- HLR005
+- HLR008
+- HLR010
+- HLR011
+- HLR012
 - HLR013
 - HLR016
 - HLR021
-- HLR025
-- HLR026
-- HLR027
-- HLR029
+- HLR022
+- HLR030
+- HLR031
+- HLR034
 - HLR035
-- HLR036
-- HLR037
+- HLR039
+- HLR044
 - HLR045
-- HLR046
-- HLR050
-- HLR053
-- HLR060
+- HLR047
+- HLR056
+- HLR057
+- HLR059
+- HLR061
 - HLR062
-- HLR065
-- HLR068
-- HLR071
+- HLR063
 - HLR072
-- HLR074
-- HLR075
+- HLR073
 - HLR076
+- HLR078
 - HLR079
-- HLR080
-- HLR081
-- HLR082
-- HLR086
-- HLR089
-- HLR090
+- HLR083
 - HLR092
-- HLR097
-- HLR099
+- HLR094
+- HLR096
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** madefient iamque quicquid in addit campi meo
-  duxerat tacitus inter ira pulverulenta est.
-  Pudicam corpus, agrestis **petentem poena** quam, lambebat amictus sub mihi,
-  audito apta.
-  Dixit velat **mea** cogit, infamis flagrans; parva bello uberaque.
-
-  Stagna [te femina](http://tumblr.com/), longum Babylonius vidisse religione
-  se Cynthia fauces fletumque ignarus iuventus morsus.
-  Invito fida, *maior plausit quoque* nubila artes mirandum signaverat atria
-  protinus *reconditus fulvo*?
+  Lorem markdownum **SHALL** lentus parvoque corpore contraria alium. *Dicto
+  pars* faciem tempusque patrias *neque unda* pares membra Rhenum orbem nunc
+  iacerent in [fugit casusque et](http://jaspervdj.be/) cum conata attulit.
+  Pietas **bos positis**, et fecit temptamenta caedit habet perterrita timido
+  contemptrix erat turbaeque novissima, est initis, umeri.

@@ -1,49 +1,26 @@
 active: true
 derived: false
-level: 7.1
+level: 5.5
 links:
-- SYS006
-- SYS008
+- SYS002
 - SYS009
-- SYS010
 - SYS012
-- SYS013
 - SYS014
-- SYS015
-- SYS018
-- SYS019
+- SYS017
 - SYS020
-- SYS021
-- SYS022
-- SYS023
-- SYS027
+- SYS024
 - SYS028
 - SYS030
 - SYS031
+- SYS033
 - SYS037
-- SYS038
-- SYS040
-- SYS041
-- SYS045
-- SYS046
-- SYS048
-- SYS049
+- SYS043
 - SYS050
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** demptos perdidit, scelus Erinys et relabi nescia,
-  et.
-  Quem laniavit, telum sperne et aut Hac gente vacant gutturaque moraque, sed
-  dies montis.
-
-  - Cum aethera idque meo mansit flumina tolerare
-  - Parenti poterat
-  - Inter fuit de dextera augendo
-  - Ab interea tamen Pallas
-
-  Rem *annis* relaxant, hos et infectus, ita viscera usus vicinia, sed visura
-  nondum.
-  Me adverso lacerat: sanguine pulchra ventris in videnda, tactuque e conanti
-  membraque.
-  Quantum sed hinc gravitate et clausa iuvabat habitare obscura.
+  Lorem **markdownum terras**; flammis Hippolytum, aeterno lustrat, mihi est.
+  Saepe ut mea, evincere iuris.
+  Nec scitatur quaeque Carpathius, nisi modo tamen non nolet gravidae limoso
+  nec socer simul currum cetera fors.
+  Dextra et levis facerent, domus, honoris filia.

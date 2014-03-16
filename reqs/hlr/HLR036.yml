@@ -1,26 +1,27 @@
 active: true
 derived: false
-level: 8.3
+level: 6.4
 links:
-- SYS001
-- SYS007
-- SYS009
-- SYS016
+- SYS002
+- SYS006
+- SYS008
+- SYS012
+- SYS013
+- SYS017
+- SYS020
+- SYS021
 - SYS022
-- SYS024
+- SYS025
+- SYS026
+- SYS027
+- SYS029
+- SYS030
+- SYS038
 - SYS041
-- SYS046
+- SYS044
+- SYS050
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** spectes, vidisse tollensque quae: vidi adventum?
-  Habet de radice moles valles in quoque diffundi, non perque.
-  Pater velamina turaque, tune caesorum illo [utque](http://imgur.com/) nemus
-  [tenentem violentam](http://www.wtfpl.net/) denique pontum, luctibus si
-  insigne ipse.
-
-  - Armiger pedibus leoni
-  - Talibus pedum rigidas ex simul portasque accedere
-  - Cornua addidit diu tellus
-  - Pectus altera quo crescit colla parte
-  - Nam iuvet nodum noctis faciendae pectora sollicitare
+  Lorem markdownum **SHALL** Hippotades vestro, glandes novis balatum est
+  Capreas. **Conspicit patientem frustra**. Fert mihi illic tenuere hunc!

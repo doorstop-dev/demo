@@ -1,53 +1,21 @@
 active: true
 derived: false
-level: 1.1
+level: 12.1
 links:
-- LLR003
-- LLR017
-- LLR026
-- LLR030
-- LLR036
-- LLR040
-- LLR054
-- LLR058
-- LLR060
-- LLR074
-- LLR078
-- LLR101
-- LLR116
-- LLR117
-- LLR126
-- LLR128
-- LLR130
-- LLR132
-- LLR134
-- LLR141
-- LLR149
-- LLR150
-- LLR155
-- LLR171
+- LLR008
+- LLR056
+- LLR113
+- LLR120
+- LLR139
+- LLR161
 - LLR172
-- LLR196
+- LLR195
+- LLR200
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum.
-  Tamen in natus satis, ita supplex calidi, tura?
-
-      if (freeware == leak(remoteSpoolFragmentation(memoryPathFlash, cdnSystem,
-              -2))) {
-          dynamic_throughput = error(copyrightStorageReader, -2, 3);
-          inputMultiplatformCrt /= ram;
-      }
-      bloatwareDrive = integrated;
-      if (4 * 2) {
-          menu_memory_snow += d_visual;
-          thyristorPortBit(4, fragmentationKvmMonitor,
-  atm_hypermedia_modifier);
-          jpegMarket = copy.nas(dtdGigabitDtd + shortcut, dlcEccAddress,
-                  multithreadingActive);
-      } else {
-          type_wins_hdtv(gpuCopyClick(4, scsiTVolume));
-          encodingUnicode += virtual;
-          ddl_ipx = -1;
-      }
+  Verify lorem markdownum ruricolae quae.
+  Quamvis ignes vastarumque Bybli, inde sub spolioque discordia, pugnae?
+  Unde mixtaque geminas umeris [litora cum
+  optata](http://www.reddit.com/r/haskell) venisses illas nocituraque ipse
+  referuntur erat: aestus urbe paratas.

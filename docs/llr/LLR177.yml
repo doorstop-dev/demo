@@ -1,40 +1,40 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR007
+- HLR002
+- HLR003
+- HLR004
+- HLR005
+- HLR006
 - HLR010
-- HLR014
-- HLR015
-- HLR019
-- HLR021
+- HLR018
+- HLR020
 - HLR022
-- HLR028
-- HLR029
-- HLR030
-- HLR031
+- HLR024
 - HLR034
-- HLR035
-- HLR042
-- HLR046
-- HLR050
+- HLR044
+- HLR045
+- HLR049
 - HLR059
-- HLR060
-- HLR063
-- HLR064
-- HLR065
-- HLR069
-- HLR073
-- HLR074
-- HLR075
+- HLR068
+- HLR070
+- HLR076
+- HLR080
+- HLR081
+- HLR084
 - HLR086
+- HLR087
+- HLR094
 - HLR097
-- HLR098
 normative: true
 ref: ''
 text: |
-  **Lorem markdownum **SHALL** vires**, inseruitque sospite sub umero, nunc
-  dedit **faciemque**, ab bella silvas ducitur.
-  Quam hinc ingemit patrio, nomen possim, laevae ulla pectora.
-  Minoris lugenti nobis quereretur carmen agnovit sceptri circumspicit ramo
-  misereri cepit claudit; mille.
+  Lorem markdownum **SHALL** in *semper* hos
+  [uberibus](http://omgcatsinspace.tumblr.com/), accipienda perosus, silvamque
+  possederat **potentibus eundem amnis** viroque spicula *sumpsisse* dumque.
+  Thalamos in coniurata ultoris.
+  Lapsi promissaque matris corporibus suae sit: cuncta bracchia et membra
+  centum sine arvis fatentur ferarum lacerum pectora?
+  Sum arator incepto oscula formasque moriturus nec equinis urbes militia.
+  Caelo in vulnere obortis; auras fera Pelion dabas.

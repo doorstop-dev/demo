@@ -1,27 +1,30 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR009
-- HLR019
+- HLR001
+- HLR005
+- HLR006
+- HLR008
+- HLR027
+- HLR029
 - HLR045
-- HLR048
-- HLR083
-- HLR084
+- HLR046
+- HLR057
+- HLR064
+- HLR068
+- HLR069
+- HLR070
+- HLR071
+- HLR073
+- HLR075
+- HLR076
+- HLR087
+- HLR093
 normative: true
 ref: ''
 text: |
-  Lorem **markdownum** agendum illi debuit turribus Learchum odium quatenus,
-  frendens **caesique neque** frugilegas quem?
-  Troezena habebas inrorant inerti indignantibus vario nomen quod iacerent
-  triplicis porrigit secretasque et maiora.
-  Unda oraque soli.
-
-  Nihil Cereale partimque paene te inclusos filia.
-  Luctus aetate.
-  Haut armo est dixit Daedale est vobis, urbis pervenientia iam declivis,
-  quoque aequor corpora habuere?
-  Illas et sim qui, in Aiacis [aurea](http://www.raynelongboards.com/) pedes
-  aequore per in squalentia iacerent e obrue *tegitur* illo, rogantem.
-  Ille flammas exarsit mandata *resecat*, cerae [enim](http://www.lipsum.com/),
-  reversurum hostes crimine vires.
+  Lorem markdownum **SHALL** frontemque feruntur et radice illa pateat lumina
+  thalamique radice.
+  Mox orbe magni ab bene edentem sereno vultuque lacessit omen; amor hinc
+  comitem antiquas verbisque.

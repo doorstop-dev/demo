@@ -2,34 +2,16 @@ active: true
 derived: false
 level: 1.0
 links:
-- SYS002
-- SYS004
-- SYS005
-- SYS006
-- SYS009
-- SYS010
 - SYS014
-- SYS016
-- SYS017
-- SYS018
-- SYS020
-- SYS021
-- SYS022
-- SYS024
+- SYS019
 - SYS025
-- SYS027
-- SYS029
-- SYS032
-- SYS033
-- SYS034
-- SYS035
+- SYS036
 - SYS037
-- SYS040
-- SYS043
-- SYS044
+- SYS038
 - SYS045
-- SYS047
+- SYS049
+- SYS050
 normative: false
 ref: ''
 text: |
-  quoque deducunt, et sacrorum dubites *tenebrae*,
+  in aras

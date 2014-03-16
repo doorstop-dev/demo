@@ -1,29 +1,34 @@
 active: true
 derived: false
-level: 2.1
+level: 1.4
 links:
+- HLR004
 - HLR005
-- HLR007
-- HLR012
-- HLR015
+- HLR010
+- HLR016
 - HLR017
-- HLR018
-- HLR022
-- HLR031
-- HLR036
-- HLR043
-- HLR048
-- HLR054
-- HLR062
-- HLR066
-- HLR069
-- HLR075
-- HLR078
-- HLR086
-- HLR089
+- HLR019
+- HLR027
+- HLR028
+- HLR034
+- HLR038
+- HLR042
+- HLR044
+- HLR058
+- HLR064
+- HLR074
+- HLR080
+- HLR081
+- HLR084
+- HLR085
+- HLR087
+- HLR088
+- HLR093
+- HLR096
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** senex patulos.
-  Acies revertar exierat sparsi; tum taedasque aderis inhospita aeratas
-  secutus!
+  Lorem markdownum **SHALL** se caput puerili tertius quis procul se me avitis
+  natas?
+  Imitante deditque incipit vestra tuam alto Hippomenes quid attulit,
+  descenderat.

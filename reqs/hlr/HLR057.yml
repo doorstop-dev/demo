@@ -1,20 +1,34 @@
 active: true
 derived: false
-level: 8.1
+level: 11.0
 links:
+- SYS002
+- SYS003
+- SYS004
+- SYS006
+- SYS007
+- SYS008
+- SYS010
+- SYS011
+- SYS012
+- SYS015
+- SYS016
+- SYS019
 - SYS021
-- SYS026
+- SYS022
+- SYS024
+- SYS027
+- SYS028
+- SYS029
+- SYS030
+- SYS031
 - SYS032
+- SYS038
 - SYS042
-normative: true
+- SYS044
+- SYS046
+- SYS049
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** *margine ambieratque enixa* est dicimus *non*,
-  numen litus?
-  Loco putes Neoptolemum [venatu](http://gifctrl.com/), nunc, te profectu
-  Lucifer, dum visa mihi Rhoetei, ab.
-
-  1. Tempus Bacchum timeo
-  2. Cum nec tacebitur hector praevertunt narravit si
-  3. Iris minor mercede cunctisque feris infundere memorant
-  4. Aequora tua haec enim insuper subita
+  conata stravit quas cumque me aut

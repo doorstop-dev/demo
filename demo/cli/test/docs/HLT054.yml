@@ -1,10 +1,30 @@
 active: true
 derived: false
-level: 1.1
-links: []
+level: 5.1
+links:
+- HLR004
+- HLR007
+- HLR015
+- HLR023
+- HLR025
+- HLR036
+- HLR043
+- HLR047
+- HLR061
+- HLR062
+- HLR071
+- HLR079
+- HLR080
+- HLR092
+- HLR095
+- HLR099
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum animusque cuspis utque nunc vita fixa apertos
-  urbesque ignescere superos omnia qua virgo caeruleum et amborum.
-  Mare sub omnes, est laudis templo trahens *cedunt*.
+  Verify lorem markdownum mea formae, sua fulminis sacroque, quid es.
+  Tulerant valvas morte ora vultus, et petiit aurae dereptis auro ingentibus,
+  suoque anima signumque.
+  Unda aegro in petis opiferque, Achivi mutata, petiisse lacu arcus totaque
+  senex mitissima mira.
+  Utraque illic oblita [oscula](http://www.wtfpl.net/) haut virtutem, si viro
+  spem Haemum dentes summam structis passis in.

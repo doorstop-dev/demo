@@ -1,31 +1,41 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR001
 - HLR002
-- HLR004
-- HLR014
-- HLR023
-- HLR038
-- HLR048
+- HLR005
+- HLR007
+- HLR016
+- HLR019
+- HLR020
+- HLR022
+- HLR029
+- HLR031
+- HLR036
+- HLR037
+- HLR039
+- HLR040
+- HLR043
+- HLR049
+- HLR052
+- HLR057
+- HLR059
+- HLR061
+- HLR064
 - HLR066
-- HLR067
 - HLR072
 - HLR073
 - HLR075
-- HLR076
-- HLR086
-- HLR090
+- HLR079
+- HLR082
+- HLR095
 - HLR098
-- HLR100
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** nocte non iter indomitas tumulo, Delius solum erat
-  furtiva tum nebula, sol.
-  Sine more heres audebatis mearumin.
-  Frondesque cauda per inplevit, te temporis pedes in etiamnum auxerat, lucem
-  tonitrus in licet gerebant senectae.
-  Flexit lanaeque, generosior aquae Anaphen non admota emisit felices caeli et
-  pluvialis [boves spernuntque](http://gifctrl.com/), superstes.
+  Lorem markdownum **SHALL** recusem.
+  Per sole quae in penatigero animosa, tamen, laboriferi inter adveniet solita
+  exsecrantia etiamnum, nurusque suis.
+  Danda duritiem crescunt nemus Lelex bene diversa die longa citharae montibus,
+  iuvenalibus.
+  Ab leto spondet, campus versae illo, pro quale.

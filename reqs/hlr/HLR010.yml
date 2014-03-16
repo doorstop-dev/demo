@@ -1,46 +1,32 @@
 active: true
 derived: false
-level: 2.6
+level: 2.1
 links:
-- SYS003
-- SYS010
+- SYS001
+- SYS002
+- SYS005
+- SYS011
 - SYS013
-- SYS014
 - SYS015
 - SYS018
+- SYS021
 - SYS022
-- SYS025
 - SYS027
-- SYS032
+- SYS028
+- SYS030
 - SYS033
-- SYS035
+- SYS039
 - SYS040
-- SYS041
-- SYS045
-- SYS047
+- SYS043
+- SYS044
 - SYS049
 - SYS050
 normative: true
 ref: ''
 text: |
-  [Lorem markdownum **SHALL** eratque](http://www.wtfpl.net/) exteriusque inde,
-  recognoscit erat Melaneus somnus luget.
-  Litora natus fratres, pax hic totiens inpulsum in subito mihi veteris lamina.
-  Virginitate credas, [ossa](http://news.ycombinator.com/) Mycale, equorum ore
-  arbor fugiuntque vultus Pelagonaque aurum prolem.
-  Latona tamen tum **fugae**, ab Oeten amor quoniam, domoque gravidamve parem,
-  amnes exigit circumdata saevam geminos.
-  Poteras inexperrectus Helicen disque faticinasque haec facta erit **stipite
-  herbas fertis** conferat, fulget.
-
-  Erat haerens: semper **eget narratur** ibat, Miletida, quo est australem
-  aptius **pennas**. Exercuit aethere, quo dives, aera potiunda rursus totumque
-  Phoebus resumit, nec hac quem clamore atque pariter.
-  Corpore etiam sucos turbaeque spinae tamen, longae poenas **de est** exstat.
-  Tuis intima et natas omnibus foedera Pindo carpit **aethera**, praeceps
-  **illud**! Sed huic illi tacitae; pleno annos Emathii descendat, hic tibi,
-  prior?
-
-  - Est vaga cupidine ubi ignibus
-  - Tua mens
-  - Cui sternis idem haec quod omnipotens pro
+  Lorem markdownum **SHALL** poenas lumina
+  [rapit](http://twitter.com/search?q=haskell) propiorque tuli, iunctam novem
+  vestem, Ciconumque [Phrygios modo maxima](http://gifctrl.com/); tuli movere.
+  Me quibus venio, in vincis sustinet Giganteo licere
+  [negarit](http://heeeeeeeey.com/).
+  Haerebat mendacia prohibete quondam.

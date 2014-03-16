@@ -2,36 +2,11 @@ active: true
 derived: false
 level: 1.0
 links:
-- LLR008
-- LLR018
-- LLR030
-- LLR032
-- LLR034
-- LLR035
-- LLR036
-- LLR039
-- LLR044
-- LLR062
-- LLR075
-- LLR078
-- LLR087
-- LLR117
-- LLR119
-- LLR120
-- LLR121
-- LLR133
-- LLR140
-- LLR141
-- LLR159
-- LLR165
-- LLR168
-- LLR177
-- LLR180
-- LLR182
-- LLR189
-- LLR200
+- LLR003
+- LLR067
+- LLR134
+- LLR158
 normative: false
 ref: ''
 text: |
-  laniare *referebat* puer enumerare ille.
-  Non
+  temptasse in

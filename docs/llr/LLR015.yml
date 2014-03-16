@@ -1,38 +1,46 @@
 active: true
 derived: false
-level: 3.6
+level: 3.4
 links:
-- HLR002
 - HLR003
+- HLR004
 - HLR006
 - HLR007
 - HLR011
-- HLR017
-- HLR022
-- HLR024
-- HLR028
+- HLR014
+- HLR015
+- HLR021
+- HLR029
 - HLR032
-- HLR036
-- HLR038
+- HLR033
+- HLR034
+- HLR037
+- HLR039
 - HLR044
-- HLR049
-- HLR053
-- HLR059
-- HLR062
-- HLR066
-- HLR067
+- HLR046
+- HLR048
+- HLR054
+- HLR061
+- HLR064
+- HLR068
+- HLR073
+- HLR079
 - HLR083
-- HLR087
+- HLR084
+- HLR085
 - HLR089
 - HLR090
-- HLR091
 - HLR093
-- HLR094
-- HLR097
+- HLR098
+- HLR100
 normative: true
 ref: ''
 text: |
-  Lorem **markdownum** referam ter pomaque vulnus.
-  Dixit tamen ut, manu vota deprendere ait fulmina exemplo pectore, et lege.
-  Quibus temerat ut revellere petit te quare!
-  Viro vibrata freto: ascensu fortibus tantum amores socia!
+  Lorem markdownum **SHALL** dextraque horridus videri occupat.
+  Quoque rursus usus ire diruit iuvenca, vultumque *turba adhuc* aliter
+  inmiscuit at semine ipse magis alienae uritur.
+  Imo ne Persei visum ripis silentum luctu, ecce, *ferro* in tu rapuit frustra
+  quondam; rapitur.
+  Iactatam plenaque crede, petentia ingenti [frugum Gryneus
+  dixit](http://en.wikipedia.org/wiki/Sterling_Archer) ab parentem muneris
+  fungi, regisque Phoebe.

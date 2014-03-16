@@ -1,32 +1,18 @@
 active: true
 derived: false
-level: 1.1
+level: 3.4
 links:
-- HLR022
-- HLR028
+- HLR001
+- HLR011
+- HLR033
+- HLR042
+- HLR065
+- HLR089
+- HLR096
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum quicquam fuerat ruit, intertextos, armamentis mearent
-  scelerique forsitan imagine, ut fata
-  [undis](http://www.reddit.com/r/haskell).
-  Anhelis gravitate dentes, **fessam motis votum** loco aliquid Lyncus, altus
-  caelo erit corpus enim, cremabis.
-  Ismarios ad arida postquam [robore](http://www.uselessaccount.com/) umbra
-  [milite canum](http://www.wtfpl.net/) cum repellit.
-  Miseranda vites inguine viri, iam vasto aures; et munere, nos!
-  Meo aestuat edentem vixisse guttura, si sceleri, mihi et oculosque copia,
-  ille quaerit tenax.
-
-  1. Lex villos et tellure coegi deprendere fremida
-  2. Alienae omen nata insistere verborum
-  3. Verba spumam opes penates qua suamque quod
-  4. Sic ut meos Melicerta
-  5. Circumdata pubis
-  6. Arentis non est Oetaeis guttura
-
-  Euntem doloris; **gessit** nec fuit ignibus, te abstrahere posse sustulit
-  latos vivente poenas ignigenamque?
-  Oriens fratri.
-  Os cecidit, non est villosis praesens furiisque maculavit tuens stridores ab
-  iaculi *stagna sacrorum* mersae, concussit et.
+  Verify lorem markdownum.
+  Non remis, cornibus agat, nunc laurea Phrygiae *delapsam procul*. Qui perque
+  est foedari quis, tuis cuius edocuit volui conquesti conatur.
+  Spem summa: coluber vento, silva me simul duorum protervas!

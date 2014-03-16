@@ -1,47 +1,21 @@
 active: true
 derived: false
-level: 1.1
+level: 12.1
 links:
-- LLR005
-- LLR013
-- LLR016
-- LLR021
-- LLR035
-- LLR045
-- LLR051
-- LLR060
-- LLR063
-- LLR068
-- LLR069
-- LLR076
-- LLR082
-- LLR090
-- LLR091
-- LLR098
-- LLR099
-- LLR111
-- LLR115
-- LLR123
-- LLR127
-- LLR128
-- LLR140
-- LLR142
-- LLR154
-- LLR157
-- LLR185
+- LLR006
+- LLR015
+- LLR037
+- LLR046
+- LLR056
+- LLR062
+- LLR096
+- LLR105
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum flebat virgo harenis tamen, per caput primo.
-  Potentis appellare ante.
-  Vittis ad verum sus patet non [aestu vidit](http://heeeeeeeey.com/), vultus
-  libentius [ora rettulit fias](http://www.metafilter.com/) truncum.
-  Culta vices damno constitit ignarus, ait non quam trementes sic est nunc
-  radiataque perque; hunc properatis solane.
-  Pollue nunc, viro.
-
-  Novam Tartara misso ab pudorem effreno Lacon modo fit.
-  Subibis dea undis non vires acceptaque perit citharae, o facta albentia,
-  vultuque.
-  Subiectis angue contingere scelus vultus valles piget Aeson At tumulum
-  disertus origo.
+  Verify lorem markdownum inductum ille palluit imperium insula, tauro est
+  videre salutat repperit, nocituraque; fulsit.
+  Tela oculis in corporis tulimus.
+  Coniunx **Persephones est**, dentibus non puer solvere puellis totiens ferox
+  falsus dixit, hic de [cornua](http://twitter.com/search?q=haskell) sponte
+  Ilithyiam.

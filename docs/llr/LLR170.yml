@@ -1,50 +1,31 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR003
 - HLR005
-- HLR007
-- HLR009
-- HLR010
-- HLR014
-- HLR015
-- HLR016
-- HLR017
-- HLR018
-- HLR019
-- HLR021
-- HLR023
-- HLR030
-- HLR031
-- HLR032
-- HLR035
+- HLR020
 - HLR050
-- HLR057
-- HLR058
-- HLR059
-- HLR060
+- HLR056
 - HLR061
-- HLR063
 - HLR064
-- HLR069
-- HLR070
-- HLR072
-- HLR073
-- HLR074
-- HLR075
-- HLR076
-- HLR089
-- HLR090
+- HLR077
+- HLR081
 - HLR094
-- HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** nunc, nymphis procul cum!
-  Aut templa hoc nullo genis [iacent](http://stoneship.org/); illa Cephison
-  quoque.
+  Lorem markdownum **SHALL** et solo vulgus: haec vatum in quos.
+  Simul Cypro Castalio idemque; hic manus aselli tuens, nisi indignata hastam.
+  O *versus spes ossa*, tetigere *sunt stringite deus* recalfecit, siquid suam
+  gemellos, compressit Crathis: quanto ramo.
+  Coniectum me ausus meus quod, mihi virides?
 
-  1. Nunc cave figere
-  2. Cephalum genitum Caencu adversam dixi tenebor hamis
-  3. Et fecit miracula ibat auso tamen sceptra
+  Nec in [puer](http://eelslap.com/) salutantum.
+  Lenti dura invaserat latum praeceps carmen solvere cognoscite, tulit
+  inspirat.
+  Unum quater fugit cunctantem excedere et et gentis manebat
+  [traxit](http://jaspervdj.be/), nec.
+  Faciem et vitiato cortice fluidoque miles animasse facit, per *pars* minimos
+  militiae.
+  Ad lassos nemus digna non pulveris nescit; *tenuit pars urget* acceptus
+  patiuntur.

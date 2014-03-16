@@ -1,35 +1,23 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR005
-- HLR008
-- HLR010
-- HLR013
 - HLR021
-- HLR023
 - HLR024
+- HLR025
 - HLR026
 - HLR027
-- HLR042
-- HLR048
-- HLR051
+- HLR035
+- HLR046
+- HLR056
 - HLR065
-- HLR068
-- HLR069
-- HLR070
-- HLR085
-- HLR090
+- HLR067
+- HLR077
+- HLR094
+- HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** placabat igitur.
-  Aera spinis, ut in eodem Euboico et late numinis hunc, vix vimen orbi placato
-  ingemuit, cur precor.
-  Sit fecere pacem undas motibus, est, ut acceptum aequora.
-
-  - Caelaverat opta Harpyia ventos quos magis peteret
-  - Iactatis quid sua vocant
-  - Amor non tibi honesta Calydon locatas videt
-  - Vivacemque canos uno inerti litora
-  - Nostri stantemque colla Cyllenius Thebaides hausi
+  Lorem markdownum **SHALL** omnes rapere *caeso mira rostrum* sitim: has sic
+  inde *qua*. Mittit qui medioque erexit humo ex verti Penthea nisi.
+  Pia quid dominatur convertit tutam sacrilegae populis carmina.

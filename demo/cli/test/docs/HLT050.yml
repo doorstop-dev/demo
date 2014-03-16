@@ -1,45 +1,17 @@
 active: true
 derived: false
-level: 1.1
+level: 5.1
 links:
 - HLR005
-- HLR007
-- HLR008
-- HLR014
-- HLR015
-- HLR017
-- HLR018
-- HLR019
-- HLR021
-- HLR023
-- HLR024
-- HLR025
-- HLR026
-- HLR029
 - HLR031
-- HLR032
-- HLR033
-- HLR035
-- HLR036
-- HLR039
-- HLR040
 - HLR045
-- HLR047
-- HLR048
-- HLR049
-- HLR054
-- HLR059
-- HLR076
-- HLR085
-- HLR088
-- HLR091
-- HLR092
-- HLR093
-- HLR096
-- HLR097
+- HLR080
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum inlaesas praebentque!
-  Alium ita, moritura fuit, manu detractavitque ultima dum lactentis sub
-  bracchia guttura **videri**. Leves non maris tellus popularis canunt.
+  Lorem [markdownum](http://seenly.com/) totam numquam.
+  Esse delenda medicamen *concavaque solent et* est cereris, et pateres, *ab*
+  dea animus signo dum quod!
+  Tenebat est locus pecudis acies urbes: deflevere venerantur fortis protinus
+  defecta medio, iustos: hinc.
+  Nam dicitur odium portasque tempore, quo poma; est monstri.

@@ -1,23 +1,19 @@
 active: true
 derived: false
-level: 1.1
+level: 5.1
 links:
-- HLR050
-- HLR051
-- HLR093
+- HLR012
+- HLR014
+- HLR018
+- HLR023
+- HLR037
+- HLR049
+- HLR059
+- HLR078
+- HLR081
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum ubi, inposuere nostris vidit, o tulit auditque mens.
-  Vitam et anima saeva purpuraque forsitan caruissem successit pars at corpus.
-  Hoc aureae, ait foresque Theseus, ut rex, cumque est pectora manu.
-  Sub matrem sua suos ubi, et ad, illa arma fodiebant habentia posset, nato.
-
-  Quia et miserae in salutat inquit emittitque membra at somnoque molarem
-  exarserit proprias sororibus ad rogati cognoscite, gemuit.
-  Non non, frustra omnes [canorum mactas](http://www.metafilter.com/) membra
-  continget non cecidit voces, diverso!
-
-  Verum iste ille, postquam quae illa Dolona nec, illi plus saepe Aurorae
-  nocte.
-  Pectoris silices exiguam, praeteriit arbore resuscitat meosque forma Lemnos.
+  Verify lorem markdownum, ex iusserat arma crescunt, veni cum; premunt.
+  Utque indicio [euntis lacrimas multoque](http://www.metafilter.com/), vulnus
+  sucis sedem sumptis referuntur veluti pinus.

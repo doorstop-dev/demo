@@ -1,68 +1,33 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
 - HLR001
-- HLR006
-- HLR010
-- HLR011
-- HLR014
-- HLR015
-- HLR016
-- HLR017
-- HLR018
+- HLR007
+- HLR009
+- HLR012
+- HLR022
 - HLR025
-- HLR032
-- HLR036
-- HLR040
+- HLR039
 - HLR042
-- HLR049
-- HLR050
-- HLR055
-- HLR056
-- HLR059
-- HLR060
-- HLR069
-- HLR073
-- HLR075
-- HLR078
-- HLR080
-- HLR091
-- HLR096
-- HLR097
-- HLR100
+- HLR046
+- HLR047
+- HLR063
+- HLR065
+- HLR070
+- HLR072
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** quid sumptaque crine fervida in caespite honori
-  easdem roboribusque dant.
-  Ex quod *fidesque* aethere trepidum sparsuras parentes putatur secretaque
-  muris idem venerit abire sanguinis quoque transfert lacrimae iuris.
-  Sub esse *nam*, et plantas adigitque iam iubet toto fit faces profugi et
-  animam sacra!
-  Adest et Pygmalion lumina tum hospita tertia in socero malum.
-  At cum morboque anxia vestra, at ignara imagine: inque sex, Thoantis.
+  Lorem [markdownum palladias primus](http://example.com/) e effusus, matris
+  petere; quaque nigrae carmen fuit convicia.
+  Profanus hunc aduncis, vates plura crimina utque; tenebat somni spoliare fax
+  tamen ait promittere vestrae, **exspatiata uberibus**. Cinctum latent et
+  vineta *nympha posses creditus* moribundum cubat Surrentino misereri recusat,
+  ei.
 
-      kilohertz.horizontal_switch.dv_namespace(dial_vdsl_reimage / hyperlink,
-              integer(fifo_graphics_program, 32 + xsltTape, sd), mouse_visual);
-      if (copy(modemPointDenial + gpu_margin)) {
-          platformMirroredBlob /= bigColumnRosetta + usernameDenialWireless + 5
-  *
-                  us_pci_menu;
-          ip_laser(blu_lifo_yahoo.vaporware.syncMpegWhitelist(4, 4),
-                  memory.memoryData(crmRetina));
-          undo_boot_soft.lan = cpmFpu(5,
-  dialog_jpeg_bankruptcy(pci_encoding_ppi,
-                  tunnelingHalftoneMethod, apple_platform_apple));
-      } else {
-          drive(shift + fileHostSystray, gigabit_nas,
-  drive_access_keyboard.constantRisc.definition_dynamic_koffice(
-                  httpAsp));
-      }
-      if (clean_error == parityChecksum(3, wimax_executable) -
-              wysiwygReaderCloud) {
-          worm.jsonMirrorMotion(type, association_ieee, error(searchWeb));
-          wavelengthIterationArtificial(end - 1, overwriteCmos);
-      }
-      basic_constant(repository_character, pixelHsfSsh);
-      digitize_favicon = refresh_skyscraper_kilohertz;
+  1. Mihi Ismenus ripam capax mors meliora invisosque
+  2. Ut dicere arcus ne lumen vento absistite
+  3. Receptae paravi crimine hasta purpureus fuerat ferebam
+  4. Et sub
+  5. Letifer pharetraque flamma nutrix illac

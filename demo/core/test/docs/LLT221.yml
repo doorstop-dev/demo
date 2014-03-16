@@ -1,43 +1,11 @@
 active: true
 derived: false
-level: 1.1
+level: 12.1
 links:
-- LLR004
-- LLR011
-- LLR014
-- LLR015
-- LLR020
-- LLR034
-- LLR037
-- LLR039
-- LLR041
-- LLR051
-- LLR058
-- LLR067
-- LLR082
-- LLR086
-- LLR110
-- LLR116
-- LLR134
-- LLR137
-- LLR139
-- LLR144
-- LLR146
-- LLR156
-- LLR167
-- LLR169
-- LLR179
-- LLR188
-- LLR200
+- LLR018
+- LLR186
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum nulla caeruleum si montis transit; placetque
-  gravitate iubent annum miserere.
-  Imoque et et post silex Euryte, nunc Ecce siccis coctilibus pater
-  Rhamnusidis.
-  Ille dolori, tot est ignem cuncta animo adspergine spemque saltu contemptus
-  recusat sedet Tritoniaca eget.
-  Et ut, sol pugna vacant natant, non domus bacchae rupit candida inrita
-  vultum.
-  Dixit adiuvet in adflavit has dixit, forma natus.
+  Verify lorem markdownum fieri quaecumque Nesse quicquam carmina, in vult.
+  *Aeterna circueunt tenera*!

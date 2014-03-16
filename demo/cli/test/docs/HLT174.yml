@@ -1,52 +1,41 @@
 active: true
 derived: false
-level: 1.1
+level: 5.1
 links:
 - HLR001
-- HLR002
-- HLR004
+- HLR003
 - HLR005
-- HLR009
-- HLR010
-- HLR011
-- HLR014
-- HLR015
-- HLR018
-- HLR022
-- HLR023
-- HLR026
+- HLR007
+- HLR013
+- HLR016
+- HLR017
+- HLR029
+- HLR031
+- HLR032
 - HLR035
-- HLR036
 - HLR039
 - HLR045
-- HLR050
-- HLR051
 - HLR053
-- HLR056
-- HLR057
-- HLR063
-- HLR066
-- HLR069
-- HLR071
-- HLR078
+- HLR058
+- HLR059
+- HLR060
+- HLR065
+- HLR076
 - HLR081
+- HLR082
 - HLR083
-- HLR084
 - HLR085
-- HLR090
-- HLR091
-- HLR092
-- HLR093
-- HLR097
+- HLR094
+- HLR096
+- HLR099
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum virtute invideatis quoniam pyrame.
-  Sed tanta culmen et ergo consolor: antiquus in narratur Achilles.
+  Verify lorem markdownum Idaeo facit et et manent tu et lignum dubiis; herba
+  has?
+  Res noviens solum in patet cum molire, pars quod canorum sua inopi parabant
+  antiquis animo: animam clamavit tinguet.
 
-  1. Auro voles venefica nulla
-  2. Fatendo sententia remissis
-  3. In in antiquis Aeetias
-  4. Urbem erat tribulique ducat adiit
-  5. Saeviat quoque videre in
-  6. Utque esse cur
+      bespoke -= tooltip;
+      trackback_core *= bare;
+      firewire(2);

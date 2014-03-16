@@ -1,29 +1,30 @@
 active: true
 derived: false
-level: 1.1
+level: 5.1
 links:
-- HLR005
-- HLR011
-- HLR016
-- HLR017
-- HLR020
-- HLR025
-- HLR029
-- HLR036
-- HLR039
-- HLR048
-- HLR077
-- HLR080
-- HLR081
-- HLR084
-- HLR089
-- HLR098
-- HLR099
-- HLR100
+- HLR010
+- HLR023
+- HLR063
+- HLR079
+- HLR083
+- HLR090
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum cedit.
-  Imitantes annis, quaerit et ferrum inter omen virum tradit iniusti videri
-  raptoresque sed. *Est pallor umbrarum* oscula invidia leve spemque.
-  Agmenque mergit animum flammifera metuit memorabile sequitur vultus me iam.
+  Verify lorem markdownum quascumque tamen arboris tua: ureris tura, aurea.
+  Indignos ferocia enixa subiectaque lenius: Libys nec praesagia ferox
+  redeuntis habebant me.
+  Mihi fatis adspicis erit; **coniunx in** molles quondam: vir moriens
+  nymphaeque velocibus arma, undique.
+  Deus et derat satiaque placidis fratres:
+  [posita](http://www.reddit.com/r/haskell) penetralia custos est sinit?
+  Umeris ad Somne, *aethere*, Amathusiacasque verberis et posuit, sequitur et
+  fortes.
+
+  1. Titaniacis spretae trahens trahens plectrum caput hiems
+  2. Euntque grandaevumque filia cornibus Aeneas quadripedes populo
+  3. Manu quietum
+
+  Quotiensque queri; Hector leve poenae regna ei nisi modo manibusque.
+  Sub contraria, hoc duce Poemenis longe et, angulus hi surgit dat edideras
+  colorum.

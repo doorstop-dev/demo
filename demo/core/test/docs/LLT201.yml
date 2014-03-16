@@ -1,67 +1,44 @@
 active: true
 derived: false
-level: 1.1
+level: 12.1
 links:
-- LLR002
-- LLR006
 - LLR007
-- LLR010
-- LLR011
+- LLR008
+- LLR009
 - LLR022
 - LLR024
-- LLR035
-- LLR054
-- LLR063
-- LLR073
-- LLR077
-- LLR083
-- LLR087
-- LLR088
-- LLR089
-- LLR093
-- LLR097
-- LLR100
-- LLR101
+- LLR027
+- LLR033
+- LLR039
+- LLR048
+- LLR051
+- LLR059
+- LLR062
+- LLR064
+- LLR086
+- LLR091
 - LLR102
-- LLR109
-- LLR111
-- LLR119
-- LLR125
-- LLR129
-- LLR130
-- LLR137
-- LLR140
-- LLR141
-- LLR152
-- LLR155
-- LLR164
-- LLR166
+- LLR107
+- LLR114
+- LLR116
+- LLR120
+- LLR126
+- LLR144
+- LLR154
 - LLR167
-- LLR172
-- LLR175
-- LLR177
-- LLR184
+- LLR185
 - LLR186
-- LLR191
-- LLR192
-- LLR194
-- LLR196
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum omnis, Veneris solebat obsequitur, quotiensque,
-  fluctusque adire linguae Proca.
-  Pamphagos partes, Iasiona si sine scelus nati Tusca **caput**, me.
-  Isto Vix intremuere ara nequeo pendere taedae inquiri habet subiectaque
-  aeris, animi tamen; sim ferunt dives, si. **Mea ulterius spemque** furiosior
-  Astraei avarae ululatibus supplice
-  [medio](http://en.wikipedia.org/wiki/Sterling_Archer) inde portus recusat vos
-  narrat, [o damno valvis](http://tumblr.com/), mensae.
-  Potuisse caput adspicit usta habitataque in esse Marte!
+  Verify lorem markdownum ferenda ingens et Somnus manibusque suo, de vires,
+  umentes equorum nocens.
+  Limnaee ni semel similis viscera, *scopulo* confugit,
+  [pacis](http://haskell.org/), fore causa; spes pariterque.
+  Nemus *mittit*; obsequitur harenae!
+  Partem caligine fallente vestri Threicio cortice, et quem, et, tum flammas
+  Spartana laudaverit.
 
-  Toto mora domina.
-  Quo tanta ut ipsa qui mihi adhuc traiecit fruges, quia nomine dixit.
-  Petendum primo!
-  Crinis structa dies est est vulgaris inde, in exit superat deos dat adest in
-  dracones caelo longe turba.
-  Campus annis utque fonte virosque aversos fratri!
+  Praeterque habebat eodem servaverat.
+  Mons abiit amor, ut toto probavit pugnantemque ardent et vilisque
+  **exspatiata**: ius *boum*.

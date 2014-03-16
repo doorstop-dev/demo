@@ -1,40 +1,30 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR014
-- HLR017
-- HLR018
-- HLR020
-- HLR024
-- HLR025
-- HLR027
-- HLR028
-- HLR036
-- HLR037
-- HLR039
-- HLR041
-- HLR043
-- HLR045
-- HLR050
-- HLR055
-- HLR069
-- HLR074
+- HLR008
+- HLR012
+- HLR016
+- HLR029
+- HLR040
+- HLR056
+- HLR058
+- HLR064
+- HLR065
 - HLR078
+- HLR081
 - HLR083
 - HLR085
-- HLR087
-- HLR089
+- HLR088
+- HLR095
+- HLR097
+- HLR099
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** illius aves quam sequatur turpi pedum vultum, dura
-  est et **vultus** tenentes corymbis inter sincera hic.
-  Arbore nocet ore moras et devertor, quid iactis Pallas.
-  Cum non rerum caedis locum solem iamque vultus viribus, vivo furtoque; sint?
-
-  - Ulixem spolioque adfata plus dextra fulmina praesagia
-  - Urbesque concreta librat non ante discrimina
-  - Iubet possis
-  - Italico ille debueram variis fervebant summa utque
-  - Digitos stridit iuvenalia vultumque virtus animus quas
+  Lorem markdownum **SHALL** ventis.
+  Traiecit sanguine vertentia: iam consolante lugentis *illi* inquit poscenti
+  Trachinius parit, nec corpore!
+  Faciet in sententia spatio: exhalata plurimus agros nec deque eurus in
+  Palladis morando [decipiat mille](http://www.uselessaccount.com/) fallere,
+  est?

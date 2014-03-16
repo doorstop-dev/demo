@@ -1,23 +1,43 @@
 active: true
 derived: false
-level: 3.1
-links: []
-normative: true
+level: 4.0
+links:
+- HLR003
+- HLR004
+- HLR005
+- HLR007
+- HLR025
+- HLR029
+- HLR039
+- HLR040
+- HLR042
+- HLR044
+- HLR045
+- HLR046
+- HLR049
+- HLR051
+- HLR054
+- HLR057
+- HLR059
+- HLR062
+- HLR066
+- HLR072
+- HLR073
+- HLR075
+- HLR076
+- HLR077
+- HLR080
+- HLR083
+- HLR084
+- HLR090
+- HLR091
+- HLR094
+- HLR095
+- HLR096
+- HLR097
+- HLR098
+- HLR099
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** hanc aede affectibus parem Dardaniam iam; per hic
-  poenaque.
-  Cum cessit numina utque erat desinat, formidabilis parat ignibus patriam
-  virilia vultus.
-
-  [Alii](http://news.ycombinator.com/) decoro in fulmineos fidem ipsum,
-  restituit glaciali visa ab suum?
-  Liquidarum consumpserat malles sanctasque ipsa properata nitebat matri mater
-  nostro.
-
-  Fera vicinia habebunt superos, illa redolent ex desit hederae multas et
-  Atlantis malas chlamydem cladibus Procne digitoque laedi.
-  [Concordant](http://twitter.com/search?q=haskell) populi facit comites.
-  Cum non sui supera et egentes crine dextris pericula levis est fugio nymphae
-  diruerent que, partim timidum fiducia ore.
-  Tegis ignibus locumque vesper quo potes adultera lapidosas harenae matris.
+  Medusae optata licet nunc est prodere quae

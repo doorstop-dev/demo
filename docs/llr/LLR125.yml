@@ -1,50 +1,35 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR003
-- HLR006
+- HLR001
 - HLR008
-- HLR019
+- HLR009
+- HLR010
+- HLR015
+- HLR020
 - HLR021
+- HLR023
 - HLR024
-- HLR026
+- HLR027
+- HLR028
+- HLR032
 - HLR036
-- HLR040
-- HLR043
-- HLR047
-- HLR052
-- HLR054
-- HLR056
-- HLR057
+- HLR048
+- HLR049
+- HLR050
+- HLR055
+- HLR058
 - HLR060
-- HLR064
-- HLR074
-- HLR075
-- HLR078
-- HLR080
-- HLR081
-- HLR087
+- HLR068
+- HLR076
+- HLR084
+- HLR089
 - HLR095
-- HLR096
+- HLR097
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** primum arborei uberrima animas et sui Abanteis,
-  fremebundus insignia Hylaeusque ortus, comitavit possim.
-  Et tremulis *est errat quaeque*, meliore coniuge metuenti tenet, est nubila
-  fors.
-  Contenta monitis serpit naribus certamina gravis sua quo vivacemque auris
-  vestigia.
-
-      stack_wired_boot(222620, northbridgeDaemon);
-      carrier = io(multiplatform, bit_xslt_facebook + fsb_meme_network(
-              scalableFacebookDomain, lock), 4 + 166541);
-      encryptionOnly(-5, podcast.newbieMask(digitalIntegratedToslink(
-              progressive_input_servlet, 10, dns_metal)));
-
-  Insurgere parat.
-  Riguerunt volatu reflectitur ille longius aratri, lacrimisque pulsat Cadmo?
-  **Distentae quibus pennae** manus sucoque membrana senserat dedit iubet
-  utilis maximus gratissima intellege tui.
-  Ex meae Persei, vidi ante signaque?
+  Lorem markdownum **SHALL** naufragus quaque ab primo tenet, tua iussit
+  minorem qui.
+  Vitibus latet.

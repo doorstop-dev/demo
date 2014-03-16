@@ -1,34 +1,20 @@
 active: true
 derived: false
-level: 8.1
+level: 12.6
 links:
-- SYS001
-- SYS006
 - SYS014
-- SYS018
-- SYS031
-- SYS032
-- SYS039
-- SYS040
-- SYS042
-- SYS044
-- SYS045
-- SYS047
+- SYS015
+- SYS016
+- SYS025
+- SYS026
+- SYS027
+- SYS038
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** in parum, crescitque attonitum sumptas; furor
-  venisset generosam decoris saevorum Circen.
-  Inpellitur gloria tempora manifesta maneant a ignes virides Iuppiter
-  semineces frustra deceant belloque comas.
-
-      var ledEbook = snapshot;
-      var mbps = 2 * copyright(typeface, rich_clock, rteKibibyteAddress) + 5;
-      pop_ppp = xp_t_word;
-      if (bare) {
-          macintosh -= newsgroupActivex;
-      }
-      if (inputMarket(riscFriendOpengl, expansion_process_bandwidth)) {
-          dll_copy = navigationSystem + applet_heuristic_freeware;
-          dataRpc(white_exploit, balance);
-      }
+  Lorem markdownum **SHALL** et eodem: nascendi templa pumice!
+  Darentur et accepti *Aeneae senes harundine* vix credere nutrix,
+  qualescumque.
+  In arcus totos, inhospita locus: est coniuge satus tabellis fluctus.
+  Aequor intus ulterius, caeruleum agisque gaudet est viderat fixis cepisse
+  Troia contrarius humum.

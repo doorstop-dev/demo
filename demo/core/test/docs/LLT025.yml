@@ -1,67 +1,15 @@
 active: true
 derived: false
-level: 1.1
+level: 6.0
 links:
-- LLR005
-- LLR009
-- LLR010
-- LLR012
-- LLR014
-- LLR015
-- LLR035
-- LLR037
-- LLR040
-- LLR049
-- LLR050
-- LLR051
-- LLR052
-- LLR056
-- LLR060
-- LLR063
-- LLR066
-- LLR074
-- LLR076
-- LLR081
-- LLR082
-- LLR083
-- LLR092
-- LLR095
-- LLR099
-- LLR102
-- LLR113
-- LLR119
-- LLR125
-- LLR126
-- LLR138
-- LLR140
-- LLR145
-- LLR146
-- LLR173
-- LLR174
-- LLR175
-- LLR176
-- LLR180
-- LLR182
-- LLR185
-- LLR189
-- LLR192
+- LLR024
+- LLR047
+- LLR079
+- LLR112
+- LLR135
+- LLR188
 - LLR195
-- LLR199
-normative: true
+normative: false
 ref: ''
 text: |
-  Verify lorem markdownum moriturus suspiratibus auras protectum linguam
-  incultos, tenebat transit liquidi?
-  Torsit mitti quam ferre tenebras.
-
-  Inplerat spatium heros suos fatemur ut frustra stipite: regna ante eunti
-  meruisse: pigneror. *Mihi quiescere pedem*; via sprevere iugulo.
-  Ego exorata felix *vultum*, rates nisi ridentem **nondum captum** non quae,
-  et Aloidas terras.
-  Concordia suis manus sunt Achillem ponderibus, et postquam nequeam, tamen
-  arsit viridi Iuppiter; odio cera taedas temptasse.
-
-  Ieiunia bracchia exspectato humilem Carthaea agitat datque, Fortuna iam, neve
-  celsior potuit annisque quem.
-  Melioris timeo sororum tenebrisque fleverunt, trahit vidi auras, dolosae.
-  Phoebus nunc!
+  est Iovis solis

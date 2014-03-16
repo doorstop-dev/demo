@@ -1,11 +1,42 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR022
+- HLR001
+- HLR010
+- HLR011
+- HLR014
+- HLR016
+- HLR019
+- HLR043
+- HLR054
+- HLR057
+- HLR058
+- HLR068
+- HLR069
+- HLR080
+- HLR081
+- HLR093
+- HLR095
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** huius appellantque artus, olim, ore arcuit et
-  minores ante surgere *se*. Exierat illic condiderat paludem, pericula sint
-  vidit medio, templum tandem limen acuta, post.
+  Lorem markdownum **SHALL** sedes, suo lumen est inminet vir *inmissos*: has
+  purpureusque creavit.
+  Hanc sed iam continuam idem ungues luce dubitanti se vimque *prosunt*. Brevi
+  pars bella despondet has conata destinat, mihi quinque adeo est virginem duae
+  nil exeat tantum: illum.
+  Abit ureris aures, consumpserat Burin egi tauros tenuisse adest, saniem
+  tenebris quo visu solitas tellus est.
+  Te peregrinis vana cervicibus videre praecipitatur usum fateamur sequente
+  verba pallidaque iam, nam stridet quoque nate pollentibus.
+
+  - Deriguere submissa
+  - Aere fato Combe ipsa curras aethera
+  - Angue se Assyrius
+  - Quos sibi tum terribiles longoque nequiquam sustinet
+  - Exstructas sensu
+
+  Silet opus, post partem.
+  Accipe tum Numici; et adactus teneas latuitque talia, nunc sacros, tactis!
+  An recessit erit.

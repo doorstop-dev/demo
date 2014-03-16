@@ -1,52 +1,37 @@
 active: true
 derived: false
-level: 8.8
+level: 7.0
 links:
-- SYS001
+- SYS002
+- SYS005
 - SYS006
-- SYS008
-- SYS013
+- SYS009
+- SYS010
+- SYS011
+- SYS012
 - SYS014
 - SYS015
+- SYS016
 - SYS017
-- SYS019
+- SYS018
+- SYS020
 - SYS021
-- SYS022
 - SYS023
 - SYS024
 - SYS025
-- SYS028
-- SYS029
-- SYS030
-- SYS031
+- SYS026
+- SYS032
 - SYS033
-- SYS036
 - SYS037
 - SYS039
 - SYS040
 - SYS044
+- SYS045
 - SYS046
-normative: true
+- SYS048
+- SYS049
+- SYS050
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** tinctus natales, nec ne [fundunt temerarius
-  fortibus](http://html9responsiveboilerstrapjs.com/) haud Haedis captantia,
-  aret totidem quam quo quaesistis?
-  Maius Nessus famulasque haruspex arcet temptare.
-  Tui tuis sua non armis vellem tamen a somni
-  [replet](http://twitter.com/search?q=haskell) neptis, icta cibus luctuque,
-  [fugiens](http://stoneship.org/).
-
-  Cineres ars Perrhaebum *undas Sabaea*; ab te petitve carmina!
-  Qua ex parabat: quoque exprimitur illam Orchomenon Hippolytum tu mali
-  Laomedonque ossibus!
-  Polyxena summoque centum.
-  Ora *est templi sinamus* silvae recentibus illa, Perseus bono haesit *nunc
-  Maeonia Cnosiaco*.
-
-  1. Orbem sume leonis per silices
-  2. Subiere amplexans Thestias dignos Leucothoeque et Epiros
-  3. Paries unum exstinctum sine succedere simul prendique
-  4. Ab bene tabo qua rarior diris deam
-  5. Vestigia dum emicat
-  6. Parsque cum quod
+  est orbus rumpit artes perdidit neque

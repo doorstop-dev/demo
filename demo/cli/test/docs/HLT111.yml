@@ -1,21 +1,19 @@
 active: true
 derived: false
-level: 1.1
+level: 5.1
 links:
-- HLR070
-- HLR088
+- HLR024
+- HLR058
+- HLR068
+- HLR081
+- HLR092
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum quemque dedit noster, medius et ignibus tergo aequor
-  licent.
-  Cunctatusque vano **proterva velut anima** poma patetis est innixamque levem,
-  satis robustior!
-  Saturnia et a Phoebus prole versarunt lupos.
-
-  Quicquam ultor et adiectoque Oeclides, incesto has tantae dum, et misit,
-  prosunt quaeri.
-  Mediis clipei dilectos alimenta vultu intulerant anhelitus et fuga.
-  Sunt ait verbis protinus Heliadum.
-  Domus alta proculcat oblita **aequoreae** remissis velim proterva turbae, et
-  utero pudetque spissus et rite esse.
+  Verify lorem markdownum, de inquit illud, et est Hennaeis segetes retinebat.
+  Ultima medicamine egit non facitis, ad fleturi vellem manu, fidemque intus
+  iamque vertitur [ductus](http://news.ycombinator.com/).
+  Quot [sic gerebat](http://html9responsiveboilerstrapjs.com/) seque per si
+  sumpta in spes nodus ardeat **perfundere** duorum, illa pressaeque dextera
+  quaerit vix. **Nec** quia ipso locum ratis et
+  [lumine](http://www.wedrinkwater.com/).

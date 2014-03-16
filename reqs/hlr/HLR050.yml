@@ -1,40 +1,12 @@
 active: true
 derived: false
-level: 8.1
-links:
-- SYS002
-- SYS005
-- SYS009
-- SYS012
-- SYS018
-- SYS020
-- SYS023
-- SYS024
-- SYS025
-- SYS026
-- SYS029
-- SYS031
-- SYS032
-- SYS033
-- SYS035
-- SYS037
-- SYS038
-- SYS039
-- SYS041
-- SYS042
-- SYS043
-- SYS045
-- SYS046
-- SYS050
+level: 9.1
+links: []
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** esse!
-  Tenetis contingere in abdit dixit adsistere quoque nunc domum, pectoraque
-  diversa nullaque Iovis errabat *levis*, inque.
-  Adgnoscitque repetita quos deplanxere **mulcet undis** capitisque datique
-  iniuria telum enim herbis!
-  Inpia ante isto corpore, madefactam lupos te quibus **Iphide caputque capit**
-  timor armentum per ore dextra lacerans.
-  Equus Sparte verum victoria agros incendia ferrum pollice spectans debeat:
-  herbas non nunc exponimur dabitur.
+  Lorem markdownum **SHALL** cultis.
+  Radiis **usus** suos adopertaque stridores bene mearum cornua et Oeclides
+  Lapithaeae lampades meis incaluit singula.
+  Diligis comitemque manus inimica conscelero Mycenae.
+  Fine nulla nymphe contra!

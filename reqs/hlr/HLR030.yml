@@ -1,24 +1,30 @@
 active: true
 derived: false
-level: 7.0
+level: 5.4
 links:
+- SYS001
 - SYS004
-- SYS007
 - SYS010
-- SYS016
-- SYS018
-- SYS021
-- SYS024
+- SYS014
+- SYS015
+- SYS019
+- SYS022
 - SYS026
+- SYS028
 - SYS029
-- SYS032
-- SYS033
-- SYS034
-- SYS036
 - SYS037
-- SYS041
-- SYS049
-normative: false
+- SYS040
+- SYS042
+- SYS048
+normative: true
 ref: ''
 text: |
-  factisque Aeolidae et nisi cantus tenuit levat
+  Lorem markdownum **SHALL** tuque antro minus colorem ponensque demptos movere
+  ciborum.
+  Ora opem admissum quamvis *idque*, agros locum medii dumque **regem** pariter
+  vota iuveni equis rogant humano arbor.
+  Iam Phineus ubi iuncta neque tantum, prosunt equosque, insonat caede
+  inceptaque tostos, gavisus ille simul fraxinus clementia.
+  In mille supremumque et verba sibi querellis iussis, incedere. **Et** fugio
+  feriendus ait si, lues, **et apta credidit** atque tunc, medio hoc si eburno,
+  amico.

@@ -1,70 +1,46 @@
 active: true
 derived: false
-level: 1.1
+level: 12.1
 links:
-- LLR001
-- LLR006
-- LLR008
-- LLR011
-- LLR012
-- LLR013
-- LLR027
-- LLR037
-- LLR040
-- LLR044
-- LLR048
-- LLR056
+- LLR002
+- LLR016
+- LLR023
+- LLR024
+- LLR028
+- LLR030
+- LLR034
+- LLR052
 - LLR057
 - LLR059
-- LLR060
-- LLR073
-- LLR074
-- LLR075
+- LLR062
+- LLR065
+- LLR067
+- LLR068
+- LLR069
+- LLR071
+- LLR072
 - LLR076
+- LLR079
 - LLR080
-- LLR120
-- LLR121
-- LLR122
-- LLR126
-- LLR129
-- LLR130
-- LLR132
-- LLR134
-- LLR144
-- LLR146
-- LLR150
-- LLR157
-- LLR161
-- LLR162
-- LLR175
-- LLR179
-- LLR180
-- LLR181
-- LLR183
-- LLR194
+- LLR081
+- LLR082
+- LLR089
+- LLR100
+- LLR101
+- LLR108
+- LLR112
+- LLR127
+- LLR128
+- LLR152
+- LLR172
+- LLR176
+- LLR182
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum sanguineae concolor litore, formam nec saepe hosti
-  Veneris vocatur, Achivi.
-  Fuit virginitate ille facientia viri, nomen, hic minus magis tam vipereos
-  idque.
-  Duasque et est aures per utrumque misit honore crinem turbine.
-  Saxa educta tamen.
-
-  Forma ipsa eventusque velatus roganti utque huius meos moderato oculosque
-  primum poplite alitibus pervia queritur *lumina*, non!
-  Amnes onus auras viva *linquit ab gradus* pariter, in induruit serpens
-  idcirco filia.
-  Non pueri, super erat, fugae vocem tua nempe sit Acarnanum cunctis riguisse
-  sopore in.
-  Quies amplecti.
-
-  Virens in nunc enim iam vertex, proles orbes una removit.
-  In auctor arcus, in amore deprensa sic Hecate at amnem sanguine Epopeus,
-  misit?
-  Similisque celebrare demens [Atridae](http://zombo.com/)?
-  Et frondes, corpora Peleus *volucrem*, sive manu, lacerare iure amittere
-  cernere.
-  Murmura viro, fit appellantque [portans nil illi](http://landyachtz.com/)
-  litus a annua turba?
+  Verify lorem markdownum nocte, equus verum Iolaus, excipit.
+  Velatus qui manu per annisque multaque, arbore *se mota* in omnia liquidas,
+  non pudore tubere; amnes.
+  Uti cavis ferinae eadem mitior signaque unda.
+  Quisque a niveo praesaga patentes vagantur ad petit: petiisse coniugis, ut
+  ars vera lacus quoque.

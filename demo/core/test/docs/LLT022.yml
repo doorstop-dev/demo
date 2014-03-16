@@ -1,59 +1,16 @@
 active: true
 derived: false
-level: 1.1
+level: 5.0
 links:
-- LLR006
-- LLR007
-- LLR015
-- LLR016
-- LLR017
-- LLR020
-- LLR026
-- LLR027
-- LLR036
-- LLR038
-- LLR040
-- LLR043
-- LLR051
-- LLR060
-- LLR067
-- LLR068
-- LLR072
-- LLR073
-- LLR076
-- LLR083
-- LLR091
-- LLR092
-- LLR095
-- LLR096
-- LLR109
-- LLR113
+- LLR004
+- LLR062
+- LLR077
+- LLR104
 - LLR116
-- LLR117
 - LLR118
-- LLR125
-- LLR127
-- LLR128
-- LLR130
-- LLR131
-- LLR135
-- LLR136
-- LLR147
-- LLR155
-- LLR156
-- LLR159
-- LLR169
-- LLR192
-- LLR193
-- LLR195
-normative: true
+- LLR154
+normative: false
 ref: ''
 text: |
-  Verify lorem markdownum, sed ulnis *gerentem et* natis superet memorique
-  premis memori ruit regem, spe.
-  Dum me non [premebat praecordia ut](http://www.billmays.net/) tuam ferasque,
-  cura vehit.
-  Inamabile liquitur aut dic quem posuitque leones, vota Acmon.
-  Deus palmiferos, Dryopen longe illuc; quos adire credulus omnibus amnis.
-  Concitus Peripha, erat tibi parsque canit vera scopulus addidit mugitus
-  videndum perque, hortaturque nymphe putavi.
+  Achilli proterit eburnea potes caput visa
+  verbaPerseushttphipstermerkeltumblrcom

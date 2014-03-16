@@ -1,32 +1,14 @@
 active: true
 derived: false
-level: 8.1
+level: 13.3
 links:
-- SYS002
-- SYS004
-- SYS006
-- SYS008
-- SYS018
-- SYS020
-- SYS022
-- SYS023
-- SYS028
-- SYS029
+- SYS005
+- SYS016
 - SYS031
-- SYS037
-- SYS039
-- SYS040
-- SYS041
-- SYS043
+- SYS042
 - SYS044
-- SYS047
-- SYS048
-- SYS049
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** securae.
-  Si in, corpore me orbem **pulsavit renarro**, iamque, cui se **venerat
-  exsangue coniunx** venturi et saepe venit.
-  Coeunt nostri tibi nec umentes cumque [carpe putat](http://stoneship.org/);
-  non.
+  Lorem markdownum **SHALL** premeretur modico, eburnea et maior et ut.
+  Ad **sors** tempore specta.

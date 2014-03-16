@@ -1,28 +1,35 @@
 active: true
 derived: false
-level: 1.1
+level: 12.1
 links:
+- LLR015
+- LLR019
 - LLR022
-- LLR023
-- LLR067
-- LLR096
-- LLR101
-- LLR133
-- LLR175
-- LLR180
-- LLR183
-- LLR190
+- LLR037
+- LLR052
+- LLR053
+- LLR072
+- LLR073
+- LLR099
+- LLR102
+- LLR104
+- LLR112
+- LLR115
+- LLR119
+- LLR122
+- LLR138
+- LLR143
+- LLR150
+- LLR166
+- LLR172
+- LLR182
+- LLR199
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum tenebat sua harundine ademptas fugit si quaerit,
-  natus gestu et!
-  Exierat lugenti, resistit si eripis Hesperio.
-  Infectus stravit et, matre horum Inachus [aera](http://zombo.com/), perspice.
-  Devastata mox diva leto denique, miserisque docuit rapi primi morbis, iuncta
-  non memores, inde hunc cedentique, rubore.
-
-  - Erit non et glaebam etiam credere nocet
-  - Cetera quam in tenuisset supposita et relinquet
-  - Altera expugnacior alter
-  - Inque gulae terra esse illum anteit
+  Verify lorem markdownum fudit sustinet.
+  Refugam ipse.
+  Maestis die quid *ducentem ego equo* Priami ut comas cessisse tellure
+  multorumque velocius dicenti. [Est nostra
+  trementi](http://www.reddit.com/r/haskell) sanguine imber tabuerant inquit
+  maxima.

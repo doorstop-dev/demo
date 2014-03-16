@@ -1,26 +1,31 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR011
-- HLR026
+- HLR001
+- HLR003
+- HLR014
+- HLR015
 - HLR029
-- HLR031
-- HLR038
-- HLR039
-- HLR047
-- HLR069
-- HLR077
+- HLR032
+- HLR033
+- HLR035
+- HLR037
+- HLR045
+- HLR052
+- HLR057
+- HLR062
+- HLR072
+- HLR079
+- HLR084
+- HLR092
+- HLR095
 normative: true
 ref: ''
 text: |
-  [Lorem markdownum **SHALL**](http://landyachtz.com/) Triptolemus praeferret
-  bellum, fiducia, ope illa quae et enim aegra praeceps animum.
-  Arenti *florem*: obscena fraxinus dixi foret inque Atridae.
-
-  Certe a signis uno extis per non mutabile poterat anxia et et.
-  Facturus nec; Echion suis calidoque vult hederae repleri, petitis.
-
-  Lotis de in hunc, sive verba Hylen parte quam nemus illa ponderis Idmoniae.
-  Necis **erit luna et** consorte, illi nunc pauca, Typhoea, times **has
-  facilesque**. Mota et aeno ecce at illud opiferque percussit ecce, nec passa.
+  Lorem markdownum **SHALL** [molle inconsolabile
+  Tusca](http://www.wedrinkwater.com/) visa palladias paventes priore datus,
+  temptata peregit.
+  Attonitas placuere foedere apertos quondam.
+  Capulo factum ora pugnat herbas Phrygii: sororis amnem, feror si tamen
+  titubare carerent fidem, nondum.

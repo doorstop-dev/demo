@@ -1,50 +1,41 @@
 active: true
 derived: false
-level: 2.3
+level: 1.6
 links:
 - HLR002
-- HLR003
-- HLR006
-- HLR008
-- HLR014
-- HLR016
+- HLR007
+- HLR009
+- HLR015
 - HLR017
-- HLR019
-- HLR028
-- HLR031
-- HLR036
-- HLR040
-- HLR041
-- HLR043
-- HLR047
-- HLR048
-- HLR052
-- HLR055
-- HLR057
-- HLR058
-- HLR063
-- HLR066
-- HLR067
-- HLR068
-- HLR072
-- HLR076
-- HLR078
+- HLR022
+- HLR024
+- HLR030
+- HLR059
+- HLR060
+- HLR074
+- HLR079
 - HLR083
-- HLR085
-- HLR088
-- HLR093
-- HLR096
-- HLR098
+- HLR084
+- HLR100
 normative: true
 ref: ''
 text: |
-  *Lorem markdownum **SHALL*** quam commisit natus delapsus sollicitat es dura
-  quam prima lintea **albentes** si
-  [vides](http://kimjongunlookingatthings.tumblr.com/).
-  Et animum, movi mox ope tua fore nefandis; Somnia illi, meliore.
-  At manes ilia aures; passus at *munere vertitur discusso* Tyrrhena foedabis
-  quas demurmurat nocent recentibus Pyrame superum.
-  Restabat pennis: cum sanguis lecto cuique iugulum cacumina, et Prima
-  peperisse, Iunonis fugiebant Bacchumque.
-  Sine carior lecto exiguo nisi frigus haurit destringere ambage barbaricoque
-  [permansit](http://jaspervdj.be/).
+  Lorem markdownum **SHALL** in nec interrumpente sprevit Phoebus dixit
+  superat, plena graves iacet terras laevaque cruorem!
+  Conspecta somnum cervicibus quoque harenam et undis idem sacra repono opis
+  ingenua corpore conscius, inquirit potest Alcandrumque potentia ille.
+  Cur diurnis eripitur tenet inmensi sustulit edax moveret, qui dixit vox
+  intus.
+  Prole cortice meliora virgine inpositum rata, misceri atque, nec.
+  Ipse ferrugine mollia.
+
+  - Ad axes togaque signavit Hersilien Alpheos Alpes
+  - Comitesque curia
+  - Dixit adpellavere vulnere
+  - Qui quam quid commune tamen
+  - Nos voce esse guttura celat illius tumidus
+  - Iuvenis iuvenes Stygiisque manet Argolicas ore caput
+
+  Presserat et iudice mersura: fallacia vidit deorum ferro!
+  Nam et agit Erinys precantum ferunt laevane: dummodo *sternitur*. Iustis
+  moenia numen sumptaque **quae oculos**, res haustus imbrem.

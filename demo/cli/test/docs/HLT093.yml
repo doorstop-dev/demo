@@ -1,12 +1,46 @@
 active: true
 derived: false
-level: 1.1
-links: []
+level: 5.1
+links:
+- HLR001
+- HLR010
+- HLR012
+- HLR019
+- HLR024
+- HLR034
+- HLR035
+- HLR039
+- HLR047
+- HLR048
+- HLR053
+- HLR054
+- HLR058
+- HLR059
+- HLR060
+- HLR062
+- HLR068
+- HLR071
+- HLR073
+- HLR082
+- HLR084
+- HLR086
+- HLR094
+- HLR095
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum Indis feroces manifesta conspicit armiger malis et
-  postquam nos solent Thebas.
-  Spem dea, illa cum!
-  Tauri coluber properas dedissent saepe totumque Bacche, veneno, et recipit
-  mutabile Pallante **arsisses quoque fluctibus**.
+  Lorem [markdownum](http://www.mozilla.org/) sed ignota; per [volatu clipeus
+  deficit](http://seenly.com/), artus cadunt undae, est carnes!
+  Armaque partique paulatimque mille ab data iaculante rogantem turpiter bis
+  potitus [ense](http://www.thesecretofinvisibility.com/), huic stupet
+  exitioque.
+
+  1. Elementa stabat Notus
+  2. Vacavit docebo
+  3. Se et sunt manu Delphos detur Phaethon
+  4. Mihique saliente nubibus sidera domino didicit latet
+  5. Suo virgis sarisa cunctis
+  6. Iuno torosa spatium tacetve vinci undas
+
+  Baculumque inde: nardi geminas torpor quereris.
+  Est non neque spretor inquire, ad est inmitem Pterelas aper et hasta.

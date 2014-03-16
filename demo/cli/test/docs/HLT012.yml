@@ -1,35 +1,38 @@
 active: true
 derived: false
-level: 1.1
+level: 3.2
 links:
-- HLR013
-- HLR016
-- HLR018
-- HLR019
-- HLR020
-- HLR031
+- HLR004
+- HLR006
+- HLR008
+- HLR015
+- HLR032
 - HLR036
-- HLR039
-- HLR042
-- HLR056
+- HLR037
+- HLR043
+- HLR047
+- HLR050
+- HLR055
+- HLR057
+- HLR059
+- HLR060
+- HLR061
+- HLR062
 - HLR063
-- HLR065
+- HLR067
 - HLR068
-- HLR071
-- HLR072
-- HLR073
-- HLR077
-- HLR079
-- HLR084
+- HLR070
+- HLR080
+- HLR087
+- HLR089
 - HLR096
-- HLR097
+- HLR098
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum forte servat: qui a tamen dat turpe barbare facies
-  poteras, gravitate.
-  Tibi quod celeri Amnis forma.
-  Care parvo praebentque omnes iacebant fretum rediret.
-  Deos venitque lumine, fugaverat nigraque nullam nitebat, in magis vincant
-  undis pelagi, virus?
-  Causa pignora, uror mentior Semeleia vana hamadryadas hortos reponere telis.
+  Verify lorem markdownum est Romethiumque Phoebique Ichnobatesque prudentia
+  inconcessisque delicta legebant, te audito intrare ostendi: silvas ante, has.
+  Eiecit gemitusque meos tum, tuaque, novo aspicit sunt.
+  Modo pia *est Caucasus*; et quod enim, amici.
+  Datae quoque cognoscere Egeriae Nestora versabat ducis, Tyrrhena e supplex
+  moenia, ille aram calores procul!

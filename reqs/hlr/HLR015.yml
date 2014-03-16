@@ -1,40 +1,18 @@
 active: true
 derived: false
-level: 3.2
+level: 3.0
 links:
-- SYS001
-- SYS002
-- SYS004
-- SYS005
 - SYS007
-- SYS008
-- SYS009
 - SYS010
-- SYS013
-- SYS016
+- SYS014
 - SYS017
-- SYS020
-- SYS021
+- SYS018
 - SYS023
-- SYS024
-- SYS026
-- SYS027
-- SYS028
-- SYS030
-- SYS031
-- SYS032
-- SYS033
 - SYS034
-- SYS042
-- SYS045
-- SYS047
-- SYS049
+- SYS038
+- SYS046
 - SYS050
-normative: true
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** ferunt redimitus una vellera, levem illis nimiique
-  Atlas patrio recusem amplectitur.
-  Silvam duplicataque longius eratque consequitur ulnis Albanos mecum, fletus
-  fugam; parabant sistunt laetis; tuba tandem.
-  Nulla quae post Amphissos loqui, venti *ille* solidis, quo est terra et.
+  et suspiriahttpkimjongunlookingatthingstumblrcom mihidicens

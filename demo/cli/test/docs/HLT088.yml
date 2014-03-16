@@ -1,38 +1,35 @@
 active: true
 derived: false
-level: 1.1
+level: 5.1
 links:
-- HLR003
-- HLR006
+- HLR008
+- HLR013
+- HLR020
+- HLR021
+- HLR024
+- HLR027
+- HLR030
+- HLR032
+- HLR033
+- HLR035
 - HLR038
-- HLR063
+- HLR042
+- HLR046
+- HLR049
+- HLR050
+- HLR071
+- HLR073
+- HLR074
 - HLR078
+- HLR080
+- HLR085
+- HLR093
+- HLR099
+- HLR100
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum, nec [passum
-  nullaque](http://www.youtube.com/watch?v=MghiBW3r65M) adversum Mycenae docui
-  hiemem Anguem, caput nostri tabe quoque, vel se que.
-  Ventos passis, prima, in ora via quoque expresso et **tela caeli**. Mihi aere
-  qui est volventia nescius colloque Iasonis undis.
-  Esse cavas argenti est est, illa ignotas cristis in patent virgo.
-  Postquam catenis et Phrygum furoris sonum lacrimisque erit, veniens postquam
-  aut reminiscitur, domum, lora, [ducit](http://twitter.com/search?q=haskell)?
-
-  Suis non minor quoque contactus in vires **nitidissimus voluptas fontes**
-  Alemoniden, erat, parenti, succedit.
-  Apollinis postquam.
-  Icta Hyperborea mentoque talibus irascentemque Priamum accinctus saecula
-  Liber eludere.
-  Tum *origo balatum*; ereptaque spinis extrahit vicimus **annis timeas**.
-  Territa est me possem fuit inhaerentem, intraverat *revocare* deprendere reor
-  adopertaque pater laceranda grana longam.
-
-      peripheral *= -5;
-      certificateT(-1, gate_mode_site);
-      if (framework) {
-          dropFormat(whiteIpvThunderbolt(5, 73, 49), 2);
-      } else {
-          cycle += node_ipad;
-      }
-      cut.hard_social_minicomputer(umlPetaflops);
+  Verify lorem markdownum flammae neque ausis moti edidicisse istis.
+  Iussis servasset *glaebam vestrumque* mulcebat; ab *mors*, et et conviva.
+  Caerula scelus, vix surgunt oras montibus natae ore virtutis discors raptis
+  duxit **iugulum** inlisit nisi!

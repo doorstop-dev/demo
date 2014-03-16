@@ -3,6 +3,7 @@
 """Randomize the requirements."""
 
 import os
+import re
 import sys
 import random
 import logging
@@ -129,6 +130,7 @@ def _generate_item(document, shall=False, verify=False):
     text = _get_random_text()
 
     if item.level == (1, 0) or (item.level[-1] > 2 and random.random() > 0.75):
+        text = re.sub("[^a-zA-Z0-9_ ]", '', text)  # remove special characters
         words = text.split(' ', 10)[2:random.randint(3, 10)]
         text = ' '.join(words)
         if item.level != (1, 0):
@@ -158,6 +160,7 @@ def _get_random_text():
 
 def _randomize_item_links(item, document):
     """Randomize an item's links."""
+    logging.info("randomly linking {}...".format(item))
     item.links = []
     for _ in range(random.randint(0, MAX_LINKS)):
         item.add_link(random.choice(document.items).id)

@@ -1,23 +1,44 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR007
-- HLR022
-- HLR023
-- HLR025
-- HLR032
-- HLR049
-- HLR052
-- HLR054
-- HLR076
+- HLR003
+- HLR006
+- HLR008
+- HLR012
+- HLR013
+- HLR015
+- HLR026
+- HLR028
+- HLR029
+- HLR031
+- HLR033
+- HLR044
+- HLR045
+- HLR050
+- HLR057
+- HLR059
+- HLR061
+- HLR063
+- HLR068
+- HLR079
+- HLR082
+- HLR086
+- HLR087
+- HLR090
+- HLR094
 - HLR097
-- HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** tantique, ea ipsa fratrem: gentisque traxit.
-  Volucresque alebat pro mensura nantemque posse, opertis sed amans vero et
-  manus positique [inania et](http://www.lipsum.com/) et incoluit!
-  Nam et unda obstipui silvas, pone centum quondam aegre; infelix, vivit numina
-  quoque iniustaque tuum capacius.
+  Lorem markdownum **SHALL** pudetque ambiguus relinquo, Aphidas carina primos
+  hic inrequietus nomen, quae unus.
+  Byblida tamen potest, toto rexque cura **gentis blanditias** frugis; tibi.
+
+  Sit via iunonis oculos est verba eodem tellure, ut aevi rasilis laudat
+  porrexit requiret litore lacrimisque sint.
+  Fallique tantique posuere, quae, si parvos miseram vesicam sonarent intra
+  meus iaculum flector, armata!
+  Fata praestiteris cruore male, in arbore quereris ipsaque adspicit opposui
+  annum.
+  Ante Danais fidelem erit ossa illa Tartara fata rogabam *quod*.

@@ -1,27 +1,29 @@
 active: true
 derived: false
-level: 3.8
+level: 3.6
 links:
-- HLR002
-- HLR019
+- HLR005
+- HLR008
+- HLR015
+- HLR016
 - HLR021
-- HLR022
-- HLR037
-- HLR042
-- HLR055
+- HLR029
+- HLR052
 - HLR061
 - HLR066
-- HLR067
-- HLR089
+- HLR071
+- HLR072
+- HLR078
+- HLR079
+- HLR080
+- HLR088
+- HLR095
+- HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** munera, adopertaque missi Zetesque circumvolat
-  regna amens faciem quod ossibus humo unco **anus puppim**, dissimilem.
-  Filum protentaque nasci ruinas postquam densior coercet, nec pars, pius et
-  tamen, totiens.
-  Mihi Procri plerumque diremit has dominum, et tribus nitere di felix.
-
-  - O euntis laetior Orithyia sortitus
-  - Inter qui murmur inpar o petit monstra
-  - Cum Thebae
+  Lorem markdownum **SHALL** corde, ut [in tum
+  nymphe](http://www.uselessaccount.com/) nervo: dique, **non**. Deceat
+  Gigantas rerum exstimulata, terra currus duas, sollicitatque deos amorem.
+  Illa filia inopino ad forti vestigia ipsi *gurgite at* mactatur tellus
+  [interrita fatetur](http://seenly.com/).

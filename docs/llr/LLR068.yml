@@ -1,27 +1,50 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
+- HLR010
+- HLR012
+- HLR013
+- HLR015
+- HLR017
+- HLR018
+- HLR020
+- HLR023
+- HLR024
+- HLR035
+- HLR036
+- HLR038
+- HLR041
+- HLR042
 - HLR043
-- HLR056
+- HLR047
+- HLR048
+- HLR054
 - HLR060
-- HLR090
-- HLR100
+- HLR062
+- HLR067
+- HLR070
+- HLR075
+- HLR076
+- HLR077
+- HLR082
+- HLR089
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** ventorum frena sua?
-  Non diem sagittis medias, est est os equi, viridique vocant senserat et
-  ortus.
-  Decursa dixerat habebat in multum Alcyone iniuria.
+  Lorem markdownum **SHALL** ducens iampridem et risit surrexere moenia
+  cacumina me caede, *et*! Qui fonti passa interceperit calore; est toto
+  suffusus adhaerent.
 
-  - Putat deducit putares pater ait colorem tethys
-  - Timentia opus tua
-  - Famulae cupit magne
-  - Erat ut quorum quoque
-  - Vestemque tenebrae teneri harena glandibus inpedit consulit
-  - Ore dic nobis hospitis concubitus loqui nigra
+  1. Stantem exitium tulit terruit
+  2. Malo Phrygiae rationis exibit auxilium
+  3. Dis vocato paene ore invidiosa sidera
+  4. Enim simulacra o pariter rogum in sit
+  5. Qua Polydoreo necem
+  6. Exstanti anus teneris
 
-  Pyramus cecinisse denique, mihi arguit tibi ipse et petens *fugiunt tempora*
-  bubo: mutatur bis.
-  Pretium Terea, dextera verborum nam prosunt edidit oculos, loquor?
+  Cavis iubar, protinus ergo amore, frequentat celerique.
+  Litora vix.
+  Dextera Schoeneia tibi, cura, nulla sua remisit mira, miseranda!
+  Fer tamen siccaverat laticem, ulvae, si arcem vocalis, versantem, illa
+  regione parabat moveri terra in.

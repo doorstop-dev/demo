@@ -1,48 +1,21 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR001
-- HLR003
-- HLR004
-- HLR007
-- HLR014
-- HLR017
-- HLR018
-- HLR022
-- HLR028
-- HLR033
-- HLR041
-- HLR043
-- HLR044
-- HLR053
-- HLR056
-- HLR058
-- HLR059
-- HLR063
-- HLR064
-- HLR065
-- HLR071
-- HLR072
-- HLR074
-- HLR078
-- HLR080
+- HLR021
+- HLR045
+- HLR051
+- HLR061
+- HLR073
 - HLR088
-- HLR090
-- HLR092
-- HLR094
 - HLR097
+- HLR099
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** moriemur plumis qui et Troianae, nomine non
-  Herculeis in tertia, ut est placidis est.
-  Pendere sum nobis nisi putat **serpentis nam** satus Syenites ipsos,
-  **vocat**?
-
-  - Rarior tenuem et mortis de Iuno
-  - Pariterque sua
-  - Et dixit
-  - Quam sua ferro Cinyran tradendum tibi dereptis
-  - Durior Dianae lucifer Tereus et esse solent
-  - Illo feminea
+  Lorem markdownum **SHALL** fabula Pergama.
+  Meae [veneni](http://news.ycombinator.com/)!
+  Ille bracchia saxum nam uncis comas *latos*; abstinet limosaque teque
+  adstricta enim; sic.
+  Manibus lege iuvenis oculos lumina: saepe ora hac habuistis nec rari et
+  lammina canenti!

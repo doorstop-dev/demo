@@ -1,32 +1,31 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR001
+- HLR002
+- HLR005
+- HLR008
 - HLR014
-- HLR015
-- HLR016
-- HLR018
-- HLR019
-- HLR033
-- HLR036
-- HLR037
-- HLR038
-- HLR043
+- HLR029
+- HLR042
+- HLR047
 - HLR052
-- HLR057
-- HLR076
+- HLR055
+- HLR058
+- HLR070
+- HLR074
 - HLR077
-- HLR078
-- HLR087
+- HLR079
+- HLR092
+- HLR093
 - HLR094
 - HLR098
+- HLR099
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** accipiam ferarum: ipsa cum *at nulla nostro* te
-  exhortor, Iuno petis.
-  Minimum canebat acta huic exstructas securior in magis exspectat **sidera**.
-  Ipsis sternit pictas omen gelidi in imitante, et laudis.
-  Ad quae: illa qui.
-  Flet primus quae huius, mox Ortygie timuit!
+  Lorem *markdownum* aliquos Cinyphius tandemque, tacito Hesperio victoria
+  albo.
+  Extulit cum, qui equorum illic: verba aestu; qua mihi?
+  Mare siquem de sponte neque perveni, fassurae in dabat sollicitumque plebe
+  iratus primas.

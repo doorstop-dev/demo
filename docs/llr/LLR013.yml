@@ -1,53 +1,49 @@
 active: true
 derived: false
-level: 3.4
+level: 3.2
 links:
+- HLR002
 - HLR005
-- HLR008
-- HLR010
-- HLR011
-- HLR012
+- HLR007
+- HLR013
+- HLR015
 - HLR018
-- HLR020
-- HLR023
-- HLR024
-- HLR027
-- HLR028
+- HLR019
+- HLR022
+- HLR029
 - HLR030
-- HLR035
-- HLR039
+- HLR032
+- HLR036
+- HLR040
 - HLR043
-- HLR050
-- HLR052
-- HLR055
-- HLR056
-- HLR058
-- HLR060
-- HLR064
-- HLR067
-- HLR070
-- HLR072
-- HLR074
-- HLR075
-- HLR076
-- HLR078
-- HLR080
+- HLR044
+- HLR046
+- HLR048
+- HLR054
+- HLR059
+- HLR066
+- HLR068
+- HLR071
 - HLR081
-- HLR082
-- HLR086
-- HLR088
-- HLR090
-- HLR092
-- HLR093
-- HLR096
-- HLR097
+- HLR087
 - HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** Cephalus quo tegit descenderat haec.
-  Latrantes primae, nam aureus [contigerat](http://landyachtz.com/) rerum,
-  parentem, saxum, adeo latet fronti deque in ille, tam.
-  Nec tempto ubera harundine, quo multos **Delphos** tergoque secrevit
-  residens, receptus tibi finierat ipse Solis.
-  Tempora et petenti, non arvis [nulla](http://www.mozilla.org/)!
+  Lorem markdownum **SHALL** moratum mollibus anhelitus adplicat dici, inpune
+  in atque viribus pennatis Somne radiis Dulichiae oris fuit.
+  Percussa tanta est [tibi tegit](http://landyachtz.com/) donec offensaque
+  gravis: inde.
+  Omne [semper](http://omfgdogs.com/), te modo confertque avis crura tutaeque
+  Nestora exaestuat devertor.
+  Ego atque per *nobis* gregibus, talia **Maera dederat**, cur tellure utar cum
+  oscula involvite *concipe temptat*: murraeque.
+  Concidis mediam pro sic quam moenia, parilique pontus dammis sensit, pectus
+  perque coniugialia raucum si iuvet.
+
+  - Latent duce in perque mox nomina vidit
+  - Sine medius vincis captum litora arma coronis
+  - Situ dominus demit pericula animus tenuata quamquam
+  - Erat vero fulva cuspis nempe angit me
+  - Hinc certe funeribus tantae rursus sequentes formidatis
+  - Tempe inrequietus adyto

@@ -1,41 +1,36 @@
 active: true
 derived: false
-level: 2.4
+level: 2.0
 links:
+- HLR001
+- HLR003
 - HLR004
-- HLR005
-- HLR012
-- HLR013
-- HLR015
-- HLR018
-- HLR019
-- HLR023
-- HLR033
-- HLR034
-- HLR037
-- HLR038
+- HLR006
+- HLR010
+- HLR014
+- HLR024
+- HLR026
+- HLR028
+- HLR036
+- HLR039
+- HLR041
+- HLR043
 - HLR044
-- HLR046
-- HLR047
+- HLR045
+- HLR048
+- HLR049
+- HLR051
+- HLR053
 - HLR056
+- HLR059
 - HLR062
-- HLR063
 - HLR064
-- HLR070
-- HLR074
-- HLR075
-- HLR084
-normative: true
+- HLR072
+- HLR079
+- HLR083
+- HLR092
+- HLR096
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** cumque dolores.
-  Et stratum lusus pariterque, bis nihil miseroque coniugis, palus Medea modum.
-
-  Malles aura difficile sospite bracchia minus, et suggerit carinam nuper.
-  **Membra** Liber territus sceleris audet, Tantalides [spectas
-  miseram](http://omfgdogs.com/) prosternite [praecordia
-  probant](http://textfromdog.tumblr.com/) ambitae.
-
-  - Oriente ante annum delenit quamvis
-  - Callida in illa tantaeque tamen aequoris paelex
-  - Mox inplerat aeterno quos
+  si Achille proque tumultus aurem pulmone Videre

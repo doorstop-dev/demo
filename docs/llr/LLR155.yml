@@ -1,18 +1,20 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR002
-- HLR035
-- HLR059
-- HLR074
-- HLR076
-- HLR079
+- HLR010
+- HLR019
+- HLR090
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** velut, aliter umbris; [est
-  iudice](http://twitter.com/search?q=haskell), indiciumque metuens capillos.
-  Olivae laniavit qualis, sub Nilum Pandione meas pavidamque, caelum.
-  Aevo honorem Ulixes Iovem, verba, et, est quod et misit inrita tantum, *ab
-  nec sensit*.
+  Lorem markdownum **SHALL**, **circumfluus repulsa** pelle.
+  Ex scelus labores.
+  Nec cives comitum!
+
+  Spatio vultu oculos, sermonibus se levis non nec in viros incertae.
+  Deficiunt morte postquam si carpe concidere, Ulixes celer ipse sucoque
+  pependit.
+  Iubet vacuis places, marmore saxa aetas demittit hic vultus suus saevitiae.
+  [Infert](http://news.ycombinator.com/) tum tendere lingua vulnere dubitare
+  sanguine de acumine et victores dum aras molliri est neque!

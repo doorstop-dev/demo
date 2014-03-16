@@ -1,51 +1,22 @@
 active: true
 derived: false
-level: 1.1
+level: 5.1
 links:
-- HLR002
-- HLR003
-- HLR015
-- HLR016
+- HLR001
+- HLR008
+- HLR011
+- HLR014
 - HLR019
-- HLR020
-- HLR022
-- HLR027
-- HLR031
-- HLR032
-- HLR035
-- HLR037
-- HLR041
-- HLR048
-- HLR049
-- HLR051
-- HLR052
-- HLR053
 - HLR056
-- HLR066
-- HLR067
-- HLR068
-- HLR069
-- HLR072
-- HLR075
-- HLR076
-- HLR078
-- HLR090
-- HLR091
-- HLR095
-- HLR097
-- HLR100
+- HLR057
+- HLR094
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum verberis, miserum, haec Psecas expers et iussit
-  devolvunt et facitis nebulas et vulnera dis fugit.
-  Est quoque signum rates Ulixes famulas. [Provida nec me](http://imgur.com/),
-  et crinem, habuit **mei** Propoetides lacrimas certaminis qua cruore, sunt.
-  Regnaque facinus iuvenis tergusque coeperat stridet frigore salutet mihi
-  adlabimur speculatur oritur posset.
-
-  - Erat femina deus Narve gloria in minimae
-  - Sed facies foedera
-  - Precibus Ne coeptus parte genibusque sagittas
-  - Rhodon umbra monstri dotibus
-  - At flavae efficiens ad digna congreditur terrarumque
+  Verify lorem markdownum feruntur fortes dexteriore vivam Ascanii terrena: te
+  ad quae aeternus et vultus.
+  Temptanti fidumque [oravere adamanta
+  visum](http://en.wikipedia.org/wiki/Sterling_Archer) et voca inque genitore
+  populi; non Hercule tamen *sum in constitit*! Suoque eundo par!
+  Orat annis.
+  Nec Iovis illo, vidit ora inferias pressit etiam, Melaneus putes?

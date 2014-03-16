@@ -1,33 +1,20 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
-- HLR004
-- HLR006
-- HLR008
-- HLR012
-- HLR015
+- HLR005
+- HLR013
+- HLR014
 - HLR017
-- HLR018
-- HLR023
-- HLR024
-- HLR028
-- HLR029
-- HLR035
-- HLR037
-- HLR051
-- HLR055
-- HLR056
-- HLR060
-- HLR063
-- HLR065
-- HLR066
-- HLR075
-- HLR083
+- HLR047
+- HLR059
+- HLR081
+- HLR097
+- HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** dixit patiere, visis quot mensae, mentum postquam,
-  sum, turpes facem excipit exanimem velle, tu.
-  Retraxi in *serpens egerit*, candida nec raptas: igne deus.
-  Est est meos nostri habuit, quid herbis humo Daphnidis tu toris, tu.
+  Lorem markdownum **SHALL** at testata postquam qui tela inlaesas sensit; sub
+  haec.
+  Longum et alienae **domo ingemuit furiis**; surgere tibi exhalat, incendia
+  altam comitante et.

@@ -1,51 +1,25 @@
 active: true
 derived: false
-level: 1.1
+level: 12.1
 links:
+- LLR001
+- LLR002
 - LLR006
-- LLR013
-- LLR020
-- LLR024
-- LLR029
-- LLR030
-- LLR035
-- LLR040
-- LLR048
-- LLR051
+- LLR009
+- LLR021
 - LLR057
-- LLR073
-- LLR082
-- LLR083
-- LLR090
-- LLR092
-- LLR096
-- LLR100
-- LLR105
-- LLR118
-- LLR130
+- LLR060
+- LLR067
+- LLR077
+- LLR080
 - LLR131
-- LLR134
-- LLR139
-- LLR143
-- LLR148
-- LLR152
-- LLR154
-- LLR163
-- LLR165
-- LLR170
-- LLR173
+- LLR141
+- LLR147
+- LLR195
+- LLR196
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum crederet, munus.
-  Consanguineas Almo Thybridis decebat facit pariter exclamat.
-  Detegeret visa gentesque prece: pudorque ausa, suis si ardua falsi sepulti,
-  vestrae fertur, quem.
-  Feroque aether iuris lassavit successit carmina.
-  Mihi meae novissimus positas nec canibus ministro crimina: euntem plurimus
-  plena enixa modo terras.
-
-  1. Astra iactabimur nomen
-  2. Sed vestibus abire flere noverat facere pendebant
-  3. Iamiam vidit si demptum ferunt
-  4. Et munera tactis inferias tenus
+  Verify lorem markdownum relicta praesagia subito lapillis respicio inde
+  Iunoni luctatur, est cui fixit: poenae.
+  Signa sinunt qua tempora vidisse fecitque actis, succutiturque discidii rem.

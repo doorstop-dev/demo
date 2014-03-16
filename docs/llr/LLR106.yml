@@ -1,36 +1,43 @@
 active: true
 derived: false
-level: 3.1
+level: 5.1
 links:
+- HLR002
 - HLR007
+- HLR008
 - HLR010
+- HLR014
 - HLR020
-- HLR021
+- HLR024
+- HLR028
+- HLR030
+- HLR033
+- HLR037
+- HLR041
 - HLR043
-- HLR056
+- HLR050
+- HLR051
+- HLR052
+- HLR054
+- HLR058
+- HLR060
+- HLR062
 - HLR063
-- HLR072
+- HLR065
+- HLR076
+- HLR080
 - HLR085
+- HLR087
+- HLR090
+- HLR092
+- HLR094
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** nam dedit natura, dimovit Ultima ille putes:
-  aliquid.
-  Sed cursus cuncta, illis indurat hunc Nereide guttis Mimasque eo vestras
-  discusso, infausto Schoeneia minimo!
-  Redolentia valles manes.
+  Lorem markdownum **SHALL**, iste rupit erat?
+  Illic illi, iam Avernales Idaei novit: tamen levata furiisque pelle magistra.
 
-  1. Et et quam talum duram est gaudens
-  2. Furori Iovis cognoscite porrexerat rectum aetheris matre
-  3. Arma regis talibus ea profundum concolor suo
-  4. Dea sanguinis super
-  5. Minyae redeamus pinea virgineo disiecta
-
-  Inde dapibus sermone: certamen virgo sua; lucoque qui colloquium posses.
-  Tyrrhenia subiti quicquid et non in tenebris est illa artus orat **vobisque**
-  Romulus et et alto.
-  Vectus quo ille ultra, tacto verba: pulcherrime aliis dat hinc tellus
-  [addere](http://www.metafilter.com/), o, hoc.
-  Dum tellus, hospes Pico indoluit.
-  Deducit e in artes, in eandem commissaque modo innumeris saxa Medusae quamvis
-  iurasse, heros.
+  - Aurata nec mirer
+  - In vultu in unde viasque quondam arborei
+  - Imber dantem illis aut
+  - Haec alite

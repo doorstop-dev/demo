@@ -1,25 +1,47 @@
 active: true
 derived: false
-level: 1.1
+level: 5.9
 links:
+- HLR002
+- HLR004
+- HLR005
+- HLR009
+- HLR010
+- HLR012
+- HLR013
+- HLR014
+- HLR016
+- HLR018
+- HLR020
 - HLR021
+- HLR023
+- HLR025
+- HLR026
+- HLR028
+- HLR029
+- HLR036
 - HLR038
-- HLR044
-- HLR046
-- HLR052
-- HLR057
-- HLR082
+- HLR043
+- HLR049
+- HLR055
+- HLR058
+- HLR060
+- HLR061
+- HLR066
+- HLR069
+- HLR070
+- HLR077
+- HLR079
+- HLR081
+- HLR087
+- HLR088
+- HLR095
+- HLR096
+- HLR099
+- HLR100
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum sidera subit, Nereida quod aliter relinque piis.
-  Unice et fecit, in animus fatidicus, sua comis?
-  Passibus serpens vitamque tumulo?
-  Sed cum, **discedere** dolore et imperat tamen dolet.
-  Libat Anaxareten veniam; ne nostra virisque inmensi.
-
-  Ipse positus, est, mea est tamen est *vobis nigris subit*. Tergo Laelapa
-  malo.
-  Conamina curvarent, multa lupos: rigidis ad hunc infuso circa **alto**, non
-  parte sed.
-  Labitur virque ingenua roseo corneus, erat fons alium, suffusus.
+  Verify lorem markdownum: *noxque sed tum* umeris ab mihi.
+  Mugire ossa, et adnuit Phoebe regalia sospite viderat, longa aut; veste,
+  [cum](http://www.reddit.com/r/haskell).

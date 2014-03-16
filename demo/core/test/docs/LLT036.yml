@@ -1,33 +1,35 @@
 active: true
 derived: false
-level: 1.1
+level: 8.0
 links:
+- LLR001
+- LLR010
 - LLR019
-- LLR035
-- LLR036
+- LLR030
 - LLR039
-- LLR049
-- LLR084
-- LLR085
-- LLR091
+- LLR044
+- LLR046
+- LLR073
+- LLR088
+- LLR090
 - LLR093
-- LLR094
-- LLR098
-- LLR104
-- LLR113
-- LLR116
-- LLR122
-- LLR128
+- LLR096
+- LLR100
+- LLR103
+- LLR114
+- LLR139
 - LLR142
-- LLR161
-- LLR162
-- LLR169
-- LLR177
-- LLR200
-normative: true
+- LLR143
+- LLR152
+- LLR154
+- LLR167
+- LLR181
+- LLR185
+- LLR189
+- LLR191
+- LLR194
+- LLR196
+normative: false
 ref: ''
 text: |
-  Verify lorem markdownum credite diu ignis arvis **et** inanem crepitantis
-  trementi denique, quem peteret premis at Fame.
-  Exitium in lubrica, efficiet prudentia conspecta parentis Quirini viae victor
-  Actoriden quicquam credens, cum.
+  moenia

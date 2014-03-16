@@ -1,52 +1,43 @@
 active: true
 derived: false
-level: 1.1
+level: 5.1
 links:
 - HLR002
-- HLR004
-- HLR005
-- HLR006
-- HLR008
+- HLR013
+- HLR015
 - HLR017
-- HLR021
 - HLR025
-- HLR027
 - HLR028
-- HLR031
 - HLR032
-- HLR041
-- HLR058
-- HLR062
+- HLR038
+- HLR039
+- HLR044
+- HLR045
+- HLR048
+- HLR050
+- HLR051
+- HLR055
+- HLR056
+- HLR057
+- HLR061
+- HLR063
+- HLR065
 - HLR066
-- HLR078
-- HLR079
-- HLR080
+- HLR069
+- HLR070
+- HLR076
+- HLR081
 - HLR082
-- HLR087
+- HLR085
+- HLR088
+- HLR089
+- HLR100
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum neque tempus, Achilles, diu nata dedisset, ipse
-  regnaque delphine suos, [atque antiquas](http://omgcatsinspace.tumblr.com/).
-  Maturuit mentis suspectum *inclusit pararis solida* esse, cum origine simul,
-  omne hoc huius Hymenaeus cervum.
-  Ora est, supersunt vires Surrentino addunt Tantalus equidem vident, sum nunc
-  qui Phoebeius eripis caesariem **movit**. Perstet cura Cypron.
-  Proxima cogam domino, inania, enixa tibi nec oraque, draconi inportunusque.
-
-  1. Nec et tumescunt de mons
-  2. Virgo luctus vincere silentia avidissima Iove
-  3. Cipus est herbas mendacibus huius proque super
-  4. Rhadamanthus montis amnicolaeque cum suorum iussa
-  5. Pervenit nostrae flamma duabus fortissime admoti
-  6. Aestuat sensit
-
-  [Carcere sum](http://reddit.com/r/thathappened) quae atavosque et innuptaeque
-  Tmolus forte ulterius; velaque leti, vero ipse votaque densum.
-  Aeacus est; **memoraverat repagula**, ab **inclusos rima sociorum** latere,
-  noctis saxo nymphae aera, eque.
-  Quisquam sumpsisse [coercet](http://twitter.com/search?q=haskell) dare et
-  geminam atque.
-  Caespite dummodo ad *late*, tectus spectat multoque membra?
-  Dedit solvit illa, laborum [iam
-  stravit](http://www.thesecretofinvisibility.com/) nescit sororis.
+  Verify lorem markdownum subit, ora nubibus terra.
+  Quem **bos** utrumque meae.
+  Et est ora, nec illo perdideris Europa pluvialis ille bella vaporibus occiduo
+  pertulit, inmaduit colitur, tellusque!
+  Vestis idque parenti, moriens flectitur Phoronide animum quaque attonito:
+  proxima, suo.

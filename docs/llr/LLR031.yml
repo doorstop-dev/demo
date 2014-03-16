@@ -1,51 +1,42 @@
 active: true
 derived: false
-level: 3.1
+level: 5.9
 links:
-- HLR001
 - HLR002
-- HLR004
-- HLR005
-- HLR010
-- HLR012
-- HLR014
-- HLR016
-- HLR020
-- HLR023
+- HLR003
+- HLR008
+- HLR009
+- HLR011
+- HLR015
+- HLR019
+- HLR021
 - HLR024
 - HLR025
-- HLR026
 - HLR029
-- HLR030
-- HLR031
-- HLR033
-- HLR038
-- HLR041
+- HLR035
+- HLR042
+- HLR045
 - HLR047
-- HLR049
-- HLR055
-- HLR059
-- HLR060
-- HLR061
+- HLR053
+- HLR054
+- HLR056
+- HLR058
 - HLR062
-- HLR065
-- HLR066
+- HLR063
 - HLR067
 - HLR068
+- HLR069
 - HLR073
-- HLR075
-- HLR078
-- HLR080
-- HLR084
-- HLR090
-- HLR094
-- HLR095
+- HLR076
+- HLR083
+- HLR085
+- HLR089
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** quantum tepidis **pulcherrime** procul vitalesque
-  mora; latens et nulla longis iustos flexipedes suasisse voce, curis.
-  Mortalia famulosque tectis, cum ignem modo laeva [rubore structa
-  frenisque](http://seenly.com/) Achivi acclinata parit. **Equorum** rependis
-  dissidet puerum.
-  Cantu est fama, Aenean sequente.
+  Lorem markdownum **SHALL** umeris Laomedonque **regia dedit** videres
+  nefasque in vivam annorum, hesternos templa, longa emissi Hanc, et.
+  In evectus poenas tarda; peto nunc est nec exitio cunctaque.
+  Mora lex cubito terras in rates *sit*, nando libatos si **quoque**. Pressa
+  celebravit harpen se ultima vocari, vellet non bitumine nunc viro *vulnere
+  laetum* mactatos.

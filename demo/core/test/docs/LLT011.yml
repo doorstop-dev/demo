@@ -1,50 +1,12 @@
 active: true
 derived: false
-level: 1.1
+level: 3.0
 links:
-- LLR005
-- LLR014
-- LLR015
-- LLR028
-- LLR050
-- LLR053
-- LLR058
-- LLR060
-- LLR068
-- LLR071
-- LLR075
-- LLR079
-- LLR101
-- LLR103
-- LLR107
-- LLR115
-- LLR116
-- LLR125
-- LLR141
-- LLR165
-- LLR179
-- LLR184
-- LLR200
-normative: true
+- LLR007
+- LLR089
+- LLR173
+- LLR190
+normative: false
 ref: ''
 text: |
-  Verify lorem markdownum Orpheus amissos: erit quaque.
-  Tot vulgus et, opus Troius, furit **tegens contraria**, canes tam,
-  [tamen](http://www.youtube.com/watch?v=MghiBW3r65M) cruentat plectro
-  quadrupedantis deponunt.
-  Qui vices cessit oculorum, Iphitiden tamen facto domitis vituli gaudet.
-  Inde vultu cervix.
-
-  1. Accensum est fieri huc
-  2. Ferre anili iuravimus tecta coeptum tempora
-  3. Ac magni putes
-  4. Et illas
-  5. Pittheus inquit
-  6. Est id sparsi
-
-  Feres recludi possit acuta cepit sceleris venabula et altera vidit **Euros**
-  fugit: incepto.
-  Enim illos virides continet, male Phrygia dumque: est inque quoniam omnia, et
-  quid deorum.
-  Opaca brevissimus iuvenes umeris Rhodosque extrahit *ligavit Caenea agros*
-  prensantem innubere corruit fugiens.
+  nigrae quique meritique

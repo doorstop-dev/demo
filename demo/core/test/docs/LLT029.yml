@@ -1,41 +1,18 @@
 active: true
 derived: false
-level: 1.1
+level: 6.4
 links:
-- LLR004
-- LLR010
-- LLR020
-- LLR024
-- LLR026
-- LLR030
-- LLR038
-- LLR041
-- LLR050
-- LLR057
-- LLR061
-- LLR079
-- LLR084
-- LLR086
-- LLR092
+- LLR003
+- LLR023
+- LLR043
+- LLR059
 - LLR095
-- LLR098
-- LLR107
-- LLR108
-- LLR110
-- LLR113
-- LLR117
-- LLR122
-- LLR133
-- LLR134
-- LLR149
-- LLR163
-- LLR164
-- LLR172
-- LLR178
-- LLR195
-- LLR197
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum iustis vulnera forcipe Aeoliis stupri: magni illi!
-  Arentis hos velit paulum sanguine et commune?
+  Verify lorem markdownum silvas?
+  Mandate et arboris illam mihi placet dea cernes pontus medioque pulcherrimus
+  falce differt meminere, officium ingratus, domus?
+  Dubitat degravat est transtra [dapes
+  iamque](http://twitter.com/search?q=haskell), bibulas deus Phoebique
+  notissima te tegens viribus.

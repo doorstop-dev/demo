@@ -1,55 +1,27 @@
 active: true
 derived: false
-level: 1.1
+level: 5.1
 links:
-- HLR002
-- HLR003
-- HLR007
-- HLR011
-- HLR013
-- HLR017
-- HLR022
-- HLR026
-- HLR028
-- HLR029
+- HLR006
 - HLR031
-- HLR034
-- HLR035
-- HLR037
-- HLR041
-- HLR045
-- HLR046
-- HLR047
-- HLR049
-- HLR050
-- HLR051
 - HLR057
-- HLR064
-- HLR067
-- HLR069
-- HLR071
-- HLR072
-- HLR073
-- HLR074
-- HLR075
-- HLR078
-- HLR082
-- HLR085
-- HLR086
-- HLR087
-- HLR088
-- HLR089
-- HLR091
+- HLR093
 - HLR094
-- HLR096
-- HLR097
-- HLR098
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum properent nectare garrula pectus te ubi dum Amore
-  vixque curis signum Triopeius adsum?
-  Tacitorum siquidem concepit umbra quo nescio tinguebat vela credule, hic.
-  Ire siccantem et saepe Eurypylusque, et capit, oris, inponere negat: cui.
-  Fessos oppida emissumque mente quoque, est subducere tenaci, semilacerque
-  Tmolus mens Ceres; ad.
+  Verify lorem markdownum putares solita alteraque temptabat specie, exit
+  torsit.
+  Extrema pro numina Erycis laborem iterque, [fuit qui
+  est](http://gifctrl.com/) gaudia.
+  Clipeum iuvenem.
+  Furtum fluit, turba sua se tempus, petebat ille semianimes agros et.
+
+      nui *= hot(expressionCut(hfsHardGopher, cardDiskText.panel_rich(2,
+              shift_user_access, adf), card));
+      flops(heuristic_xml_solid, simm_asp, graphic_ascii);
+      mips(esports, pseudocodeCompilerDhcp);
+      if (gigaflops_dot_publishing(click, text.cpm(upDisplay + isa), 393349)) {
+          ivr /= play;
+          sms += -2;
+      }

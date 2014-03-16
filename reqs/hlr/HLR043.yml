@@ -1,38 +1,37 @@
 active: true
 derived: false
-level: 8.1
+level: 7.2
 links:
-- SYS007
-- SYS010
+- SYS003
+- SYS008
+- SYS009
 - SYS011
 - SYS012
-- SYS014
+- SYS016
+- SYS017
+- SYS018
 - SYS019
+- SYS020
+- SYS022
 - SYS023
-- SYS028
+- SYS026
 - SYS030
+- SYS033
+- SYS034
+- SYS035
 - SYS036
-- SYS039
-- SYS041
+- SYS037
+- SYS038
+- SYS040
+- SYS044
 - SYS045
-- SYS047
-- SYS048
-- SYS049
+- SYS046
+- SYS050
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** Orio; dixere cingebant ferinos unicus, quae
-  maiestas [ab ilia](http://eelslap.com/) contentus tamen quid quod ramos.
-  Numen quas fecerat de sit quam nec Boote gratia aera tibi ferunt interque
-  comas venientesque timidae, submovet.
-  Me *numina bracchia* cladis prensantem aratro: virgo procul, et oret Bellona
-  qui pars radicis.
-  Loco dum haberet mollis per manu sequitur *et Euboicam* nuntiat inpositaque
-  caedem Nycteliusque ultra proximus gravitate quatere exsilit dolor lugentis.
-  Tamen fingetur Ammon gessit petiti dominaeque formosissimus admotam
-  distinguunt esse, Iove ramosque mutat, defendentia pressit.
-
-  1. Crederet acernas Crocon ad ego deum
-  2. Aurea prodigio pennis portasque natamque tibi vultus
-  3. Nata ille parenti di Atlas conditor
-  4. Huc per rapto palato
+  Lorem markdownum **SHALL** caecus: illa heros namque Cycladas cum turba
+  quaedam.
+  Ignibus lotos formosae frenis Ausoniae nefas, quaeris tamen, letiferis.
+  Ad Procri Pan velle et hastam [gaudia](http://zombo.com/); in Cartheia
+  omnibus onus paterno cum etiamnum fistula, Styge.

@@ -1,49 +1,44 @@
 active: true
 derived: false
-level: 1.1
+level: 12.1
 links:
+- LLR011
 - LLR017
+- LLR021
+- LLR028
 - LLR030
-- LLR042
+- LLR044
+- LLR046
 - LLR047
-- LLR070
-- LLR082
-- LLR095
-- LLR110
-- LLR125
-- LLR134
-- LLR137
+- LLR051
+- LLR062
+- LLR068
+- LLR072
+- LLR081
+- LLR088
+- LLR093
+- LLR100
+- LLR107
+- LLR117
+- LLR126
+- LLR128
 - LLR139
 - LLR146
-- LLR152
-- LLR182
-- LLR193
-- LLR198
+- LLR155
+- LLR158
+- LLR161
+- LLR168
+- LLR169
+- LLR172
+- LLR174
+- LLR175
+- LLR176
+- LLR196
+- LLR199
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum turbam certamine [classe](http://haskell.org/)
-  Arethusa et lucem super, sum delabor **Autumnus** semine pectora de vulgus,
-  incerta!
-  Oracla Abas vestras!
-
-      if (uri_clean) {
-          ppiPpiPci(lossless);
-          carrierBar += memory_mirrored_table(yottabyte_eps_dialog);
-          googleHard += sdsl_osd_algorithm;
-      }
-      if (document) {
-  backup.remoteOutbox(expressionRequirementsTweak(filenameActivexPortal),
-                  nanometer_hyper, diskIsoDimm + botnet_bmp);
-          logic(websiteTruncateResolution, fragmentation(3,
-  lpi_ip_interactive),
-                  software_optical_dma);
-          gateway_cable_bridge = javascript_rosetta_rfid + -4;
-      }
-      serviceUnit.gps -= 3 + socialSystemRedundancy + 4 / impactFrequency(
-              platform_dlc_error, w, link) + exif_gigo_dvd;
-      cable_goodput *= 5 - bookmark_uri * vaporware_powerpoint +
-  drive_key.volume(
-              3, disk * horse_eide, 5);
-      cpsPowerStatus.phpMultiprocessing += keywords_sku_moodle.box_services(
-              piracy_inbox * 5, active_t_socket, 1 * data_koffice_clip) + 23;
+  *Lorem* markdownum ignoscas intresque ad Sparte lampades suspensus *haesit*,
+  quis *fovet* candida et ilia inde quamquam iam tandem.
+  Durat adapertaque signa ad solus imagine callida illo herbae vos Quid,
+  duabus, ostendit.

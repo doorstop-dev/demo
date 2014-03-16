@@ -1,48 +1,13 @@
 active: true
 derived: false
-level: 1.8
+level: 2.1
 links:
-- LLR008
-- LLR017
-- LLR023
-- LLR034
-- LLR039
-- LLR058
-- LLR059
-- LLR061
-- LLR070
-- LLR074
-- LLR077
-- LLR078
-- LLR082
-- LLR101
-- LLR108
-- LLR110
-- LLR112
-- LLR117
-- LLR124
-- LLR140
-- LLR141
-- LLR143
-- LLR147
-- LLR158
-- LLR167
+- LLR068
+- LLR111
 - LLR168
-- LLR170
-- LLR172
-- LLR175
-- LLR178
-- LLR190
-- LLR195
-- LLR198
+- LLR177
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum coniugis: altera quae offensaque turba tertius
-  caelatus.
-  Potui est veterum, umbra hosti coronat utque: casu metuaris omnia.
-  Costis virgultis.
-  Certans desierat tamen, ara, equi asello: Atlas, proque?
-  Partu candida dies hic frementes potest
-  [frena](http://en.wikipedia.org/wiki/Sterling_Archer), ponto dies volenti
-  omni loqui; *et* omni.
+  Verify lorem markdownum, lux?
+  Est quid sub, auro, qua fluidos coniciunt Iovis cernis Vulcania.

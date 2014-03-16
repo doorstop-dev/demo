@@ -1,24 +1,48 @@
 active: true
 derived: false
-level: 1.1
+level: 5.1
 links:
-- HLR026
+- HLR002
+- HLR008
+- HLR020
+- HLR022
+- HLR023
+- HLR024
+- HLR031
+- HLR035
+- HLR041
+- HLR049
+- HLR050
+- HLR051
+- HLR052
+- HLR054
+- HLR057
+- HLR064
+- HLR067
+- HLR075
+- HLR080
+- HLR081
+- HLR091
+- HLR094
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum bello Inachidos vitam; loco mersis intrarant confessa
-  temporis et fortis naturale, deum.
-  Domus artus uterque, non et illa cumulumque videndum Scylla, id euntis
-  palustris.
-  Contemptoremque opportuna iungitur iussit, haurire, et extremo.
+  Verify lorem markdownum auras stantia Romulus patris, cecidere
+  [abit](http://www.reddit.com/r/haskell); imis.
+  Dentes agrestes non, e secuti flammas par somnus deus degener qua orbis!
+  Videt currus venabula artus nec arce querno corpora.
+  Date cum quia inde acernae faciem passim quae laudes festinant gesserit.
 
-  Deus simul levabas: pius e Demoleonta, miseram ulterius valentius esset
-  circumsona frementes.
-  Dieque albentibus parte, hostis vita sua *sed* pugnavique, corpora facundia,
-  gutturaque mi manibus intrasse: temptamina pugman.
-  Violasse si aura nomen, mea est ipsi piscem.
+  - Et occultat secretasque tamen a fugias perlucenti
+  - Scrobe accessit
+  - Asida heros linguae tibi
+  - Stabula rebus
+  - Dulcedine quamvis ipse
+  - Tantaque variarum petit coeptus pretiumque hostem moxque
 
-  [Equi quam](http://en.wikipedia.org/wiki/Sterling_Archer) numina vim apte
-  naufragus pars.
-  Qua *det*, in viribus miratur lyncas sed Cancrum pater coronatae triumphos
-  collocat simque orbem vagos mea rubet totosque, fas.
+  Raptam piae ponti ipse collo!
+  Submissaeque pars in flecti Helicen et sine, udaeque eris mare tempora
+  quoque, corpusque, voce **nomen curasque**. Herbosa consulat, quoque, ab
+  oscula et sed honor.
+  Duasque confiteor de coloque diruerent veteris, me fuerat nuda glandiferam
+  motasse elicuere fluminis virgo est harundine matri vulgusque.

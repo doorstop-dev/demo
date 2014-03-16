@@ -1,52 +1,13 @@
 active: true
 derived: false
-level: 1.1
+level: 4.0
 links:
-- LLR016
-- LLR028
-- LLR035
-- LLR037
-- LLR041
-- LLR045
-- LLR058
-- LLR063
-- LLR100
-- LLR118
-- LLR140
+- LLR018
+- LLR066
+- LLR076
+- LLR116
 - LLR150
-- LLR160
-- LLR177
-- LLR179
-- LLR190
-normative: true
+normative: false
 ref: ''
 text: |
-  Verify lorem markdownum pondere, per cum subit oppressit litore Anthedone cur
-  luctus cuncta.
-  Fuit fracta inquit denique laqueis at est Iunonem fuit aspice sertis, et et
-  abluit manibus nec est certatimque inplerat.
-  Concilio post, atque legit sanguine Thetis me sed duris sunt hanc nec
-  imperiumque quid saturos.
-  Atque mensis egi videt, et terreris retia, **non** oro silet senior nam
-  femineo Phoebus, mora frondibus, opus.
-
-      var intellectual_isa = 4;
-      var address = memoryEndAutoresponder(ibmOnly(powerMemory,
-  networkDigitalWeb)
-              + gbpsAspUnfriend, pram(sip), impression(ethernet_slashdot,
-              localhost, gatewayFontProcess));
-      if (jsf.driveClipEmulation(firmwareLdap.rtf(raid + dmaCable, 2,
-              systemBsodSdk))) {
-          language_reciprocal += iphoneReaderParallel;
-          metaMenu(dll);
-          multimediaPrebindingResponsive = w_handle;
-      }
-      mediaReadWired /= scalable_association_metal;
-
-  Simulacra quoque solvit tumens ligno **tristi**, et advolat [me
-  visis](http://omgcatsinspace.tumblr.com/) genus detractavitque positu et
-  relictum partes telluris [et](http://omgcatsinspace.tumblr.com/) tutus?
-  Est vindicta paratus orbae praelatum fugit bella prodit pars solvit, cum?
-  Cumque et malo dum hostile ardentis stetit exarsit signata dixerunt piscem
-  bella sensisset ipsa ficti falce geminaque sumus.
-  Fretum garrula ope, ab quem habebas saevit qui!
+  et anni aera opus est mersae

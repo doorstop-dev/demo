@@ -1,31 +1,24 @@
 active: true
 derived: false
-level: 1.5
+level: 2.0
 links:
-- HLR004
-- HLR010
-- HLR029
-- HLR040
-- HLR045
-- HLR063
-- HLR067
-- HLR072
+- HLR001
+- HLR007
+- HLR011
+- HLR015
+- HLR022
+- HLR042
+- HLR049
+- HLR053
+- HLR061
+- HLR070
+- HLR073
 - HLR079
-- HLR089
-- HLR098
-- HLR099
-normative: true
+- HLR082
+- HLR092
+- HLR094
+- HLR100
+normative: false
 ref: ''
 text: |
-  Verify lorem markdownum aliae.
-  Inmunis aut una ire cum serpens te illa, cupido, timorem labores fert cubilia
-  demptis devolvere, si cum?
-  Volentem accipio contemptuque noctis: similis gemitus.
-  Aut ducit si *celebri* corpora eminus; aquis ego qua mare sed flumen
-  lapillos!
-
-      laser_gigabyte *= core_cell_system(536499 + 4, port_petaflops +
-              marketing_type);
-      copyright = dotDial - user_bare(2, 3) * memory_scrolling;
-      gpu_password.multiplatform_market_primary(winDisk(itSeoApplet, network(
-              serp_zone_e), youtube));
+  custos

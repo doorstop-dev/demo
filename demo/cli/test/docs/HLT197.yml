@@ -1,46 +1,28 @@
 active: true
 derived: false
-level: 1.1
+level: 5.1
 links:
-- HLR005
-- HLR017
-- HLR020
+- HLR004
+- HLR016
+- HLR022
 - HLR028
-- HLR036
-- HLR041
+- HLR029
+- HLR038
+- HLR039
+- HLR040
+- HLR043
 - HLR048
-- HLR055
 - HLR060
-- HLR067
-- HLR073
-- HLR074
-- HLR077
-- HLR082
-- HLR087
-- HLR090
+- HLR078
+- HLR083
 - HLR092
 - HLR096
-- HLR100
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum et die fugit, [Phoebe](http://imgur.com/), gaudet
-  praeceps.
-  Vero **est**, nec dolor erroresque properant pompae probarunt tendebat.
-  Conlegerat nate victa bene fas [infestus secreta](http://imgur.com/)
-  summasque ope iamque caelitibus nomen.
-  Inspiciunt Achilles matrem, Saturnia cum numine
-  [contactus](http://twitter.com/search?q=haskell) neve, dolentem cupidine,
-  agro militiae: sibi *promptu*. [Nisi in](http://www.reddit.com/r/haskell)
-  ille.
-
-  [Palmite contra lignum](http://www.thesecretofinvisibility.com/) Martem in
-  cuius tigres herbis datas optandi oraque movere.
-  Inpressa colores Chromiumque nocte versarunt funeribus voto: quibus *meruisse
-  et*.
-
-  Achilles *pedibus breve dum* furenti primus vox remisit esse ausa cum
-  agiturque possis.
-  Saepe sequitur ante disparibus **inridet** ad omnes caelo cur roboris, a
-  Iuppiter ego sceptra Achivae suamque mearum.
-  Lycia sic tenet cum passis Cyllene Dixit camini, o!
+  Verify lorem markdownum percensuit dente Tridentifer micantes carmine *suos*
+  cum aquas arce nympha lentas! [Quantum](http://reddit.com/r/thathappened) cum
+  noxque fortis valeant pars est in animosa [loquax
+  egressus](http://imgur.com/)!
+  Dum cernit; audet non imago nervis spectat et auso.
+  Eripe simulaverat quoniam molli.
