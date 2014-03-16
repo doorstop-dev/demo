@@ -27,7 +27,9 @@ deploy:
         code: make .depends-ci
     - script:
         name: generate documentation
-        code: make apidocs html
+        code: |-
+          make apidocs html
+          echo http://jacebrowning.github.io/doorstop-demo > docs/gen/README.md
     - script:
         name: configure git
         code: |-
