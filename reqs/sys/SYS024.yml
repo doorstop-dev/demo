@@ -6,10 +6,7 @@ normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL**, caelicolae, pectora invenio equi hinc ire latura
-  est
-  **forsitan**. Aconiton ille narratur dona Elpenora numine, nata, erratica,
-  viso
-  metuam pectora hanc ortus, cunctos.
-  Nec **omne** Iove inquit
-  [piscem](http://www.wtfpl.net/) qui profatur pedem dolis mores primum, non
-  summam undis obliquo.
+  est **forsitan**. Aconiton ille narratur dona Elpenora numine, nata,
+  erratica, viso metuam pectora hanc ortus, cunctos.
+  Nec **omne** Iove inquit [piscem](http://www.wtfpl.net/) qui profatur pedem
+  dolis mores primum, non summam undis obliquo.

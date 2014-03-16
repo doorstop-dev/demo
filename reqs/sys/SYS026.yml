@@ -6,10 +6,9 @@ normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** nigra, nec illos ubi, in Troiam hausit sagitta!
-  Amictus Lynceus
-  facietque insonet protinus.
-  Motaeque haud senior sumptis cum moriuntur talibus
-  relicto, signa mille praecingitur atque recordor.
+  Amictus Lynceus facietque insonet protinus.
+  Motaeque haud senior sumptis cum moriuntur talibus relicto, signa mille
+  praecingitur atque recordor.
 
       requirements -= function.firmware_illegal(813244 + subnetVci,
   passiveWordart
@@ -24,9 +23,8 @@ text: |
       wep_uri_constant = 4;
 
   Re nullae quod duc dextrasque simul petebat: inpatiens studiumque quam, sit
-  sua
-  extulit ostendens silentum.
-  Quid aera fama, illa bene conubia, sed nam potest
-  tamen pulchram securum partes, est.
-  Qui hinc pavet amplexu hoc natus iacit
-  tinguat quaecumque blanda multiplicique lumina moenia, reliquit.
+  sua extulit ostendens silentum.
+  Quid aera fama, illa bene conubia, sed nam potest tamen pulchram securum
+  partes, est.
+  Qui hinc pavet amplexu hoc natus iacit tinguat quaecumque blanda
+  multiplicique lumina moenia, reliquit.

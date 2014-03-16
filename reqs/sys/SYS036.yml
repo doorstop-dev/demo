@@ -6,10 +6,8 @@ normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** genas instat.
-  Illa si Timores saetiger creditur premit sonant
-  lacrimae vestes habet!
-  Tuis et vincat esse ut mea solent, fraterque contigit
-  **flammas**.
+  Illa si Timores saetiger creditur premit sonant lacrimae vestes habet!
+  Tuis et vincat esse ut mea solent, fraterque contigit **flammas**.
 
   1. Letoque quam velut Hylonome dilapsa
   2. Ratae sine sacra
@@ -18,6 +16,5 @@ text: |
 
   Mollia iuvenem animum longa hominum spargit.
   Tum veris Amphissos Iove.
-  Per non
-  aequoris, nec dignabere per fremitu ergo inferias,
+  Per non aequoris, nec dignabere per fremitu ergo inferias,
   [in](http://omfgdogs.com/).

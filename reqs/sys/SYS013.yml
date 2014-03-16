@@ -6,9 +6,8 @@ normative: true
 ref: ''
 text: |
   Lorem markdownum **SHALL** iamque perstat invitusque forma Antaeo; pendat
-  nomine: e
-  Troiana tandem pars, mihi [est](http://twitter.com/search?q=haskell)?
-  Foedere di
-  humo volucres *et nemorosam* quaque, Cypro nutu, ille repertum, ministro
-  illa.
+  nomine: e Troiana tandem pars, mihi
+  [est](http://twitter.com/search?q=haskell)?
+  Foedere di humo volucres *et nemorosam* quaque, Cypro nutu, ille repertum,
+  ministro illa.
   Et modo?
