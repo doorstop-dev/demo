@@ -17,6 +17,9 @@ docs/*.html
 *.rst
 gen/*.*
 
+# IPython Notebook
+.ipynb_checkpoints
+
 # Google Drive
 *.gdoc
 *.gsheet

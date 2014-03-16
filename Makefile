@@ -201,3 +201,12 @@ dev:
 .PHONY: random
 random: env .depends-ci
 	$(PYTHON) randomize.py
+
+.PHONY: keynote
+keynote:
+	$(OPEN) docs/GRDevDay.key &
+
+.PHONY: notebook
+notebook:
+	ipython3 notebook docs/GRDevDay.ipynb
+
