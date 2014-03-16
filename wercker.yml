@@ -24,7 +24,7 @@ deploy:
   steps:
     - script:
         name: install dependencies
-        code: make .depends-dev
+        code: make .depends-ci
     - script:
         name: generate documentation
         code: make apidocs html
