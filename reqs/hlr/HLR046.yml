@@ -1,36 +1,15 @@
 active: true
 derived: false
-level: 8.1
+level: 7.1
 links:
-- SYS002
-- SYS003
-- SYS004
-- SYS005
-- SYS006
-- SYS009
-- SYS010
-- SYS011
-- SYS013
-- SYS017
-- SYS018
-- SYS021
-- SYS026
-- SYS028
-- SYS029
 - SYS035
-- SYS037
-- SYS039
 - SYS040
-- SYS043
-- SYS044
-- SYS045
-- SYS047
-- SYS048
-- SYS049
-- SYS050
 normative: true
 ref: ''
 text: |
-  Lorem *markdownum*, quantumque illo significat tumidis deduci, mollit nisi,
-  **sic facitote**! In quem sum felixque Nycteida curru exsistunt inerti solida
-  potentum, caespite hoc; *multas* quis.
+  Lorem markdownum **SHALL** ferarum sequentes [minimum
+  quas](http://www.wtfpl.net/) feliciter exhibita: hanc nec cernis antris
+  pulchram de munus!
+  Omnes metu ultima linguam, nuda, [parat](http://hipstermerkel.tumblr.com/)
+  iustos ex quae in his illi!
+  Duo finita *natus in vario* caput, patris et qui.

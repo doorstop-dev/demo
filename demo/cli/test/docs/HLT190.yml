@@ -1,26 +1,33 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR002
-- HLR011
-- HLR012
-- HLR015
-- HLR026
-- HLR049
-- HLR065
-- HLR068
-- HLR074
-- HLR075
-- HLR098
-- HLR099
+- HLR050
+- HLR069
+- HLR076
+- HLR080
+- HLR083
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum primos, sceleratus, quis et, erat, dictis, sub in
-  effundite.
-  Sibi texere, Phrygiis, nec femina secreta nec pudorem, deus, ego non et ad.
-  Secuta heu horum tenebat examina: nomen fato umeris feram: violenta.
-  Dedi transformat aere, dici silvas, et vultu.
-  Volucris **sine** liquefacta mitissimus **velint** venturis, reppulit
-  confluat expellitur sine peregrinaeque.
+  Verify lorem markdownum, denique nova iniuria tibi luget proripit ex votum
+  haurire: usum *prima* est Messeneque Molossa.
+  Ad *Phoebus milite* quodque, et ecce socios flores non ipsum caelo ex patri.
+  Oblita in quicquam duraeque aequorei; est vacet faciam et, ab eripuit morte
+  et ipsa; sed nisi.
+
+  1. Est sic veni diris inritamen lacerto rigidis
+  2. Penna et tuam finemque nec ubi aptae
+  3. Phoebus tua
+  4. Canities ferebat
+  5. Litora coniectum moribunda vocanti oblita
+
+  Finemque molimine, caelo vimque.
+  Alta fixo infelix turbae cognoscit imitamina felix frondis superest regnum
+  fera dives ceu femina Nessus derexit vestes enim studiis simile?
+  Poenae hirsutaque quos [nigrescere solum fictumque](http://seenly.com/) quae,
+  somno titubat non.
+  Sine veteris frondis ossa, in [dum](http://tumblr.com/) iam precari fuerat
+  colla.
+  Quare pariter induit Autumnus [vigoris](http://gifctrl.com/) concepta *aut*
+  ingentem omnia est, et alumnae Pelasgi.

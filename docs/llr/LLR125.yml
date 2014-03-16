@@ -1,35 +1,15 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR001
-- HLR008
-- HLR009
-- HLR010
-- HLR015
-- HLR020
-- HLR021
-- HLR023
-- HLR024
-- HLR027
-- HLR028
-- HLR032
-- HLR036
-- HLR048
-- HLR049
-- HLR050
-- HLR055
-- HLR058
-- HLR060
-- HLR068
-- HLR076
-- HLR084
-- HLR089
-- HLR095
-- HLR097
+- HLR051
+- HLR065
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** naufragus quaque ab primo tenet, tua iussit
-  minorem qui.
-  Vitibus latet.
+  Lorem markdownum **SHALL**, est quid gaudia illa dicta Cinyras caeleste
+  stupuit.
+  Templa rogat tulit, prior fusus caelum, miliaque Hercule tamen.
+  Placidi *dignamque* ab inguina numina, ille ergo quoque superi adde et
+  sponte, malo ita relictis circumflua mergeret, exitium.
+  Nequiquam velum his sub; tam pectora nube.

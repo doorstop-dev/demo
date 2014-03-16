@@ -1,54 +1,15 @@
 active: true
 derived: false
-level: 5.1
+level: 12.4
 links:
-- HLR003
-- HLR007
-- HLR009
-- HLR010
-- HLR011
-- HLR014
-- HLR017
-- HLR022
 - HLR025
-- HLR026
-- HLR028
-- HLR031
-- HLR034
-- HLR035
-- HLR039
-- HLR041
-- HLR043
-- HLR047
-- HLR048
-- HLR049
-- HLR050
-- HLR053
-- HLR056
-- HLR057
-- HLR060
-- HLR061
+- HLR038
 - HLR063
-- HLR066
 - HLR067
-- HLR069
-- HLR070
-- HLR071
-- HLR072
-- HLR073
-- HLR077
-- HLR079
-- HLR082
-- HLR084
-- HLR085
-- HLR087
-- HLR088
-- HLR090
-- HLR091
-- HLR092
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** habet et sinuantur, peperisse ipsos vincis!
-  Aestu vultus ferro **quaeris**, agat ab vident deposuit Apollinei quamvis
-  ureris; *illic mitem* moram, caelo.
+  Lorem markdownum **SHALL** arbor. [Artus nil dentes](http://imgur.com/) natus
+  crepuscula ea Iovem dedit credar illa.
+  Plurima an lacus sederat promunturiumque meliore.
+  Volucrem nec ut *quo pabula*, gesserat certe veteris.

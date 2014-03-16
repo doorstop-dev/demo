@@ -1,46 +1,19 @@
 active: true
 derived: false
-level: 5.1
+level: 17.1
 links:
-- HLR003
-- HLR004
-- HLR008
-- HLR012
-- HLR016
-- HLR018
-- HLR019
-- HLR021
-- HLR022
-- HLR023
-- HLR025
-- HLR027
-- HLR031
-- HLR033
-- HLR039
-- HLR041
-- HLR048
-- HLR049
-- HLR056
-- HLR057
+- HLR043
 - HLR058
-- HLR060
-- HLR064
-- HLR066
-- HLR067
-- HLR069
-- HLR073
-- HLR076
-- HLR077
-- HLR083
-- HLR089
-- HLR091
-- HLR093
-- HLR099
+- HLR071
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** ultimus.
-  Tantum nube dira; cum valens carmine mihi: infans onerosior et osse corpus.
-  Bos adacto inter aura modo myrtea in [micantes](http://seenly.com/) ille
-  quid, tibi parte quis: **non** limina.
-  Cupidine cuius vestrum, plurimus, caeli Pallantidos sacra varios incerti.
+  Lorem markdownum **SHALL** Orchomenon byblis patefecerat verba **adsiduoque**
+  barbara torrentem circumfususque venenum tale longa!
+  Coniuge fundere templa mihi, adspeximus cum dubitavit praetentaque visus
+  Cecropidis.
+  Regna coepit se claudit Nereida Iuppiter ore nitidum parva. **Talibus** satis
+  augendo, arduus, quas modo *cuncta*, et fontibus deceptus sensit caelique
+  aurea est.
+  Videres bracchia quoniam: [utque](http://zombo.com/), in latebant eloquio
+  prospiciens factum ad pugnem ab raptae fuge lucem.

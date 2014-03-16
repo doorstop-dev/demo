@@ -1,53 +1,11 @@
 active: true
 derived: false
-level: 5.1
+level: 14.0
 links:
-- HLR004
-- HLR006
-- HLR008
-- HLR018
-- HLR019
-- HLR020
-- HLR028
-- HLR029
-- HLR030
-- HLR033
-- HLR036
-- HLR044
-- HLR046
-- HLR047
-- HLR056
-- HLR057
-- HLR059
-- HLR060
-- HLR061
-- HLR062
-- HLR065
-- HLR067
-- HLR073
-- HLR079
-- HLR080
-- HLR083
-- HLR086
-- HLR094
-- HLR095
-- HLR097
-normative: true
+- HLR010
+- HLR052
+- HLR089
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** consueta est sub, cui per quae lacertis, forma.
-  Contra coniunx adunco concede audacem, non ex transitus belli praedivite
-  quandocumque mota [parte](http://kimjongunlookingatthings.tumblr.com/), et
-  dentes **factos**. Subiti stant dapibus, per per circumflua lacte
-  poenaededidit Parrhasio memoranda ratus patriam Quas Melantho dilectaque
-  exuritque ipsa, foret.
-  Modo subest [est](http://kimjongunlookingatthings.tumblr.com/) est modo
-  meliore milibus poposcerat!
-
-  Si questus colebatur quique **sic** laturus morati.
-  Turbavere deos; in viri tuo fratrem, inprudens grates aerata.
-  Euandri et ego, mugitibus per curre siquid adeo viam iuvenis.
-
-  1. Dea metuunt nectare conatur Bootes puppi telis
-  2. Ambarum restat
-  3. Repulsa ad iniuria pennis tuta gradus noverat
+  harenae dat debebat increpor

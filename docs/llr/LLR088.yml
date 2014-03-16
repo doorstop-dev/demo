@@ -1,45 +1,28 @@
 active: true
 derived: false
-level: 5.1
+level: 18.2
 links:
-- HLR002
-- HLR004
-- HLR009
-- HLR010
-- HLR011
-- HLR013
-- HLR016
-- HLR023
-- HLR025
-- HLR026
-- HLR030
-- HLR033
-- HLR034
-- HLR035
-- HLR038
-- HLR050
-- HLR052
-- HLR062
-- HLR065
+- HLR029
+- HLR039
 - HLR067
-- HLR074
-- HLR077
-- HLR080
-- HLR088
+- HLR073
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** loca Tyrrhena, narrantia macies arma cumque, via
-  mittit origo, rogata!
-  Ut terras animae dictaque huic.
-  Sed iam *maius* reddi dextro, tamen lecturum ligno.
+  Lorem **markdownum** virtute?
+  Sic heu curasque ducit.
+  Sole tunc raras **Euryte**; ibidis in et, rex nitenti aequi, est *amans forti
+  odium* tamen super gemmata.
+  Quisque eburnea caesis.
+  Te hic *mota*, ardet vellem aurea deo oculisque dumque cruor pes armigerae.
 
-  - Quem fera eloquitur ad mors spatiumque poena
-  - Eumenidum arma
-  - Aemula sacrarunt totidem naidas vocem rescindere
-  - Illa solvit inclinatoque iter lacrimae
+  - Amat adduxit
+  - Taurum qui illo viridem nodosaque populi
+  - Fecit duo spoliavit vigilantibus ille ab barba
+  - Traxere conlucere o pudorem Phorbas profugus conspecta
 
-  Dilapsa ense.
-  Amplectimur opes praesensque turpe, nam effudit membra servatusque vocat,
-  spargentem nomen divulsere maiores condit Alba.
-  Ubicumque numero urbes mitia **umbra**.
+  [Sed forma](http://www.wedrinkwater.com/) nobis, mitis.
+  Per erat cum exemplum **nomen maligne**; capillos Mater, solidoque **dedit
+  caedis filia** species *nactus alendum*! Aequora placido totiens sors visum
+  futuri abrupta subito et volantes peperisse ungues Lemnos velim.
+  Tristes dum!

@@ -1,31 +1,17 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR003
-- HLR004
-- HLR018
-- HLR020
-- HLR022
-- HLR025
-- HLR031
-- HLR034
-- HLR037
-- HLR040
-- HLR043
-- HLR052
-- HLR054
-- HLR059
-- HLR063
-- HLR078
-- HLR082
-- HLR087
-- HLR091
-- HLR093
-- HLR096
+- HLR017
+- HLR072
+- HLR077
+- HLR083
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum matres.
-  Alia regem et iaculum aequora quae pallebant secuta blandis caelumque
-  caeruleum turpe agros lumbis positamque imitatus ambobus illi natarum.
+  Lorem **markdownum serviet** iuvenes, [meam magni](http://zeus.ugent.be/)
+  coniuge!
+  Nam **est percussis** sive suo arripit, aeternus retinete ceris causam habet
+  quisquis?
+  Ut coniunx Phoebique in parens differt Eurystheus urbem penetrale facibusque
+  parum lacrimaeque **adferre**.

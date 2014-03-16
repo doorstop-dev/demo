@@ -1,42 +1,20 @@
 active: true
 derived: false
-level: 5.9
+level: 6.4
 links:
-- HLR002
-- HLR003
-- HLR008
-- HLR009
-- HLR011
-- HLR015
-- HLR019
-- HLR021
-- HLR024
-- HLR025
-- HLR029
-- HLR035
-- HLR042
-- HLR045
-- HLR047
-- HLR053
-- HLR054
-- HLR056
-- HLR058
-- HLR062
-- HLR063
-- HLR067
-- HLR068
-- HLR069
-- HLR073
-- HLR076
-- HLR083
-- HLR085
-- HLR089
+- HLR004
+- HLR034
+- HLR051
+- HLR065
+- HLR099
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** umeris Laomedonque **regia dedit** videres
-  nefasque in vivam annorum, hesternos templa, longa emissi Hanc, et.
-  In evectus poenas tarda; peto nunc est nec exitio cunctaque.
-  Mora lex cubito terras in rates *sit*, nando libatos si **quoque**. Pressa
-  celebravit harpen se ultima vocari, vellet non bitumine nunc viro *vulnere
-  laetum* mactatos.
+  Lorem markdownum **SHALL** mira; duobus mille, facinus istis Helicen costis
+  isdem.
+  Cum ferrugine portus precibus cacumine loqui suos vos, de falsamque
+  repetitque consorte gloria.
+  Aera torvo; Delius Dicta monstra habet, certamina redderet *vero puto*, cum.
+  Ilia premit ungula, me tenuere [dedi serpunt
+  frondes](http://reddit.com/r/thathappened) ut tenens labori quem suoque.
+  Dicit iam mittere Hiberis nunc gratia vellem et est, factura?

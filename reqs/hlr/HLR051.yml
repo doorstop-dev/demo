@@ -1,40 +1,13 @@
 active: true
 derived: false
-level: 9.2
+level: 7.1
 links:
-- SYS001
-- SYS003
-- SYS007
-- SYS008
-- SYS009
-- SYS010
 - SYS014
-- SYS016
-- SYS017
-- SYS021
+- SYS015
 - SYS022
-- SYS025
-- SYS029
-- SYS030
-- SYS031
-- SYS032
-- SYS034
-- SYS035
-- SYS037
-- SYS038
-- SYS039
-- SYS041
-- SYS042
-- SYS043
-- SYS044
-- SYS045
-- SYS046
-- SYS047
-- SYS048
+- SYS040
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** fortis trahit committit Veneris fuerat ubera alto
-  *primos vero* ripa corpusque videri hauriret fecerat!
-  Aethere nec induta habenas *cladem Eumenides enim*. Velamina quo arida cum tu
-  adiutus!
+  Lorem markdownum **SHALL** hanc.
+  Est educat, et et furoris plebe, agentis excussum cruciataque!

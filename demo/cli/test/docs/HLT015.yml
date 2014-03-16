@@ -1,35 +1,26 @@
 active: true
 derived: false
-level: 4.0
+level: 4.4
 links:
-- HLR001
-- HLR002
-- HLR006
-- HLR007
-- HLR009
-- HLR016
-- HLR021
-- HLR022
-- HLR024
-- HLR026
-- HLR042
-- HLR045
-- HLR047
-- HLR057
-- HLR064
-- HLR065
-- HLR066
-- HLR071
-- HLR072
-- HLR075
-- HLR076
-- HLR079
-- HLR082
-- HLR087
-- HLR088
-- HLR090
-- HLR096
-normative: false
+- HLR034
+- HLR058
+normative: true
 ref: ''
 text: |
-  exanimis
+  Verify lorem markdownum canes: inquit, per nil: iam pater cura Phegiaco
+  intrarit dissuadere manu: primi.
+  Unda meo non, pro cum erat munimina instruit atras cauda satis ante repugnat
+  eo pascua mihi, venit.
+  Omnia tecta crimina in comas in minor et ille debes.
+
+  Postquam quod hostem adsiluit, longa, Amor manusque, sibi, aliquid somnos
+  oris cogeris enim Telephus!
+  His undis agit **cadis despectabat** disque: que profanae turpe.
+  Ante ex usus **nec stillabant** inter mors conlectae tortum admonita pulsare
+  fletumque praemia cum domum serpens Mater fratribus.
+  Rustica diu stantem Thoactes ramum tumulo saepe, aquas quod, voce hoc *esset*
+  sinunt fidem marcida illi tantum.
+
+  - Hic aequore matri et posse posterior opto
+  - Nam telo habe queri muros cornua nitente
+  - Observo per Thebis praecontrectatque devorat intorquet mente

@@ -1,40 +1,18 @@
 active: true
 derived: false
-level: 8.0
+level: 7.1
 links:
-- SYS001
-- SYS004
-- SYS007
-- SYS008
-- SYS009
-- SYS010
-- SYS011
-- SYS014
-- SYS015
-- SYS016
-- SYS017
-- SYS019
-- SYS020
-- SYS021
-- SYS022
-- SYS025
-- SYS026
-- SYS027
-- SYS030
-- SYS031
-- SYS032
-- SYS034
-- SYS035
+- SYS003
+- SYS005
 - SYS036
-- SYS038
-- SYS040
 - SYS041
-- SYS042
-- SYS043
-- SYS044
-- SYS045
-- SYS048
-normative: false
+normative: true
 ref: ''
 text: |
-  rerum quoque malit penates
+  Lorem markdownum **SHALL** tutela.
+  Sociare et deus draconis, [bubo nil](http://zeus.ugent.be/), per ventos
+  ardescit vicibus. **A iterum** cunctis turpes totoque numina: laeso cum
+  Perseu *erat* testataque litora adest totusque carissime verborum et.
+  Age **fulvo** tecum rata nare visum prendere amantes tandem et amor extendit
+  et.
+  Illum imitata ebur iterque; plangens et Byblida, te Medea.

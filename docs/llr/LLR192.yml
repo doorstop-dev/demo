@@ -1,42 +1,19 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR007
-- HLR017
-- HLR019
 - HLR026
-- HLR033
-- HLR034
-- HLR035
-- HLR036
-- HLR037
-- HLR038
-- HLR041
-- HLR044
-- HLR048
-- HLR050
-- HLR059
-- HLR060
-- HLR070
-- HLR074
-- HLR075
-- HLR076
-- HLR077
-- HLR084
-- HLR088
-- HLR089
-- HLR091
-- HLR095
-- HLR096
+- HLR032
+- HLR045
+- HLR087
 normative: true
 ref: ''
 text: |
-  *Lorem* markdownum **petebat** animis parabant perfundit amoris comantur
-  quaesitisque illam *bella*, erat peregrina quoque Rhodopen et habes silentia
-  Troiae.
-  Tenebat hominum saepe, demissus quoniam quos Graias,
-  [prius](http://seenly.com/), partu noctem moratus, terra nataque flamma
-  *cognoscere*. *Cogitat summo* putat imperio, locus abdita, tuentur, fecit
-  propiusque parantem.
-  Et terreat huius superosque placuisse munera, quae ergo mea!
+  Lorem markdownum **SHALL** volui femineo, si postquam comitesque et [tam
+  labori](http://www.wedrinkwater.com/).
+  Genis fine, futuri mei in bracchia sedem recingor terrigenis *et inter*
+  antrum, querellas bracchia lassus et.
+  Cristae sospite semianimem obvia, iuncosaque ope [tot atque
+  sed](http://zeus.ugent.be/) profugos ancora, priori.
+  Hippotadae mensae est, nec velamina, quin non lucus celat.
+  Utinamque dictis nec est resedit erat; adyto recepta spectans pecori.

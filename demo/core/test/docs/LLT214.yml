@@ -1,53 +1,11 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR003
-- LLR006
-- LLR016
-- LLR022
-- LLR023
-- LLR025
-- LLR027
-- LLR038
-- LLR041
-- LLR043
-- LLR048
-- LLR059
-- LLR062
-- LLR070
-- LLR071
-- LLR077
-- LLR081
-- LLR088
-- LLR093
-- LLR094
-- LLR098
-- LLR099
-- LLR117
-- LLR118
-- LLR126
-- LLR148
-- LLR150
-- LLR153
-- LLR162
-- LLR167
-- LLR173
-- LLR178
-- LLR179
-- LLR182
-- LLR191
+- LLR106
 normative: true
 ref: ''
 text: |
-  [Verify lorem markdownum](http://example.com/) detinuit erat pectus caperet
-  ut super tenebrae proque.
-  Tacta urbem veneno et decepit nuda.
-  Artus **intus**, pasci?
-
-  Aegre terreno sicut tollere, ubi et [formas de
-  servire](http://stoneship.org/) numinis cum orbe illis aderat libratum adunca
-  iubet vecte cavo.
-  Nostrae mutata, parentem **miserum**? Ossa rapida, medio!
-  E iactu in iamque postque, sanguine, ipse quem.
-  Haec Denique: procul superabit candor **erubuere flumina praeceps**, erat.
+  Verify lorem markdownum color succedere *Dolopum loqui*; quae comites
+  turpiter.
+  Inachides dignus.

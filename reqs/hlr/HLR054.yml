@@ -1,33 +1,12 @@
 active: true
 derived: false
-level: 10.0
-links:
-- SYS001
-- SYS004
-- SYS006
-- SYS008
-- SYS009
-- SYS010
-- SYS011
-- SYS013
-- SYS014
-- SYS017
-- SYS018
-- SYS019
-- SYS021
-- SYS022
-- SYS023
-- SYS028
-- SYS033
-- SYS034
-- SYS036
-- SYS040
-- SYS041
-- SYS042
-- SYS043
-- SYS045
-- SYS046
-normative: false
+level: 7.1
+links: []
+normative: true
 ref: ''
 text: |
-  Hymenaeus quoquehttplandyachtzcom montibus laudisPhaethusa potuisse pars
+  Lorem markdownum **SHALL** Iuno.
+  Sit Ortygie [miscet maiestatemque](http://news.ycombinator.com/) erili me
+  arator ab agmenque, at Echo in pedum cornus.
+  Exhortor victoremque ventos, paulatim ille Pelopeiadesque agmen, non
+  Athamantis **se pressos** curva.

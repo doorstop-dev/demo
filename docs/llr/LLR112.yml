@@ -1,28 +1,24 @@
 active: true
 derived: false
-level: 5.1
+level: 22.7
 links:
-- HLR003
-- HLR015
-- HLR024
-- HLR029
-- HLR044
-- HLR047
-- HLR055
-- HLR060
-- HLR073
-- HLR075
-- HLR078
-- HLR092
-- HLR100
+- HLR005
+- HLR016
+- HLR019
+- HLR086
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** primum arquato, **Elpenora** valet, potest cape
-  quaeque, festas vel quosque bracchia mendosa; quam?
-  Decimo patet, vix metus urbi, descendi is spes fuerunt.
+  Lorem *markdownum illa* Iuppiter obicit recingor, ignaram proripit venenum.
+  Lilia luce lacrimaeque purpura nondum terras est insula habebas cortice
+  **vidit Pythia**.
 
-  Favore patris. *Arcum cur*, in o autumni taurum *posse*, cantus!
-  Cur te mansura iste sororis gaudet cum superi cur sed opifer, **non tum**
-  mirantibus arcus: Olympo intellecta.
-  Nec solent cupidine nolle caedis.
+  Arma verum moenia haec, est auguror vulgatos.
+  Virens in visceribus *clamantem choreas*, attonitas quotiens ripis.
+  Capillos viri, opem inter tibi haberet, erat nomen, illa.
+  Herses revulsum.
+  Uti qui quam, molire vellem coniugis modo esse premeret latuit sustinet.
+
+  Erat et matri et Byblis agmine omnia res parma receptus vates quoque Salmacis
+  per quas Pyreneus incaluit curvatura quos.
+  Ille multorum crinem!

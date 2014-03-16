@@ -1,33 +1,19 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR004
-- HLR010
-- HLR011
-- HLR013
-- HLR014
-- HLR027
-- HLR028
-- HLR030
-- HLR033
-- HLR038
-- HLR058
-- HLR073
-- HLR078
-- HLR082
-- HLR083
-- HLR084
-- HLR085
-- HLR089
+- HLR016
+- HLR061
+- HLR075
+- HLR094
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** seque missus quique, arbor illa [successore
-  nimium](http://jaspervdj.be/) tuentibus ducunt; locum momentaque.
-  Partus [terras](http://imgur.com/), et gaudete secura.
-  Adficit succedit nomine, in Dianae circumsonat tota **paventem**: caecum
-  tellus, per sedula meae, iuvenisque.
-  Ludit ferrugine Lelex indignata medius dolor, credens gravem.
-  Lammina desuetas satia corpore discedunt murice operum quidque iubasque
-  considere amantem crimen.
+  Lorem markdownum **SHALL** talia corpora amnes mento tectam incunabula dum
+  Finierat; cingebant **vindicat**. Micantes arenti, laetus aera volant
+  habenti, vellere at apri.
+  Quae greges quater pro acta mariti aliquid inplet dominam agmenque inquit;
+  **edidit blanditus** Mithridateisque laboribus succumbere *miserabilis*.
+  Phorcidas erat vel, si propiore viros recursus aquas quae in primo, at dona
+  est **variabant**. Terras Martis linquit thalamos monte prius eventus,
+  mordetur nil debes.

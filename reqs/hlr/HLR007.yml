@@ -1,42 +1,11 @@
 active: true
 derived: false
-level: 1.6
+level: 2.0
 links:
-- SYS003
-- SYS004
-- SYS005
-- SYS006
-- SYS007
-- SYS009
-- SYS010
-- SYS013
-- SYS016
-- SYS017
-- SYS018
-- SYS019
-- SYS020
-- SYS021
-- SYS022
-- SYS023
-- SYS025
-- SYS027
-- SYS028
-- SYS029
-- SYS030
-- SYS031
-- SYS034
-- SYS036
-- SYS040
-- SYS041
-- SYS043
+- SYS024
+- SYS038
 - SYS045
-- SYS047
-- SYS048
-- SYS050
-normative: true
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** aethera arbor **legunt umente hausimus**, canunt
-  accepisse ficta in virgo ait ferae sentis.
-  Meumque erat admirantes muris cohaesit, via ipsa obliquis tempora securi
-  Fando festis dabuntur caelo; haec artus movit pro.
+  ausum opportuna

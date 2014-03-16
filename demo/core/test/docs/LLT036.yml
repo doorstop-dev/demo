@@ -1,35 +1,13 @@
 active: true
 derived: false
-level: 8.0
+level: 5.1
 links:
-- LLR001
-- LLR010
-- LLR019
-- LLR030
-- LLR039
-- LLR044
-- LLR046
-- LLR073
-- LLR088
-- LLR090
-- LLR093
-- LLR096
-- LLR100
-- LLR103
-- LLR114
-- LLR139
-- LLR142
-- LLR143
-- LLR152
-- LLR154
-- LLR167
-- LLR181
-- LLR185
-- LLR189
-- LLR191
-- LLR194
-- LLR196
-normative: false
+- LLR075
+normative: true
 ref: ''
 text: |
-  moenia
+  Verify lorem markdownum piget ait gravi fratri: ubi corpore quid amor.
+  Receptus lacus dumque nec inter loquendo visa lacusque tecum et longumque.
+  Sim quibus sis soli pastoris suos tellus pondere relinquere deus o coepere
+  causas: inde viscera Mulciber, capit haut?
+  In prole o nempe conpulit, tu solita redimitus pressus: huius caelo requiem.

@@ -1,58 +1,24 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR002
-- HLR005
-- HLR006
-- HLR007
-- HLR010
-- HLR012
 - HLR016
-- HLR017
-- HLR019
-- HLR022
-- HLR023
-- HLR025
-- HLR027
-- HLR028
-- HLR029
-- HLR032
-- HLR036
+- HLR020
 - HLR041
-- HLR044
-- HLR046
-- HLR048
-- HLR051
-- HLR052
-- HLR061
-- HLR062
-- HLR064
-- HLR068
-- HLR071
-- HLR072
-- HLR081
-- HLR082
-- HLR087
-- HLR088
-- HLR089
-- HLR090
-- HLR092
-- HLR095
+- HLR047
+- HLR075
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** columbae altera, ira quod attonitas sole stupet,
-  illa pietate atque.
-  Voce verbis trahit, orba, ubi insignis hoc quod et timet, trahentem dextra.
+  Lorem markdownum **SHALL** hoc infelix unguis prioris **et sanguine** obscura
+  di thalamos iam.
+  Soror mei adsensibus ferre Corinthiaci Hiems praesentior laeva quoque, inde
+  pater.
+  Ipse clarus refundit **me** omnia propior: magis incipit legem mugire.
+  Spreto evolat sic pater Erectheus malorum iterumque plenos proles quam Orpheu
+  est, et dixit opportuna.
 
-  Hesperium garrula curat incognita terrae valet, iubasque femina horrent.
-  Vano Atlantis, o voluit ciborum, modo saxa quod genitorque terribili.
-  Hoc ascendere his coniugium proles Cephenum protinus, iuvenis proferri
-  reddita iactantem hunc iugis nusquam altius, repugnat.
-
-  Per [est](http://tumblr.com/) consumptis reddita, pulvereamque adfixa **pars
-  perveniunt** ferunt inania curvamine, nobilitas.
-  Gravis ad ego partu et pectore nutrix Thescelus iuvenes [Amorum nec
-  tenuisse](http://www.youtube.com/watch?v=MghiBW3r65M) longa quam parte ilia
-  haerens nam tum sentiet!
+  Cogor malignas sub aurea prius quoque, terrena mihi Haemoniam donec, erit
+  remansit manibus inclinat celate.
+  Convertit longos satis petat animoque luctatur optetis; ut aevi reos
+  perspicit sternere lentos notabilis.

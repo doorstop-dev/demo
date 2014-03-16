@@ -1,41 +1,14 @@
 active: true
 derived: false
-level: 1.6
+level: 2.3
 links:
-- HLR002
-- HLR007
-- HLR009
-- HLR015
-- HLR017
-- HLR022
-- HLR024
-- HLR030
-- HLR059
-- HLR060
-- HLR074
+- HLR050
+- HLR053
 - HLR079
-- HLR083
-- HLR084
-- HLR100
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** in nec interrumpente sprevit Phoebus dixit
-  superat, plena graves iacet terras laevaque cruorem!
-  Conspecta somnum cervicibus quoque harenam et undis idem sacra repono opis
-  ingenua corpore conscius, inquirit potest Alcandrumque potentia ille.
-  Cur diurnis eripitur tenet inmensi sustulit edax moveret, qui dixit vox
-  intus.
-  Prole cortice meliora virgine inpositum rata, misceri atque, nec.
-  Ipse ferrugine mollia.
-
-  - Ad axes togaque signavit Hersilien Alpheos Alpes
-  - Comitesque curia
-  - Dixit adpellavere vulnere
-  - Qui quam quid commune tamen
-  - Nos voce esse guttura celat illius tumidus
-  - Iuvenis iuvenes Stygiisque manet Argolicas ore caput
-
-  Presserat et iudice mersura: fallacia vidit deorum ferro!
-  Nam et agit Erinys precantum ferunt laevane: dummodo *sternitur*. Iustis
-  moenia numen sumptaque **quae oculos**, res haustus imbrem.
+  Lorem markdownum **SHALL** trahentem vestra.
+  Si quo freta sub est currus ferax, in lapsus, ut unda nec medio, Stabiasque
+  deferri ramis.
+  Qui attollite dederas virginis.

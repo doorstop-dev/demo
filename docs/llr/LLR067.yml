@@ -1,33 +1,15 @@
 active: true
 derived: false
-level: 5.1
+level: 14.1
 links:
-- HLR001
-- HLR026
-- HLR034
-- HLR035
-- HLR045
-- HLR048
-- HLR050
-- HLR055
+- HLR047
+- HLR051
 - HLR056
-- HLR062
-- HLR064
-- HLR092
-- HLR094
-- HLR096
+- HLR097
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** detque iam, est nocenti quod est manu dempsistis,
-  ait?
-  Nota mentes vicinaque peregrina alumnus et urbis ad coniuge te vultus
-  [adiutis](http://www.thesecretofinvisibility.com/).
-  Et cur in adhuc, saevo, inclamare quod: est felici, non vocat tibi nomen,
-  aquarum.
-
-  1. Vivebat a parentes Cancri deprimeret Dianae vini
-  2. Omni offensus pectus ille
-  3. Quem nuper petit cruorem
-  4. Inponere fugerat
-  5. Torserat secutus
+  Lorem markdownum **SHALL** cinis luctantia et iugulum pro sic aeno: abest
+  cura scitatur et oborto et mare.
+  Causa tota his **Aquilonem** virginem venitque in virgo non tuam **opem
+  volucer et** ignes; repetita faciendae genitore in.

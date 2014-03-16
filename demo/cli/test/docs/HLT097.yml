@@ -1,34 +1,23 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR005
-- HLR027
-- HLR033
-- HLR034
-- HLR037
-- HLR052
-- HLR055
-- HLR059
-- HLR066
-- HLR075
-- HLR077
-- HLR078
-- HLR090
+- HLR009
+- HLR079
 - HLR100
 normative: true
 ref: ''
 text: |
-  Lorem [markdownum flecti](http://kimjongunlookingatthings.tumblr.com/)
-  perdere, expulit lacrimaeque invadere parilique duo almus *maxima*. Est sed
-  tot socios lugubris inpressa amores forte cecidisse segetes rogat, per et
-  abiit inrita refugitque excita lactentis.
-  Trita sintque est sorori sacros metuens Stygias haut vultus genetrixque
-  carinis aequoreae adfuit traxit deceperit crescere, qui.
-  Murmura Antaeo per circuitu me **adverti terris** trementem **illa**, genuum
-  licet *stratis bis*!
+  Verify lorem markdownum Sicaniam fataliter, Thessalus sed aequor munere
+  minorque tactosque.
+  Solent patulos, arida iterum quaerant si paludes felicia **Saturnia meo**
+  femineae aulam.
 
-  Eloquitur illa, ire nec sonantibus Tusca proxima **memini**; vitae quem
-  docuisse perculit.
-  Divesque candida, caelo notissima: tum mecum sanguinis pulcherrima sine
-  volucres pedibusque prope, nec mea Andraemon, ille.
+  Et Iuppiter Timoli, edidit tantum, campi auxilium erat, opem sicut.
+  Ait aras sed sceptra Ammon fide *unda dapes viros* serosque ignis adesset quo
+  utrimque formam! *Tum tibi neve* scelus omnia placuit, leonis sacra: Haec
+  ligno **blanditur quo** habenti.
+
+  1. Plenis constiterat vocant
+  2. Munera dumque unda tremulo
+  3. Dira nomen

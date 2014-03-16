@@ -1,33 +1,13 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR005
-- HLR006
-- HLR013
-- HLR019
-- HLR020
-- HLR023
-- HLR025
-- HLR055
-- HLR060
-- HLR063
-- HLR065
 - HLR071
-- HLR078
-- HLR086
-- HLR093
-- HLR094
-- HLR095
-- HLR100
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum ad sol fixo exsangue hic ita praeterit Pygmaeae.
-  Alti scorpius veniente pecudes mallet: vitta Iphitiden debere tellus, quem
-  gratia.
-
-  - Nescio harena illa
-  - Ora nimiumque iam imitantes terra
-  - Cum diu nec crescit spectas
-  - Turpique freta potentibus donis
+  Lorem *markdownum* sibi quod se saevit visa membris, nec creatis ostendens
+  [axem](http://html9responsiveboilerstrapjs.com/)!
+  In frustra exhalantur [suum](http://kimjongunlookingatthings.tumblr.com/)
+  nescia: nec tori glaebas, feras, ne. **Honoratas culpa**; simillima inemptum:
+  sine corporibus transcurrere mihi et pariterque.

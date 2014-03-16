@@ -1,42 +1,9 @@
 active: true
 derived: false
-level: 5.1
+level: 17.0
 links:
-- HLR001
-- HLR007
-- HLR010
-- HLR012
-- HLR016
-- HLR017
-- HLR018
-- HLR021
-- HLR025
-- HLR027
-- HLR028
-- HLR030
-- HLR037
-- HLR038
-- HLR043
-- HLR044
-- HLR061
-- HLR062
-- HLR063
-- HLR067
-- HLR074
-- HLR082
-- HLR088
-- HLR090
-- HLR092
-- HLR095
-- HLR097
-normative: true
+- HLR036
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL**, tinnulaque tulit [Phasias non
-  illos](http://kimjongunlookingatthings.tumblr.com/).
-  Agyrtes rastra: curis anus cygnis lumine sensit in, usta
-  [et](http://imgur.com/).
-  Nostro tempora defendit colebat ille unda insequitur, custodia dici!
-  Ventique pectora et averso viribus fer transfert, optari, haut retracto
-  liquida.
-  Totum habet [ruborem](http://seenly.com/) dicere, arte operum; cum quem.
+  venisset iuveni meum pelago urbis procellae det

@@ -1,35 +1,17 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR015
-- LLR019
-- LLR022
-- LLR037
-- LLR052
-- LLR053
-- LLR072
-- LLR073
-- LLR099
-- LLR102
-- LLR104
-- LLR112
-- LLR115
 - LLR119
-- LLR122
-- LLR138
-- LLR143
-- LLR150
-- LLR166
-- LLR172
-- LLR182
-- LLR199
+- LLR145
+- LLR151
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum fudit sustinet.
-  Refugam ipse.
-  Maestis die quid *ducentem ego equo* Priami ut comas cessisse tellure
-  multorumque velocius dicenti. [Est nostra
-  trementi](http://www.reddit.com/r/haskell) sanguine imber tabuerant inquit
-  maxima.
+  Verify lorem markdownum borea vidit in laeto deus est aliis Quas et locus
+  mittantur *miserae*. Tum vera, armentaque tot est Diomedeos mecum candida
+  fulvis qua linguae *ebur*.
+
+  - Foret iam conata nec posses meliora sit
+  - Oscula Troezena simulavit in lecto supra possem
+  - Instantem a torserat tamen inducere verba mihi

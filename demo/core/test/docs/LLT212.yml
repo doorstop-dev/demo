@@ -1,44 +1,11 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR006
-- LLR009
-- LLR011
-- LLR013
-- LLR038
-- LLR046
-- LLR048
-- LLR049
-- LLR064
-- LLR067
-- LLR083
-- LLR087
-- LLR088
-- LLR090
-- LLR099
-- LLR106
-- LLR108
-- LLR110
-- LLR112
-- LLR119
-- LLR125
-- LLR140
-- LLR145
-- LLR150
-- LLR151
-- LLR157
-- LLR163
-- LLR182
-- LLR185
-- LLR186
+- LLR084
+- LLR181
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum ausis adspicis **quam iuventae regi** tetigit funera
-  illac; illi incandescit quid consistere simulacra vero, illic. **Deos**
-  nostri sed solvit sulcat sacro; fortissima ora comitesque Delius sagacior
-  torvis subposuisse.
-  Petit **Oribasos auster nitidissima** obitumque sed.
-  Rapi illuc Sparten contigerat templa ferebat cornu: esse quod aspera verbere?
-  Pictas sua oscula sanguinis longas nulla natus; sunt omnibus; via.
+  Verify lorem markdownum venis verte!
+  Non et dictis; titulum dixit?

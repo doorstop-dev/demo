@@ -1,63 +1,12 @@
 active: true
 derived: false
-level: 2.2
+level: 3.0
 links:
-- HLR001
-- HLR002
-- HLR004
-- HLR011
-- HLR012
-- HLR013
-- HLR018
-- HLR021
-- HLR022
-- HLR023
-- HLR026
-- HLR028
-- HLR029
-- HLR034
-- HLR036
-- HLR037
-- HLR038
-- HLR039
-- HLR041
-- HLR044
-- HLR048
-- HLR049
-- HLR053
-- HLR057
-- HLR059
-- HLR060
-- HLR062
-- HLR068
-- HLR072
-- HLR073
-- HLR080
-- HLR083
-- HLR085
-- HLR087
-- HLR093
-- HLR096
-- HLR097
-- HLR098
-normative: true
+- HLR016
+- HLR043
+- HLR054
+- HLR078
+normative: false
 ref: ''
 text: |
-  Verify lorem markdownum motura dextra introitu strepitum **Ixione evolvere**
-  sis unus inter.
-  Comas amor Euros bene undique senis quod superator levemus undis Cyllenius
-  fluctus cortice.
-  Sua illa Phoebus illius lacertis medicamine et Cinyphiumque in docuit.
-  Capit et concutit, promissa **aeripedes quem spatiosi** exterrita moenia
-  medio **prius**, pomoque: teres petitur!
-  Tempora dixit prohibemur deum.
-
-  1. Illi ait duorum quamquam
-  2. Recens videt erat Saturnia iacet Hyadasque habenti
-  3. Invitaque fornace dedecus pererrant fortis fluviis pallebant
-  4. Fuso latitans tulit Adoni est praecordia et
-  5. Posuere probat
-  6. Vidit cervix
-
-  Onus quoque caelum haeserat **fuit iam** requiro, lacrimasque carmine alta?
-  Sequentis cautus movet pater in petunt et placuisse, glandiferam.
+  inque ab ruricolam et ait

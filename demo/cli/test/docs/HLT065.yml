@@ -1,45 +1,14 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
 - HLR002
-- HLR003
-- HLR004
-- HLR010
-- HLR012
-- HLR016
-- HLR021
-- HLR022
-- HLR023
-- HLR026
-- HLR027
-- HLR032
-- HLR038
-- HLR055
-- HLR057
-- HLR063
-- HLR064
-- HLR066
-- HLR068
-- HLR071
-- HLR076
-- HLR082
-- HLR084
-- HLR088
-- HLR089
-- HLR091
-- HLR093
-- HLR095
-- HLR096
-- HLR097
-- HLR099
+- HLR086
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum emicat ars intrat, *enim tenebat*; et.
-  Satis decerpsit hostilia soluti tenent, et Phoco tenebrosa: deploratosque
-  nemo Cecrope colunt iram mirum est *animo*.
-
-  1. Urbesque dictos et virginis sinit fratresque moenibus
-  2. Saxo non senes et remissurus mucro subitus
-  3. Functa tanto tardus nescio nequiquam grandia quibus
+  Verify lorem markdownum adsiduis humum iactor recens cornum, sed, **fontibus
+  rapit abdiderat** tener potuit virorum.
+  Cum est apta in manu nec?
+  Ver et clarissima dedantur tenet dignus ingenti fractaque: a celsum serosque.
+  **Sitim** conferat: auro non fit non hastilia repono!

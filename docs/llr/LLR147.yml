@@ -1,34 +1,28 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR002
-- HLR003
-- HLR008
-- HLR010
-- HLR012
-- HLR013
-- HLR018
-- HLR019
-- HLR025
-- HLR027
-- HLR034
-- HLR036
-- HLR039
-- HLR042
-- HLR058
-- HLR063
-- HLR065
-- HLR069
-- HLR081
-- HLR085
-- HLR089
-- HLR097
-- HLR098
-- HLR099
+- HLR052
+- HLR079
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL**, inmansuetusque suis terrae est.
-  Tandem barba praebuerat redolentia ferrum obstantia maestis.
-  Et corpora pigra ibi populisque, torum, tamen Libys telae cervi mellaque.
+  Lorem markdownum **SHALL** clades graves corpora dextraque Dianae; nequit
+  quae sacra se.
+  Cantus iniqua cui tribuam tellus, necem, Coae agant, partes, virgine
+  **forsitan mihi** fiducia dabat.
+  Agenore heu accipis partu; non hic nitidis lumina et Pudor auctor putat
+  fovebam posset tuta, egerit **carcere**.
+
+  1. Ictu nostro figat iustius
+  2. Faverat est ferax solvitur maturo et emittitque
+  3. Suos amens stolidas
+  4. Votis cognosse
+  5. Pronas mi pompa siquid vertunt Perseus ignes
+
+  Tantis illam sidera Cepheus fluidos, *quibus eratque quique* leones mitissima
+  inritata.
+  Verba criminibusque plagae aurato, ab lege moderamen leges: conponitur
+  nectaris figitque?
+  Coepta habebant magna prior aequoreae intulit.
+  Illo qui **moveri nec** fluctus castra exstructos adhuc.

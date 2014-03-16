@@ -1,45 +1,23 @@
 active: true
 derived: false
-level: 5.1
+level: 8.8
 links:
-- HLR001
-- HLR002
-- HLR004
-- HLR009
-- HLR013
-- HLR015
-- HLR020
-- HLR021
-- HLR023
-- HLR025
-- HLR026
-- HLR027
-- HLR041
-- HLR042
-- HLR045
-- HLR050
-- HLR054
-- HLR058
-- HLR059
-- HLR061
-- HLR062
-- HLR064
-- HLR066
-- HLR070
-- HLR079
-- HLR085
-- HLR086
-- HLR093
-- HLR098
-- HLR099
+- HLR012
+- HLR034
+- HLR038
+- HLR044
+- HLR088
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum putes; regum glaeba rigent ministro praemia contraria
-  erant resuscitat.
-  Donisque repens cognoscere, studio manusque nequiquam vestem armiferos visa
-  sacerdos saepe; scelus, videt unda vellem, **albus**? Sed lumina: amori
-  manes; ille tenuissima, cunctae tecto et fudi; reparabat.
-  Pennisque relicto concustodita crebri virginibus pectus per, nescit amico
-  fluitare eripitur et ferarum fretum undique, *sic*. Ora quae aut animam
-  rapida nactasque Haemonio cura, vel, ad Dianam; tibi.
+  Verify lorem markdownum cursus ad agi locus caede: sume lecte Dianae: nec.
+  Superi missus rictus.
+  Tibi magis praebet potes mercede totiens formam una manusque eatque in alta
+  missi fatifero.
+  Praedae equidem, et et Somne percusserat soporem.
+
+  1. Venae ipso illis arbor et quaerite
+  2. Sum sensit Idas moverat flexuque
+  3. Mente condita siqua
+  4. Ferre patriorum
+  5. Quid rictu famulis novus sine hos et

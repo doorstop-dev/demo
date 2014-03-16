@@ -1,54 +1,11 @@
 active: true
 derived: false
-level: 1.3
+level: 2.0
 links:
-- HLR005
 - HLR006
-- HLR010
-- HLR012
-- HLR016
-- HLR025
-- HLR031
-- HLR032
-- HLR036
-- HLR037
-- HLR042
-- HLR049
-- HLR052
-- HLR053
-- HLR056
-- HLR057
-- HLR061
-- HLR062
-- HLR067
-- HLR069
-- HLR072
-- HLR073
-- HLR074
-- HLR077
-- HLR078
-- HLR080
-- HLR081
-- HLR083
-- HLR084
-- HLR085
-- HLR089
 - HLR091
-- HLR092
-- HLR096
-normative: true
+- HLR094
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** torus comites oppressos venit pluvialis mei nos
-  adflati illi certa puerique dixit optandi membra.
-  Clarus domus spatio nobilitate formam.
-  Partim summisque cum et facta gaudet laetissimus grave es adpellare
-  frequentant adeunt Desine ut meruisse carpit?
-  Exsultatque utque, nisi dedit fessis creatus anima flexit tu de.
-  Sinamus pectora est cadentum cantatas et suae patientia, est caelestes.
-
-  Ipsos odit manus operire.
-  Vertit labefactum gurgite, manibus qui me, atque incana par **illo aratro**:
-  stetit processit fratre titubantis gemellos.
-  Fulvis vicit fatebere turbine te strepitus timenda aquas *freta quae vellera*
-  placidis semper exsternata gurgite hostem; cum amor deum.
+  conscia instare quo dubites taedae

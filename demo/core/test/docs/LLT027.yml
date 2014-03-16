@@ -1,54 +1,15 @@
 active: true
 derived: false
-level: 6.2
+level: 5.8
 links:
-- LLR002
-- LLR007
-- LLR008
-- LLR009
-- LLR012
-- LLR015
-- LLR035
-- LLR038
-- LLR040
-- LLR044
-- LLR045
-- LLR048
-- LLR054
-- LLR056
-- LLR067
-- LLR068
-- LLR074
-- LLR085
-- LLR086
-- LLR087
-- LLR092
-- LLR094
-- LLR095
-- LLR096
+- LLR042
+- LLR063
 - LLR102
-- LLR106
-- LLR118
-- LLR123
-- LLR124
-- LLR126
-- LLR133
-- LLR135
-- LLR136
-- LLR138
-- LLR139
-- LLR140
-- LLR143
-- LLR146
-- LLR169
-- LLR170
-- LLR181
-- LLR189
-- LLR191
-- LLR198
+- LLR176
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum reice successus, probat tolle te ille trepidos
-  numinis dulcedine varias obstantia.
-  Et non mucrone fecit.
+  Verify lorem markdownum tuentes ut hospitium fusus spatiosumque rerum, apri
+  alter lato quantum, hic quae operum freto!
+  Iam futura undis; tempore nam Gyaros pro **gravi me manu** gramina torvo
+  adest, Danaen!

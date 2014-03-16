@@ -1,43 +1,22 @@
 active: true
 derived: false
-level: 4.0
-links:
-- HLR003
-- HLR004
-- HLR005
-- HLR007
-- HLR025
-- HLR029
-- HLR039
-- HLR040
-- HLR042
-- HLR044
-- HLR045
-- HLR046
-- HLR049
-- HLR051
-- HLR054
-- HLR057
-- HLR059
-- HLR062
-- HLR066
-- HLR072
-- HLR073
-- HLR075
-- HLR076
-- HLR077
-- HLR080
-- HLR083
-- HLR084
-- HLR090
-- HLR091
-- HLR094
-- HLR095
-- HLR096
-- HLR097
-- HLR098
-- HLR099
-normative: false
+level: 4.2
+links: []
+normative: true
 ref: ''
 text: |
-  Medusae optata licet nunc est prodere quae
+  Lorem markdownum **SHALL** anum pedibusque **quid**, mores.
+  Orba pallor enim feret atque flores ululare id iam discedite nunc dolet,
+  solae, non equorum inscius exhalarunt.
+  Icarus petit flumen siqua concubitus relapsa suoque undas vulnere distent:
+  silva [saxa](http://www.youtube.com/watch?v=MghiBW3r65M) specie.
+  Praemia est redito lapsa, e, nec maligno parvo atri ego.
+  Claudit at et **deceptus tangit ille**, pavidum *deam loco* recepi spectant
+  videt tela suum Tusca.
+
+  Piscis Dulichiae.
+  Superi munera.
+  Quam socia aestuat, iam est Agenorides sacra at ambiguo motasse praebet
+  Iuppiter respicit nutricis moenia, viri capit.
+  Atque habebit Thespiades et licebit recumbit carpsere exemplumque praeceps
+  **et**.

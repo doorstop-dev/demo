@@ -1,41 +1,19 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR001
-- HLR008
-- HLR024
-- HLR026
-- HLR028
-- HLR032
-- HLR041
-- HLR045
+- HLR022
+- HLR025
+- HLR038
 - HLR053
-- HLR057
-- HLR061
-- HLR070
-- HLR071
-- HLR080
-- HLR082
-- HLR083
-- HLR085
-- HLR090
-- HLR100
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** ferus Herculis ut manus concutit mittere cauda;
-  conscia crudeles et [videri agmina](http://imgur.com/) tempto.
-  Peregrina repugnat silvas, acer [nunc coronatae virgo](http://eelslap.com/)
-  lucem non formam esses, que tutela. **Positis trabs** solamen volucrem annum
-  conciderant auras dimovit.
-
-  Nec terga sed erit trepidus cuncta, me pestifera standi si
-  [minus](http://www.mozilla.org/) parva.
-  Cephisias quisque; vires innumeras animi, caput.
-  Spes merito eris tellusque inpendit [iuventam](http://landyachtz.com/), iactu
-  implevit Cyllene pertimuitque Venus, illa nondum.
-  Letalibus euhoe *bracchia* exire muneris parce hanc Aeneia ademi,
-  Achaemenides tanges sidera et contemptaque ille removit!
-  Tua *lanam* cunctari relinquunt conscendunt latitantia de lacertis imum ne
-  nostri.
+  Lorem markdownum **SHALL** potes, est palmis ab urebant harenam gemitum
+  vidit.
+  Volucres patrium credite Phaethonteos prohibere est firmat non utque
+  desierim.
+  Seque [metitur](http://en.wikipedia.org/wiki/Sterling_Archer), partes per
+  nomina illis, imagine in, tunc.
+  Species concursibus demittitur missum, sollertia triticeas tamen: uncis edere
+  Thermodontiaca!

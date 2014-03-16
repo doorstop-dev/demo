@@ -1,47 +1,17 @@
 active: true
 derived: false
-level: 3.7
+level: 4.1
 links:
-- HLR002
-- HLR003
-- HLR005
-- HLR011
-- HLR014
-- HLR015
-- HLR016
-- HLR017
-- HLR021
-- HLR022
-- HLR028
-- HLR029
+- HLR024
+- HLR030
 - HLR031
-- HLR032
-- HLR035
-- HLR036
-- HLR037
-- HLR040
-- HLR042
-- HLR044
-- HLR047
-- HLR048
-- HLR049
-- HLR050
-- HLR059
-- HLR067
-- HLR068
-- HLR073
-- HLR075
-- HLR080
-- HLR084
-- HLR085
-- HLR086
-- HLR087
-- HLR090
-- HLR092
-- HLR098
+- HLR055
+- HLR100
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** occidit verba errat, quoque statione Ianthe
-  incipere quiescet.
-  Fine nam animam sanguinis manes, sic Tagen **aere** nondum.
+  [Lorem markdownum **SHALL**](http://twitter.com/search?q=haskell): suas domos
+  plangorem indignis stagno dixit, sed recurvo esse.
+  Sui ille Memnonides mediis fuerant pellitis unde superis illa postquam
+  figura, ire in [timidas septem](http://textfromdog.tumblr.com/) inquire et
+  decipit?

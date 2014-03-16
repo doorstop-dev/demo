@@ -1,50 +1,12 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR003
-- HLR006
-- HLR007
-- HLR013
-- HLR017
-- HLR019
-- HLR023
-- HLR025
-- HLR032
-- HLR035
-- HLR046
-- HLR051
-- HLR052
-- HLR055
-- HLR056
-- HLR059
-- HLR060
-- HLR061
-- HLR062
-- HLR064
-- HLR067
-- HLR070
-- HLR076
-- HLR077
-- HLR078
-- HLR081
-- HLR082
+- HLR005
+- HLR058
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** [pacis sollicitare](http://www.metafilter.com/)
-  adamante aurae ore solvit solitas Iuppiter, Harpalos ubi disque dixit fortuna
-  Perseus animorum facibus prodest.
-  Periturae tamen: iam modo cum!
-  In utroque Arethusa etiam!
-  Sit *nota procul suadent* repugnas, virorum, tamen, siquis magni, unius quid
-  laborum iunctum, visum.
-  Levat mota oportuit in corpore versis o super, Autonoeius diverso aequor.
-
-  Subtraheret putat subito sua saepe tigris distinguunt volucris; suis fecit!
-  Aliquid et namque Acrisium, aether populos
-  [mora](http://www.wedrinkwater.com/)?
-
-  Nobis mihi, esse erepta bracchia; fuit est multa spectator miscuit retractat
-  dolore.
-  Aera **nato antro** atro ut!
+  Lorem markdownum **SHALL** humanum flumina, solito lusisse superstes est
+  coepta *qua* pugnare vires? *Ambo prodidit quae* corpore [minanti
+  dominoque](http://jaspervdj.be/) modo seu de equam.

@@ -1,37 +1,11 @@
 active: true
 derived: false
-level: 5.1
+level: 15.2
 links:
-- HLR004
-- HLR005
-- HLR009
-- HLR017
-- HLR024
-- HLR025
-- HLR030
-- HLR032
-- HLR036
-- HLR039
-- HLR051
-- HLR054
-- HLR058
-- HLR060
-- HLR061
-- HLR063
-- HLR070
-- HLR072
-- HLR076
-- HLR080
-- HLR085
-- HLR091
-- HLR094
+- HLR023
 normative: true
 ref: ''
 text: |
-  **Lorem markdownum **SHALL** poenaeque** ponendi viridi praeponere denique;
-  et cum.
-  Pendentia semper praebet et nato, sumitur viribus sermonibus vidisse
-  nimiumque habitat [Belo](http://seenly.com/), est multas, bos nunc.
-  Femina pectore.
-  Lumina inmansuetique arcum; pro sic mora cornua ministri axes, corpora, et
-  Aesonides auxiliaris undis terrae.
+  Lorem markdownum **SHALL** colle infera, quos, ripa Troica ut.
+  Montanum forte animum, est fervet respicit deos, iam curaeque versum diu
+  aequora his sed hosti.

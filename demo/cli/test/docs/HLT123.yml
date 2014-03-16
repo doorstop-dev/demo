@@ -1,19 +1,14 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR012
-- HLR014
-- HLR018
-- HLR023
-- HLR037
-- HLR049
-- HLR059
-- HLR078
-- HLR081
+- HLR006
+- HLR020
+- HLR058
+- HLR083
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum, ex iusserat arma crescunt, veni cum; premunt.
-  Utque indicio [euntis lacrimas multoque](http://www.metafilter.com/), vulnus
-  sucis sedem sumptis referuntur veluti pinus.
+  Verify lorem markdownum corpore generis liceret cervi, non annos.
+  Notus sed forma vero spe usa, in tempus vulgusque utero linguam *ore*
+  amantis!

@@ -1,23 +1,8 @@
 active: true
 derived: false
 level: 5.0
-links:
-- SYS002
-- SYS006
-- SYS008
-- SYS010
-- SYS014
-- SYS015
-- SYS016
-- SYS017
-- SYS018
-- SYS022
-- SYS027
-- SYS029
-- SYS030
-- SYS037
-- SYS039
+links: []
 normative: false
 ref: ''
 text: |
-  moenia Non iamque
+  Peleus peccare hic aquis omnia

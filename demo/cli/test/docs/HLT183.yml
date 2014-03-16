@@ -1,51 +1,15 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR005
-- HLR011
-- HLR012
-- HLR015
-- HLR016
-- HLR020
-- HLR021
-- HLR023
-- HLR030
-- HLR033
-- HLR034
-- HLR035
-- HLR036
-- HLR039
 - HLR044
-- HLR045
-- HLR049
-- HLR050
-- HLR051
-- HLR053
-- HLR055
-- HLR058
-- HLR059
-- HLR060
-- HLR065
-- HLR066
-- HLR068
-- HLR069
-- HLR070
-- HLR072
-- HLR074
-- HLR075
-- HLR085
-- HLR086
-- HLR091
-- HLR093
-- HLR096
-- HLR099
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum unum, sim tenet saltuque; inter ista victoris: suo
-  erat extemplo: ad quid, fuit?
-  Hic amantis dona?
-  Non tamen ipsa quoque cuncta, ara despexitque, ferro, Ante futurae quis
-  dominum.
-  E terram e cavatur!
+  Verify lorem markdownum loquor, hac vetorque amplexans neutra *sed*
+  abstractus, interitura alasque humili.
+  Voce vero tota aevi significent, celer edere tantaeque, vos disque, columnis
+  annos intravit truncis perque, dextera.
+  Ales Pallas: Sabinis sumpsitque, dedit sua iuvenemque paludes facta.
+  Boeotia in animam ferarum, gemitumque superbus quacumque gestanda Aurora;
+  obliquaque ego, vestigia.

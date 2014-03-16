@@ -1,31 +1,16 @@
 active: true
 derived: false
-level: 5.1
+level: 8.2
 links:
-- HLR001
-- HLR003
-- HLR014
-- HLR015
-- HLR029
-- HLR032
-- HLR033
-- HLR035
-- HLR037
-- HLR045
-- HLR052
-- HLR057
-- HLR062
-- HLR072
-- HLR079
-- HLR084
-- HLR092
-- HLR095
+- HLR061
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** [molle inconsolabile
-  Tusca](http://www.wedrinkwater.com/) visa palladias paventes priore datus,
-  temptata peregit.
-  Attonitas placuere foedere apertos quondam.
-  Capulo factum ora pugnat herbas Phrygii: sororis amnem, feror si tamen
-  titubare carerent fidem, nondum.
+  Lorem markdownum **SHALL**. Ilice hosti opibus terram iacet, et, coloni
+  canescere.
+  Miserum pauca et in auras, patefecit develat *habebat densis et* foret vincis
+  Lethes quod.
+  Fecit cum est turaque [laevaque](http://zeus.ugent.be/), fluctus stupet tu et
+  plus sequar possit filia.
+  Precor parva moveri ruinam novissima vulneris aequore, nec illud sustinet
+  Dryope, Miletida et manus!

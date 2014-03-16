@@ -1,11 +1,29 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR018
-- LLR186
+- LLR027
+- LLR121
+- LLR181
+- LLR184
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum fieri quaecumque Nesse quicquam carmina, in vult.
-  *Aeterna circueunt tenera*!
+  Verify lorem markdownum abest me poscere colla, Tereu virum conterruit
+  indigno.
+  Incumbens ex perbibit, illa vicit toto refert [simul
+  ponto](http://haskell.org/). [Tenera tu](http://twitter.com/search?q=haskell)
+  adsuetus, genetrix has est herbas suscipitur iuncta loquaci?
+  Cuius erimus dari, esse iura stabant iunxit: qui est conplevit amor verum.
+
+  - Et iussit a perpetua sit metiris novit
+  - Pelle litoream pars non
+  - Mora rosarum cvrrvs
+
+  Dedignata amores! **Similis spectat** rupe liceat pectora inreprehensa
+  linguae unda, veri inania suppressis abit terribiles sollicitat.
+  Mihi ense curvos noxque licuit Perseus, demittite *quo ense* turbavere.
+  Est tibi duris, frondibus dulcedine quod fulvis positi intellecta adspicis
+  postquam habes messis, fata.
+  Quo obstitit exsangue grandia [tauros ergo](http://www.reddit.com/r/haskell)
+  certamina?

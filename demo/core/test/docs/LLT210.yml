@@ -1,51 +1,20 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR006
-- LLR007
-- LLR011
-- LLR012
-- LLR017
-- LLR019
-- LLR023
-- LLR026
-- LLR029
-- LLR032
-- LLR043
-- LLR044
-- LLR051
-- LLR053
-- LLR054
-- LLR056
-- LLR058
-- LLR059
-- LLR061
-- LLR064
-- LLR073
-- LLR088
-- LLR095
-- LLR105
-- LLR115
-- LLR116
-- LLR120
-- LLR124
-- LLR129
-- LLR135
-- LLR144
-- LLR155
-- LLR160
-- LLR162
-- LLR165
-- LLR167
-- LLR173
-- LLR177
-- LLR190
-- LLR192
-- LLR196
+- LLR046
+- LLR055
+- LLR122
+- LLR153
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum quoque illic freto, lactea cacuminat fatebar,
-  vocalia, sit altis adfectas utraque tam?
-  Ciet summis tigres: ut in coniuge levis, adversaque, super quodcunque.
+  Verify lorem markdownum habitata [plus](http://twitter.com/search?q=haskell):
+  non nataeque rapiunt aperto.
+  Silvas fama; alta sole fundunt exciderit aethere sede qui Pallantidos, sola.
+  Longae requiram *dum* muneribus exiguo audet fulmina vibrant domus corpus
+  sacrificat magorum timido et secutae tantum.
+  Tecta oppida lapsasque frondem fusis est sepulcrum macies: Lycisce conferre
+  Pterelas, vidit modo **cauda omnibus**. In concretam vero novercae, furores,
+  Anaxareten capellae locum [posset](http://news.ycombinator.com/), quod [te
+  regna ille](http://reddit.com/r/thathappened)?

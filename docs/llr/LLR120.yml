@@ -1,38 +1,16 @@
 active: true
 derived: false
-level: 5.1
+level: 23.7
 links:
-- HLR006
-- HLR013
-- HLR017
-- HLR018
-- HLR019
-- HLR022
-- HLR023
-- HLR032
-- HLR033
-- HLR034
-- HLR035
-- HLR037
-- HLR039
+- HLR025
 - HLR041
-- HLR043
-- HLR046
-- HLR050
-- HLR052
-- HLR058
-- HLR063
-- HLR064
-- HLR068
-- HLR078
-- HLR079
-- HLR084
-- HLR085
-- HLR090
-- HLR095
+- HLR051
+- HLR053
 - HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL**! Nova et quondam levatae maior.
-  Remis ad dixit, electus referam remos.
+  Lorem markdownum **SHALL** etiam fecisse verba, non dea in quoque ea, tollens
+  non.
+  Unda corpore est movet tantum solum.
+  Cernis ubi habes parentum signo!

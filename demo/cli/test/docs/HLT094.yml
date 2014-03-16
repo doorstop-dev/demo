@@ -1,57 +1,18 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR004
-- HLR005
-- HLR006
-- HLR007
-- HLR010
-- HLR012
-- HLR017
-- HLR018
-- HLR019
-- HLR021
-- HLR025
-- HLR028
-- HLR030
-- HLR034
-- HLR041
-- HLR042
-- HLR043
-- HLR045
-- HLR047
-- HLR051
-- HLR056
-- HLR057
-- HLR058
-- HLR060
-- HLR070
-- HLR071
-- HLR072
-- HLR073
-- HLR075
-- HLR076
-- HLR078
-- HLR083
-- HLR086
-- HLR088
+- HLR020
+- HLR090
 - HLR092
+- HLR097
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum mutet habuissem faventum longius, in *lecto* manu
-  sanguine bina: si magnae.
-  Arbore dextra [crudus](http://www.mozilla.org/), mea silet instabat opem fata
-  interrita illis, unda adfixa, et silentia umerum nulloque.
+  Verify lorem markdownum adspexerit simul concilium medio an castris.
+  Quem Agenore, sceptri est, et per dies et nec iusserat vocalis hostem.
 
-  Facit cupidine quoniam est nec.
-  Perstat ubi sorore manu, intabescere tacto, Assyrius tendens.
-
-  Et gurgite dominis, his iusta, suspiciens regnum cultuque quaerit tum misit
-  ac cogor.
-  Nunc nec aequor invasit albentia canis spicula tamen.
-  Mea *fores* ad cicatrix Iovi loqui, montes illo: hostem vultum sume similem
-  lucis pede flores [exsecrantia](http://www.lipsum.com/) ponit spretae.
-  Te socios at patrias poenae volucris, festis fuit nupta, coniuge adpareat
-  noviens tempore *quod* inputet.
+  - Longius equi loci iura dapibus feruntur plura
+  - Urbes viae agros
+  - Somnus te quam
+  - Pavidus est pietate

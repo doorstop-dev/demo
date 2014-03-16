@@ -1,46 +1,24 @@
 active: true
 derived: false
-level: 5.1
+level: 23.4
 links:
-- HLR006
-- HLR008
-- HLR015
-- HLR018
-- HLR023
+- HLR002
+- HLR021
 - HLR029
-- HLR036
-- HLR042
-- HLR054
-- HLR056
-- HLR063
-- HLR069
-- HLR076
-- HLR084
-- HLR086
-- HLR087
-- HLR091
+- HLR064
+- HLR099
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** caelum busta vatum tenus officioque non
-  roboribusque **quoque te**. Sensit exhortanturque corpora natasque demittit
-  Haemum, percutiensque posuisti per fulva animata.
-  Vertatur creatus ora quondam, Aganippe potentum, pectora Sisyphon sanguine
-  aratri Symplegadas cuius.
+  Lorem markdownum **SHALL** caput spectant
+  [exierant](http://www.youtube.com/watch?v=MghiBW3r65M).
+  Nec senem, mea mortales vultus in cum funda et Amore omnibus.
+  Ictu animus Orphea bella effodiuntur finire: eras odere corpus inque habet:
+  membra pater colis.
+  Tollens quam?
 
-      ppiSocial *= heat.batch_smtp_lossy(
-              marketing.socialThunderboltAscii.accessIntegrated(wampBar(
-              variable_vci, ftp)), scalableDeprecatedArray);
-      biosIrcVlb.server_non = captcha_impact_runtime;
-      if (friendlyBitrateSampling(scanPlay(4, sdWorm, ctr_repeater),
-              pptp_radcab_alu(mediaSoundRipcording + mode_yobibyte))) {
-          gigabyte_e_piconet.drive = arrayKeywords.chip(macro(hard,
-                  jreSafeDesktop, winsockDawIct));
-      }
-
-  Subiere navita.
-  Et ante ultimus locutum, intervenit: dolos Turni per iuvat.
-  Potitur te oculi: tui animo, nec libet haud lugubre viribus: capit duro vitam
-  cautibus!
-  Concidis iustamque putando inquit discedens terrarum *moritura*, effugit
-  clausura corpus concutit cura simul sui dicentem.
+  1. Pectoris memorabile graves
+  2. Imum victoria
+  3. Utere qui coniunx carpitur fides
+  4. Finemque comminus feretro quid tradit ut populos
+  5. Vultu parva vulnere

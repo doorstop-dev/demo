@@ -1,28 +1,14 @@
 active: true
 derived: false
-level: 6.5
+level: 5.1
 links:
-- LLR057
+- LLR005
+- LLR013
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum spatium de ferri
-  [mea](http://en.wikipedia.org/wiki/Sterling_Archer): ab coniugii ratis,
-  religatus me sine qua, cibus, servatoque, sumptas.
-  Pedes notum, sonus Hecate; unus amnis venenis plus Cercopum, miserae.
-  Falcis **maciem** ab est frondere pigris.
-  Mortalia ira subsidit movere apta quem brevis *aras regnum*; tuum tutos
-  Ledam: quod pendentibus. *Quem dea* Cereremque haec forte inposuit vixque
-  animis ilex quoque placare **de** agit inpietatis, sibi bellum?
-
-  - Deo et eram tam
-  - Procorum volucris illi iuvenem
-  - Quem lumina arboreis
-
-  Clymeneia Astyanax ferox levatus praedator et venenis ferro **gemitus**, in
-  miracula rigido.
-  Auro vident **peperisse inpulsu** diuque ipsa; quoque, Dianae.
-  Penates partus fruentur in arma ad deus auras et tamen videor.
-  Aut et etiam et Alcidamas solvit, enim medio suarum, armataque.
-  Incomitata inprudens inpune intertextos unde; partu ante penna clamore
-  coniugis velox: heres navis, indeploratum quam conveniunt.
+  Verify lorem markdownum trahit ab [hic aves](http://news.ycombinator.com/) ad
+  iamque Eurydicenque urbes retinebat.
+  Perire **visae**, pendentis, quid illuc: est Bacchi **inbelle**. Vitisque
+  precibus ultime occupat, axes nec facis, est fallere **digitis** in voces
+  crescere Capitolia clavam.

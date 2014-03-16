@@ -1,27 +1,20 @@
 active: true
 derived: false
-level: 5.1
+level: 8.3
 links:
-- HLR022
-- HLR025
-- HLR029
-- HLR030
-- HLR033
+- HLR011
+- HLR069
+- HLR094
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** oculi.
-  Dum foret ille temperat lingua tempore, circumdata suamque quotiensque auras
-  praetemptanda.
-  Ecce auctor armatosque atque, Parin ramis reposco viriles mens non die, tela
-  moderamina **fit aliis** huic.
-  Semiramio pro tibi timorem: dilexisse ne pater ille magnis domus, et vultus
-  preces Orionis multo undae?
+  Lorem markdownum **SHALL** miratur!
+  Pennas vini dedit meorum, et est **pingue** Rutuli vias *metuendus*! Numquam
+  simul illo Talia guttura, fluit.
 
-  Parente est parat meis volucrem expellitur cum qui gradu iterum inmortalis
-  equique ter cibos moenibus.
-  Duris et est errandum Alcyone natam.
-  Nostri *atris nullisque* oblitae Marte violasse glaebam.
-  Vires adest faciam et habebam Atlas positoque legi.
-  Ora qui ferinas flavam tamen coniunx ducebat sed **Castrumque aequor
-  contraxerat**.
+  1. Deae qui tot altum pia ligavit restitit
+  2. Processisse sonum
+  3. Pretium umbrosaque videns in medio
+  4. Curis ex ipso
+  5. Quadriiugo multo innectite menso
+  6. Hic dubita moenibus notum hoc aut miserabilis

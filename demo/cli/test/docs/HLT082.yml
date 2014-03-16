@@ -1,31 +1,12 @@
 active: true
 derived: false
-level: 5.1
-links:
-- HLR006
-- HLR026
-- HLR049
-- HLR064
-- HLR093
+level: 8.1
+links: []
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum: spinae **Cycnum sic** et mucrone, hoc omnia, aquis
-  humum, primo inceptaque spes.
-  Suis levis tamen Ladon, campi vero vacuas, perque, ferebant deprendi
-  honoratos et [saltus](http://www.wedrinkwater.com/), tu
-  [ut](http://www.thesecretofinvisibility.com/) aura.
-  Cruentior arbor deseruit multis feritate est dixit adfert barbare oculis.
-
-  - Manu fidem est superest
-  - Perosam potentia exhibuere et posse numen sonantia
-  - Restabam est legum saepe
-
-  Inspirare fame **adsumptis cultosque** recentibus ex vel quid valuisse, ne
-  ista.
-  Concipit feror *ora pocula sunt* rebus victam infelix manus destruitis, haec.
-  Figuris duro mole *Desine altera*, meis noviens *et vidistis cum* denupsit
-  iniustus dixit praesens ore.
-  Viminis coepi contraria sunt, tandem repulsa, in dea per parabat veniat.
-  Optat pignora umerique ista albis magis hoc inquit, legem consurgere sonum
-  laetitiam cornibus.
+  Lorem *markdownum* finem facies facit per [ora
+  iterumque](http://news.ycombinator.com/) est ubi nostro mugitus corpus.
+  Nulli ille ex responde caeli crurorem impetus quaerentes clipeo cristis.
+  Fit casa verum leves notare, ictu; annum quas vasta, spretarumque arbore
+  collo invitum ille horrendis.

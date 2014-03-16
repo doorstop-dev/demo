@@ -1,36 +1,14 @@
 active: true
 derived: false
-level: 12.1
-links:
-- LLR017
-- LLR025
-- LLR027
-- LLR041
-- LLR047
-- LLR049
-- LLR065
-- LLR084
-- LLR102
-- LLR106
-- LLR108
-- LLR139
-- LLR141
-- LLR173
+level: 5.1
+links: []
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum tectis, [superque](http://www.wedrinkwater.com/)
-  altera sub, vigor!
-  Sedes a corpus, sub acumine, caelumque oneratos satis tanta respondit?
-
-  - Maris tamen adfectasse ut Munychiosque illic intacta
-  - Imumque torta
-  - Et quoque inutile
-  - Oculos Pelion manus
-
-  Valent suis; nec pavet et animo parvi Minos genitor spectare genitore umbra,
-  iura nec Semiramis summo; vultus.
-  Similisque Orpheus enim a miratur, indignis quid, non cruor coniugiumne,
-  divumque comitem moriens ne inopes cernens, murum.
-  Imago lingua et nostro mente curam.
-  Trementi aeris?
+  Verify lorem markdownum quid, *sibi quid gelida* Tanais, **flebile concipit
+  litora**. Veri celeberrima bene exitus dederam certior; nec questa, est
+  quippe, [huc](http://textfromdog.tumblr.com/) alvum color, teloque.
+  Matertera adloquitur, decrescentibus incipit altaria agitataque laborent
+  terga; ad non freta si urbem lacertis, est.
+  Voce sine de quam Olympi quoque illa pars: inque est.
+  Classis celebres memores.

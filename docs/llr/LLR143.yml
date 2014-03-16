@@ -1,33 +1,19 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR001
-- HLR003
-- HLR005
-- HLR006
-- HLR015
-- HLR016
-- HLR017
-- HLR020
-- HLR023
-- HLR029
-- HLR036
-- HLR043
-- HLR053
+- HLR046
+- HLR060
 - HLR061
-- HLR065
-- HLR067
-- HLR071
-- HLR076
-- HLR090
-- HLR094
-- HLR096
-- HLR100
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** insequitur refers aditus ab me, deae fumi: nam
-  Pindo remis, vires teque liquidis crimine.
-  Vitat quamvis calamus laedit turbineo, placet qui annis prima acrior
-  Atlantis, transibant cavo cum sparsumque, non.
+  Lorem markdownum **SHALL** stimulos umbras, qui sinit inscribit delusum
+  ululavit in operisque nostrae tenetque animos incerti, prosecta; in.
+  Quam animosque iram tollere, attonitos praecipue illum et *peregrinaeque et
+  tecta* tamen, audacissimus fores.
+
+  - Qui nato quae pependit
+  - Dato hunc ut adeunt quoque
+  - Legi praeter
+  - Argenteus tergo

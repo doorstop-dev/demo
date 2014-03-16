@@ -1,47 +1,14 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR014
-- LLR016
-- LLR018
-- LLR024
-- LLR035
-- LLR047
-- LLR052
-- LLR055
-- LLR057
-- LLR063
-- LLR067
-- LLR073
-- LLR075
-- LLR079
-- LLR080
-- LLR085
-- LLR110
-- LLR122
-- LLR123
-- LLR135
-- LLR137
-- LLR151
-- LLR153
-- LLR155
-- LLR161
-- LLR167
-- LLR170
-- LLR173
-- LLR187
-- LLR191
-- LLR194
+- LLR012
+- LLR020
+- LLR140
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum arbore mando?
-  Esto saepe Saturnia scelerato piget digitosque care et gutturaque praemia
-  opus enses.
-  Iuvenum cruentum amorem me solacia requiemque potest caelataeque regna adhuc
-  habitant glomerata.
-
-  - Tamen quid deorum rostro imagine Bacchum mortale
-  - Iter in pignus Amor portat
-  - Ripam usus inhonorati recessit et nova fugis
+  Verify lorem markdownum os Troiana, nec nostra Cinyra, illis, bene circa.
+  Letiferis traharis hac dumque, confessaque perdes precatur, fruge, ante quae.
+  Illius desectum valles ab crudele loqui; causam miscentem relinquit potentem:
+  locus patri Thracesque.

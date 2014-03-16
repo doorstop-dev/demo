@@ -1,36 +1,28 @@
 active: true
 derived: false
-level: 5.1
+level: 6.5
 links:
-- HLR003
-- HLR004
-- HLR015
-- HLR017
-- HLR018
-- HLR022
-- HLR023
-- HLR024
-- HLR034
-- HLR038
-- HLR055
-- HLR056
-- HLR058
-- HLR060
-- HLR061
-- HLR064
-- HLR070
-- HLR071
-- HLR079
-- HLR081
-- HLR084
-- HLR085
-- HLR090
-- HLR091
-- HLR092
-- HLR096
-- HLR099
+- HLR046
+- HLR049
+- HLR080
+- HLR086
+- HLR087
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** forte. *Emicat sed inlita* rude certe male nomen
-  factaque Iunonis: crine, est clipeata o nostras.
+  Lorem markdownum **SHALL** saevum qualesque videt et **pondus**, luna
+  **abit**. Quanto [Arcade](http://zeus.ugent.be/).
+  Visa rapta [Titania](http://landyachtz.com/), me uno fontis, in tauri
+  autumnos **aristas adicit**. Albentibus **lepores tosta** sua dubitabilis
+  citra adunca.
+  Mea his potiere Attis dum canis caelo *conplectens credere spoliare*, iurabat
+  violesque.
+
+  Virgineam faces spatioque remis relictas nunc Venerem tum minus via decipiet
+  dixit telum ignibus potes nate, vino.
+  Ubi vidit **ire**, deus placidis susceptaque vocis fallere placet anni, nuda
+  unda falsis et quo numen et voce.
+  Est exsecratur Quae, fuissem soror, sine certaque.
+  Meis non vulnera ille ede [nivea](http://twitter.com/search?q=haskell) altera
+  dixit.
+  Sine tereti perspicuus artus.

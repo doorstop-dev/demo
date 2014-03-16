@@ -1,64 +1,16 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR001
-- HLR002
 - HLR011
-- HLR012
-- HLR014
-- HLR015
-- HLR017
-- HLR019
-- HLR023
-- HLR026
-- HLR031
-- HLR036
-- HLR037
-- HLR038
-- HLR040
+- HLR024
+- HLR032
 - HLR043
-- HLR044
-- HLR046
-- HLR049
-- HLR051
-- HLR052
-- HLR054
-- HLR055
-- HLR056
-- HLR058
-- HLR059
-- HLR060
-- HLR062
-- HLR063
-- HLR065
-- HLR069
-- HLR070
-- HLR073
-- HLR081
-- HLR085
-- HLR093
-- HLR094
-- HLR097
-- HLR099
+- HLR067
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** arma narretque vix, pudoris.
-  Illiusque aequora ab premit video cum **intrat casus spectante** fontes.
-  Viri neque, viros dextro latebras, moras urbi est profusis nec.
-
-  1. Modo potest
-  2. Ornatos lyncas postquam
-  3. Sacrificos belua
-  4. Flectitque iuvencae verba
-  5. Vocatus fertur tum
-
-  Timide hastae apertum vir et ter meque sagittas ille at ortus.
-  Illa prior, guttura mea membra amicitur hastile: anni terrae velle dixit coma
-  ferarum *murra arva* rupit?
-  Sequentia medio; et manabant putat posita.
-  Ituras coniunctaque quisquis talia **captus fuit** prior corpus quod
-  adolescere, pectore et modo quodque, *an* procul gaudens inposuitque.
-  Aegide praetentaque alta credant praesagia filius fratrum fessa liquidarum
-  exsultat patres, qua.
+  Lorem markdownum **SHALL** tamen pectora essent.
+  Illa sacra peioris dolore transformata interea tellusAndros pars praecordia
+  referam; mox potuit mandata naribus.
+  Hunc prima incesto artesque tenore peregrino operisque et cineres roganti.

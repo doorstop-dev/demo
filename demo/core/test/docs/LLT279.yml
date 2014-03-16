@@ -1,35 +1,15 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR014
-- LLR022
-- LLR024
-- LLR030
-- LLR036
-- LLR062
-- LLR073
-- LLR074
-- LLR076
-- LLR095
-- LLR118
-- LLR121
-- LLR125
-- LLR131
-- LLR136
-- LLR138
-- LLR149
-- LLR152
-- LLR154
-- LLR155
-- LLR169
-- LLR175
-- LLR183
-- LLR189
-- LLR197
+- LLR009
+- LLR106
+- LLR127
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum leges laniavit, quoque quae solvit mox certe illi
-  totidem.
-  Et quondam currus, dona ignoscite condita, protinus partimque decoro.
+  Verify lorem markdownum carmen; innixus agros, celebrandaque erat incunabula
+  temone ingenio et poenas bipennifer, possim rescindere ferar tempora.
+  Et artes lectus inritamenta dolore minatur et nec exempla *nunc*. Mihi invita
+  [quin isque](http://en.wikipedia.org/wiki/Sterling_Archer) anhelos sensus
+  erat haec Caicus plenum est ridet.

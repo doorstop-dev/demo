@@ -1,33 +1,13 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR009
-- HLR014
-- HLR020
-- HLR028
-- HLR029
-- HLR030
-- HLR031
-- HLR035
-- HLR045
-- HLR052
-- HLR055
-- HLR066
-- HLR068
-- HLR069
-- HLR071
-- HLR073
-- HLR077
-- HLR080
-- HLR083
-- HLR087
-- HLR092
-- HLR096
+- HLR026
+- HLR088
 - HLR097
-- HLR099
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** cruor.
-  Colla quo stramine et inque.
+  Lorem markdownum **SHALL** [feret](http://www.thesecretofinvisibility.com/)
+  gnatae vel medii, innixus resolvit, cum **nefas cum**. Tota per harum quibus
+  rictus.

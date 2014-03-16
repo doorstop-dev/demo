@@ -1,54 +1,28 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR003
-- LLR004
-- LLR008
-- LLR011
-- LLR014
-- LLR022
-- LLR023
-- LLR030
-- LLR052
-- LLR054
-- LLR058
-- LLR061
-- LLR062
-- LLR064
-- LLR065
-- LLR068
-- LLR075
-- LLR078
-- LLR080
-- LLR081
-- LLR085
-- LLR087
-- LLR088
-- LLR096
-- LLR102
-- LLR116
-- LLR124
-- LLR130
-- LLR136
-- LLR142
-- LLR149
-- LLR156
-- LLR165
-- LLR166
-- LLR175
-- LLR178
-- LLR181
-- LLR184
-- LLR190
-- LLR191
-- LLR197
+- LLR012
+- LLR072
+- LLR089
+- LLR157
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum secum deum, umbra aut lux liventia Ausonias, nil dum
-  tectus.
-  Sequendi imago; si quod es seri nigrum, dum qui adventare in.
-  Quod fune; Cipus Balearica crura sua vinctum!
-  Pudibundaque regis pharetram venientique multa et positis saxa *quater*,
-  vidit, intellege.
+  Verify lorem markdownum forma inhospita nulla adspice!
+  Hebes ora et vos urbes **nunc Alcides** et discriminis **vocor ne** vasto et
+  unguibus luxuriare viro!
+
+      var trinitron = typefaceClickWeb(ppi_encoding, text_frozen_cd);
+      var shortcutBoxCcd = output(23, irq + file, defragment_dll_crossplatform(
+              friendly, hoc_mnemonic(blobMtuDisk, 1, 1), reimage_key_windows));
+      quicktime_reality_word *= router_intranet_station;
+      var laptop = wirelessRaster;
+      var cable = 71;
+
+  Unda exuviis ferit haec quae timor, doce o *solae* templis: populoque navem.
+  Oraque rus utque fors [Myrrha](http://www.metafilter.com/).
+  Sit haec corpore malo contingere aestus.
+  Parientis laeva in cultros altum quamquam erat qualescumque enim furores
+  fertur.
+  Strictique nomina nitidam longusque me *nondum et quodvis*!

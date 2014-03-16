@@ -1,23 +1,18 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR002
-- HLR013
-- HLR045
-- HLR053
-- HLR054
-- HLR066
-- HLR078
+- HLR067
+- HLR069
+- HLR088
+- HLR090
 normative: true
 ref: ''
 text: |
-  Lorem [markdownum leves](http://landyachtz.com/).
-  Ulla astra parce, Aesone, quadrupedes mirabile natam.
-
-  1. Filia velis tamen
-  2. Nec Circe terram
-  3. Aura clara visum nostra
-  4. Procrin suisque quae ictus
-  5. Dies natus cetera procul per talibus
-  6. Palustres pulvere quam eram prora dedecus feret
+  Lorem markdownum **SHALL** et magni lutulenta cornua et caudaque monstris
+  matris: quem.
+  Movet populos daturum simul opibus, hic sic ad tremulis concussa et rogus
+  Aganippe partes sucoque se Aegeus se.
+  Trahi fila lacus exstinguor artus, hi ipse, quod parta.
+  Alumni aggeribus omnes tenui dixit Byblis, aere nymphas *Latia* ultaque canes
+  ita implevit [verterit cinximus tuta](http://tumblr.com/).

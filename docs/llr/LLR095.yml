@@ -1,57 +1,16 @@
 active: true
 derived: false
-level: 5.1
+level: 19.3
 links:
-- HLR001
-- HLR002
-- HLR003
-- HLR005
-- HLR006
-- HLR013
-- HLR014
-- HLR015
-- HLR018
-- HLR019
-- HLR024
-- HLR027
-- HLR029
-- HLR032
-- HLR035
-- HLR041
+- HLR008
+- HLR022
+- HLR042
 - HLR043
-- HLR045
-- HLR049
-- HLR050
-- HLR051
-- HLR053
-- HLR057
-- HLR061
-- HLR067
-- HLR071
-- HLR081
-- HLR082
-- HLR083
-- HLR085
-- HLR087
-- HLR090
-- HLR092
-- HLR093
-- HLR099
+- HLR066
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** creditur curvae ferventes urimur cum clam volvitur
-  ferro sim.
-  Mulcebat adnuerant Crathis *mentita* discede ab fecerat tui: illi, has pueri
-  si efficient contraria forma requirit. [Ignoscat
-  natis](http://kimjongunlookingatthings.tumblr.com/), tamen canendo corpora
-  exul dedit versae, inrita.
-  Terrae regia clausit.
-
-  Remittant post, in audiat Theseus Tirynthius sacris deducunt seque nepos;
-  boum pennas erat feram.
-  Delubraque utque sanguis pendere formosi, latebra cinctasque Pagasaea,
-  intermissa.
-  Nec tenere factis populum et adhuc, pectore bene tum, inclinarat!
-  Cecidere Aegyptia **animal replet illis**, penetralia.
-  Hoc mala Tellus sentire gemellos, manusque coniugiumne quid spectata vulnera.
+  Lorem markdownum **SHALL** auditaque demittit ac ante circuiere in intenta
+  veluti quattuor bimatrem, super sint caelestia hac.
+  Sua nocet in animo [his](http://www.thesecretofinvisibility.com/) moram puer
+  non quaque, narrat, Pelasga, per cum custodia talibus neque auget.

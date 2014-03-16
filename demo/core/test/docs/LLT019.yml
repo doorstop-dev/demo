@@ -1,53 +1,13 @@
 active: true
 derived: false
-level: 4.2
+level: 5.0
 links:
-- LLR017
-- LLR031
-- LLR049
-- LLR070
-- LLR073
-- LLR095
-- LLR107
-- LLR114
-- LLR115
-- LLR116
-- LLR134
-- LLR136
-- LLR151
-- LLR158
-- LLR173
-- LLR187
-- LLR188
-- LLR191
-normative: true
+- LLR008
+- LLR063
+- LLR139
+- LLR186
+- LLR199
+normative: false
 ref: ''
 text: |
-  Verify lorem markdownum bella meorum clamore et quaesita maternae opta
-  maternae praelata.
-  Aetas agebat daedalus precatur *detis*, aut inmiti Lycia igne nymphae patriam
-  perque, ad parte et?
-  Quosque nomen possideat freta onerataque fugis, signa repetens **inrita ut**
-  fallite.
-  Tophis stabula.
-  Nescimus non missa effervescere mille bracchia nervis, opus varios similisque
-  sumere silentia.
-
-      if (atmLink.snapshot_wildcard_error(unfriendPython, 18)) {
-          drive_console_art = processorPingEncoding;
-      } else {
-          malware += ldap_cd_character;
-      }
-      var asp_activex = leopardMemoryPassword(masterDigitalUser,
-              multiplatform_menu);
-      switchAnalog(ecc(checksum_sku, drag_software_play(mac_vram, dialog,
-  core),
-              2), 24386);
-
-  [Sociamque](http://jaspervdj.be/) una *turbinis cui* omnibus inponit.
-  Exaudire fallor **spiramenta**, erat dum appellat illam Niobe eiectas
-  nomenque.
-  Est fuissem et *leonum Aeacidis*. Suo caede utrumque invitat danti deplanxere
-  refert, fert quo causa noctis cruribus tu. *Graios proturbat Cipus*
-  adspergine laetitiam in poscimus coniunx: nactasque potentia **Phoebe
-  fluentibus** totumque simul Peneos gerentem testata!
+  valle iubendo stetit sit patet

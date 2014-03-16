@@ -1,33 +1,10 @@
 active: true
 derived: false
-level: 5.1
+level: 8.0
 links:
-- HLR001
-- HLR004
-- HLR006
-- HLR007
-- HLR010
-- HLR014
-- HLR019
-- HLR020
-- HLR027
-- HLR030
-- HLR031
-- HLR032
-- HLR034
-- HLR041
-- HLR058
-- HLR064
-- HLR068
-- HLR073
-- HLR081
-- HLR082
-- HLR084
-- HLR092
-- HLR093
-normative: true
+- HLR075
+- HLR086
+normative: false
 ref: ''
 text: |
-  Verify lorem markdownum examinat sedibus.
-  Nec denupsit manus pallam verbis agunt negaretur, more quod.
-  Morientes versantes et agit.
+  funus odiumque

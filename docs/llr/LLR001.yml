@@ -2,45 +2,9 @@ active: true
 derived: false
 level: 1.0
 links:
-- HLR002
-- HLR004
-- HLR005
-- HLR006
-- HLR009
-- HLR010
-- HLR013
-- HLR018
-- HLR021
-- HLR023
-- HLR027
-- HLR030
-- HLR031
-- HLR034
-- HLR037
-- HLR043
-- HLR055
-- HLR056
-- HLR057
-- HLR058
-- HLR059
-- HLR060
-- HLR062
-- HLR071
-- HLR072
-- HLR074
+- HLR026
 - HLR075
-- HLR077
-- HLR083
-- HLR084
-- HLR085
-- HLR086
-- HLR090
-- HLR092
-- HLR093
-- HLR096
-- HLR097
-- HLR100
 normative: false
 ref: ''
 text: |
-  horrendum tumescunt
+  honorem Manu erat agilis ad inflataque humili contrahiturfacundia

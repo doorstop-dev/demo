@@ -1,31 +1,16 @@
 active: true
 derived: false
-level: 5.1
+level: 23.2
 links:
-- HLR002
-- HLR005
-- HLR008
-- HLR014
-- HLR029
-- HLR042
-- HLR047
-- HLR052
-- HLR055
-- HLR058
-- HLR070
-- HLR074
-- HLR077
-- HLR079
-- HLR092
-- HLR093
-- HLR094
-- HLR098
-- HLR099
+- HLR020
+- HLR035
+- HLR080
+- HLR081
+- HLR089
 normative: true
 ref: ''
 text: |
-  Lorem *markdownum* aliquos Cinyphius tandemque, tacito Hesperio victoria
-  albo.
-  Extulit cum, qui equorum illic: verba aestu; qua mihi?
-  Mare siquem de sponte neque perveni, fassurae in dabat sollicitumque plebe
-  iratus primas.
+  Lorem markdownum **SHALL** noctis vidisse parma pia quodque nymphae intendunt
+  [orbem](http://haskell.org/).
+  Quoque quae ipse discordia virgine porta dapibusque vel idque currus est
+  temporis posse.

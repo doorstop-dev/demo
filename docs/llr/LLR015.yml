@@ -1,46 +1,22 @@
 active: true
 derived: false
-level: 3.4
+level: 3.7
 links:
-- HLR003
-- HLR004
-- HLR006
-- HLR007
-- HLR011
-- HLR014
-- HLR015
-- HLR021
-- HLR029
-- HLR032
-- HLR033
-- HLR034
-- HLR037
-- HLR039
-- HLR044
-- HLR046
-- HLR048
-- HLR054
-- HLR061
-- HLR064
-- HLR068
-- HLR073
-- HLR079
-- HLR083
-- HLR084
-- HLR085
-- HLR089
-- HLR090
-- HLR093
-- HLR098
-- HLR100
+- HLR051
+- HLR052
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** dextraque horridus videri occupat.
-  Quoque rursus usus ire diruit iuvenca, vultumque *turba adhuc* aliter
-  inmiscuit at semine ipse magis alienae uritur.
-  Imo ne Persei visum ripis silentum luctu, ecce, *ferro* in tu rapuit frustra
-  quondam; rapitur.
-  Iactatam plenaque crede, petentia ingenti [frugum Gryneus
-  dixit](http://en.wikipedia.org/wiki/Sterling_Archer) ab parentem muneris
-  fungi, regisque Phoebe.
+  Lorem markdownum **SHALL** **steriles**, virgineos
+  [inpulit](http://haskell.org/) in dearum munera, media excipit; nec *ut*
+  cecidisse.
+  Turbae comminus latentes in urbes abdita *relicta adicit ferventia*! *Nimium
+  ipso stellatus* stillanti temporis utque anhelis mutataque poma sua
+  potuissent et colorum collegit.
+  Molibus pererrat moratus parentis obortae?
+
+  - Sequeretur officioque taurum
+  - Geminique quod bimatrem inquit
+  - Formosissimus alis postquam bello percutiensque terra cedere
+  - Verbaque refero
+  - Marito procul fornace a gravi vix corpora

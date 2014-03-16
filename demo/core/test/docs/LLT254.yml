@@ -1,48 +1,19 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR016
-- LLR020
-- LLR024
-- LLR028
-- LLR036
-- LLR043
-- LLR048
-- LLR049
-- LLR057
-- LLR058
+- LLR029
+- LLR054
 - LLR060
-- LLR062
-- LLR065
-- LLR074
-- LLR075
-- LLR077
-- LLR080
-- LLR110
-- LLR129
-- LLR135
-- LLR137
-- LLR151
-- LLR153
-- LLR163
-- LLR169
-- LLR170
-- LLR174
-- LLR183
-- LLR184
-- LLR185
-- LLR188
+- LLR126
+- LLR138
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum lucus nil **est** turaque utque.
-  Tirynthius unusque sed ignis petens curvamina.
-  Utere sua cornua gladium [figuras](http://news.ycombinator.com/) contigit,
-  excipit omnis, habet Philemon in.
-
-  1. Carmina prius pectore
-  2. Ego certate in avus plenum abstemius caligine
-  3. Iacere tuta suscipimus siccis namque cacumen par
-  4. Repetatne aura aggere arma illa adopertaque foret
-  5. Nec qua vituli in ulnis aut flumina
+  Lorem [markdownum](http://landyachtz.com/).
+  Artus vates extulit annum nulla stantes matresque ut Herse Lyncides sive cum
+  meriti.
+  Es illic fuit fumantia suis vitiatas damnasse fletque posse non:
+  [o](http://haskell.org/) tabe **suos verba** Schoeneia.
+  Fecerat Cephea ortus, dives tamen percusserat hac tollite tamen guttura
+  viribus velint: Apidani.

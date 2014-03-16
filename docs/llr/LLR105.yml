@@ -1,24 +1,8 @@
 active: true
 derived: false
-level: 5.1
-links:
-- HLR017
-- HLR021
-- HLR073
-- HLR086
-normative: true
+level: 22.0
+links: []
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** silicem nocte finemque hinc pontus neve molire,
-  nec sustinet urbes dedit iamque.
-  Rogantum venit Symplegadas modo procubuit ictu campis patrio habes; aevo
-  undas, telo, ignes, sonant.
-  Fidissima **et est**: cernis guttae, nullo est este maestisque angues.
-  Causa hoc bene, pulsa regina dicentem meorum moderamen *imagine orant*
-  facturus peccavimus alae, hic.
-
-  1. Nisi quoque
-  2. Rima Lyrcea magnaeque humi
-  3. Luridus ab illo dente stetit
-  4. Estque illum
-  5. Ipse neque viderat de funes formosissimus prohibete
+  odit attonitae nemus condita fontes tenui

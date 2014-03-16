@@ -1,28 +1,10 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR004
-- HLR016
-- HLR022
-- HLR028
-- HLR029
-- HLR038
-- HLR039
-- HLR040
-- HLR043
-- HLR048
-- HLR060
-- HLR078
-- HLR083
-- HLR092
-- HLR096
+- HLR018
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum percensuit dente Tridentifer micantes carmine *suos*
-  cum aquas arce nympha lentas! [Quantum](http://reddit.com/r/thathappened) cum
-  noxque fortis valeant pars est in animosa [loquax
-  egressus](http://imgur.com/)!
-  Dum cernit; audet non imago nervis spectat et auso.
-  Eripe simulaverat quoniam molli.
+  Verify lorem markdownum ferunt.
+  Ad manu puto Pelion petit si viderent densi Androgeique mente, videre?

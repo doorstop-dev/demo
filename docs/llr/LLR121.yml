@@ -1,23 +1,11 @@
 active: true
 derived: false
-level: 5.1
+level: 23.8
 links:
-- HLR021
-- HLR024
-- HLR025
-- HLR026
-- HLR027
-- HLR035
-- HLR046
-- HLR056
-- HLR065
-- HLR067
-- HLR077
-- HLR094
-- HLR098
+- HLR005
+- HLR083
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** omnes rapere *caeso mira rostrum* sitim: has sic
-  inde *qua*. Mittit qui medioque erexit humo ex verti Penthea nisi.
-  Pia quid dominatur convertit tutam sacrilegae populis carmina.
+  Lorem markdownum **SHALL** picto.
+  Insidias quaeque respicio perdam.

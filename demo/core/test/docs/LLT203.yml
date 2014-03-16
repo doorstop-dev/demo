@@ -1,43 +1,25 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
 - LLR001
-- LLR009
-- LLR014
-- LLR015
-- LLR021
-- LLR023
-- LLR025
-- LLR034
-- LLR043
-- LLR048
-- LLR052
-- LLR053
-- LLR070
-- LLR110
-- LLR113
-- LLR117
-- LLR121
-- LLR144
-- LLR150
-- LLR157
-- LLR159
-- LLR161
-- LLR169
-- LLR171
-- LLR172
-- LLR174
-- LLR179
-- LLR182
+- LLR139
+- LLR193
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum canem sed: auctorem sidoniae tot falle caput?
-  Melius peractum vidit illis in cribri per, inplevit.
+  Verify lorem markdownum vacca.
+  Dicione ait nymphae agros incunabula pectora me ecquid, propior non pectore
+  hostesque de album flector: ursa.
+  Cetera subtexere praemia dicenti primum mortis iam sint a quos, arbor
+  excusantia.
+  Nec inventos rapitur curvavit proles petiit vires victor in
+  [vocoque](http://news.ycombinator.com/) Hectore!
 
-  Commemorare fatebar vipereos capillos nullaque **Paridis**! Deum vigor,
-  velint educere aliquid undas, damnosa puppibus.
-  Canes certa.
-  Nec tuo gaudia corpora supplicium remeasse tellus regnique festinat *minari
-  femina* efficiet summam lux, iam pars, satyrique eras!
+  In bella iunxit pariter in stagnumque iuvenum vecordia inde *ulcisci inveni*.
+  Hic Oetaeus quaeque inmanis, et potest!
+
+  1. Sacroque Tritonia
+  2. Mala morati instar deus languescuntque fulmina undis
+  3. Quam amor pati utere
+  4. O suo

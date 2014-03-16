@@ -1,37 +1,13 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR008
-- LLR012
-- LLR021
-- LLR035
-- LLR043
-- LLR048
-- LLR072
-- LLR080
-- LLR084
-- LLR091
-- LLR102
-- LLR105
-- LLR109
-- LLR114
-- LLR135
-- LLR143
-- LLR157
-- LLR169
-- LLR170
-- LLR178
-- LLR179
-- LLR183
-- LLR184
-- LLR187
+- LLR007
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum litis paelice, stipite, has dum verba: maiora
-  sanguine.
-  Vir celer, Latous **ergo natasque** valens acrior in videndi cumulo moenia
-  quos; an exigit languor.
-  Stravit nusquam minuunt marmore sertis curasque primusque si maiestas
-  ululasse: senes vacat, fontes.
+  *Lorem* markdownum quoque et malis *supplex molli*, ventos maior, incipit?
+  Totidem fictos.
+  Verba tibi pars canendo sustulerat potestas auctor esset salutem vocem, apro?
+  Debet mox [de est](http://news.ycombinator.com/) sonitum ego alios ducitur
+  caede census memoraverit suo quod, saxa.

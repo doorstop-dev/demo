@@ -1,43 +1,20 @@
 active: true
 derived: false
-level: 12.0
+level: 5.1
 links:
-- LLR019
-- LLR020
-- LLR024
-- LLR028
-- LLR029
-- LLR031
-- LLR035
-- LLR036
-- LLR037
-- LLR038
-- LLR042
-- LLR050
-- LLR055
-- LLR068
-- LLR076
-- LLR083
-- LLR085
-- LLR088
-- LLR093
-- LLR097
-- LLR102
-- LLR105
-- LLR113
-- LLR120
-- LLR132
-- LLR136
-- LLR154
-- LLR161
-- LLR163
-- LLR167
-- LLR168
-- LLR169
-- LLR170
-- LLR182
-- LLR189
-normative: false
+- LLR060
+- LLR145
+normative: true
 ref: ''
 text: |
-  venatu Athenae primoque quoque secundas quidemittitehttpwwwwtfplnet Mihi meae
+  Verify lorem markdownum amnes.
+  Ora fata o virgo nomen Adonis dignus inposito, ad flores sanguine Tritonia
+  Hyperionis?
+  Undas si nihil Lapitharum et infamis primus patriisque narrat, solvit.
+  Et uterque vota nec temeraria quaque iners [mentis](http://example.com/)
+  dives ibant tepidi, abest lina saxaque **si**.
+
+  1. Alis ad fecere de lumina nimbos est
+  2. Moriensque obvertere
+  3. Sed liquidas sacer Hyacinthon neganda pulchra
+  4. Minervae fraterque et soror inbellemque ignarus pueri

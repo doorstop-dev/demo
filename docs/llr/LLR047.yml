@@ -1,44 +1,17 @@
 active: true
 derived: false
-level: 5.1
-links:
-- HLR003
-- HLR009
-- HLR016
-- HLR018
-- HLR021
-- HLR024
-- HLR028
-- HLR029
-- HLR031
-- HLR033
-- HLR035
-- HLR037
-- HLR039
-- HLR040
-- HLR048
-- HLR051
-- HLR053
-- HLR055
-- HLR056
-- HLR057
-- HLR061
-- HLR062
-- HLR065
-- HLR066
-- HLR077
-- HLR078
-- HLR093
-- HLR097
-- HLR098
+level: 9.3
+links: []
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** ipsa repperit fatifero Galanthis carpere accepit
-  tempore fatetur?
-  De parum, genitore tumultus *ut per* iam.
+  Lorem markdownum **SHALL** senis in, vera inde canebat miracula tamen nitorem
+  dextera rata Theseos?
+  Fixus tamen **videns**: fas *draconem facundus utque* et arma?
+  Iamque manebat: dixit umbras; libro die altera corpora: nec abiit nec iacebat
+  turba.
 
-  Miles isdem multa quae **mea solebat odium** limes suum pede?
-  Ab *dubiaque Themi* somnusque pugnant Delphice Pactolides media Ericthonio
-  inmenso et pectus crinis *cedere et sarisa* decorem properare tendentem.
-  Parente lacrimantem mundi.
+  Sumite pennis potentior obvia amentis, utar mala ite Niseia obtulit.
+  Tamen faces auxiliumque pinguesque Aoniis fuit quoque nescio, rursusque,
+  roseo iram honores!
+  Haustus Pyramus, poenae alta Aesonides castra Dulichium: iam gerebat ubi?

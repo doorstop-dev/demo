@@ -1,29 +1,20 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR006
-- HLR008
-- HLR009
-- HLR012
-- HLR024
-- HLR025
-- HLR038
+- HLR039
+- HLR043
 - HLR048
-- HLR062
-- HLR064
-- HLR069
-- HLR075
-- HLR100
+- HLR051
+- HLR057
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum quae Erebi ita genitum novas et [Aiacem cibos
-  Xanthique](http://example.com/) minus.
-  Manibusque convicia, Apidanosque pede includere meminisse illa communicat
-  turbant.
-
-  1. Tua pugnavimus laesi
-  2. Adulter onus haud carmine qua ruunt
-  3. Mea atque morerne odorant moror pecoris desilit
-  4. Placidum et Aestas carinas succendit idem
+  Verify lorem markdownum occidit ratem quibus illo.
+  Complexa o viret [fidem lingua](http://www.billmays.net/) mitte sinu Acasto
+  marmoreo vasti?
+  Hanc qui quid Lucifero tamen Athamanas patrios erat opaca mihi, et addere
+  herbosaque oculis praesensque soror!
+  Exstabant miratur levitas sed studiosius, teres bisque viae convicia
+  **fertur**: carpitur **avem**, caelo.
+  Fine tenet venit.

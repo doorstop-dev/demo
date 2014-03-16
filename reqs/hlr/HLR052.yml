@@ -1,53 +1,15 @@
 active: true
 derived: false
-level: 9.3
+level: 7.1
 links:
-- SYS002
-- SYS003
-- SYS004
-- SYS005
-- SYS006
-- SYS007
-- SYS008
-- SYS010
-- SYS016
-- SYS017
-- SYS019
-- SYS020
+- SYS013
 - SYS022
-- SYS024
-- SYS025
-- SYS026
 - SYS027
-- SYS029
-- SYS030
-- SYS032
-- SYS033
-- SYS034
-- SYS036
-- SYS037
-- SYS038
-- SYS039
-- SYS040
-- SYS041
-- SYS042
-- SYS043
-- SYS045
-- SYS046
-- SYS047
 - SYS048
-- SYS049
 normative: true
 ref: ''
 text: |
-  **Lorem markdownum **SHALL**** frondente, hamatisque esse herbosa telo qui
-  est tunc progenuit donis, cunas, litora.
-  Saxo vertitur pondera, lana suo positaque velo nec lente **essent illi**.
-  Rector spes sumptis nulla ante, scelerique galeae.
-
-  1. Germanae et lactea
-  2. Recisum plangore
-  3. Capiunt quam fieres adhuc ignibus ferus remittant
-  4. Promere radice summoque si cacumen lacrimas non
-  5. Hanc flamma laudis
-  6. Traderet blanditias violatus
+  Lorem markdownum **SHALL** simillimus videres tumuerunt, caelo illo multoque
+  **repetitaque** moles.
+  Fore iaculo Faunigenaeque quantum fertis manus aequalis, *nisi e* conveniunt
+  pullo namque an fruges!

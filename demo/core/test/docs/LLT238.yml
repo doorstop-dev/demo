@@ -1,33 +1,13 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR006
-- LLR009
-- LLR013
-- LLR038
-- LLR090
-- LLR107
-- LLR112
-- LLR122
-- LLR123
-- LLR125
-- LLR132
-- LLR140
-- LLR145
-- LLR157
-- LLR167
-- LLR176
+- LLR040
+- LLR055
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum licet.
-  Lumina et, dare nervo loca revocabile liquet frugum siluere est aurataque
-  [adduntque](http://www.thesecretofinvisibility.com/) bene accinctus
-  requiescit isque.
-
-  - Dicentem Glaucus barbae vasto furto consulat
-  - Enipeus illis
-  - Ephyre se mihi inrumpere nec vocis
-  - Vixisti voce licet amplectitur offensi Virbius
-  - Metus qui et corpus
+  Verify lorem markdownum rigidum at *placui*, nisi facite multorum, sed, et.
+  Deferre solvere castra, et orbe mox nam diversaque tamen ore: e florem,
+  subiecit me?
+  Cecidit **coloni**.

@@ -1,55 +1,15 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR001
-- HLR004
-- HLR007
 - HLR009
-- HLR011
-- HLR012
-- HLR015
 - HLR019
-- HLR021
-- HLR024
-- HLR025
-- HLR026
-- HLR030
-- HLR032
-- HLR035
-- HLR040
-- HLR041
-- HLR042
-- HLR043
-- HLR044
-- HLR050
-- HLR053
-- HLR055
-- HLR058
-- HLR060
 - HLR061
-- HLR066
-- HLR068
-- HLR070
-- HLR074
-- HLR076
-- HLR080
-- HLR083
-- HLR089
-- HLR090
-- HLR093
-- HLR095
-- HLR096
-- HLR097
-- HLR100
+- HLR084
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum, modo invidet madidis *telis*: culpae it.
-  Chordas Caeneus **me urbis sanguine**. Mors puer officio et et aperit dolore
-  thalamos equidem bracchiaque dixit primum?
-  Et qui potes meritum sonitu, qui sanguine monticolae et.
-
-  1. Falle quartus et horrida fulvis sic tamen
-  2. Abit caput faciat animos
-  3. Nec non nobis ait ignes liquitur imagine
+  Verify lorem markdownum sororum Philoctete natant truncos: eadem Iovis
+  cursus!
+  In quoniam potest, vos cunctas saetiger felices in diu, viderat, tenebrae
+  nuper.

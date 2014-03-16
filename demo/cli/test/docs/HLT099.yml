@@ -1,46 +1,18 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR004
-- HLR007
-- HLR010
-- HLR011
-- HLR013
-- HLR014
-- HLR016
-- HLR019
-- HLR020
-- HLR022
-- HLR024
-- HLR025
-- HLR034
-- HLR036
-- HLR040
-- HLR041
-- HLR046
-- HLR049
-- HLR051
-- HLR061
-- HLR062
-- HLR063
-- HLR064
-- HLR068
-- HLR069
-- HLR070
-- HLR076
-- HLR077
-- HLR081
+- HLR021
+- HLR042
+- HLR054
+- HLR065
 - HLR082
-- HLR084
-- HLR086
-- HLR088
-- HLR093
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum resides.
-  Altaque fecisse nectare, caruit floresque [exhalata
-  ceperat](http://html9responsiveboilerstrapjs.com/) temptabimus nocenti.
-  Et sonus Panchaeaque sic somnos cuspide: mora quibus duplex Dulichius formam
-  creatas dicta concutio.
+  Verify lorem markdownum cuive, est iam est armata quaecumque luminis, vestrum
+  dictis querorque nomina inprobe medullas cumque.
+  Deae subiecto, pomi post relanguit exstat nisi natae consistere oculos, rebus
+  **fecunda armenta poteris** spumantis tendat.
+  Caelestibus aestu; auro fuit adest de oras patrias supponere more commissaque
+  lacrimas miles corpusque nullo.

@@ -1,42 +1,18 @@
 active: true
 derived: false
-level: 12.1
-links:
-- LLR022
-- LLR023
-- LLR025
-- LLR041
-- LLR043
-- LLR058
-- LLR061
-- LLR079
-- LLR086
-- LLR095
-- LLR103
-- LLR112
-- LLR135
-- LLR136
-- LLR140
-- LLR158
-- LLR161
-- LLR163
-- LLR169
-- LLR173
-- LLR175
-- LLR177
-- LLR192
-- LLR195
+level: 5.1
+links: []
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum arbor fluunt alvum.
-  Reddita Brotean, haerens amore manifesta; Cynthia campi restare!
-  Eo angue fulmina Phaethon lustro Apollinei opem habitu Troiae gerebant
-  *pectora*. Gentis solum inquit poenaeque cecidere Ammon rogus infectum
-  fallis.
-  Sic derexit flumina arce quoque, iugales, ab *arida virisque dedecus* foret
-  hic vada ita.
+  Verify lorem markdownum [ictu trahebat](http://example.com/).
+  Milia fugit lanas dabat manet Diomede.
+  Saxo terras non.
+  Quae atque crimen corpus *fata* nec nare quod non Ulixe.
 
-  1. Non probro virgine sine patrem morte nostri
-  2. Procubuit hunc qua quid mihi pantherarum edax
-  3. Magis sanguine letifera oras evehor praesignia quid
+  Rursus monedula querno [at dixere orbem](http://textfromdog.tumblr.com/)
+  quoniam, caligine quod a flumine **Ancaeo** est vitat sit.
+  Ciborum a iniusti pectora, fontemque cana; damnans et perque inprudens
+  rumpit, animas audito tandem Tyrio, petunt.
+  Mox suisque queri: et *insula ducat loco* devotaque, Arestoridae regum te
+  adeunt.

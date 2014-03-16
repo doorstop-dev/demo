@@ -1,41 +1,15 @@
 active: true
 derived: false
-level: 5.1
+level: 23.9
 links:
-- HLR012
-- HLR017
-- HLR018
-- HLR026
-- HLR029
-- HLR032
-- HLR035
-- HLR039
-- HLR040
-- HLR041
-- HLR043
-- HLR047
-- HLR052
-- HLR056
-- HLR057
-- HLR059
-- HLR061
-- HLR062
-- HLR066
-- HLR067
-- HLR068
-- HLR069
+- HLR013
 - HLR071
-- HLR072
-- HLR074
-- HLR075
-- HLR077
-- HLR086
-- HLR090
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** vetus Actaeo aditumque, moratus mihi, sunt pariter
-  ripas; est regna omnis non virtus.
-  Deviaque coniuge in huius Cupido obsessum
-  [ea](http://kimjongunlookingatthings.tumblr.com/) inque flere refugerit [in
-  Peleu](http://www.mozilla.org/)!
+  Lorem markdownum **SHALL**, quotiensque saxum.
+  Puer est dat eas illo durus putant, percussit inponere urbis occiduae unum
+  rigido lucemque fistula addit.
+  Ulvis es Neptune pectora.
+  Templa ita!
+  Modo Diomede superest fuit nostrum audierat aequora atque tamen, pectusque.

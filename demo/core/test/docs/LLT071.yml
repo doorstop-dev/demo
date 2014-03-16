@@ -1,40 +1,20 @@
 active: true
 derived: false
-level: 12.1
-links:
-- LLR002
-- LLR005
-- LLR006
-- LLR008
-- LLR009
-- LLR045
-- LLR054
-- LLR060
-- LLR066
-- LLR069
-- LLR079
-- LLR083
-- LLR095
-- LLR098
-- LLR099
-- LLR100
-- LLR109
-- LLR120
-- LLR125
-- LLR140
-- LLR141
-- LLR160
-- LLR166
-- LLR178
-- LLR185
-- LLR193
+level: 5.1
+links: []
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum luctibus visa; Aeneadae satos nefanda apte merito
-  semel **te mutarent**: has.
-  Satis tenuatus una nihil armis Rhoetei confessasque undis; quas habeoque:
-  illa vices?
-  Quod tellus et vento ritu etiamnunc, praecluserat geminat abdita ne ignesque.
-  Reppulit dextris?
-  Ducitur fraudem cantu, fluminis!
+  Verify lorem markdownum vultus gracili, crurorem inmissos ventus temptaret
+  vitreis, soceri Libys, passi est neve aestatem tum lenis.
+  Cursus raptam te qua volvitur sedet per, erat longo molimine delicuit.
+  Ille Cypriae superfusis similis Eurydicen sparsus Athos nostris quorum
+  hastam, tu et in et armatus manebit, nocte [bisque](http://haskell.org/).
+  Fontis et exclusura missos: metum fit vires.
+
+  - Ait pando inmotaeque vir
+  - Praeterque partes
+  - Et fallunt ante
+  - Quamvis nec forte intus plus solvit non
+  - Galea precor mihi easdem auro
+  - Agnovit tenus illa colubriferi deus Pylonque locutus

@@ -1,30 +1,9 @@
 active: true
 derived: false
-level: 5.4
+level: 6.0
 links:
-- SYS001
-- SYS004
-- SYS010
-- SYS014
-- SYS015
-- SYS019
-- SYS022
-- SYS026
-- SYS028
-- SYS029
-- SYS037
-- SYS040
-- SYS042
-- SYS048
-normative: true
+- SYS050
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** tuque antro minus colorem ponensque demptos movere
-  ciborum.
-  Ora opem admissum quamvis *idque*, agros locum medii dumque **regem** pariter
-  vota iuveni equis rogant humano arbor.
-  Iam Phineus ubi iuncta neque tantum, prosunt equosque, insonat caede
-  inceptaque tostos, gavisus ille simul fraxinus clementia.
-  In mille supremumque et verba sibi querellis iussis, incedere. **Et** fugio
-  feriendus ait si, lues, **et apta credidit** atque tunc, medio hoc si eburno,
-  amico.
+  orbem

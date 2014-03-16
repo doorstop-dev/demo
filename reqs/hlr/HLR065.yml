@@ -1,32 +1,17 @@
 active: true
 derived: false
-level: 12.5
+level: 7.1
 links:
-- SYS004
-- SYS005
-- SYS007
-- SYS009
-- SYS010
-- SYS014
-- SYS017
-- SYS019
-- SYS020
-- SYS022
-- SYS026
-- SYS028
-- SYS031
-- SYS034
-- SYS035
-- SYS036
-- SYS039
-- SYS040
-- SYS044
-- SYS048
-- SYS050
+- SYS012
+- SYS024
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** aula peraravit veluti atque neque et, Iove mentis
-  amans, [se](http://tumblr.com/). [Intravit](http://www.uselessaccount.com/)
-  et murice quaeque nepoti te est dedit torvos habet animam, foro et
-  procurrunt.
+  Lorem markdownum **SHALL** patet nitidissima [Delphos
+  deum](http://www.thesecretofinvisibility.com/), potuisse umbras; aestus leto
+  frequentat.
+  Longa contentus arva.
+
+  Non nec Tridentifer, alto oras osse quos sapies, pestiferaque habent.
+  Iacet et sed sospite terras fugiunt ut illis molimine tormenti: petentem,
+  inpune atra Troiam.

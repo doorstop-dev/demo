@@ -1,50 +1,20 @@
 active: true
 derived: false
-level: 6.1
+level: 5.7
 links:
-- LLR002
-- LLR007
-- LLR018
-- LLR020
-- LLR031
-- LLR041
-- LLR042
-- LLR055
-- LLR069
-- LLR070
-- LLR086
-- LLR088
-- LLR089
-- LLR091
-- LLR099
-- LLR101
-- LLR102
-- LLR105
-- LLR111
-- LLR117
-- LLR119
-- LLR120
-- LLR123
-- LLR129
-- LLR134
-- LLR136
-- LLR137
-- LLR140
-- LLR149
-- LLR150
-- LLR153
-- LLR160
-- LLR172
-- LLR176
-- LLR185
-- LLR187
-- LLR191
-- LLR195
-- LLR196
+- LLR126
+- LLR157
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum ramos superat responsa coeperat taurum sed videre
-  licet causam et inde.
-  Aequor excoquit horrescere collo est pectoraque tristi Quid ruit hiatu
-  paulatim Othryn Phoebus operique.
+  Verify lorem markdownum daedalus faciebat.
+  Sua multa Ulixes namque Carpathius diuque replent simul, posuere nymphae
+  hauriret ponderis **secura**, signumque?
+  Tenuit enim non tegumen!
+  Mihi hunc quidem rapit tu, in buxum muneris sed labens pertulit est fide qua
+  [mutatis exclusura](http://www.youtube.com/watch?v=MghiBW3r65M).
+  Adhuc vidit [ista dea](http://www.billmays.net/), si erat?
+
+  - Tum ira Ino ab in rogari mecum
+  - Et haustos parenti alimenta reddere aequor ora
+  - Emathii ames Chimaeriferae segnem

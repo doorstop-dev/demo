@@ -1,45 +1,10 @@
 active: true
 derived: false
-level: 5.1
+level: 7.0
 links:
-- HLR006
-- HLR010
-- HLR016
-- HLR018
-- HLR019
-- HLR020
-- HLR022
-- HLR026
-- HLR029
-- HLR032
-- HLR036
-- HLR037
-- HLR038
-- HLR039
-- HLR040
-- HLR047
+- HLR030
 - HLR050
-- HLR055
-- HLR063
-- HLR067
-- HLR068
-- HLR071
-- HLR076
-- HLR080
-- HLR084
-- HLR089
-- HLR090
-- HLR091
-- HLR096
-- HLR098
-- HLR099
-normative: true
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** retegente veris, hoc et luctatusque visae officium
-  petitve potenti.
-  Unoque ripa perque gravitate et suas limina, sinistrum faventum metus ne in,
-  et!
-  Pugnat hostes iunctoque Aeneae Tyrrhenus artibus, quos duro Pindumve; securi
-  fauces patris vox capillis: cortice.
-  Sinu datis vernos summo inter finite fatisque sonuere laude venatu finiat.
+  est opem potentia unde

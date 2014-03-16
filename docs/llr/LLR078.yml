@@ -1,23 +1,12 @@
 active: true
 derived: false
-level: 5.1
+level: 16.0
 links:
-- HLR012
-- HLR017
-- HLR023
-- HLR058
-- HLR067
-- HLR068
-- HLR082
-- HLR086
-- HLR087
-- HLR097
-normative: true
+- HLR009
+- HLR016
+- HLR045
+- HLR052
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** ebiberant quam quid *causa quam semper*, cum Iove
-  [non](http://www.lipsum.com/), fuit idem a ducit Ityosque.
-  Me cera recisum vehit et caelum sprevit [densior
-  crura](http://www.thesecretofinvisibility.com/) ex *aptas superum*! Quod quem
-  dum **pugno** flexisque [inter
-  memor](http://www.youtube.com/watch?v=MghiBW3r65M) fecit sine?
+  Inachides

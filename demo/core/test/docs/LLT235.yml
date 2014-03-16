@@ -1,39 +1,22 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR003
-- LLR004
-- LLR015
-- LLR029
-- LLR031
-- LLR044
-- LLR052
-- LLR053
-- LLR065
-- LLR066
-- LLR075
-- LLR076
-- LLR077
-- LLR080
-- LLR091
-- LLR094
-- LLR099
-- LLR121
-- LLR129
-- LLR133
-- LLR135
-- LLR140
-- LLR141
-- LLR153
-- LLR163
-- LLR171
-- LLR188
+- LLR040
+- LLR092
+- LLR134
+- LLR137
+- LLR157
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum aquosae Siculaeque subiti dixi inguina agiturque
-  cortex terris!
-  Et et borea properus moventem, morae nefas!
-  Ponere omnia, ima et quod, pectore lea facta, ignavis vi mortis saepe suo
-  labefactaque Peliaeque.
+  Verify lorem markdownum: pater: telo nam ornata indice suspiria cremet umbras
+  instat ante ferrum stabat Lapitheia.
+  Iaculis tum de traxere metuens; virginitate illa aratri corpora? *Puellari*
+  quidem turpes; patria dentes leves me dum est metu vides, bracchia.
+
+  - Matris Aquilonem anhelis tua perque amanti
+  - Sum feres molle cum veteris medio ipsa
+  - Unguibus grando versantem requiemque ante haeret arbitrio
+  - Et placet
+  - Caede lacrimas opprimere esse

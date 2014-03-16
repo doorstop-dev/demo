@@ -1,42 +1,15 @@
 active: true
 derived: false
-level: 2.5
+level: 2.7
 links:
-- SYS004
-- SYS005
-- SYS008
-- SYS010
-- SYS014
-- SYS015
-- SYS018
-- SYS026
-- SYS029
-- SYS032
-- SYS033
-- SYS034
-- SYS036
-- SYS037
-- SYS042
-- SYS043
-- SYS049
-- SYS050
+- SYS023
+- SYS031
+- SYS044
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** furori et aere pes lambentem mensas illis; turbae,
-  herbae.
-  Florentemque [Inoosque dumque](http://tumblr.com/), Boreas turaque!
-  Nec dea non lora bellis latus requiris *Cyllene reiecit* tremit hoc locumque,
-  deus.
-  Sui pignus totosque feruntur alimentaque mihi, eat oculos generat fluctus
-  fugiens, moras.
-
-  Formasque arbore simul Danaas subposuere creati commoda onerique **conspecta
-  saepe**, humana Erigdupum dentibus, recto, silvas patriam temptavit.
-  Quaecumque parte parabat, breviore.
-  Videre liquitur et simul in auroque terret iuvenilior Niobe turbasti; voco
-  Teucri, dixerat.
-  Os silvaque *gurgitis iam ponto* gerens ecce nubilis iacens profuit aestusque
-  spem viribus si sacri.
-  Quid vitiatis, cum persequitur summo utque quo pennas nostrae propinquae
-  documenta quem.
+  Lorem markdownum **SHALL** causaque victa **undas**, et auras tacebitur
+  quibus.
+  Tempto in non quem formas freta mitissima remotos potius cvrrvs!
+  Est pars visae; [sui](http://twitter.com/search?q=haskell) albus lunae, *et
+  casus inertes* morsibus avidi sincerumque sequar iuvencae fluunt.

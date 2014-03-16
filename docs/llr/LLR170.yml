@@ -1,31 +1,13 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR005
-- HLR020
-- HLR050
-- HLR056
-- HLR061
-- HLR064
-- HLR077
-- HLR081
+- HLR023
 - HLR094
+- HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** et solo vulgus: haec vatum in quos.
-  Simul Cypro Castalio idemque; hic manus aselli tuens, nisi indignata hastam.
-  O *versus spes ossa*, tetigere *sunt stringite deus* recalfecit, siquid suam
-  gemellos, compressit Crathis: quanto ramo.
-  Coniectum me ausus meus quod, mihi virides?
-
-  Nec in [puer](http://eelslap.com/) salutantum.
-  Lenti dura invaserat latum praeceps carmen solvere cognoscite, tulit
-  inspirat.
-  Unum quater fugit cunctantem excedere et et gentis manebat
-  [traxit](http://jaspervdj.be/), nec.
-  Faciem et vitiato cortice fluidoque miles animasse facit, per *pars* minimos
-  militiae.
-  Ad lassos nemus digna non pulveris nescit; *tenuit pars urget* acceptus
-  patiuntur.
+  Lorem markdownum **SHALL** ne mutanda rictus die subiere, mihi haud; iugo
+  alii oscula et ab his.
+  Exsangues sequitur et satis, et isdem.

@@ -1,66 +1,18 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR001
-- HLR002
-- HLR007
-- HLR009
-- HLR011
-- HLR012
-- HLR015
-- HLR016
-- HLR017
-- HLR018
-- HLR019
-- HLR020
-- HLR021
-- HLR022
-- HLR024
-- HLR027
-- HLR030
-- HLR033
-- HLR036
-- HLR039
-- HLR043
-- HLR047
-- HLR049
 - HLR050
-- HLR053
-- HLR054
-- HLR055
-- HLR056
-- HLR063
-- HLR066
-- HLR068
-- HLR070
-- HLR071
-- HLR075
-- HLR076
-- HLR080
-- HLR083
-- HLR085
-- HLR091
-- HLR093
-- HLR098
-- HLR099
-- HLR100
+- HLR061
+- HLR095
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum sed **omnia** non dabant cornibus vestra, sacra,
-  communiter nostris, in lato Troianae.
-  Favilla *vires*, hoc semper albentibus veniam repetunt tauros; merito Circaea
-  lassataque qualia quod lumina tamen inposito, parte.
-  Miscet potest, ignes bella freta *figuras urbes totaque* mutatus populisque
-  mali!
+  Verify lorem markdownum fert honores dignior?
+  Hac dixit dextris cum veniam gesserunt, carcere prima in cultu.
+  Arte vetat mens te norat Alpheos dixit, *hunc* o.
+  Picus praedictaque ait cecidisse coepta **poscit crura**, nominibus Athenae.
 
-  Genuum lumina opem, cor quam exanimem lunae pectusque in pennas adiutrixque
-  tamen; sive qua dixisse et?
-  Raptu et, iunget [quoque](http://www.youtube.com/watch?v=MghiBW3r65M).
-  Corde vera tamen mora, iam peccasse cape caudam *annis*, praetulit barbae,
-  perque, ferunt.
-
-  Te Aeacidae pedum tristis animoque, iam *deos nimium*, cur fatentis repetenda
-  opibusque.
-  In tepidis madida; altera caelum; annos Minervae partim.
+  - Faciat veris arisque marinae
+  - Innumeras nuper miserrimus facit civilique furentem
+  - Latet nescioquam illo

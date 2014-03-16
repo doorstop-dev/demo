@@ -1,33 +1,12 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR002
-- LLR011
-- LLR014
-- LLR017
-- LLR027
-- LLR028
-- LLR033
-- LLR065
-- LLR072
-- LLR076
-- LLR096
-- LLR107
-- LLR116
-- LLR119
-- LLR124
-- LLR129
-- LLR166
+- LLR115
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum nil *hastam*, sine plenum Somni germanam currus.
-  **Mea addere meritis** diversa hunc ait admovit venit fretumque statque
-  sagittam quadriiugi abit.
-  Minus *quicquam vobis tibi* buxum, pellor [atque
-  ora](http://www.billmays.net/) habent census tonitruque ferrum quinque
-  concipias.
-  Non bracchia venti.
-  Sit non sunt Actorides vidit precantia inmotos aether memorant taedas me
-  Solem, nec mala que notae mactatos, nobis.
+  Verify lorem markdownum obrutus sui temperat ab aequore peiora.
+  Carpe anima carpit gemit, vero non montibus est ore omnibus proles.
+  [Ego](http://tumblr.com/) longa numen et iunxit, solverat rex mihi coeamus,
+  aetate!

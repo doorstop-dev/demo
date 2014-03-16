@@ -1,46 +1,21 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR006
-- LLR007
-- LLR025
-- LLR028
-- LLR038
-- LLR040
-- LLR045
-- LLR047
-- LLR051
-- LLR058
-- LLR059
-- LLR061
-- LLR068
-- LLR072
-- LLR082
-- LLR085
-- LLR092
-- LLR098
-- LLR105
-- LLR113
-- LLR118
-- LLR122
-- LLR124
-- LLR127
-- LLR130
-- LLR135
+- LLR005
+- LLR137
+- LLR143
 - LLR166
-- LLR172
-- LLR179
-- LLR182
-- LLR187
-- LLR200
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum talibus, cum dixit tumulati rem falsa decoris
-  commentaque ramos: manum **suas** dicitur.
-  Pati nunc mille Thesea, qua cum mora graviore **quos**?
+  Verify lorem markdownum quod, invisa, dicentem populos et motae.
+  Tamen non artus *castrorum nominis*, hunc, Panchaeaque Iapygis nec trahi te
+  fatebar herbas velocius semifer exercent tumulus.
+  Taedasque an dumque herbarum in geris [fallaces](http://imgur.com/); pede
+  putes, armentum sanguine: dedit esse.
 
-      var logLanguage = tweakTooltipVirtualization / 2;
-      var trimMemoryHover = pptp_bmp_pci * 2 + 56 + 5 * mirroredServerTitle;
-      ispTape(docking(matrix_web_nybble, 4), default_remote);
+  - Nocuit carae
+  - Mori Ulixem victa modo numquam perierunt rictus
+  - Euboico levare precantia luxque tuque nunc quem
+  - Sua foramine dentes

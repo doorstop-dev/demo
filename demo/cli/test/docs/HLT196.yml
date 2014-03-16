@@ -1,18 +1,27 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR007
-- HLR036
-- HLR065
-- HLR070
-- HLR076
-- HLR087
-- HLR096
+- HLR014
+- HLR081
+- HLR083
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum habet, ferat atque, agris ubi vale spectabat dextrae
-  cumque mortales falsum in **pectore est** corruit esse.
-  Tot corpora forma.
-  Calydonides quorum dabat.
+  Lorem [markdownum petunt](http://haskell.org/) ac aevo tumulo [o
+  flammae](http://news.ycombinator.com/) pericula Latonia **qui laedor**.
+  Populo undas, si erat maesto Cynthia, hunc viribus acumine inpietate
+  Haemoniae aera.
+  Qua pronus adverso [forte](http://omfgdogs.com/) ingemuit senex rogando; amas
+  utque abstinet; tantum loqui post.
+
+  Artem et saepe putrefacta secantes, [origo](http://reddit.com/r/thathappened)
+  pectus ventisque!
+  Et mentem adunca, ictu caudam per Medon inmurmurat ieiunia venisse tot atque
+  cursu tantaque hoc, cum!
+
+  1. Haeret servati nec tota navigat effice superasse
+  2. Curru moribundo corpora senemque admissumque lenius
+  3. Nox velox euntes gravisque cortice genus proiecta
+  4. Et defecto adorat
+  5. Ore crine mersa in metum inpetus et

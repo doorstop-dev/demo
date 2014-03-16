@@ -1,34 +1,14 @@
 active: true
 derived: false
-level: 13.7
-links:
-- SYS002
-- SYS004
-- SYS005
-- SYS007
-- SYS008
-- SYS010
-- SYS011
-- SYS012
-- SYS014
-- SYS023
-- SYS027
-- SYS029
-- SYS031
-- SYS032
-- SYS035
-- SYS036
-- SYS039
-- SYS040
-- SYS041
-- SYS043
-- SYS044
-- SYS045
-- SYS048
-- SYS049
+level: 7.1
+links: []
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** cuive; mota ut posita difficilem quoque est cupit
-  vultu vixque trahens habitantem equas, domus pervenit precatur.
-  Praebere atque ut Tritonia considere natantia coepit.
+  Lorem markdownum **SHALL** saepe, haut mihi; secuta cum litora est vestrum
+  orbem velis quoque in morari, Smilace?
+  Succinctis viro, videt vacent, opus illos pariturae stabat viribus vertice?
+
+  - Athenae rursus letoque mentisque adspexit circum ferum
+  - Quod auratum nec
+  - Sic Dymantis iurasse Nereusque ferunt

@@ -1,37 +1,14 @@
 active: true
 derived: false
-level: 3.5
+level: 3.8
 links:
-- HLR002
-- HLR009
-- HLR018
-- HLR025
 - HLR031
-- HLR035
-- HLR039
-- HLR046
-- HLR053
-- HLR057
-- HLR063
-- HLR070
-- HLR071
-- HLR077
-- HLR080
-- HLR082
-- HLR084
-- HLR088
-- HLR097
-- HLR098
+- HLR064
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** fertis, in materiam aera deprenduntur paro
-  [ut](http://www.metafilter.com/) gloria pampineae ora adsimulavit metu,
-  **vigor**. Terris qui, non pomoque artus falsa manu et induruit tum, in aura
-  muros, dolores.
-
-  1. Ultime quid est quid minimum
-  2. Pectore crudelis nocent et fatis
-  3. Sanguine tormenti Harpalos dabitur
-  4. Est Laurenti esse nudae alit factum sub
-  5. Herbas violave
+  Lorem *markdownum da ore* ceu semper, quare prius, alas frustra membra
+  disertum caeleste perque gigantas.
+  Et dignus quidve, pavens, secreta matris, tantum tradit?
+  Tibi deae lateantque superi rumpere.
+  Et *quoque honores* mihi crimen: parte et verba habebat.

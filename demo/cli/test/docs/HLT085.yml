@@ -1,52 +1,18 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
 - HLR001
-- HLR004
-- HLR006
-- HLR010
-- HLR014
-- HLR018
-- HLR023
-- HLR026
-- HLR030
-- HLR031
-- HLR032
-- HLR037
-- HLR038
-- HLR039
-- HLR042
-- HLR045
-- HLR049
-- HLR053
-- HLR058
-- HLR061
-- HLR065
-- HLR066
-- HLR067
-- HLR077
-- HLR079
+- HLR002
+- HLR011
+- HLR013
 - HLR086
-- HLR089
-- HLR091
-- HLR092
-- HLR096
-- HLR097
-- HLR100
 normative: true
 ref: ''
 text: |
-  *Verify lorem markdownum* taurum, esse cornuaque factus, mollierat illud.
-  [Positis](http://www.reddit.com/r/haskell) iactate; inpositum Antaeo melius
-  et est coeperat tumet, concava, in sinat ne Telamone suoque ritus.
-  Saxa auxilio, per unda nympharum interea adhuc, unde numquam.
-
-  *Membris nemorosis* Procne: de donec traiecit liquescunt alis clausam
-  revellit ad undas frondibus mirabilis quos.
-  Sonantia venit, recusat auras, non seraque Orionis honesta.
-
-  1. Fumos vultu
-  2. Rapinae protinus litatis adhibent nymphae fertque glandes
-  3. Si crepitantibus aequora attonitusque Annus
-  4. Undae adversa flumina ut ictu et dixerat
+  Verify lorem markdownum pallam venit agmine removete, Achilles Babylonius
+  Oeten.
+  Ipsamque et putat violatus centum ne traxit Cadmus tulitquemuneris liquidas
+  et vitta dominis, tamen vacuus.
+  Quisquis errore Nyctimenen altera advertite tantum utraque: saucia et arte
+  Mopsum quoquam illa veteres **piasque**.

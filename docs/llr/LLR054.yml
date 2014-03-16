@@ -1,15 +1,14 @@
 active: true
 derived: false
-level: 5.1
+level: 11.1
 links:
-- HLR008
-- HLR044
-- HLR048
-- HLR090
+- HLR052
+- HLR056
+- HLR071
+- HLR087
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** tempus, saxo carmina aeque; non illum omnique
-  finitque ignes feliciter tumidam.
-  Non cratere facinusque movit pereat utque extremum quoque.
-  Procul Hyleusque cuius, depositoque gemit recidendum caput, stridore.
+  Lorem markdownum **SHALL** reduxit.
+  Ducentem quo morte Deianira *qui inferias* nostrumque, male Pelops, aperire
+  salutis soletur **adfata** precibus solvi Cinyphiumque.

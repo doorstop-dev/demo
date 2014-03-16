@@ -1,49 +1,31 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR002
-- LLR004
-- LLR009
-- LLR011
-- LLR013
-- LLR020
-- LLR021
-- LLR029
-- LLR031
-- LLR038
-- LLR039
-- LLR078
-- LLR084
-- LLR088
+- LLR092
 - LLR100
-- LLR103
-- LLR106
-- LLR115
-- LLR126
 - LLR128
-- LLR136
-- LLR165
-- LLR176
-- LLR180
-- LLR189
-- LLR190
-- LLR196
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum, movere emittitque igni solum vacarunt facti puppis,
-  dum [tenens est](http://www.reddit.com/r/haskell)?
-  Deus ibi vires ad, pede: quam domus hanc inpedit parilique, nobis arma tamen
-  et et nudaverat.
-  Consuescit nunc formis lilia flamma est, meosque stabula, prolem ponto
-  intravit viribus percussis ademptae rorantia.
-  Diuque enim, inde refugam in habetur Eurydices credulitas telae cristis.
+  Verify lorem markdownum quae in!
+  Mihi ego remissis postquam, est in quem tenui prodidit dixit Chimaeriferae.
+  Dicta et [vocatos](http://haskell.org/) caelesti sacra, et metu que, arcet
+  peregit subito oblitus silvae radiis transieram nostro.
+  Petant vita Camenae iusque comminus fuit
+  [missis](http://html9responsiveboilerstrapjs.com/) fetus domitis; vellem cava
+  publica magna cernit.
+  Solum celsa; animi cinis Procnes patriumque Niobe nullosque nolis.
 
-  Ergo est Delos dies manus?
-  Iam et subiere mittere, respiramen est vincet rapti concretam Hersilien
-  Peleus considere conata?
-  Qua nec Venerisque novae, laticem Bybli, hoc hospitis quae
-  [pedicis](http://www.lipsum.com/) ipse ensem, genialiter canos, laetos.
-  Quam esse parte et tela est corpora, ut illas tristia narrata.
-  Caede fati tonso frustra; remos indomitas metum!
+  - Tenebat et terras auras
+  - Capillos manebit perque Pittheia frustra solebant
+  - In Plurima pellite de dumque nectare metu
+  - Falsi adsum potest monimenta humana
+  - Unda nec motis
+  - Fatetur caede levi precamur
+
+  Lammina lapidumque dieque audistis vult et inferior anhelitus radice petam.
+  Saecula mando nec liquidum verus.
+  Locum certa centum neque inane silva matrisque tanta.
+  Dis lacus, ita ego, quem mare trahit Hippason in numina neque; porrexit cursu
+  mihi.

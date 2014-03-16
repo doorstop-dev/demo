@@ -1,26 +1,17 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR003
-- HLR011
-- HLR014
-- HLR015
-- HLR030
-- HLR031
-- HLR038
-- HLR043
-- HLR046
-- HLR050
-- HLR063
-- HLR065
-- HLR066
-- HLR072
-- HLR074
-- HLR087
-- HLR098
+- HLR021
+- HLR036
+- HLR055
+- HLR056
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum custodia est posset Cerbere terrore errorem sumit.
-  Et est oculis ignes munera, limen nitor!
+  Verify lorem markdownum miscent invicti fallitque terrarum vitae molimina
+  Patraeque credunt toris titulum tulit.
+  Suspectus Cinyra patria terras, tam plumbo utrumque superis, **suis** Byblida
+  ignis Seditioque.
+  Vincant orbi amissam uritur utrumque amantes matre forma sororis est irata,
+  est lustro vultus: Egeriae.

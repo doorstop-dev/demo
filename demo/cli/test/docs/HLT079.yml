@@ -1,24 +1,15 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR013
-- HLR033
-- HLR046
-- HLR051
-- HLR052
-- HLR061
-- HLR066
-- HLR072
-- HLR093
-- HLR100
+- HLR006
+- HLR021
+- HLR065
+- HLR073
+- HLR099
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum Pachyne harenas arte Naupliades et telum utque aret
-  stolidae caesa.
-  Inmemores leonem frondibus crudeles **reperta natus** aquarum gentis dicentem
-  ille [nostris in](http://www.thesecretofinvisibility.com/) sidera licet,
-  iusto.
-  Consensistis saxum una occidit ille meritam et captas, quem nec, notis
-  ambrosia **in** nutrix.
+  Verify lorem markdownum vincere *nomen lene murum* comites, facta, quiete
+  pressum de non, ubi ut ubi, mergis!
+  Fui *illa praecordia* Telephus tu ieiunia usque arcana, suos miser?

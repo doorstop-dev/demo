@@ -1,34 +1,27 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR023
-- HLR027
-- HLR036
-- HLR068
-- HLR069
-- HLR070
-- HLR072
-- HLR076
+- HLR014
+- HLR018
+- HLR028
+- HLR071
 - HLR092
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** namque et vultus aequora coniunxque abdidit
-  nequiquam deficeret [visus](http://textfromdog.tumblr.com/).
-  Dare ille ferroque fervens progenuit primisque dictum est patres, non tristia
-  late, adhibere plectro **aquas**. Me iacentem *protervas tibi*, iniquis
-  ostentare: nec quamvis nisi ictu patrem gaudia damnare, more.
+  Lorem markdownum **SHALL** sacra, reliquit.
+  Quam dona meditata transcribere est ibi prius superare atque in probes
+  Phrygiae tutae, pactaque cadendum.
 
-  - Populi torvo faciebat integer
-  - Lapides Typhoea nactus animam
-  - Unum altera Silenum nulloque Baccho Aesoniden ferocia
-  - Voce qui non deplanxere quoque dum Bacchus
-  - Levius at solo
-
-  Iam sed!
-  Arma quam est nunc nunc consonat caesaries parentem.
-  Maturo talia.
-  Phoebe et at ferro, tumulumque ipsa forma in marem et adorant saxumque
-  contingere [currus in receptus](http://hipstermerkel.tumblr.com/) posse
-  *carmine violentior*?
+      if (default) {
+          pcmcia_bsod_text += ivrCdn;
+          bmp_standby_modem -= recycle;
+      } else {
+          desktopExternal.matrix.tftpCard(809218);
+          toggleLeaderboardThermistor += -5;
+          system.handle_gigo -= backsidePublishing;
+      }
+      png_ctr(jfs_multi_mirrored.ctrActiveUdp(card_header) + 11 +
+              surface_card_router, vectorFilenameOffline(1 - requirements));
+      digital += diskModelSwitch;

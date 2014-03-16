@@ -1,36 +1,23 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR004
-- HLR005
-- HLR007
-- HLR010
-- HLR011
-- HLR012
-- HLR013
-- HLR016
-- HLR019
-- HLR039
-- HLR044
-- HLR052
-- HLR053
-- HLR056
-- HLR064
-- HLR073
-- HLR078
-- HLR083
-- HLR092
+- HLR009
+- HLR014
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum mugitibus moenia permaneo edita monstra debebit
-  placabilis dixerat strepitum coniuge duxerat amittere nudae, profundum
-  Lucifer; **fatis**. Curat [spatii nimbis iacent](http://stoneship.org/)
-  cupiens numina tenus palmis bono tergo, vanis.
-  Frustra imitamine *arbore illa mentem*, est, non flumen virginis parens.
-  Puta ille satiata non duo postquam pectore.
+  [Lorem](http://landyachtz.com/) markdownum Tempe vestigia, Rhamnusia nulla!
+  Noctis est erat quaeque locus pariterque venit.
+  Audita vivit interdum nocti faenilibus lapis quas **madebit dixit**, locis.
 
-  - Rigido primaque gramine
-  - Non amentes etiamnum effudit
-  - Animo remis plangere ratis hospita crudelesque potes
+  1. Communis animos speculo trado mater Venus quondam
+  2. Pyraethi per
+  3. Carmine in saepe
+
+  Num ullo lumina [enses](http://en.wikipedia.org/wiki/Sterling_Archer)
+  caestibus: amor sublimemque adiciuntque victricemque permulsit nec.
+  Tollens et **functus tacebitur tutam** et Theseus mollia Ismenis et deo
+  pulcherrime vocem roseum, sanguine venerit: sagittas amnes?
+  Lacertis nostri se ego cum fores sed flavam Amor dixerunt nubere, et risi
+  stratoque arte.

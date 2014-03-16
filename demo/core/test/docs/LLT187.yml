@@ -1,45 +1,12 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR004
-- LLR010
-- LLR015
-- LLR017
-- LLR021
-- LLR036
-- LLR041
-- LLR044
-- LLR050
-- LLR057
-- LLR077
-- LLR101
-- LLR114
-- LLR117
-- LLR118
-- LLR119
-- LLR123
-- LLR135
-- LLR136
-- LLR141
-- LLR159
-- LLR160
-- LLR166
-- LLR168
-- LLR169
-- LLR171
+- LLR082
+- LLR121
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum feritatis ait fame **natalis et** lacrimisque quondam
-  Aeacidis Aeacus.
-  Chlamydemque tollit vacca gemebundus cum mihi, quod dixit duo, est quod citra
-  pharetratae rostro sidere, numen.
-  Erat caelumque sinuataque datum: est Neptunus erudit, **quod per**?
-
-  - Litora addere roganti anguiferumque recusem habetur clipeoque
-  - Ubi Iliacum hinc
-  - Et ignes
-  - Scelerate tam rursusque pennis sol tribuam
-  - Tui aderant vides Calydonida terram
-  - Summisque ferebat invitaque dependent umbrosa me tenent
+  Verify lorem markdownum temptata [ales](http://www.billmays.net/) cum
+  adspicit segeti pronusque moenia et Herculeamque scelus et.
+  Vota reddidit, herbosas tendens glacialis formae cultos feri gradieris!

@@ -1,56 +1,22 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR002
-- LLR003
-- LLR007
-- LLR010
-- LLR021
-- LLR024
-- LLR026
-- LLR027
-- LLR028
-- LLR036
-- LLR037
-- LLR041
-- LLR044
-- LLR049
-- LLR054
-- LLR065
-- LLR068
-- LLR071
-- LLR075
-- LLR080
-- LLR084
-- LLR086
-- LLR087
-- LLR099
-- LLR112
-- LLR115
-- LLR123
-- LLR125
-- LLR126
-- LLR128
-- LLR131
-- LLR136
-- LLR153
-- LLR155
-- LLR157
-- LLR158
-- LLR162
-- LLR168
-- LLR176
-- LLR179
-- LLR180
-- LLR181
-- LLR185
-- LLR188
-- LLR195
+- LLR182
+- LLR183
 normative: true
 ref: ''
 text: |
-  *Verify lorem markdownum* inanes eventus verumque vellem; ture sit.
-  Quoque ecce, tempore sanguine et sidera dedit [capulo
-  addit](http://haskell.org/).
-  Tulit nympharum.
+  Verify lorem markdownum auras magnasque rosave.
+  Sentire inprudens geminum quanta, tela, tu verbis torpet corpore
+  [insistere](http://twitter.com/search?q=haskell) saetas iurare pia, lacrimas
+  habitatis criminis.
+  Achillis quidem.
+  Non saxo sua patulos comas retrahebat lapis natamque subito ad neque.
+
+  Et quae dominum se cubat [carmina adsuetus](http://www.metafilter.com/)
+  expetit tegitur penetralia pugnae requieque fecissem harundine lacrimis
+  inpune.
+  Ora telorum, hos circumspexit *istis* cervice crescendo desunt instituit
+  opus. *Venabula nunc rogat* corpora retices serpentum Notus, et semianimesque
+  et in [post](http://en.wikipedia.org/wiki/Sterling_Archer), visu.

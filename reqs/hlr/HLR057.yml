@@ -1,34 +1,17 @@
 active: true
 derived: false
-level: 11.0
-links:
-- SYS002
-- SYS003
-- SYS004
-- SYS006
-- SYS007
-- SYS008
-- SYS010
-- SYS011
-- SYS012
-- SYS015
-- SYS016
-- SYS019
-- SYS021
-- SYS022
-- SYS024
-- SYS027
-- SYS028
-- SYS029
-- SYS030
-- SYS031
-- SYS032
-- SYS038
-- SYS042
-- SYS044
-- SYS046
-- SYS049
-normative: false
+level: 7.1
+links: []
+normative: true
 ref: ''
 text: |
-  conata stravit quas cumque me aut
+  Lorem markdownum **SHALL** alteraque et posset segnior.
+  Qui levia urbe deus hausta viscata corpora aequos.
+  Et [Lycus Pallas quo](http://textfromdog.tumblr.com/) diu, Pandioniae caput
+  tenuerunt videtque Herculeae in etiam caestibus vultus!
+  Mater et alius, sua, rostro post et animoque semel!
+
+  1. Huius sum ensem
+  2. Terras ne marinae vindice occupat conantesque
+  3. Caelo undas
+  4. Nymphae tota

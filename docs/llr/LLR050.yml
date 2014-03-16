@@ -1,50 +1,23 @@
 active: true
 derived: false
-level: 5.1
+level: 10.2
 links:
-- HLR002
-- HLR006
-- HLR007
-- HLR013
-- HLR017
-- HLR020
-- HLR021
-- HLR026
-- HLR032
-- HLR040
-- HLR046
-- HLR047
-- HLR049
-- HLR051
-- HLR052
-- HLR053
-- HLR058
-- HLR061
-- HLR063
-- HLR067
-- HLR071
-- HLR078
-- HLR080
-- HLR083
-- HLR084
-- HLR088
-- HLR090
-- HLR093
-- HLR095
+- HLR010
+- HLR025
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** quoque recepta inicit; maritum [adit
-  Caeneus](http://www.billmays.net/) facibusque tunc.
-  Iactu annus aperire: est novaeque memorque: arida cum vosque, apro aut!
-  Forte tardarunt pulchra sibi auro numine cruore umida semper et non.
-  Requirit at et muneris membra dixit alto et tandem, modo doleam intorquet
-  Troiana.
+  Lorem markdownum **SHALL** Perimelen [qua](http://tumblr.com/) admoto timore
+  vulnus.
+  Fletus tuae numina Aeacon tellus quoque!
+  Sua in, nostris et cognita ut felixque atra aliud optet.
+  Inpubibus vero, Helicona relinquit protinus antra de huic illis, Persephone
+  levabere, suo loquax et, centum.
+  Suam sinuosa Apollinei a venerat quod laterique parente!
 
-  Habent est [se vosque](http://www.mozilla.org/) discite.
-  Crescunt te velat, patulis ignotas velat, aequales causamque inde, revulsus,
-  alii illo Aeaciden, iuvenum.
-  Ara aperta terras vetito tam, figuras quae amoris Palladaque, iuvenem idem,
-  uni, [est](http://tumblr.com/) poenas.
-  Iste tua; verrit silet, albas aras fulserunt omine, iamque medium pontus,
-  vel.
+  - Per cumque
+  - Clementia mortis latratibus et toto silvas monte
+  - Eodem inhonestaque odium et secum capit palearia
+
+  Abeunt qua prolem veniam tumidarum!
+  De auribus velantque funera spargimur exemplis.

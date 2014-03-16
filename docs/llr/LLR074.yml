@@ -1,43 +1,15 @@
 active: true
 derived: false
-level: 5.1
+level: 15.3
 links:
-- HLR001
-- HLR004
-- HLR005
-- HLR007
-- HLR012
-- HLR013
-- HLR015
-- HLR017
-- HLR018
-- HLR023
-- HLR024
-- HLR032
-- HLR038
-- HLR039
-- HLR044
-- HLR048
-- HLR050
-- HLR053
-- HLR054
-- HLR060
-- HLR062
-- HLR064
-- HLR071
-- HLR074
-- HLR076
-- HLR079
-- HLR081
-- HLR085
-- HLR086
-- HLR087
-- HLR095
-- HLR099
+- HLR019
+- HLR041
+- HLR058
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** malorum taedasque dilapsa iaculum Iphide: tam,
-  *constabat* inmania sternentemque torusque si.
-  Biceps quorum nec iuvenem fronde furoris numina unda plura *ignibus matre
-  mediamque* successus et hora cessit, **nova**.
+  Lorem markdownum **SHALL** tantummodo deosque eminet
+  [distantibus](http://www.lipsum.com/) noctem: hinnitus sunt tamen, et
+  malorum.
+  Est est tangi aes profundo si illa.
+  Adde urar venenum praetendat cumque.

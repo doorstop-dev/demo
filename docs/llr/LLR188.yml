@@ -1,56 +1,14 @@
 active: true
 derived: false
-level: 5.1
-links:
-- HLR001
-- HLR008
-- HLR009
-- HLR012
-- HLR021
-- HLR022
-- HLR024
-- HLR032
-- HLR033
-- HLR034
-- HLR035
-- HLR038
-- HLR040
-- HLR042
-- HLR056
-- HLR057
-- HLR059
-- HLR060
-- HLR062
-- HLR064
-- HLR070
-- HLR077
-- HLR080
-- HLR085
-- HLR089
-- HLR095
-- HLR096
+level: 23.1
+links: []
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** gurgite, aura [sunt ab](http://www.billmays.net/)
-  dent altera poena scires et.
-  Et quod Parcite et ullus, Minervae conticuit levare verbaque *fugere*; causa
-  siqua!
-  Tolluntur sagittas campos sit, visus mens vides cursu morsus sole.
-  Et exserere reclusi ora inque, lucis minor quae alias, regia.
-  Ne fidesque, memorabile femina palustribus iniquo acumina iamque aquae,
-  occupat mora.
-
-  - Cur sed pedibus Venerem
-  - Hosti unda quietem quas nata properatis in
-  - Nec et sine nec
-  - Vulnus mihi cum infernum ast pennis
-  - Canes Pactolonque aede quidem carmen tenes vires
-
-  Hosti oculos [animum](http://kimjongunlookingatthings.tumblr.com/) forte esse
-  alta iam, ille quae, renascitur. **Solem nectare**, iussum protinus tonso
-  Troiam summa intextum, ille.
-  Mavors dixere, germani in caesae deque figuras peccasse responsura,
-  incandescit Cycnus et, sors.
-  Laboribus pressa nubes gravem molliaque et curas periturae amnis canibus
-  Antium inposuit cecidere **ausus ambo** sorores deponendique!
+  Lorem markdownum **SHALL** Aeetias, regna nec iuncosaque date cernit, nec
+  nuper tortilis!
+  Pater hunc Pergama in vidit substiterat turba Babylonius *delius* de ipse
+  solaque.
+  Et sed sagittae forent iniusta matrique nulla taedia: gerit deus arbor pro
+  antemnas signo *propiorque* quod; fidelius unum.
+  Dat illius tenus, interque ab alvo sparsit: esse clauduntur.

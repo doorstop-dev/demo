@@ -1,47 +1,25 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR001
-- HLR010
-- HLR011
-- HLR012
-- HLR013
-- HLR018
-- HLR019
-- HLR021
-- HLR025
-- HLR027
-- HLR030
-- HLR032
-- HLR035
-- HLR039
-- HLR040
-- HLR043
-- HLR046
-- HLR047
-- HLR053
-- HLR055
-- HLR061
-- HLR062
-- HLR064
-- HLR066
-- HLR075
-- HLR078
-- HLR079
-- HLR080
-- HLR081
-- HLR086
-- HLR089
-- HLR092
-- HLR094
-- HLR095
-- HLR098
+- HLR029
+- HLR052
+- HLR082
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum aevum, testari tollens opposuitque [color iacet
-  tamen](http://www.wedrinkwater.com/) nova aderant quoquam *cernere*; misit
-  bracchia moveres.
-  Capitis omina sequimur fecit ille, quo simulacraque Athamanta creatis, et
-  geminum Tyrios!
+  Verify lorem markdownum morte interdum formae, erigite in numine nec et
+  surdaeque.
+  Deorum rogarem in caeli *prope* tulit, **acta vosne per** comes.
+  Haberet refluitque arboris haec, ille excipit offensa: vellentem proles audit
+  *bis* nec arripit fixit caput fecere.
+
+  Septem Iovis eluserat Prothoenora Pleias capillis replet?
+  Das frui humani sed doleres Iuno vera ferventisque saxum est laboret et lumen
+  coniuge: [mucro](http://www.wtfpl.net/) utque nec
+  [generosam](http://reddit.com/r/thathappened).
+  Satum vero tutaeque, superatus desint Hesperiae maciem uti auras te duo
+  [pectora falcato](http://heeeeeeeey.com/).
+  Si vulnera perque, potiorque explorat Saeculaque ad Mulciber clamor?
+  Illo unde Frigus scisset Vulcanum limosi tristi abstrahere undas non fatentem
+  quid; aberat hoste ne precatur recurvis ni iugo.

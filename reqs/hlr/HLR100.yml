@@ -1,41 +1,17 @@
 active: true
 derived: false
-level: 14.1
+level: 7.1
 links:
-- SYS002
-- SYS006
-- SYS008
-- SYS009
-- SYS011
-- SYS012
-- SYS015
-- SYS024
-- SYS028
-- SYS031
-- SYS032
+- SYS020
+- SYS030
 - SYS034
-- SYS036
-- SYS038
-- SYS041
-- SYS042
-- SYS043
-- SYS046
-- SYS047
-- SYS048
-- SYS050
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** quoque non meae, quem sanguine officium quam.
-  Scythicae ramos **afflatibus** fecit.
-
-  [Cuncta](http://hipstermerkel.tumblr.com/) rapis terra; erat pondus: omnem
-  faciem *cum*, ponitur!
-  Ingentique placent *calcata* restabat efferre; **est neque ossibus** saetiger
-  ensis reliquit nempe quid filius passi staminaque navem?
-  Abstrahor capit.
-
-  Sim tegi, veli caeli: [plausus](http://heeeeeeeey.com/) gentibus effecisse.
-  Poterat vulnera: tibia tela te et perque Dolona sui.
-  Genus et perque nomine, Ceres vultibus fronte: per sic articulos Ceycis
-  classes volumine Iovis properamus fulvo nemorum.
+  Lorem markdownum **SHALL** et inpulerat nihil praesignis gaudia puellae
+  superesse genitoris fatidicamque tantum umeros.
+  Rostro clamorque diversi et temptasset in aurea sincerumque: relinque quam
+  ubere [in ex suam](http://stoneship.org/) alvo: magnus quod.
+  Sub tria decoris amorem, Dicta non saligno Quirini conscia.
+  Viderat fundatis utque quae **geminata suppressit** fecit in inque et sumus,
+  Iovem.

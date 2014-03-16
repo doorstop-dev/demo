@@ -1,43 +1,15 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR001
-- LLR005
-- LLR012
-- LLR023
-- LLR029
-- LLR030
-- LLR031
-- LLR053
-- LLR055
-- LLR068
-- LLR070
-- LLR078
-- LLR085
-- LLR093
-- LLR095
-- LLR103
-- LLR106
-- LLR112
-- LLR113
-- LLR118
-- LLR124
-- LLR125
-- LLR128
-- LLR129
-- LLR136
-- LLR137
-- LLR148
-- LLR153
-- LLR164
-- LLR170
-- LLR187
-- LLR195
-- LLR200
+- LLR017
+- LLR034
+- LLR035
+- LLR141
+- LLR158
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum et huius fit reverti formae arva undis animis levati
-  flumineis inque sic: a.
-  Ut in erat si voce verso a grana natis?
+  Verify lorem markdownum virum prece nostro et fatum sum voluit quas
+  omnipotens: iamque sit nobis.
+  Mota plenum illos.

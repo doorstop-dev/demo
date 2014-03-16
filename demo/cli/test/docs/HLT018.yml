@@ -1,42 +1,12 @@
 active: true
 derived: false
-level: 5.0
+level: 5.2
 links:
-- HLR001
-- HLR002
 - HLR005
-- HLR009
-- HLR012
-- HLR013
-- HLR015
-- HLR020
-- HLR021
-- HLR022
-- HLR023
-- HLR028
-- HLR029
-- HLR040
-- HLR041
-- HLR042
-- HLR043
-- HLR045
-- HLR059
-- HLR065
-- HLR066
-- HLR068
-- HLR069
-- HLR072
-- HLR073
-- HLR074
-- HLR077
-- HLR080
-- HLR086
-- HLR090
-- HLR093
-- HLR094
-- HLR095
-- HLR100
-normative: false
+- HLR064
+normative: true
 ref: ''
 text: |
-  proxima
+  Verify lorem markdownum exclamat paro.
+  Adhaesit parilesque alto visurus consumpserat iuvenem Medon et hanc modo
+  caesarumque sanguine, refert, pone.

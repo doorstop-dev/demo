@@ -1,36 +1,11 @@
 active: true
 derived: false
-level: 11.0
-links:
-- LLR002
-- LLR012
-- LLR018
-- LLR029
-- LLR035
-- LLR049
-- LLR056
-- LLR064
-- LLR077
-- LLR082
-- LLR089
-- LLR093
-- LLR096
-- LLR108
-- LLR114
-- LLR129
-- LLR131
-- LLR133
-- LLR134
-- LLR149
-- LLR161
-- LLR170
-- LLR172
-- LLR181
-- LLR184
-- LLR185
-- LLR194
-- LLR195
-normative: false
+level: 5.1
+links: []
+normative: true
 ref: ''
 text: |
-  ipsa sine aras
+  Verify lorem markdownum morbo, hoc non, [et](http://www.raynelongboards.com/)
+  capillos rubescere plenaque Orpheu calamo sumpsere sidereus verba deos
+  fingetur Abantiades hiatu.
+  Telum tuarum.

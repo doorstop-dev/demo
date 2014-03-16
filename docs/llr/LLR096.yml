@@ -1,29 +1,10 @@
 active: true
 derived: false
-level: 5.1
+level: 20.0
 links:
 - HLR007
-- HLR008
-- HLR033
-- HLR041
-- HLR048
-- HLR055
-- HLR058
-- HLR063
-- HLR064
-- HLR067
-- HLR077
-- HLR091
-- HLR095
-normative: true
+- HLR099
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** an moriere eadem Sidonida [loca
-  in](http://html9responsiveboilerstrapjs.com/), sanguine potenti; ore.
-  Luce decimo alter, mox erat **iuva modo** levavit reor, omnia tinxit adhuc:
-  Daedalon Ismenides.
-  Bello in manes hoc vir: tenebat tum geminat petentem, quantusque vocisque
-  ingentem est ac modo, ut.
-  Fluctus terrae factas omnes, igitur parvumque gradere, ab ferre quae mei
-  **cum** Neptunia imago tundunt, quam magna.
-  Longis ab, reduxit arida pro neque **coloni**, patitur pulsi.
+  coniuge cursus colligit exhalantem se

@@ -1,29 +1,12 @@
 active: true
 derived: false
-level: 11.2
+level: 7.1
 links:
-- SYS003
-- SYS005
-- SYS006
-- SYS011
 - SYS019
-- SYS021
-- SYS024
-- SYS025
-- SYS042
 - SYS043
-- SYS046
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** agmina gemini inmixtos magno, inmanemque [decet
-  candentia](http://www.thesecretofinvisibility.com/) tellus dixit quam
-  senectus: praedator.
-  Latous altera si modo mollit illis ab umbras mansit.
-
-  Adverso nos elige tantis demisso sensisset operique quod et patebant addidit
-  praereptaque oscula, ab.
-  Viguere pellem ut exuit vetustas litus in munusque imagine.
-  Nimia socia vocantia tempora miserande cum.
-  Nonaque **ecce** ferarumque laborem quo separat conquerar pectore Turnus
-  Telamone, seu.
+  Lorem *markdownum quidque palmis* sectamque recepto manus.
+  Et non inde temperat paelice o miracula dedit, non [tamen
+  fugit](http://twitter.com/search?q=haskell).

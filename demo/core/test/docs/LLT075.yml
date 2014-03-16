@@ -1,49 +1,12 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR011
-- LLR016
-- LLR018
-- LLR019
-- LLR022
-- LLR031
-- LLR041
-- LLR053
-- LLR059
-- LLR065
-- LLR068
-- LLR088
-- LLR089
-- LLR091
-- LLR092
-- LLR093
-- LLR114
-- LLR118
-- LLR120
-- LLR125
-- LLR130
-- LLR134
-- LLR141
-- LLR156
-- LLR157
-- LLR160
-- LLR171
-- LLR177
-- LLR184
-- LLR185
-- LLR186
-- LLR189
+- LLR094
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum eadem tertius contingere in est exemplis gemitus
-  sorores.
-  Fit citharae [leaeque](http://omgcatsinspace.tumblr.com/).
-  Diu ne praecipue putatur utroque, in non posco, vel *gerit*. Sedit vixque,
-  praebebat ramis magnique *clarus et sacris* mittis, a omnes remittit potuit
-  miserabilis parens simul cupiunt profuit.
-
-  - Aeneas ad et serpentum arcus agmina frondes
-  - Auro comas
-  - Se ortus iusserat etiam inminet venerat est
+  Verify lorem markdownum clausit mugitus dubites at totosque Atridae collis
+  cuspis.
+  Neve canam bracchia sinit, per sua atrorum poterant ibi, cepit et rigido
+  postquam.

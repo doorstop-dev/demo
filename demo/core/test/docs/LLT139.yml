@@ -1,50 +1,21 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR009
-- LLR014
-- LLR015
-- LLR025
-- LLR031
-- LLR033
-- LLR035
-- LLR040
-- LLR041
-- LLR042
-- LLR058
-- LLR060
-- LLR062
-- LLR067
-- LLR076
-- LLR078
-- LLR087
-- LLR096
-- LLR098
-- LLR101
-- LLR118
-- LLR124
-- LLR126
-- LLR132
-- LLR140
-- LLR143
-- LLR149
-- LLR152
-- LLR155
-- LLR160
-- LLR165
-- LLR166
-- LLR173
-- LLR193
-- LLR195
+- LLR070
+- LLR083
+- LLR085
+- LLR114
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum quondam remis: tepidique nulloque Iovemque iaculi
-  herba et illo [pectora](http://textfromdog.tumblr.com/): meum: est nostri ne.
-  Corpora vocari posset quinquennia nunc fato Pelea accede talaribus adultera
-  dicta pedibus.
-  Est victa et intravit tacuit, commenta de Rhodon spatio servas, saxumque,
-  lugenti exemploque tandem. *Regia* nisi est illa consulat [quotiens
-  longe](http://haskell.org/).
-  Orbe feram recusat partim deos minimum, saxea Alcyone iuvenis refert.
+  Verify lorem markdownum erat stagni conspectum imagine mutare et [attrahit
+  adde](http://www.wtfpl.net/), erat nudo Ossaeae.
+  Huic atro; ipsoque [valerem](http://tumblr.com/) fingit **iussus perdideris
+  virgo** nullamque futuri iamque absumitur laurea narres.
+  Nec fecit Iuno Iuppiter Achaidos percussaque **Lacon**.
+
+  Vivere ego mortis simulac relinquit lacusque vulnus.
+  Miserum ne veloxque inrumpere mixtaeque tamen more qua ferit Troiae falsi
+  suae, [Amphrisia](http://www.mozilla.org/), pulmone auras venter detexisse
+  admovit.

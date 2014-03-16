@@ -1,40 +1,11 @@
 active: true
 derived: false
-level: 2.0
+level: 2.2
 links:
-- SYS001
-- SYS002
-- SYS003
-- SYS007
-- SYS008
-- SYS009
-- SYS010
-- SYS011
-- SYS012
-- SYS013
-- SYS014
-- SYS015
-- SYS016
-- SYS017
-- SYS018
-- SYS020
-- SYS027
-- SYS029
-- SYS030
-- SYS031
-- SYS032
-- SYS033
-- SYS035
-- SYS036
-- SYS037
-- SYS038
-- SYS040
-- SYS041
-- SYS044
-- SYS046
-- SYS047
-- SYS050
-normative: false
+- SYS026
+normative: true
 ref: ''
 text: |
-  parabant altera quinque
+  Lorem markdownum **SHALL** est discordibus vates.
+  Et moto et modus Aiax Hippasus dicta minoribus lactentem **ad famulosque
+  veneno**, ad.

@@ -1,25 +1,11 @@
 active: true
 derived: false
-level: 5.1
+level: 18.0
 links:
-- HLR033
-- HLR044
-- HLR085
-normative: true
+- HLR013
+- HLR022
+- HLR035
+normative: false
 ref: ''
 text: |
-  Lorem *markdownum* tamen.
-  Erat Musa qui, sub sorores latus.
-  Ille dedisti ubi vixisse silvis, dum faciente perstant fateri dederitis
-  arborei; aestibus et limina pietas ne currere Opem.
-
-  Se inprobe erubui tyranni.
-  Vetabant in saepe patiente sciat inhospita ipsum sine traxit quattuor igne.
-  Illa sensu: nec sedibus sit *leto rorantia* vultum undecimus parvo, quoque.
-  Pulsarunt fruges: ignota cum, qui haec enim.
-  Sic caeli dixit *abripit* est circumvelatur aquae Agenorides putat undis
-  Tritonidis.
-
-  Vos puellae modo dixit tulit plurima et error ut Autolycus inseruitque
-  flammis regina Pirenidas comminus coniunx calidumque virum.
-  Alta Ulixes spatium aevum leporem claro manet aperto indicet et torum ne.
+  muneris Cui videnda fuderat ire

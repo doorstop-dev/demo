@@ -1,30 +1,9 @@
 active: true
 derived: false
-level: 5.1
+level: 23.0
 links:
-- HLR001
 - HLR005
-- HLR006
-- HLR008
-- HLR027
-- HLR029
-- HLR045
-- HLR046
-- HLR057
-- HLR064
-- HLR068
-- HLR069
-- HLR070
-- HLR071
-- HLR073
-- HLR075
-- HLR076
-- HLR087
-- HLR093
-normative: true
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** frontemque feruntur et radice illa pateat lumina
-  thalamique radice.
-  Mox orbe magni ab bene edentem sereno vultuque lacessit omen; amor hinc
-  comitem antiquas verbisque.
+  tecumque

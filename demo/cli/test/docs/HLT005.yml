@@ -1,46 +1,8 @@
 active: true
 derived: false
-level: 1.4
-links:
-- HLR003
-- HLR006
-- HLR012
-- HLR018
-- HLR035
-- HLR040
-- HLR046
-- HLR053
-- HLR056
-- HLR057
-- HLR058
-- HLR062
-- HLR063
-- HLR067
-- HLR072
-- HLR073
-- HLR076
-- HLR079
-- HLR081
-- HLR082
-- HLR084
-- HLR085
-- HLR086
-normative: true
+level: 2.0
+links: []
+normative: false
 ref: ''
 text: |
-  Verify lorem markdownum et damno!
-  Ab inpositum super internodia ad formosa cinerem, et cetera latosque,
-  [herbarum](http://www.mozilla.org/) moventem sibi: illa.
-
-  - Gradivo non canes vim contenta inmixtos exstinctique
-  - Artus sidera regnabat
-  - Accepere vetus
-  - Diverso redeuntem Iovis altos visceribus multo credere
-  - Alteriusque dimovit sollicitat sunt
-
-  Ego toxea in est, quod caelo; [viros
-  conciperet](http://reddit.com/r/thathappened) di.
-  Videri sive omnibus dea pastorve *resonabat damus qua* te infans, nil forti
-  et in tu terras sontem dicebat.
-  Sine ramis plurimus Ismenides ales, Iunone et librat os.
-  Itys externis dicunt quo mecum pectore carchesia domosque graviora parte.
+  offensaque nefas inrumperehttpwwwredditcomrhaskellesse quodcumque Fortuna

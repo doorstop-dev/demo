@@ -1,39 +1,27 @@
 active: true
 derived: false
-level: 5.1
+level: 19.2
 links:
-- HLR002
+- HLR001
 - HLR005
-- HLR014
-- HLR024
-- HLR032
-- HLR037
-- HLR038
-- HLR040
-- HLR042
-- HLR044
-- HLR046
-- HLR048
-- HLR052
-- HLR053
-- HLR056
-- HLR058
-- HLR061
-- HLR063
-- HLR064
 - HLR066
-- HLR067
 - HLR069
-- HLR074
-- HLR081
-- HLR087
-- HLR090
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** sint; arma resupinus duri mersisque, Procrin in
-  namque.
-  Quotiensque quam coluntur petitis opertos.
-  Nova [mutet dilectaque nemorisque](http://eelslap.com/) tenues virtute;
-  **docuisse ac** tenebris in lacertis Quid.
-  Et Caune dicentem cono nostra veni deducentia ille genetricis amabam.
+  Lorem markdownum **SHALL** quoniam incessere, vestes aether ductae dum Cancri
+  metuunt, fistula virum!
+  Erit carior lanugine humus.
+  Sentiet dis ferus separat concede miracula.
+  Scilicet aliis.
+
+  - Erat tibi dum vitat in axis ne
+  - Nodoso aut et alto finis operisque petunt
+  - Suo prodiga nondum metus adire Deucalioneas utraque
+  - Modo dat relatis Oceano
+  - Cum numeros peto per
+
+  Orbae modo nec?
+  Ira silvis rector crepitantis regni, ignes auro *inrita* et certior coniunx.
+  Et *adde* molli felicia, **pugnas** suberant neque sunt coniuge erat dum at
+  fortis, lentos tum esse!

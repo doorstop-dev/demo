@@ -1,26 +1,16 @@
 active: true
 derived: false
-level: 5.1
+level: 8.2
 links:
-- HLR003
-- HLR006
-- HLR021
-- HLR024
-- HLR044
-- HLR061
-- HLR062
-- HLR072
-- HLR078
-- HLR083
-- HLR087
-- HLR092
+- HLR019
+- HLR049
+- HLR051
 normative: true
 ref: ''
 text: |
-  Lorem *markdownum* verba credensque ignara deus atque, in in ut et Sicanias.
-  Crudelis laudis infernum Nostra non astu bracchia summoque a vultus,
-  laboribus frangitur utque: nesciet urbesque meruere.
-  Miseratus neve omnia latratibus nullis neque currus; velatus finito Iuno,
-  senserit Ulixis cuspide.
-  Furoris tergoque horridus potius.
-  Sua toro.
+  [Verify lorem markdownum](http://imgur.com/) movere *multa*, constitit siquis
+  hoc socerum bracchia sit possit ver.
+  Minus similem gerere pennas si, frondes [aut
+  eventus](http://html9responsiveboilerstrapjs.com/) spectans celebrare populis
+  totidemque mulcet circumdat solent vetito fistula nostro, tangi.
+  Vincere auro, fama Iovi nec ducat, ora licet spem caperet.

@@ -1,52 +1,12 @@
 active: true
 derived: false
-level: 6.3
+level: 5.9
 links:
-- LLR010
-- LLR020
-- LLR037
-- LLR042
-- LLR050
-- LLR055
-- LLR059
-- LLR068
-- LLR079
-- LLR082
-- LLR085
-- LLR090
-- LLR099
-- LLR102
-- LLR106
-- LLR110
-- LLR111
-- LLR113
-- LLR118
-- LLR119
-- LLR128
-- LLR133
-- LLR135
-- LLR144
-- LLR145
-- LLR148
-- LLR152
-- LLR156
-- LLR157
-- LLR158
-- LLR160
-- LLR168
-- LLR173
-- LLR174
-- LLR175
-- LLR177
-- LLR179
-- LLR183
-- LLR186
-- LLR189
-- LLR198
+- LLR146
+- LLR169
+- LLR193
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum Phlegyis muris qui habet oraque ferunt consuerant
-  iaculi **dixit tegendas murice** accusoque silvestre texique saepe, et.
-  Ovis prius *confessis*: hasta est et Iunonis nondum inania, natura datae
-  Mulciber.
+  Verify lorem markdownum levatus prior captantia.
+  O ad avellere, quotiensque incipit lorisque.

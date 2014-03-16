@@ -1,57 +1,15 @@
 active: true
 derived: false
-level: 5.1
+level: 16.4
 links:
-- HLR001
-- HLR003
-- HLR004
-- HLR009
-- HLR010
-- HLR012
-- HLR017
-- HLR018
-- HLR021
-- HLR022
-- HLR025
-- HLR026
-- HLR030
-- HLR035
-- HLR036
-- HLR039
-- HLR040
-- HLR041
-- HLR043
-- HLR044
-- HLR048
-- HLR051
-- HLR056
-- HLR060
-- HLR063
-- HLR069
-- HLR070
-- HLR073
-- HLR077
-- HLR078
-- HLR079
-- HLR081
-- HLR085
-- HLR088
-- HLR090
-- HLR093
-- HLR094
-- HLR098
-- HLR099
+- HLR005
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** comis; meritis causa; neve radix sic dum hoc cum
-  dona.
-  Sic deus levis iras: iniquae desiluit vota mater aut cui campo.
-  Quam flexit [oculis](http://www.raynelongboards.com/).
+  Lorem markdownum **SHALL** timidumque laudabat ambiguo haec suo decoris
+  pecoris quinque milite ex neve ait.
+  Ruere ipse, est coirent magnis.
 
-  - Mihi petit Sidone Themi
-  - In nec saepe rursus ursi deforme pocula
-  - Spolioque illo
-  - Ignibus remittit
-  - Sacravere attoniti dicentum
-  - Sonus ante tum ingeminat virtus
+  Uteri nostros terreat, saepe solio, quis sacris Herculeo silvis; *versat
+  praefractam loquor*. Quem parte antiquae solus plenissima lucos inplent
+  inpulsu trahit, est.

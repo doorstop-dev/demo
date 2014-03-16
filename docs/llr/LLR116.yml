@@ -1,48 +1,33 @@
 active: true
 derived: false
-level: 5.1
+level: 23.3
 links:
-- HLR004
-- HLR007
-- HLR010
-- HLR012
-- HLR013
 - HLR014
-- HLR020
 - HLR022
-- HLR025
-- HLR026
-- HLR030
-- HLR035
 - HLR037
-- HLR041
-- HLR042
-- HLR045
-- HLR046
-- HLR047
-- HLR048
-- HLR050
-- HLR055
-- HLR056
-- HLR057
-- HLR059
-- HLR062
-- HLR063
-- HLR069
-- HLR073
-- HLR076
-- HLR086
-- HLR088
-- HLR089
-- HLR090
-- HLR093
+- HLR064
 - HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** licet, tamen te putat nequeunt manibus, quod!
-  Ore me, flavescere iubent pecudes aratro.
-  Socio ad [tangor](http://twitter.com/search?q=haskell), superas et habetur
-  stemus!
-  Suos et iocos [avis cetera mansit](http://gifctrl.com/) guttura, et Dodonaeo
-  mea esse nulla dea flexerat fuit destruitis latet adstringit.
+  Lorem markdownum **SHALL** suum qua dominique gratulor deos faticano obstipui
+  quem, imo.
+  Aether esse, qui ilia digitos Pythona quoque positoque Thoantis vagantem
+  gradus prensoque dixi contrahitur mittere teque.
+  Exit per vultus venturi vultum: sic contra iubet arborea qua mente moverat an
+  *talia*?
+
+  Coeptis gerebat omnia; aliquisque tu **Europam nec** semivir colligit
+  volucrum iam tum et.
+  Radice Saturnius Saturnia illo, induerat os pateris priorum?
+  Et remittat male ante Fortuna status quam.
+  Non illi et fallis Dryopen minimum concipit absumpsit ardua qui procul summa
+  vincla scilicet est corpus de [in](http://www.lipsum.com/) nisi.
+  Die confessasque questa [fuit](http://stoneship.org/) viri igitur!
+
+  Nostri tenebrosa, undis foribusque iuris equorum imperat coniunx hospitis in
+  [catulus veni damnatque](http://example.com/) et mares rotarum?
+  Prodere vis, fronde de ille capillos illuc: terrore.
+  Et oborto viscera naris.
+  Delusum nec sceptro **redde populus** tecum adhuc alas, solebat fine dignas
+  Phrygios diversaque feris, non.

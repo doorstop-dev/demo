@@ -1,49 +1,16 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR005
-- HLR011
-- HLR014
-- HLR027
-- HLR028
-- HLR031
-- HLR033
-- HLR034
-- HLR040
-- HLR048
-- HLR055
-- HLR056
-- HLR059
-- HLR063
-- HLR066
 - HLR073
-- HLR075
-- HLR076
-- HLR081
-- HLR083
-- HLR088
-- HLR092
-- HLR095
-- HLR097
-- HLR099
+- HLR085
+- HLR091
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** induitur enim mirumque perque absumitur vulnus
-  torus egregius nemorale erat nos.
-  Flesse *optantemque* natus arcum **non solet contraria** hortatibus miror
-  Anaxareten ede digitis, vestigia in Lethes suis *humo*, spargere.
-  Resedit indicio vulgus.
-
-      software *= zebibyte_bridge_optic(dfs);
-      var active_remote_storage = ppcPassiveEdutainment;
-      var source = vpnVisualUddi;
-      var trinitron_standalone_codec = daemon + printer(duplex_dlc_sdk, heat);
-      if (and.userChipVfat(dnsGps) + 1) {
-          monitorConsole = 3;
-      } else {
-          dll(84);
-          leopard_teraflops = printer_copy(5, sli);
-          sla_case += drive;
-      }
+  Lorem markdownum **SHALL** regna, Adonis duplici, sic imagine femina, quidem
+  est Pyreneus, annis, *inpugnante acta*! Labuntur differt *iunctas* ego mox
+  qui facit ulla Phinea per Cybeleius.
+  Ponit **loqui in vocem** quoque medio dives poterit: stare, servatoremque
+  caelesti **in**, oppidaque revocantis Amoris.
+  Inminet cuncta parvaque, **ulla** titulum?

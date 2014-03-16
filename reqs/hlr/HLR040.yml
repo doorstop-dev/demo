@@ -1,25 +1,13 @@
 active: true
 derived: false
-level: 6.8
+level: 7.7
 links:
-- SYS009
+- SYS007
 - SYS015
-- SYS018
-- SYS019
-- SYS026
-- SYS028
-- SYS031
-- SYS040
-- SYS045
-- SYS046
+- SYS033
 normative: true
 ref: ''
 text: |
-  [Lorem markdownum **SHALL**](http://seenly.com/) donec permanet fumabant puer
-  nostro instructamque illa exanimata!
-  Et abit simul valuit sacer caesaries sit matre, fata vocat, vini puerique!
-
-  1. Negat arbor raptoresque metus
-  2. Pectora Quid cum huic ait squamea mi
-  3. Nihil cur tempora satus
-  4. Nimiumque et pietas
+  Lorem markdownum **SHALL** expers genetrix, in quam deferre placet positis.
+  Suisque paravi coloribus cuncta.
+  Ego furca dare, iuvenes, et, vibrant exequialia.

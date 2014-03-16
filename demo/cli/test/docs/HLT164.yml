@@ -1,33 +1,18 @@
 active: true
 derived: false
-level: 5.1
-links:
-- HLR002
-- HLR007
-- HLR026
-- HLR034
-- HLR035
-- HLR036
-- HLR050
-- HLR065
-- HLR069
-- HLR079
-- HLR081
-- HLR086
-- HLR091
-- HLR096
-- HLR098
-- HLR100
+level: 8.1
+links: []
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum Peleus rapitur et felicem, telisque in veteris
-  perque, e quid orbis sanguinis retinacula fide ore sonantia.
-  Quique iussit.
+  Verify lorem markdownum Marte contendisse, vicina ter.
+  Superis hospes, digitique et haec sequitur **sanguinis caelatus posita**,
+  non.
+  Pennis non flectit tum medii media scelus somno, **me saevique obstupuere**:
+  iuro, dat.
+  Freta laborum *negarunt* ulvis portaque Iuppiter corpora; [et
+  arce](http://news.ycombinator.com/) intremuere.
 
-  1. Terga et timendos motae est sollertia pulvis
-  2. Scelus nimium herba malorum da est condar
-  3. Luce diversae laetitiam Phasias
-  4. Ni et vos fortibus agit
-  5. Vetus clamat est exsiliantque erat
-  6. Tergoque sed circumfususque sine
+  Dedit diva, non iuvenes incultos, cito conscia: *qui*, a Alcyone radice,
+  volucris; ego.
+  Non dicitur nulla Alcidamas incertae.

@@ -1,39 +1,14 @@
 active: true
 derived: false
-level: 10.0
+level: 5.1
 links:
-- LLR006
-- LLR008
-- LLR016
-- LLR017
-- LLR018
-- LLR028
-- LLR036
-- LLR038
-- LLR047
-- LLR058
-- LLR067
-- LLR077
-- LLR081
-- LLR094
-- LLR108
-- LLR110
-- LLR119
-- LLR121
-- LLR122
-- LLR139
-- LLR142
-- LLR143
-- LLR153
-- LLR168
-- LLR169
-- LLR171
-- LLR180
-- LLR187
-- LLR189
-- LLR191
-- LLR194
-normative: false
+- LLR049
+normative: true
 ref: ''
 text: |
-  quam hoc forma
+  Verify lorem markdownum victima mihi locis frondis.
+  De precor terrore ipsa torque ubi moenia falso milite.
+  Lora repugnat, et digitique est. [Python
+  Lucina](http://www.uselessaccount.com/) mavult primum sparsosque resonare,
+  ingenti sua esse omnes est pars mensor dubie in festa terra haec fiducia?
+  [Aptas capiat](http://gifctrl.com/) terrae, alii levis!

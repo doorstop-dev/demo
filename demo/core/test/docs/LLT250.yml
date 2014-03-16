@@ -1,46 +1,14 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR002
-- LLR016
-- LLR023
-- LLR024
-- LLR028
-- LLR030
-- LLR034
-- LLR052
-- LLR057
-- LLR059
-- LLR062
-- LLR065
-- LLR067
-- LLR068
-- LLR069
-- LLR071
-- LLR072
-- LLR076
-- LLR079
-- LLR080
-- LLR081
-- LLR082
-- LLR089
-- LLR100
-- LLR101
-- LLR108
-- LLR112
-- LLR127
-- LLR128
-- LLR152
-- LLR172
-- LLR176
-- LLR182
+- LLR008
+- LLR083
+- LLR145
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum nocte, equus verum Iolaus, excipit.
-  Velatus qui manu per annisque multaque, arbore *se mota* in omnia liquidas,
-  non pudore tubere; amnes.
-  Uti cavis ferinae eadem mitior signaque unda.
-  Quisque a niveo praesaga patentes vagantur ad petit: petiisse coniugis, ut
-  ars vera lacus quoque.
+  Verify lorem markdownum Rhodanumque ignes et mihi, occidimus, aequora secto
+  infligitque ausus hostis adsumpserat **nisi**; sic.
+  Solis non et ipsum, *ut sed* fuit ab pius.
+  Geminata mortemque hunc.

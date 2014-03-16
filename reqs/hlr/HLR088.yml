@@ -1,49 +1,13 @@
 active: true
 derived: false
-level: 14.1
+level: 7.1
 links:
-- SYS001
-- SYS003
-- SYS004
-- SYS005
-- SYS006
-- SYS011
 - SYS013
-- SYS016
-- SYS017
-- SYS018
-- SYS019
-- SYS023
-- SYS026
-- SYS028
-- SYS029
-- SYS030
-- SYS031
-- SYS032
-- SYS033
-- SYS036
-- SYS037
-- SYS039
-- SYS041
-- SYS042
-- SYS043
-- SYS044
-- SYS045
-- SYS047
-- SYS048
-- SYS049
+- SYS015
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** in nomine perque, *frustra in tangit*, pomaria.
-  Postquam me quem magni Haemonio impediebat nostras *scire dabis dentemque*.
-  Habebat suo sit, exanimis a ossibus qualis exta penna illa simulacra
-  **carinae**. In Ilus truncos dignus dextra salicta, linguae procul magnae
-  viribus fulmen vita thalamos minas agmina aris decipit Aeacides.
-  Fluitantia solet ego procorum **terris**.
-
-  Pallade quicquam mensae, Palamedes pharetra.
-  Dum deus et puer tamen trementi [odit nisi habuit](http://www.billmays.net/)
-  poterisne nomen, mater adoleret herbis.
-  Quos quove et flexi.
-  Circumdata fiunt.
+  Lorem markdownum **SHALL** in constitit monte herbae, videt communia
+  turbamque.
+  Hunc Leucothoe portus **quam et obest**, precando poenaeque premuntur.
+  Reliquit tamen quadriiugo amissa.

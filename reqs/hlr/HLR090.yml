@@ -1,42 +1,13 @@
 active: true
 derived: false
-level: 14.1
+level: 7.1
 links:
 - SYS001
-- SYS002
-- SYS005
-- SYS008
-- SYS009
-- SYS011
-- SYS013
-- SYS014
-- SYS016
-- SYS017
 - SYS019
-- SYS021
-- SYS022
-- SYS023
-- SYS024
-- SYS025
-- SYS026
-- SYS027
-- SYS029
-- SYS030
-- SYS031
-- SYS032
-- SYS036
-- SYS037
-- SYS038
-- SYS039
-- SYS041
-- SYS042
 - SYS043
-- SYS046
-- SYS047
-- SYS050
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** negare.
-  Potest patrumque [mandata](http://www.lipsum.com/): iubet stravimus
-  effervescere.
+  Lorem markdownum **SHALL** fine, paulatim et isto *domusque infectas terras*
+  Astypaleia pariter fecerat.
+  Ego nec aevum commenta solent.

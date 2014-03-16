@@ -1,27 +1,17 @@
 active: true
 derived: false
-level: 5.1
+level: 23.6
 links:
-- HLR004
-- HLR018
-- HLR037
-- HLR038
-- HLR039
-- HLR080
-- HLR087
-- HLR088
+- HLR095
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL**: placeat calore.
-  [Et](http://hipstermerkel.tumblr.com/) Caeneus siccoque; huc nostri mentita
-  temporis: quem obvia possederat spinae, Hippolytus flamma Tyriam Neritiaeque?
-  Carthaea profuit, patres facientia natusque.
-  Cum destringere [pulsusque](http://kimjongunlookingatthings.tumblr.com/)
-  amorem agros *namque*; que arces humo Plena adimuntque.
+  Lorem markdownum **SHALL**, veteris: hoc sua sed artis narravit sermone ergo
+  dea prohibetis tibi qualesque. [Cerae pereat](http://omfgdogs.com/).
+  Cunctisque dicere positoris mixta non quoque appellat cum *tecta poenas*,
+  iuncti.
 
-  - Ultaque suae tot cruore ergo extendit dies
-  - Mollis sic
-  - Sibi tuearis prius colla atque omnes corpus
-  - Si clamorque signa felicem expulsi dextraeque opem
-  - Noctisque furor
+  1. Videre seductaque et suos ora
+  2. Undamque tibi
+  3. In populos Sperchionidenque inclitus dissimilem autumnos cervus
+  4. Nunc natae dedere

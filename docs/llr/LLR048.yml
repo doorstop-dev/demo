@@ -1,55 +1,10 @@
 active: true
 derived: false
-level: 5.1
+level: 10.0
 links:
-- HLR001
-- HLR002
-- HLR003
-- HLR004
-- HLR007
-- HLR008
-- HLR009
-- HLR011
-- HLR018
-- HLR022
-- HLR024
-- HLR026
-- HLR034
-- HLR038
-- HLR039
-- HLR040
-- HLR042
-- HLR047
-- HLR051
-- HLR054
-- HLR057
-- HLR063
-- HLR066
-- HLR067
-- HLR069
-- HLR076
-- HLR079
-- HLR085
-- HLR087
-- HLR089
-- HLR090
-- HLR092
-- HLR093
-normative: true
+- HLR035
+- HLR078
+normative: false
 ref: ''
 text: |
-  **Lorem** markdownum, sors lacrimisque oculis.
-  Pittheam *est poterat* ter Persea Helicen, coeperat si guttae induitur et
-  crudelis cycnorum exercetque.
-  Latos senatum.
-
-  - Carinae verba ad gerit qui pondere ruunt
-  - Et aura illa iussit uterque gravis
-  - Exit si simul paternum
-  - Aequora pater olentia
-
-  Natae tantosque et videres Nereides lenta prementem nectare faciem
-  lacrimaeque.
-  Lateri **tamen** si sine scindunt stridore coniunx flamma bellatricemque
-  domique subigebant levavit paret.
-  Solitumque temeraria Phrygiae Sisyphio.
+  sperare

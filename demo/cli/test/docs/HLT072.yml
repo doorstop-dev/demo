@@ -1,32 +1,18 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR002
-- HLR010
-- HLR016
+- HLR013
 - HLR022
-- HLR029
-- HLR039
-- HLR042
-- HLR051
-- HLR052
-- HLR054
-- HLR056
-- HLR064
-- HLR069
-- HLR072
-- HLR074
-- HLR078
-- HLR080
-- HLR082
-- HLR089
+- HLR036
+- HLR050
+- HLR092
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum capillis, cum corpus fingit; a fonte, ego amans damno
-  **rector tecta** omnia de memor *non*. Te Cadme: hoc nec clarum bovis:
-  terrarum miserere minanti causa suum!
-  Quod ore, almus data ludere, tu relicto per viridem, illa saltu *deiectuque*.
-  Causam [trita illo](http://stoneship.org/) vincere, vide Orphea longi.
-  Sparsit pro quoque, murmura labores, condidit, quid.
+  Verify lorem markdownum euntem!
+  Nepoti vara et medio ut evolvit torumque Hectora forem lacrimante tenent in
+  ipse manat, et alieno furtiva et vesci?
+  Si socium edidicitque cruore iter sive nec forent, in.
+  Acta *manu* pulmonis solis animas praecutiunt, super ortus diversae de sonum,
+  caesis exstinctum et certe dissipat plura levius.

@@ -1,58 +1,17 @@
 active: true
 derived: false
-level: 5.4
+level: 6.3
 links:
-- HLR001
-- HLR003
-- HLR005
-- HLR008
-- HLR009
-- HLR010
-- HLR011
-- HLR028
-- HLR029
-- HLR030
-- HLR032
-- HLR033
-- HLR042
-- HLR044
-- HLR045
-- HLR047
-- HLR048
-- HLR049
-- HLR050
-- HLR053
-- HLR058
-- HLR059
-- HLR067
-- HLR068
-- HLR074
-- HLR075
-- HLR079
-- HLR080
-- HLR081
-- HLR082
-- HLR087
-- HLR091
 - HLR092
-- HLR093
-- HLR096
-- HLR099
-- HLR100
+- HLR095
 normative: true
 ref: ''
 text: |
-  Lorem **markdownum ausis acta**. Hic pomis, ardesceret, plectrumque fonte
-  scitanti frondes!
-  In tendit seque, di aquoso Aonios barba, vitibus sequendo natura.
-
-      infotainment_unc_pop = ergonomics_exbibyte_hoc(system(ipWEncryption),
-              monochrome, -4) / 3;
-      if (bridge.favicon.python_drm_ppi(software,
-              andUatReimage.software_payload.alignment(3, downloadIsp))) {
-          dock_dimm(fddi_cross_bot, 4);
-          key_point = 56;
-          localhost_memory = 11 * 1;
-      }
-      opengl(algorithmPublishing(90, whitelist(serverNat, blob_piconet_codec,
-              computer), 4));
+  Verify lorem markdownum feruntur et solvit Macareus ferarum loquenti Veneris,
+  ut non dabatur; vim unusque erat.
+  Edentem bina quem, virginitatis Ecce, secum ore Phoebeius levati rogata bibit
+  editus et certa coctilibus medio metu.
+  Est ore tantum exhortor videoque *poenae* inpia ille ego primum *rettulit
+  amici* nec mandatam illo exarsit seque.
+  Fregit utque exiguis morae, qui **cum** ire post exemplo imis timuit sic
+  fecisse verba inferias tumultus puto quoque.

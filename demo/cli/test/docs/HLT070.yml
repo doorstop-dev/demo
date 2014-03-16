@@ -1,31 +1,11 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR031
-- HLR040
-- HLR049
-- HLR050
-- HLR051
-- HLR056
-- HLR058
-- HLR068
-- HLR072
-- HLR080
-- HLR082
-- HLR085
-- HLR088
-- HLR090
-- HLR097
+- HLR012
+- HLR092
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum ictibus utque **temploque** dicere, voce tenet?
-  Et reor paterni fluunt.
-  Artus sit Nereis praebet murmure ducere, premis rapto superasque staret.
-
-  - Quem et aberat motura Ithacus hinc pande
-  - Tritis manat adorat
-  - Intellecta paludibus mihi tamen
-  - Flammis Iovis
-  - Minus modumque
+  Verify lorem markdownum dedi madent, potuit hic fateor arma heu nec per
+  pronuba dixit: litatis ubi mihi **totum**. Inmitem ergo suam.

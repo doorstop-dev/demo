@@ -1,41 +1,15 @@
 active: true
 derived: false
-level: 5.1
+level: 5.2
 links:
-- HLR001
-- HLR004
-- HLR006
-- HLR007
-- HLR010
-- HLR012
-- HLR014
-- HLR017
-- HLR020
-- HLR024
-- HLR032
-- HLR033
-- HLR034
-- HLR036
-- HLR042
-- HLR043
-- HLR051
-- HLR062
-- HLR066
-- HLR067
-- HLR079
-- HLR080
+- HLR031
+- HLR064
 - HLR081
-- HLR082
-- HLR083
 - HLR091
-- HLR092
-- HLR094
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** tremescere **vita** laetabile orbe, carchesia
-  vultus prensamque unus amissa, simillima invia, magna.
-  Adsuetasque lacerata hostem.
-  Longo opes conponere, est telo posse cupidine aestu imumque pingue.
-  *Minuuntur fretum*, velat.
-  Territa narretque, quaque inque, scitarier Hymenaee regis sumitur quoque.
+  Lorem markdownum **SHALL** monedula.
+  Omnibus incessit proditus illic meritumque sacros.
+  Furit ne corpore [maneant in qua](http://imgur.com/) nescio et fallor, hoc
+  est respondet accipe dolorem nemorale Cephisos rasilis nisi, ea.

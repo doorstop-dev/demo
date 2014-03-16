@@ -1,23 +1,14 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR026
-- LLR048
-- LLR125
-- LLR155
+- LLR040
+- LLR051
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum primum de in veterumque sorores grave.
-  Nunc non quicquam piacula Canache, ostendens tendens vasto putares; in mihi?
-  Auras nemo medicamine *arma* Cyllene quoque cum nec repugnat sic haud tempora
-  nulli verum per ocior dextera sinit perpessae lacrimisque.
-
-  - Ebore oras parvi timuit fuit amborum
-  - Delphica possis locumque fornace decoris aequor
-  - Adsiluit coniugis at haec praecedere inficit membra
-
-  Et annos lacrimas isto si: quos: quod quae interea positique nunc abstrahor
-  meminitque sed.
-  Et infamia?
+  Verify lorem markdownum in mihi bacis precantem silvas quamquam haec: et
+  faveant motus!
+  Erat non circum curru ante glacies tibi
+  [deo](http://twitter.com/search?q=haskell) teneris anum *conata* cederet
+  obscurum Aonius liceret.

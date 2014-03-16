@@ -1,60 +1,25 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR001
-- HLR002
-- HLR004
-- HLR006
-- HLR007
-- HLR010
-- HLR012
-- HLR013
-- HLR017
-- HLR019
-- HLR021
-- HLR025
-- HLR027
-- HLR028
-- HLR029
-- HLR035
-- HLR041
-- HLR043
-- HLR045
-- HLR047
-- HLR049
-- HLR052
-- HLR058
-- HLR059
-- HLR066
-- HLR068
-- HLR070
-- HLR072
-- HLR074
-- HLR078
-- HLR079
+- HLR015
+- HLR031
 - HLR080
-- HLR081
-- HLR084
-- HLR086
-- HLR087
-- HLR090
-- HLR093
-- HLR095
-- HLR097
-- HLR099
-- HLR100
+- HLR098
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum radiosque. *Graciles crimen suisque* Quinque sibi
-  ignis murmur nomenque ut, aeno animo.
-  Venientis adopertaque flamma; pectus quae nurus; ipse populo timoris, coniuge
-  Ceyca optima.
+  Verify lorem markdownum et misistis margine Cerambi ossibus postquam petens
+  properabat, mearum aerias remoretur matrem.
+  Malus *erant litat est*; est mea nisi sua dantem carmina mentem.
+  Quae terra paene, squalentia Athon dentes vaporibus Ixione; erat abit essem
+  ferant!
 
-  Eligit est *cur* posse est dum litora quantumque, flammiferis summis nominat
-  sumite pedibus dum memorant resistit?
-  Summoque *calcare* nota, hoc **atque**, sed, per miratur.
+  Quid [sacra](http://www.reddit.com/r/haskell) et sororem repugnas ademi
+  temerarius tanto indiciique.
+  Misso nova?
+  Sibila **nil** pestiferaque operata Niobe.
 
-  Tunc coniuge regionibus strictis.
-  Volucres **seu porrecta hic** est: sinus murmura tenebant.
+  - Lacu tamen fratrem indicium corpore
+  - Quod petis medio nescia placido nomina quas
+  - Verum nec est

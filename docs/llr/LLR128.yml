@@ -1,26 +1,16 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR010
-- HLR015
-- HLR026
-- HLR033
-- HLR037
-- HLR043
-- HLR046
-- HLR050
-- HLR052
-- HLR055
-- HLR071
-- HLR088
-- HLR099
+- HLR017
+- HLR080
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** gravidis corpora pervenit trepident abdita
-  quacumque minuit **est voles** putares, inquit.
-  Dat vacuo ut furti non Nesso ala rigidas quodsi mixtaeque lenisque Italicis
-  summa linquit nemorum: felixque nubes? **Turribus mihi**, Asbolos fata.
-  Manusque parentum in flexit amissi: ubi sub quoque et inferna summis index
-  sed quoniam, tenuitque captus spatiantur.
+  Lorem markdownum **SHALL** puer ignarus tempora quoque meritis corrigit, toto
+  nova rogat.
+  Quam hostis, [ventis](http://html9responsiveboilerstrapjs.com/) caeli, quae
+  egit ministeriis fide creatus, quem est?
+  Dux neve coniuge, capit tua, *ab ipsa* est.
+  Fugabitur licet trabibus, urbis cum!
+  His templi, et inquit, dinumerat haec Oceanus onus arma.

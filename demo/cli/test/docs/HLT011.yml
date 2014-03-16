@@ -1,33 +1,11 @@
 active: true
 derived: false
-level: 3.1
+level: 4.0
 links:
-- HLR025
-- HLR037
-- HLR044
-- HLR046
-- HLR047
-- HLR066
-- HLR074
-- HLR084
-- HLR092
-normative: true
+- HLR033
+- HLR059
+- HLR099
+normative: false
 ref: ''
 text: |
-  Verify lorem markdownum liceatque quod.
-  Classe loquentis superbus desit rogumque artus. *Facta Iovis ferat*; inquit
-  Agenorides infelix si quae Diomedeos inquam partibus: cum diu, licet *non*.
-  Ardet usum agrestes iuvet recurvam modo dederat?
-  Per cum venerat.
-
-  Sidera ad **causas memor** Cinyras mihi! **Saxa herbas oraque** deme illa
-  Latialis facere quandoquidem arma; sacrata [omnes](http://zombo.com/): ter
-  axis fragmina, cursu in dempto.
-  Virgine regisque incertae inmisitque si edidit auro [rati terga
-  Clyton](http://gifctrl.com/), erat.
-  Est mandata metuam, et rapta.
-  Quod det; dicta quae, iam sui; **repletum sol vehit** illos.
-
-  Regnum in fert repperit *vix* quae ultimus nunc fugientem iacens iter hoc
-  Naupliades misit solutis.
-  In sic.
+  turis dissiluit placida aestuat patrem subvolat ego

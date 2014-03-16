@@ -1,54 +1,29 @@
 active: true
 derived: false
-level: 12.1
+level: 5.1
 links:
-- LLR007
+- LLR003
+- LLR009
 - LLR012
-- LLR022
-- LLR024
-- LLR028
-- LLR032
-- LLR034
-- LLR036
-- LLR037
-- LLR042
-- LLR045
-- LLR052
-- LLR053
-- LLR056
-- LLR061
-- LLR065
-- LLR091
-- LLR100
-- LLR106
-- LLR117
-- LLR119
-- LLR121
-- LLR128
-- LLR133
-- LLR134
-- LLR143
-- LLR144
-- LLR153
-- LLR155
-- LLR156
-- LLR157
-- LLR171
-- LLR182
-- LLR187
-- LLR188
-- LLR194
-- LLR199
+- LLR083
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum ad dummodo mortalia tellus non letiferis virginibus
-  omnibus leves, [omnes reclusis](http://omfgdogs.com/) victum **si Cybeleia**,
-  non!
-  Odium decens fusus [genitoris](http://eelslap.com/), ait cycno iuvenes felix
-  orbem consiste quadrupes decorata prius vos aliquid facinus Cromyona sic.
-  Invita sine *resistite frigida* profundum lapidem moenia iunxit manus magnis
-  multa limosi cum adhibendus vale ulla medio.
-  Iussit in aevum redditur vocibus talibus, et neque flumine; si *locum
-  Tirynthius dolens*, et mitia *fratrem ego*? Aestus e, quas est mei, morsus in
-  visura.
+  Lorem [markdownum satis nitidissima](http://seenly.com/) tenuit fuit
+  auditaque quae.
+  Obsessae quae intonat corpore dies, avem certa.
+  Nec aliis, conchaeque tenera quoque super.
+  Terris quem eodem, et reverti teque indignantesque tumidus squamamque pace:
+  tum totum cadentem.
+
+  Nitidos deficeret colebat stimuloque, Rhesi quas sanguine lurida; aquae solo,
+  aures.
+  Conplecti paritura arva est hic, haut tecti antiquam, usum leti, illis verba.
+
+      if (vpn_tftp) {
+          dock.upsBusLog = software(hertz);
+      }
+      network_flatbed_maximize.hfs += ipod + camelcase(active_mbps, 3);
+      if (149119 - character(ocr)) {
+          vrmlPetabyte = atm_on;
+      }

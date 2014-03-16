@@ -1,30 +1,17 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR008
-- HLR025
-- HLR026
-- HLR027
-- HLR032
-- HLR035
-- HLR048
-- HLR050
-- HLR051
-- HLR052
-- HLR072
-- HLR080
-- HLR090
-- HLR097
-- HLR098
+- HLR084
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** et natura, magnus vidit: flamma: manu atria
-  loquendo volucres; arasque.
-  Solus causam facta quattuor, nec inter tot passim idque parentis cognoscere.
-  Nabat nisi genas populi aeris, admotis hominum addunt Troianae versabat equam
-  inmemores [quarum iunctorum](http://html9responsiveboilerstrapjs.com/)
-  Achillea ceram gravis.
-  Inpositaque tuque Berecyntius os vellet; incubat increpuit lucibus rudibusque
-  proferre altum fuerat de Laestrygonis *orbem sole* Laelape ora adiere.
+  Lorem markdownum **SHALL** falcatus, patulas si inpatiens iubebat, illa veni
+  matutinaeque.
+  Fraudat in Erasinus sarisa casus adspirate eligit, ignis mea et mansit copula
+  terra index exstinguor?
+  At arsit **letalibus vestem**.
+
+  Ad quae nisi auditum, Nonacrina Cythno.
+  Supremaque causa caecaeque, est, Iam spinas, respicit postquam segnibus hosti
+  flexum ut non, tot.

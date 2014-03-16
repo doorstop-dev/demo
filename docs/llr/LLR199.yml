@@ -1,46 +1,17 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR004
-- HLR005
-- HLR011
-- HLR014
-- HLR016
-- HLR017
 - HLR018
-- HLR023
-- HLR024
-- HLR025
 - HLR026
 - HLR030
-- HLR032
-- HLR033
-- HLR036
-- HLR044
-- HLR045
-- HLR049
-- HLR050
-- HLR054
-- HLR056
-- HLR064
-- HLR066
-- HLR068
-- HLR070
-- HLR071
-- HLR072
-- HLR075
-- HLR082
-- HLR083
-- HLR084
-- HLR086
-- HLR088
-- HLR091
-- HLR093
-- HLR098
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** avidi; rursusque decipienda nostras et victis
-  Achivae tellus hoc cura **thalamumque**? Quaeque *suspectus* utimur dedit
-  Tarentum dolet forti ecce removebitur dixit.
+  Lorem markdownum **SHALL** *iterum voces* necemque, illa aures **pulsat**:
+  serpunt animasque demisit.
+  Loquor ligno, [quae dederam](http://www.youtube.com/watch?v=MghiBW3r65M)
+  Nereia **volenti ima aduncis** sic concilio fecit mella soporis.
+  Forte lacrimas quoque: doctae nemo peregrina capere me minores gerentem
+  vulgus amari erat texique.
+  Que tellure orbae.

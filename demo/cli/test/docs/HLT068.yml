@@ -1,41 +1,12 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR001
-- HLR011
-- HLR012
-- HLR013
-- HLR014
-- HLR018
-- HLR019
-- HLR022
-- HLR023
-- HLR026
-- HLR027
-- HLR028
-- HLR032
-- HLR033
-- HLR042
-- HLR046
-- HLR050
-- HLR051
-- HLR052
-- HLR056
-- HLR057
-- HLR058
-- HLR068
-- HLR070
-- HLR072
-- HLR077
-- HLR088
-- HLR092
-- HLR096
-- HLR097
-- HLR098
+- HLR076
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum rettulit sulcat.
-  Dat Delo, nimiumque luctus **oblita cingitur longumque** postquam consorte
-  pendet Dianam et Medea cum praedone illa.
+  Verify lorem markdownum errabant pedum maternaque aliis securior utroque, est
+  nitore [quidem cadit](http://zombo.com/) lectum.
+  Pendent postquam australem media, mei ludunt tamen Ulixe urbesque, pecudis
+  dextra.

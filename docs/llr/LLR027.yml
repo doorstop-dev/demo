@@ -1,41 +1,9 @@
 active: true
 derived: false
-level: 5.5
+level: 6.0
 links:
-- HLR002
-- HLR003
-- HLR007
-- HLR008
-- HLR009
-- HLR010
-- HLR013
-- HLR016
-- HLR021
-- HLR024
-- HLR028
-- HLR032
-- HLR033
-- HLR036
-- HLR039
-- HLR049
-- HLR057
-- HLR060
 - HLR067
-- HLR072
-- HLR073
-- HLR074
-- HLR081
-- HLR086
-- HLR089
-- HLR094
-- HLR097
-- HLR100
-normative: true
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** ereptam decor initis circumdata nodosque phocarum
-  gaudia.
-  Saturnia tresque viscera; colunt torvo frondes [pendens
-  alta](http://hipstermerkel.tumblr.com/).
-  Matura agere deum noviens; tamen illam ni inquit rigidos, inludens, displicet
-  virgo eripui, *praeside*.
+  sic videre lacrimoso

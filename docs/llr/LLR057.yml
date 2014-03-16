@@ -1,55 +1,9 @@
 active: true
 derived: false
-level: 5.1
+level: 12.0
 links:
-- HLR001
-- HLR005
-- HLR007
-- HLR013
-- HLR015
-- HLR019
-- HLR020
-- HLR024
-- HLR030
-- HLR032
-- HLR033
-- HLR034
-- HLR036
-- HLR037
-- HLR039
-- HLR042
-- HLR045
-- HLR047
-- HLR049
-- HLR051
-- HLR055
-- HLR059
-- HLR061
-- HLR066
-- HLR067
-- HLR068
-- HLR070
-- HLR073
-- HLR075
-- HLR083
-- HLR086
-- HLR087
-- HLR090
-- HLR095
-- HLR097
-- HLR099
-normative: true
+- HLR044
+normative: false
 ref: ''
 text: |
-  Lorem **markdownum ab precor**. Penderet factis: tectae, rogant tanto tibi.
-  Nota bella urbes, prodigiosa, desunt res purpureum neque.
-
-      commercial_ipod_kvm = protocolPaste * bar(balancing, webmaster_portal) +
-              system_prompt(openPublishingSwitch, dns, white(adcRequirements,
-              macro_image_archie, internal));
-      var version = ppm + clientProtectorRepeater + -2;
-      trackball_disk_iscsi += scan_key + gifPaste;
-
-  Est fessa luctusque vidit quae!
-  Umquam unda, in istis parentes; et flexit cecidisse oscula.
-  Naturale precantibus unde, tibi puppe protecta Orionis.
+  ab prius

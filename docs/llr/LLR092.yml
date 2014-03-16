@@ -1,35 +1,9 @@
 active: true
 derived: false
-level: 5.1
+level: 19.0
 links:
-- HLR002
-- HLR005
-- HLR011
-- HLR012
-- HLR013
-- HLR017
-- HLR024
-- HLR028
-- HLR032
-- HLR033
-- HLR039
-- HLR042
-- HLR049
-- HLR056
-- HLR057
-- HLR058
-- HLR061
-- HLR064
-- HLR067
-- HLR072
-- HLR078
-- HLR081
-- HLR100
-normative: true
+- HLR074
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** securae.
-  Via recepit primum surrexere paratis mulcet si prunaque iacebas Lenaee
-  imitante furta.
-  Properent et sensit iussique: **promittit tectis et** et vocat. [Prohibente
-  blanda](http://tumblr.com/).
+  Charybdis laetus furori coeptas et

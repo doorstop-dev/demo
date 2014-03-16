@@ -2,16 +2,10 @@ active: true
 derived: false
 level: 1.0
 links:
-- SYS014
-- SYS019
-- SYS025
-- SYS036
-- SYS037
-- SYS038
-- SYS045
-- SYS049
-- SYS050
+- SYS003
+- SYS031
+- SYS044
 normative: false
 ref: ''
 text: |
-  in aras
+  sucos effigiem esses fecit abluere herba famulas coeunt

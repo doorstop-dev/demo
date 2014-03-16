@@ -1,28 +1,16 @@
 active: true
 derived: false
-level: 5.1
+level: 7.1
 links:
-- HLR005
-- HLR010
-- HLR028
-- HLR029
-- HLR037
-- HLR049
-- HLR053
-- HLR074
-- HLR079
-- HLR080
-- HLR087
-- HLR095
+- HLR072
+- HLR076
+- HLR085
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum gementis iuveni tria, circumstantes rebar carina
-  ventique.
-  Illum et posuit.
+  *Verify lorem markdownum* opta terga.
+  Sua maris esse Atrides, distantia terna.
 
-  Nectar cum quod terramque stabat umida oris haec.
-  Primas ictu monuere in lupis pervius veniam visceribus, *sonuere harundine*
-  sonitusque exit?
-  Armenta cortex.
-  Diu interrita auras.
+  1. Tangendo pennas quem remoto
+  2. At facta Typhoea
+  3. Succurrere spondere tumulo veteremque Lami

@@ -1,44 +1,10 @@
 active: true
 derived: false
-level: 5.1
+level: 11.0
 links:
-- HLR003
-- HLR006
-- HLR008
-- HLR012
-- HLR013
-- HLR015
-- HLR026
-- HLR028
-- HLR029
-- HLR031
-- HLR033
-- HLR044
-- HLR045
-- HLR050
-- HLR057
-- HLR059
-- HLR061
-- HLR063
 - HLR068
-- HLR079
-- HLR082
 - HLR086
-- HLR087
-- HLR090
-- HLR094
-- HLR097
-normative: true
+normative: false
 ref: ''
 text: |
-  Lorem markdownum **SHALL** pudetque ambiguus relinquo, Aphidas carina primos
-  hic inrequietus nomen, quae unus.
-  Byblida tamen potest, toto rexque cura **gentis blanditias** frugis; tibi.
-
-  Sit via iunonis oculos est verba eodem tellure, ut aevi rasilis laudat
-  porrexit requiret litore lacrimisque sint.
-  Fallique tantique posuere, quae, si parvos miseram vesicam sonarent intra
-  meus iaculum flector, armata!
-  Fata praestiteris cruore male, in arbore quereris ipsaque adspicit opposui
-  annum.
-  Ante Danais fidelem erit ossa illa Tartara fata rogabam *quod*.
+  ebiberant radiis Libys suas gemmis diva

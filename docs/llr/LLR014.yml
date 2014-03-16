@@ -1,44 +1,20 @@
 active: true
 derived: false
-level: 3.3
+level: 3.6
 links:
-- HLR005
-- HLR008
-- HLR010
-- HLR011
-- HLR012
-- HLR013
-- HLR016
-- HLR021
-- HLR022
-- HLR030
-- HLR031
-- HLR034
-- HLR035
-- HLR039
-- HLR044
-- HLR045
-- HLR047
-- HLR056
-- HLR057
-- HLR059
-- HLR061
-- HLR062
-- HLR063
-- HLR072
-- HLR073
-- HLR076
-- HLR078
-- HLR079
-- HLR083
-- HLR092
-- HLR094
-- HLR096
+- HLR018
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** lentus parvoque corpore contraria alium. *Dicto
-  pars* faciem tempusque patrias *neque unda* pares membra Rhenum orbem nunc
-  iacerent in [fugit casusque et](http://jaspervdj.be/) cum conata attulit.
-  Pietas **bos positis**, et fecit temptamenta caedit habet perterrita timido
-  contemptrix erat turbaeque novissima, est initis, umeri.
+  Lorem markdownum **SHALL** tempus, labores anili hoc *Rutulum* nondum
+  Neptunus de.
+  Volantes moenia coronas dissipat passibus sui *prior*, nato gaudet tumultus
+  purpureus candida.
+  Moverat Credulitas in loquar iuncti sucosque placandam vidit nemorosam cunei,
+  in tectura caliginis quod, ora?
+  Et exanimi purpura vident laborum Pallas possemque tonsa lacrimas Gorgoneum.
+
+  - Fuerit probabo mille
+  - Myrrha graves
+  - Dum questaque nunc de dicite
+  - Avia curam deorum vestem

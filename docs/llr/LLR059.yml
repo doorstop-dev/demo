@@ -1,30 +1,11 @@
 active: true
 derived: false
-level: 5.1
+level: 12.2
 links:
-- HLR003
 - HLR007
-- HLR011
-- HLR013
-- HLR018
-- HLR025
-- HLR028
-- HLR037
-- HLR038
-- HLR043
-- HLR057
-- HLR059
-- HLR062
-- HLR070
-- HLR071
-- HLR075
-- HLR084
-- HLR090
-- HLR094
-- HLR096
+- HLR082
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** infamis.
-  Gravatos vitane. [Linoque cum](http://www.wtfpl.net/) est levor candentia
-  fulvis femina longi, inter terga.
+  Lorem [markdownum](http://www.reddit.com/r/haskell) loquendo cum ritu crine,
+  et non unda *tenens*. Cur Athamanta mons.

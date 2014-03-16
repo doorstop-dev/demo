@@ -1,32 +1,15 @@
 active: true
 derived: false
-level: 5.1
+level: 8.1
 links:
-- HLR002
-- HLR003
-- HLR008
-- HLR011
-- HLR012
-- HLR013
-- HLR016
-- HLR022
-- HLR034
-- HLR039
-- HLR047
-- HLR053
-- HLR055
-- HLR064
-- HLR066
-- HLR069
-- HLR072
-- HLR083
-- HLR084
-- HLR091
-- HLR098
+- HLR071
 normative: true
 ref: ''
 text: |
-  Verify lorem markdownum greges regna pinum isto carmine placeas
-  absensauxilium prosunt.
-  Reparet duplicataque similis *tumefecit nec* trementi, et est serpens suis,
-  malo ara.
+  Verify lorem markdownum gloria senectam Iasonis.
+  Pennas timidusque datura figuras mente seductaque vidit spatium, gravidis ubi
+  nam in erravit, corde.
+  Ope *esse* nautae, [multaque](http://omfgdogs.com/) fecundique et filum
+  semper utque ad terraeque iugulo promittis?
+  Rates numquam finxit hoc **videtur quoque**, nec [amnesque orant
+  pando](http://www.lipsum.com/) culpatque tot amor *natura cornu* vestigia.

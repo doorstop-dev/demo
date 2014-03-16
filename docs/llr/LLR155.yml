@@ -1,20 +1,17 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR010
-- HLR019
-- HLR090
+- HLR068
+- HLR072
+- HLR096
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL**, **circumfluus repulsa** pelle.
-  Ex scelus labores.
-  Nec cives comitum!
-
-  Spatio vultu oculos, sermonibus se levis non nec in viros incertae.
-  Deficiunt morte postquam si carpe concidere, Ulixes celer ipse sucoque
-  pependit.
-  Iubet vacuis places, marmore saxa aetas demittit hic vultus suus saevitiae.
-  [Infert](http://news.ycombinator.com/) tum tendere lingua vulnere dubitare
-  sanguine de acumine et victores dum aras molliri est neque!
+  Lorem markdownum **SHALL** somnus adlevet moverent.
+  Tergaque digna quamvis, mox vetabant si nulla et pete memor corporis errent.
+  Sanguine colloquium te utque oculos, cognataque quae traxit quam iussis
+  campos est est languescuntque certatim.
+  Nequeam rabies, utrumque Pandion secessit inmanis cumque [ferarum vosque
+  crimine](http://en.wikipedia.org/wiki/Sterling_Archer) nec.
+  Omina recentes acres.

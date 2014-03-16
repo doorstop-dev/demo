@@ -1,55 +1,17 @@
 active: true
 derived: false
-level: 5.1
+level: 23.1
 links:
-- HLR005
-- HLR012
-- HLR014
-- HLR015
-- HLR017
-- HLR018
-- HLR021
-- HLR023
-- HLR027
-- HLR033
-- HLR034
-- HLR036
-- HLR037
-- HLR039
-- HLR040
-- HLR045
-- HLR046
-- HLR048
-- HLR049
-- HLR052
-- HLR054
-- HLR055
+- HLR016
+- HLR024
+- HLR056
+- HLR068
 - HLR073
-- HLR074
-- HLR076
-- HLR080
-- HLR084
-- HLR085
-- HLR087
-- HLR091
-- HLR092
-- HLR093
 normative: true
 ref: ''
 text: |
-  Lorem markdownum **SHALL** gemitu iuvabat [insidior
-  sagittis](http://www.uselessaccount.com/) litore in paravi in bella
-  Oechalidum vitam, aegide conpellat?
-  Atque corpus foventque **et terram tenuit** palmis, in membra pendent
-  adnuimusque quos auderet.
-  Blandis novissima oblitus in, turba sortem potentes **sanguine**, est patiar
-  Pergama, tibi Achaidas exanimem nec.
-
-  Pueri interritus procorum.
-  Utraque aeno.
-  Vota aera volucris, [AI esse](http://www.raynelongboards.com/) restabat
-  Mysum.
-
-  Pependit daedalus vides radiante manibus sparserat enim aerias legar semper
-  remolliat.
-  Liquerunt cepit vana captus.
+  Lorem markdownum **SHALL** ex tuum possunt breve per! [Latona
+  quem](http://stoneship.org/)?
+  Ipsum matre!
+  Potest suus inpia fugere ortos per tenet, scelerisque adit.
+  Vertigine votum aerane vela.

@@ -1,29 +1,11 @@
 active: true
 derived: false
-level: 5.1
+level: 7.0
 links:
-- HLR045
-- HLR056
-- HLR070
-- HLR081
-normative: true
+- HLR002
+- HLR018
+- HLR047
+normative: false
 ref: ''
 text: |
-  Verify lorem markdownum Acheronta pectora?
-  Leto **montis** cessent corpora forma non iactatis pedes et audet est!
-  Rogat ossa spes inmania, fraternis grege quaeque solebat saevorum duarum.
-  Procul ancipiti letum inque praecedentem, patriaeque suis et tamen admissum!
-
-  Nec rerum tutissimus *factis*: annos distantibus incinxit.
-  Herbae iuvencae laboro exspatiantur Circe vultus ore *caesa* signa formae;
-  fugacia.
-  Sacra viroque reparatque adit sanguineaque matre ferro incana, genibusque
-  arma erat inornatos [et](http://omfgdogs.com/) Caeneus virentes illa.
-  Cervicis annos instabilis, consequiturque suco, ternis, Denique Medusae
-  umerosque sumptam: iura proboque?
-
-  Ipsi quas Emathiis liquerat humus Hecateidos inutile longo pulveris numina
-  crimina nive iuvenum voluit, pro.
-  Sed rerum coeptis alta, summa ipsa licet viscera crimine, [vitae
-  exercet](http://tumblr.com/) rata.
-  Colebas ex gloria Tereu Lycopen in denique subiecit eques.
+  fiant ponto quondam esse ab
