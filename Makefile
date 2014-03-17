@@ -64,7 +64,7 @@ depends: .depends-ci .depends-dev
 $(DEPENDS_CI): Makefile
 	$(PIP) install pep8 pep257 nose coverage
 	- $(PIP) uninstall Doorstop --yes
-	$(PIP) install git+git://github.com/jacebrowning/doorstop.git@a2385f0933c23b7e36fd9f001ac3688a9f8d4442
+	$(PIP) install git+git://github.com/jacebrowning/doorstop.git@162fe488d2d7da32acd46c5589c9ca206858b90e
 	touch $(DEPENDS_CI)  # flag to indicate dependencies are installed
 
 .PHONY: .depends-dev
