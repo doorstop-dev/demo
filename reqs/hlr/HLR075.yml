@@ -2,8 +2,8 @@ active: true
 derived: false
 level: 7.1
 links:
-- SYS012
-- SYS047
+- SYS033
+- SYS034
 normative: true
 ref: ''
 text: |

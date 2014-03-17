@@ -2,7 +2,8 @@ active: true
 derived: false
 level: 5.1
 links:
-- LLR039
+- LLR002
+- LLR138
 normative: true
 ref: ''
 text: |

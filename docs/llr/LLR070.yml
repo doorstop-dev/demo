@@ -2,7 +2,10 @@ active: true
 derived: false
 level: 14.4
 links:
-- HLR056
+- HLR009
+- HLR013
+- HLR039
+- HLR073
 normative: true
 ref: ''
 text: |

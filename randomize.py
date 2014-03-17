@@ -30,7 +30,8 @@ def main():
     """Create new random requirements if none exist."""
 
     # Parse arguments
-    delete = '--delete' in sys.argv
+    delete_items = '--items' in sys.argv
+    delete_links = '--links' in sys.argv
 
     # Configure logging
     logging.basicConfig(format="%(message)s", level=logging.INFO)
@@ -38,11 +39,19 @@ def main():
     # Get current requirements
     logging.info("loading the current requirements...")
     tree = doorstop.build()
+    tree.load()
 
-    # Delete the old requirements
-    if delete:
+    # Delete old requirements
+    if delete_items:
         logging.info("deleting the current requirements...")
         tree.delete()
+
+    # Delete old links
+    if delete_links and not delete_items:
+        logging.info("deleting the current links...")
+        for document in tree:
+            for item in document:
+                item.links = []
 
     # Generate random requirements if needed
     _randomize_items(tree)
@@ -56,7 +65,7 @@ def _randomize_items(tree):
     items = []
     for document in tree:
         for item in document:
-            logging.info("item: {}".format(item))
+            logging.debug("item: {}".format(item))
             items.append(item)
     if not any(items):
 
@@ -99,7 +108,7 @@ def _randomize_links(tree):
         for item in document:
             for identifier in item.links:
                 link = "{} -> {}".format(item, identifier)
-                logging.info("link: {}".format(link))
+                logging.debug("link: {}".format(link))
                 links.append(link)
     if not links:
 
@@ -110,7 +119,7 @@ def _randomize_links(tree):
                               (document_hlr, document_hlt),
                               (document_llr, document_llt)):
             for item in child:
-                _randomize_item_links(item, parent)
+                _randomize_links_item(item, parent)
 
 
 _LM = "Lorem markdownum"
@@ -158,12 +167,15 @@ def _get_random_text():
     return text
 
 
-def _randomize_item_links(item, document):
+def _randomize_links_item(item, document):
     """Randomize an item's links."""
     logging.info("randomly linking {}...".format(item))
     item.links = []
-    for _ in range(random.randint(0, MAX_LINKS)):
-        item.add_link(random.choice(document.items).id)
+    if not item.normative:
+        return
+    items = [item for item in document.items if item.normative]
+    for _ in range(random.randint(1, MAX_LINKS)):
+        item.add_link(random.choice(items).id)
 
 
 if __name__ == '__main__':

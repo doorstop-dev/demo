@@ -63,7 +63,8 @@ depends: .depends-ci .depends-dev
 .depends-ci: .virtualenv Makefile $(DEPENDS_CI)
 $(DEPENDS_CI): Makefile
 	$(PIP) install pep8 pep257 nose coverage
-	$(PIP) install git+git://github.com/jacebrowning/doorstop.git@881bc705024bedabaa0abd41d09db9a5a1b355c4
+	- $(PIP) uninstall Doorstop --yes
+	$(PIP) install git+git://github.com/jacebrowning/doorstop.git@a2385f0933c23b7e36fd9f001ac3688a9f8d4442
 	touch $(DEPENDS_CI)  # flag to indicate dependencies are installed
 
 .PHONY: .depends-dev
@@ -202,6 +203,14 @@ dev:
 random: env .depends-ci
 	$(PYTHON) randomize.py
 
+.PHONY: unrandom
+unrandom: env .depends-ci
+	git checkout reqs/sys
+	git checkout reqs/hlr
+	git checkout docs/llr
+	git checkout demo/cli/test/docs
+	git checkout demo/core/test/docs
+
 .PHONY: keynote
 keynote:
 	$(OPEN) docs/GRDevDay.key &
@@ -209,4 +218,3 @@ keynote:
 .PHONY: notebook
 notebook:
 	ipython3 notebook docs/GRDevDay.ipynb
-

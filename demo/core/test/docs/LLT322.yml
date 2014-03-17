@@ -3,10 +3,7 @@ derived: false
 level: 5.1
 links:
 - LLR031
-- LLR067
-- LLR068
-- LLR123
-- LLR176
+- LLR038
 normative: true
 ref: ''
 text: |
