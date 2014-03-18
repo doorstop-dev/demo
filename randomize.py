@@ -60,11 +60,14 @@ def main():
     # Fix levels
     for document in tree:
         items = document.items
-        for index, item in enumerate(items[1:], start=1):
-            level = list(item.level)
-            while level <= list(items[index - 1].level):
+        for index in range(1, len(items)):
+            level = list(items[index].level)
+            level_prev = list(items[index - 1].level)
+            logging.info("checking {} level {}...".format(document.prefix, level))
+            while level <= level_prev:
+                logging.info("fixing {} level {}...".format(items[index], level))
                 level[-1] += 1
-            item.level = level
+            items[index].level = level
 
 
 def _randomize_items(tree):
