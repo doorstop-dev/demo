@@ -203,8 +203,13 @@ dev:
 random: env .depends-ci
 	$(PYTHON) randomize.py
 
-.PHONY: unrandom
-unrandom: env .depends-ci
+.PHONY: reset
+reset: env .depends-ci
+	rm reqs/sys/*.yml
+	rm reqs/hlr/*.yml
+	rm docs/llr/*.yml
+	rm demo/cli/test/docs/*.yml
+	rm demo/core/test/docs/*.yml
 	git checkout reqs/sys
 	git checkout reqs/hlr
 	git checkout docs/llr
