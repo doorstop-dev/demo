@@ -57,6 +57,15 @@ def main():
     _randomize_items(tree)
     _randomize_links(tree)
 
+    # Fix levels
+    for document in tree:
+        items = document.items
+        for index, item in enumerate(items[1:], start=1):
+            level = list(item.level)
+            while level <= list(items[index - 1].level):
+                level[-1] += 1
+            item.level = level
+
 
 def _randomize_items(tree):
     """Create random item text if no items exist."""
