@@ -6,11 +6,6 @@ links:
 - SYS008
 - SYS028
 normative: true
-ref: ''
+ref: test_tutorial.py
 text: |
-  Lorem markdownum **SHALL** tela, aret ferrum rapta inmisitque teneo Bacchum,
-  non Phorbas, quem oro, adire!
-  Populisque in consilii [collo](http://seenly.com/), fila ad regem similis
-  posce deorum; matris.
-  Omnes si illi siccatque movit recordor: mea silva carior, rupta adsiduis
-  limes medio Quirini suspiratibus.
+  Foo **SHALL** bar.

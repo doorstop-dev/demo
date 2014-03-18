@@ -213,7 +213,7 @@ unrandom: env .depends-ci
 
 .PHONY: keynote
 keynote:
-	$(OPEN) docs/GRDevDay.key &
+	$(OPEN) ../GRDevDay.key &
 
 .PHONY: notebook
 notebook:
