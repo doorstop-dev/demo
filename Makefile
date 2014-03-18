@@ -64,7 +64,7 @@ depends: .depends-ci .depends-dev
 $(DEPENDS_CI): Makefile
 	$(PIP) install pep8 pep257 nose coverage
 	- $(PIP) uninstall Doorstop --yes
-	$(PIP) install git+git://github.com/jacebrowning/doorstop.git@162fe488d2d7da32acd46c5589c9ca206858b90e
+	$(PIP) install git+git://github.com/jacebrowning/doorstop.git@d9d633157da9344ca3d7d5e4c714265d216b98c6
 	touch $(DEPENDS_CI)  # flag to indicate dependencies are installed
 
 .PHONY: .depends-dev
@@ -102,7 +102,7 @@ docs/gen/*.html: $(shell find . -name '*.yml')
 	$(BIN)/doorstop publish all docs/gen
 
 .PHONY: read
-read: doc
+read: html
 	$(OPEN) docs/gen/index.html
 
 # Static Analysis ############################################################
