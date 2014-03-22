@@ -1,9 +1,0 @@
-active: true
-derived: false
-level: 7.68
-links:
-- fake123
-normative: true
-ref: ''
-text: |
-  The product **SHALL** do...
