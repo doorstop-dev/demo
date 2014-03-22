@@ -218,8 +218,25 @@ reset: env .depends-ci
 
 .PHONY: keynote
 keynote:
-	$(OPEN) ../GRDevDay.key &
+	$(OPEN) ../GRDevDay.key
 
 .PHONY: notebook
 notebook:
 	ipython3 notebook docs/GRDevDay.ipynb
+
+.PHONY: demo
+demo: wercker pages github
+	GitHub
+	$(OPEN) $(PROJECT).sublime-project
+
+.PHONY: github
+github:
+	$(OPEN) https://github.com/jacebrowning/doorstop-demo
+
+.PHONY: pages
+pages:
+	$(OPEN) http://jacebrowning.github.io/doorstop-demo
+
+.PHONY: wercker
+wercker:
+	$(OPEN) https://app.wercker.com/\#applications/5321ab7aad1c2470680035f2/tab
