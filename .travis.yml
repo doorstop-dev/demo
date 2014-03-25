@@ -1,4 +1,8 @@
 language: python
+branches:
+  except:
+    - /.*wercker.*/
+    - gh-pages
 python:
   - 3.3
 install:
