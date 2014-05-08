@@ -18,10 +18,11 @@ HLT = os.path.join('demo', 'cli', 'test', 'docs')
 LLT = os.path.join('demo', 'core', 'test', 'docs')
 
 SYS_COUNT = 50
-HLR_COUNT = SYS_COUNT * 2
-LLR_COUNT = HLR_COUNT * 2
-HLT_COUNT = HLR_COUNT * 2
-LLT_COUNT = LLR_COUNT * 2
+HLR_COUNT = SYS_COUNT * 2  # 100
+LLR_COUNT = HLR_COUNT * 2  # 200
+HLT_COUNT = HLR_COUNT * 2  # 200
+LLT_COUNT = LLR_COUNT * 2  # 400
+assert 950 == (SYS_COUNT + LLR_COUNT + LLR_COUNT + HLT_COUNT + LLT_COUNT)
 
 MAX_LINKS = 5
 
