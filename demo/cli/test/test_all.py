@@ -24,14 +24,14 @@ class TestMain(unittest.TestCase):  # pylint: disable=R0904
         self.temp = tempfile.mkdtemp()
         self.backup = (settings.REFORMAT,
                        settings.CHECK_REF,
-                       settings.CHECK_RLINKS)
+                       settings.CHECK_CHILD_LINKS)
 
     def tearDown(self):
         os.chdir(self.cwd)
         shutil.rmtree(self.temp)
         (settings.REFORMAT,
          settings.CHECK_REF,
-         settings.CHECK_RLINKS) = self.backup
+         settings.CHECK_CHILD_LINKS) = self.backup
 
     def test_main(self):
         """Verify 'demo' can be called."""
@@ -68,7 +68,7 @@ class TestMain(unittest.TestCase):  # pylint: disable=R0904
         self.assertIs(None, main([]))
         self.assertTrue(settings.REFORMAT)
         self.assertTrue(settings.CHECK_REF)
-        self.assertTrue(settings.CHECK_RLINKS)
+        self.assertTrue(settings.CHECK_CHILD_LINKS)
 
     def test_options(self):
         """Verify 'demo' can be run with options."""
@@ -79,7 +79,7 @@ class TestMain(unittest.TestCase):  # pylint: disable=R0904
                                   '--no-rlinks-check']))
         self.assertFalse(settings.REFORMAT)
         self.assertFalse(settings.CHECK_REF)
-        self.assertFalse(settings.CHECK_RLINKS)
+        self.assertFalse(settings.CHECK_CHILD_LINKS)
 
     @patch('demo.cli.main.gui', Mock(return_value=True))
     def test_gui(self):
