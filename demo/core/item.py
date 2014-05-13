@@ -480,7 +480,7 @@ class Item(BaseFileObject):  # pylint: disable=R0904
     def _issues_both(self, document, tree):
         """Yield all the item's issues against its document and tree."""
         # Verify an item is being linked to (reverse links)
-        if settings.CHECK_RLINKS and self.normative:
+        if settings.CHECK_CHILD_LINKS and self.normative:
             rlinks, children = self.find_rlinks(document, tree, find_all=False)
             if not rlinks:
                 for child in children:

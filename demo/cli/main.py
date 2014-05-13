@@ -181,7 +181,7 @@ def _run(args, cwd, err):  # pylint: disable=W0613
     if args.no_ref_check is not None:
         settings.CHECK_REF = not args.no_ref_check
     if args.no_rlinks_check is not None:
-        settings.CHECK_RLINKS = not args.no_rlinks_check
+        settings.CHECK_CHILD_LINKS = not args.no_rlinks_check
 
     # Validate the tree
     try:
