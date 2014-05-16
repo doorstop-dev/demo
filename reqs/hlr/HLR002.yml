@@ -1,7 +1,8 @@
 active: true
 derived: false
 level: 1.1
-links: []
+links:
+- SYS002
 normative: true
 ref: ''
 text: |

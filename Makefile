@@ -50,7 +50,7 @@ NOSE := $(BIN)/nosetests
 all: doorstop
 
 .PHONY: ci
-ci: doorstop pep8 pep257 test tests
+ci: doorstop test
 
 # Development Installation ###################################################
 
