@@ -28,10 +28,6 @@ DoorstopDemo can be installed in a virtualenv from source:
 Basic Usage
 ===========
 
-To generate new random requirements:
-
-    $ make random
-
 To validate the requirements:
 
     $ make doorstop
@@ -44,6 +40,7 @@ To open the generated HTML in a browser:
 
     $ make read
     
+
 Live Output
 ===========
 
