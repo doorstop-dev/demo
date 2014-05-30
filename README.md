@@ -21,7 +21,7 @@ DoorstopDemo can be installed in a virtualenv from source:
 
     $ git clone https://github.com/jacebrowning/doorstop-demo.git
     $ cd doorstop-demo
-    $ make
+    $ make env
 
 
 
