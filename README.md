@@ -10,8 +10,9 @@ Getting Started
 Requirements
 ------------
 
--   Python 3.3
--   A version control system for requirements storage
+- [Git](http://git-scm.com/downloads)
+- [Python 3.3](https://www.python.org/download)
+- [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenv)
 
 
 Installation
