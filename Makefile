@@ -47,7 +47,7 @@ NOSE := $(BIN)/nosetests
 # Main Targets ###############################################################
 
 .PHONY: all
-all: doorstop
+all: doorstop html
 
 .PHONY: ci
 ci: doorstop test
@@ -72,7 +72,7 @@ depends: .depends-ci .depends-dev
 .depends-ci: env Makefile $(DEPENDS_CI)
 $(DEPENDS_CI): Makefile
 	$(PIP) install --upgrade pep8 pep257 nose coverage
-	$(PIP) install Doorstop==0.6
+	$(PIP) install Doorstop==0.7-beta.1
 	touch $(DEPENDS_CI)  # flag to indicate dependencies are installed
 
 .PHONY: .depends-dev
