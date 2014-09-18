@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.3
 links:
-- HLR025
-- HLR039
-- HLR096
+- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
+- HLR039: b7e189054d4fa57138c4bfebb3344bc2
+- HLR096: 106add8d49e2341dc81214cee7519924
 normative: true
 ref: ''
+reviewed: a6a333b1d7738a482164a5dbf7abbe1b
 text: |
   Verify lorem markdownum stetit est et altera, hoc de non ab.
   Volucres inde.

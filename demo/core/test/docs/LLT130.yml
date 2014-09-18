@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.164
 links:
-- LLR075
-- LLR093
+- LLR075: 01d4ceb21ea0c4d333abaeb4a7129481
+- LLR093: 80ed4575b30ded58c20cad5011feac3c
 normative: true
 ref: ''
+reviewed: 03bc7185fab116eed49a6047c7e9eecd
 text: |
   Lorem **markdownum**: foret Veneris flebat **intus undaque** rapta otia vehit
   incipit carbasa.

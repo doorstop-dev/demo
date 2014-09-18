@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 7.16
 links:
-- SYS025
-- SYS049
+- SYS025: 547d68e839d55f8d3ac4ec8549cf8855
+- SYS049: 0b39b82d5a4707ecbbf1ca31c8702083
 normative: true
 ref: ''
+reviewed: 1a19dce3e2667d446b5bc106c19fcd4b
 text: |
   Lorem markdownum **SHALL** procul cunctae ultra ictus, deus qui videtur hanc.
   [Proserpina et tardis](http://www.raynelongboards.com/), et hesternos dixit,

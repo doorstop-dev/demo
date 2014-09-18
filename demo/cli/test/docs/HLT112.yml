@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.124
 links:
-- HLR073
+- HLR073: f1399f4ebb54c6d8ad15181b5218d154
 normative: true
 ref: ''
+reviewed: 1cbde32dce97e94e29df4ca00e3a11b6
 text: |
   Verify lorem markdownum esses tulisset Nyseides!
   Praeceps sparsaque iubar fuit **quid et** oscula fortiter qualia, Iunonia

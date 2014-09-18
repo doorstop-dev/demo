@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 23.23
 links:
-- HLR010
-- HLR034
-- HLR042
-- HLR047
+- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
+- HLR034: 87889aab3af013c2c6700993f82c1984
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR047: f64502605f5781802a5de46f36e137d5
 normative: true
 ref: ''
+reviewed: 9bd5f44bd34be16c007355eaa18d6475
 text: |
   Lorem markdownum **SHALL** dare: lilia: et tam, carpebat, Apidani.
   Quamvis caelesti nitens, experientis natum dotatissima arcus, quaecumque

@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.326
 links:
-- LLR061
-- LLR131
-- LLR186
+- LLR061: 859707ced7980416fabb5007d6dafbeb
+- LLR131: 34d163747a7d8ab6b875342193a6edef
+- LLR186: 51be15012cf97e83cbd386fbd0f0654e
 normative: true
 ref: ''
+reviewed: 90b12f29601f9a4d834687b7be8b3d0e
 text: |
   Verify lorem markdownum inpensaque digitos armis, hinc, conprecor Aeacidae
   sustinet sceleratae hebes.

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.106
 links:
-- LLR052
-- LLR135
-- LLR187
-- LLR191
+- LLR052: e081bab96105b39d5150231936d49c80
+- LLR135: 598ce9d3326b5d177a63ba3b679e45f7
+- LLR187: e3d7909b94107a2055956a335cb779e1
+- LLR191: 3609e58c2c304fc35bfbe74e6b6e08d5
 normative: true
 ref: ''
+reviewed: 7cbf36f59c4b00378be314535dfc0152
 text: |
   Verify lorem markdownum virum prece nostro et fatum sum voluit quas
   omnipotens: iamque sit nobis.

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 7.52
 links:
-- SYS017
-- SYS023
-- SYS032
-- SYS043
-- SYS047
+- SYS017: c6373fac9b0b7f7a7404da3f2838a3d4
+- SYS023: 7979ac1472a37ed6a263169649018754
+- SYS032: d3d67136795247b45adc46ed15a18fa2
+- SYS043: 09e6edfca1b7c96fc0daf7794cc76fc8
+- SYS047: 4abb481caeaf5d092ad9483e46e4c162
 normative: true
 ref: ''
+reviewed: fefde5d366fa06a03689179d9a2f419c
 text: |
   Lorem markdownum **SHALL** *primo*, qui corpore ignarus sustulit et fronte
   corpus remollescunt erat, quid frustra acri.

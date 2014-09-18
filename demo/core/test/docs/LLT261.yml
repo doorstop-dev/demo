@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.368
 links:
-- LLR025
-- LLR073
-- LLR183
+- LLR025: 4e10453ab9200200dfc3c251c05d88ca
+- LLR073: a98b091235fdb445ab18e9a1b10cba1f
+- LLR183: dea3d7fbf5bd854539505959d720c1c6
 normative: true
 ref: ''
+reviewed: f35b96bea341c11acbf05406fc1d29d4
 text: |
   Verify lorem markdownum esse.
   Aquis manus, nec dant valentior adsensibus neque falcato, est ipsam mille

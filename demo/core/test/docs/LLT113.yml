@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.36
 links:
-- LLR045
-- LLR054
-- LLR138
-- LLR194
+- LLR045: 2b2bbd5d332cf39b8c0c79fc138bb541
+- LLR054: 0cd98c784f1946189eeda5baf3eac2f4
+- LLR138: 7287219bdd9f445b3f3650b766fc037f
+- LLR194: 9edda2068ef3c40b6dbbf82357766ec1
 normative: true
 ref: ''
+reviewed: fdba9d764e9cb4d563cbad1957bbe66f
 text: |
   Verify lorem markdownum iniqui de ventique deducat umquam celeberrima specus,
   ipsis te et, hoc fugam iam iam lacteus.

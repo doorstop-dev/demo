@@ -2,10 +2,11 @@ active: true
 derived: false
 level: '5.80'
 links:
-- LLR040
-- LLR094
+- LLR040: 7c58f17d672da5bb58f9df8234258da3
+- LLR094: 4d77690d451a667b63a0b0435f153f8c
 normative: true
 ref: ''
+reviewed: c101edacebfa1ea994e20d56ee180647
 text: |
   Verify lorem markdownum [hunc](http://www.wedrinkwater.com/) Hectora suis,
   resurgebant huic iuvenis negatur forti.

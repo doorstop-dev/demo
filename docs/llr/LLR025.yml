@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.4
 links:
-- HLR049
+- HLR049: 50e773420310cdb95a966cd9292df8b4
 normative: true
 ref: ''
+reviewed: 53b6d60dcd5d51b63ace8256b660efaa
 text: |
   Lorem markdownum **SHALL** caluere regno et tristia vacuus.
   Excutis hanc est natura illum aurum vestes; gente legem sacra exigere.

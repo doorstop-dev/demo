@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 1.5
 links:
-- LLR037
-- LLR038
-- LLR067
-- LLR138
-- LLR140
+- LLR037: c9c3f63de803a8a1a2306defd87835fb
+- LLR038: a10a0544be8ecc872b568a207600fcca
+- LLR067: 2ac99d34e042e4f33fe3e247eaff1b7e
+- LLR138: 7287219bdd9f445b3f3650b766fc037f
+- LLR140: 83a01d9a5f600dded5aab3b797849f9c
 normative: true
 ref: ''
+reviewed: ead1cce6a2de2e9ab1bc7ca674b403c3
 text: |
   Verify lorem markdownum arbore.
   Inanis Achivos Ampycides et finge vestigia contingere longo bello reice auras

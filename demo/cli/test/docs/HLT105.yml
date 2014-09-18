@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.157
 links:
-- HLR034
-- HLR060
-- HLR075
-- HLR086
+- HLR034: 87889aab3af013c2c6700993f82c1984
+- HLR060: 85f748bf9edd302de65894924958c3c5
+- HLR075: 024621d141e0d33a01100d381bf459b2
+- HLR086: 8ffc8c6aaccf0712b20ca54488b704c7
 normative: true
 ref: ''
+reviewed: 8f66ad106ecf70f7be7f5f55b8610415
 text: |
   Verify lorem markdownum multas *qui ille* fortuna removit vestra contentis
   quoque perveniunt vertice.

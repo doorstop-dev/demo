@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.316
 links:
-- LLR005
-- LLR152
+- LLR005: 261dbaa845b7791b6747c1161c3a5f05
+- LLR152: 0f11739763e40f3e340ff4b3be842cda
 normative: true
 ref: ''
+reviewed: bd2fc4fc5a0a7987f39b99a59a7c0263
 text: |
   Verify lorem markdownum Priamus: adeundi vulnera trepidant manu ferrum
   humano.

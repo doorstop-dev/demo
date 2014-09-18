@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.146
 links:
-- LLR032
-- LLR091
-- LLR178
+- LLR032: 7fb560f0389fe75fdc6bbd3ebbce29ef
+- LLR091: d08b9261428d4aaa731ddf3988c54610
+- LLR178: 2bca330709295894e37124d441e44856
 normative: true
 ref: ''
+reviewed: 3063d0663c271b29a86b70878d1bf1f6
 text: |
   Verify lorem markdownum curvata erroribus, quam quos locum matrum at antiquo
   interea mihi tectis minuant percutit cognoscere hanc.

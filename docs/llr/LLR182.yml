@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 23.67
 links:
-- HLR083
-- HLR094
-- HLR095
+- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
+- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
+- HLR095: 5c1e4086f2b6913304bca55a2ae3c065
 normative: true
 ref: ''
+reviewed: 5214c271895db295a0ac2f86b62b258d
 text: |
   Lorem markdownum **SHALL** verso, pervenit dum dixi pars cur capitis vulgata.
   Aliquid aut concipiunt eburnae facta.

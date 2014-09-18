@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.115
 links:
-- LLR148
+- LLR148: 35db560e103c5327c42f1665556a51dd
 normative: true
 ref: ''
+reviewed: beca4b95149c72b5dd80a44a9abaef6a
 text: |
   Verify lorem markdownum invisosque Pindo incanduit armis, autumnus contendere
   speculi Tantalus auras **Melaneus auras**. Prior et micantes digiti obstante

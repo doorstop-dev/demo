@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 1.1
 links:
-- HLR038
-- HLR049
-- HLR057
-- HLR073
+- HLR038: 4448f4f157157ec1b7d88bbe03489064
+- HLR049: 50e773420310cdb95a966cd9292df8b4
+- HLR057: 108e6d69b95a3929d748aafdd89297e7
+- HLR073: f1399f4ebb54c6d8ad15181b5218d154
 normative: true
 ref: ''
+reviewed: fc0065bda78c6a0a02663d7d5770ebd3
 text: |
   Verify lorem markdownum scelerata ter iungit.
   Suam quod dare parabat limbo inclusum, mali timor, non lacu mole, inclusaque

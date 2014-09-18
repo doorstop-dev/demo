@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.53
 links:
-- HLR050
-- HLR068
+- HLR050: d965c6342dd432f6da29a07eab9ddc00
+- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
 normative: true
 ref: ''
+reviewed: fb796abff7e6df60f21fc7e015551792
 text: |
   Verify lorem markdownum euntem!
   Nepoti vara et medio ut evolvit torumque Hectora forem lacrimante tenent in

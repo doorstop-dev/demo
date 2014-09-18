@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.65
 links:
-- HLR041
-- HLR054
-- HLR066
-- HLR078
-- HLR089
+- HLR041: f42aec3f2f02f0642a0302c55af31291
+- HLR054: b823705de2edb09151e0e5dba452a176
+- HLR066: 28e63ccca90b062ccfdc3c168cc3369b
+- HLR078: 6ea8b59559dcdbc2e8b40f656f7a74af
+- HLR089: fc17c48818f1757f2f8a232d4f1e38cf
 normative: true
 ref: ''
+reviewed: 47ade93d1cc197c61e5c75c14844986f
 text: |
   Verify lorem markdownum relinquam.
   Referebat repulsae **anilibus nomine**; ingens paret: oscula calamis.

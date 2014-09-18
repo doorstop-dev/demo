@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.61
 links:
-- HLR018
-- HLR023
-- HLR047
-- HLR097
+- HLR018: 052c75e3524720b2fa74b8546334a5f6
+- HLR023: e9bd12dbb9ef8311cb24d28291766a23
+- HLR047: f64502605f5781802a5de46f36e137d5
+- HLR097: 9c167b955cc3e7cb92dcfdd46066a1d5
 normative: true
 ref: ''
+reviewed: e1bd5c9da7fba9abd0dda1062078096e
 text: |
   Verify lorem markdownum maiora celeberrima haeret.
   Loco fides meas iussit candescere mentem minores.

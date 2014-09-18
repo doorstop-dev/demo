@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.37
 links:
-- HLR032
+- HLR032: c5dc24fd573b5eeb3c174f7484889bef
 normative: true
 ref: ''
+reviewed: dc7a007504d5a0b1934ca5c030d50013
 text: |
   Verify lorem markdownum imagine dato cum, non una haec delabitur [exclusura
   in](http://www.wedrinkwater.com/).

@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.59
 links:
-- HLR013
-- HLR016
-- HLR084
+- HLR013: a08f2929dcca39e42a0270e8f7db581b
+- HLR016: f62dcef37de26a547aa5a43e2558de94
+- HLR084: cd3a142af5aa32c38ba5338b919257fb
 normative: true
 ref: ''
+reviewed: 861f9f153f23359e8918662cb8944a98
 text: |
   Lorem *markdownum madidisque* tamen, Lapitharum laetis cuius, redde.
   Maxima et firmat dixit securibus habebat nigra nec incognita!

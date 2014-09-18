@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 6.1
 links:
-- HLR002
-- HLR023
-- HLR037
-- HLR056
-- HLR058
+- HLR002: f14b4e9918e03ec7d500120798e3378f
+- HLR023: e9bd12dbb9ef8311cb24d28291766a23
+- HLR037: 5594301e2db2b6d85bbb940a4010a550
+- HLR056: 3d664384d81be055e722570cbd7c225f
+- HLR058: 4d68e2da5f4ace8317b50f88c9bfd46d
 normative: true
 ref: ''
+reviewed: 74e6a02da85946c30ee82effc8229a4e
 text: |
   Verify lorem markdownum vetus novas laetum illis respice increpat ut iactari
   faciem nisi, est sceptri flectebat Anchisae tamen amantes.

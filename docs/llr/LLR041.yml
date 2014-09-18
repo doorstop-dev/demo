@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.2
 links:
-- HLR017
-- HLR021
-- HLR045
-- HLR064
-- HLR098
+- HLR017: 7c34babb079cf13f34cc6379f6d62f8e
+- HLR021: 4ccc4b832e9beef7a9d7b67b022227e4
+- HLR045: 64596d19da4080f5ff6ef0ae72feb118
+- HLR064: 738b10155b97a5775f28bab75eb8c067
+- HLR098: 42a0dc5551d1fb162523da962f4761e9
 normative: true
 ref: ''
+reviewed: 59730f61aa82f42f537d7240466b626b
 text: |
   Lorem markdownum **SHALL**. Ilice hosti opibus terram iacet, et, coloni
   canescere.

@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 3.5
 links:
-- HLR020
-- HLR067
-- HLR069
+- HLR020: aae8bd09715becc5a5a95d827d615ee8
+- HLR067: 9d79eff61851f166e5b50b1101749942
+- HLR069: 83550644e3a1d495e4b9ecf35c435981
 normative: true
 ref: ''
+reviewed: 4a945d6b1449f2b2149e549a0be33971
 text: |
   Lorem markdownum **SHALL** ecce delphine ea habebat lumina, onus paenitet
   intra, Achivi est.

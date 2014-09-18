@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.185
 links:
-- LLR068
-- LLR131
+- LLR068: eb0c3b5027bbbdb5ae40d72ff583507d
+- LLR131: 34d163747a7d8ab6b875342193a6edef
 normative: true
 ref: ''
+reviewed: 4c40996880585f2dc96abfbd13ea450d
 text: |
   Verify lorem markdownum dubito soporis tacita.
   Unam cognita.

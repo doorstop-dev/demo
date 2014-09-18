@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.12
 links:
-- HLR011
+- HLR011: fb47d13ca2bcd7c22beff68af53ef365
 normative: true
 ref: ''
+reviewed: d8b061c23b9a51a8e933544278e33c48
 text: |
   Verify lorem markdownum vincere *nomen lene murum* comites, facta, quiete
   pressum de non, ubi ut ubi, mergis!

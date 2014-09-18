@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.362
 links:
-- LLR019
-- LLR037
-- LLR140
+- LLR019: ec0d341b465b4a4dadb564a4e034a8d4
+- LLR037: c9c3f63de803a8a1a2306defd87835fb
+- LLR140: 83a01d9a5f600dded5aab3b797849f9c
 normative: true
 ref: ''
+reviewed: 275dfcb125ff20f62eabb69cf8760294
 text: |
   Verify lorem markdownum natis, tamen poena Clymenen, pascere quot senatus
   pendentiaque vecta. **Quae venti**, emicat terga perlucidus moly, iam memoris

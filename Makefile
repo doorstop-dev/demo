@@ -72,7 +72,7 @@ depends: .depends-ci .depends-dev
 .depends-ci: env Makefile $(DEPENDS_CI)
 $(DEPENDS_CI): Makefile
 	$(PIP) install --upgrade pep8 pep257 nose coverage
-	$(PIP) install Doorstop==0.7
+	$(PIP) install Doorstop==0.8.1
 	touch $(DEPENDS_CI)  # flag to indicate dependencies are installed
 
 .PHONY: .depends-dev

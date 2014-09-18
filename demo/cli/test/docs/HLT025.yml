@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 6.6
 links:
-- HLR010
-- HLR042
-- HLR054
-- HLR099
+- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR054: b823705de2edb09151e0e5dba452a176
+- HLR099: 26e72fa3e3a95b20a96d530e001a4652
 normative: true
 ref: ''
+reviewed: ed37b70fb3964d6d5af29c95a2b5e5bf
 text: |
   Verify lorem markdownum eunt.
   Sacrata caput: dum Dianam tremulo puto virgo quo responderat domui auxilium

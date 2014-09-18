@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 7.21
 links:
-- SYS011
-- SYS040
-- SYS049
+- SYS011: 656d2e888ee0f8a143538aa3bf1a2409
+- SYS040: 502a32c36bd50ff1c5e4089c3dcd91f1
+- SYS049: 0b39b82d5a4707ecbbf1ca31c8702083
 normative: true
 ref: ''
+reviewed: 3422b1c7fe3ca9b8493cb65f4b9c48e5
 text: |
   Lorem markdownum **SHALL** Aglauros o barba vultus in domito, opus facta
   arbore brevissimus.

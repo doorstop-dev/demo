@@ -2,10 +2,11 @@ active: true
 derived: false
 level: '5.180'
 links:
-- LLR098
-- LLR109
+- LLR098: 2061bfb196ad5112f98814ced95b17d8
+- LLR109: 1cef49a5b9cffec7552b4d2ddb016d2b
 normative: true
 ref: ''
+reviewed: 3aa865206eca2f171a47256d91fcffb0
 text: |
   Verify lorem markdownum retia abditus protectum et [dixerat vestemque
   pelagi](http://www.thesecretofinvisibility.com/) tineae.

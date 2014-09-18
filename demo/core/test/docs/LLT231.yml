@@ -2,11 +2,12 @@ active: true
 derived: false
 level: '5.250'
 links:
-- LLR013
-- LLR032
-- LLR041
+- LLR013: f7b387860a28bbdd1aac0c15cf3bd0b6
+- LLR032: 7fb560f0389fe75fdc6bbd3ebbce29ef
+- LLR041: b737d4f290d904222a9c2f33f1831a10
 normative: true
 ref: ''
+reviewed: ce214c5270933d87a187e8ee53c636cd
 text: |
   Lorem **markdownum illic** coniuge placent eosdem et e satis Haliumque,
   latratibus cecidere, funereus.

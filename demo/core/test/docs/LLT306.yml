@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.372
 links:
-- LLR107
-- LLR114
-- LLR159
-- LLR172
-- LLR180
+- LLR107: 0cd0c9beea240374f597fce6adaa27b2
+- LLR114: 20dd357661195c42ccbeac5351fcc491
+- LLR159: 235a7f9a3eee2d3c452eb7359bb224a6
+- LLR172: 33a373dea41ffe2357849b534436fbc6
+- LLR180: af7aa57e9f327874ab8675e7ea249209
 normative: true
 ref: ''
+reviewed: 8284183c402e2f08199474b6a8197244
 text: |
   Verify lorem markdownum Pagasaea carmina videt: fraudem subiecta velis cui
   raucaque et dixerat Aeacon dat.

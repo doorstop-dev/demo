@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 16.4
 links:
-- HLR008
-- HLR023
-- HLR029
-- HLR032
-- HLR093
+- HLR008: 49a200ec0c1beeda9d14085a836a2b61
+- HLR023: e9bd12dbb9ef8311cb24d28291766a23
+- HLR029: 1d5062f71b5637b24b6346586d1676f3
+- HLR032: c5dc24fd573b5eeb3c174f7484889bef
+- HLR093: 8c277eeda417521852a9051e6a58907d
 normative: true
 ref: ''
+reviewed: 7f179817da947a508a30be969bece84c
 text: |
   Lorem markdownum **SHALL** timidumque laudabat ambiguo haec suo decoris
   pecoris quinque milite ex neve ait.

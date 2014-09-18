@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 16.2
 links:
-- HLR042
-- HLR068
-- HLR072
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
+- HLR072: 05c44ac66e5c91420b2c82769350fd93
 normative: true
 ref: ''
+reviewed: 39a05757693b15acb9e4261ad81a0865
 text: |
   Lorem markdownum **SHALL** herbas, et axes posset onere pinum his adest
   Tritoniaca volucrem.

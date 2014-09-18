@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.205
 links:
-- LLR006
+- LLR006: daa5bcfee0779c3e29453b01063165f6
 normative: true
 ref: ''
+reviewed: fd224bea91675797a3e56f6484073621
 text: |
   Verify lorem markdownum sumit et vellet, domino ad ventos, solito et luctus.
   Ille eventu quoque amissos pictas Aethionque supplice cupidine.

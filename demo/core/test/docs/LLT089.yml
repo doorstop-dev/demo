@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.312
 links:
-- LLR036
-- LLR040
-- LLR130
-- LLR190
+- LLR036: 25962829aec75e19ba7b127da88d32a0
+- LLR040: 7c58f17d672da5bb58f9df8234258da3
+- LLR130: bd2f79e94a03cd0fbfe90c334da71a6c
+- LLR190: bc7c0aee59b03c7afbf2b20b6171021c
 normative: true
 ref: ''
+reviewed: d47f2e71eaaebcd916596d3af7604f95
 text: |
   Verify lorem markdownum terras, tu corpus undas quo o Iliades animo aegra,
   [membra vivus auras](http://www.uselessaccount.com/) obice imagine o!

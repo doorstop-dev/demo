@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 23.11
 links:
-- HLR039
-- HLR080
+- HLR039: b7e189054d4fa57138c4bfebb3344bc2
+- HLR080: 299534fd5a7eca46f589c6322b659423
 normative: true
 ref: ''
+reviewed: f4fd80136ff686e50351cd2aa9ec5bca
 text: |
   Lorem markdownum **SHALL** matres saxo domum risit, subit.
   Domus fides amnis et adpellatque fieri *pronus* huius Minyis responsaque unum

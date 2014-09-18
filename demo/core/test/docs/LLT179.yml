@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.321
 links:
-- LLR077
-- LLR116
+- LLR077: cf0e34a2ff790298bb1d01c5c507e566
+- LLR116: 7dee84fcae76f2a049c29bad5cda9a02
 normative: true
 ref: ''
+reviewed: 68d53e146814540762203f18c538ea15
 text: |
   *Lorem* markdownum tu medias iamque artus solis meliora, erubuit lucem: dare?
   Caelo ergo; fata tempus ardua.

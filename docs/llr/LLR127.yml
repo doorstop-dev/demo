@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 23.53
 links:
-- HLR008
-- HLR014
-- HLR052
-- HLR096
+- HLR008: 49a200ec0c1beeda9d14085a836a2b61
+- HLR014: 9f92692d382bfcf647ac097d27369c0a
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
+- HLR096: 106add8d49e2341dc81214cee7519924
 normative: true
 ref: ''
+reviewed: c20767fbe9ec1bdceb7198dee2496d00
 text: |
   Lorem markdownum **SHALL** aequoreos quamvis equi: satum femina iuvenum
   semper me possit Boreas deus; huc sui?

@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 23.8
 links:
-- HLR035
-- HLR084
+- HLR035: c16bb23865576b4a8c7b4da3a1c2c04e
+- HLR084: cd3a142af5aa32c38ba5338b919257fb
 normative: true
 ref: ''
+reviewed: 88f52d93a1f7e280e190a0548b84f9ac
 text: |
   Lorem markdownum **SHALL** taurus?
   Tamen frontem invidiam amomi non verto movet mortale, *si sic parvo* mallem

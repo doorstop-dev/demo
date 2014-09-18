@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.66
 links:
-- LLR077
+- LLR077: cf0e34a2ff790298bb1d01c5c507e566
 normative: true
 ref: ''
+reviewed: 3d3f6ce0b07921170301cbbc7d609177
 text: |
   Verify lorem markdownum, avis pes medius Iovis, moto nostro narrare, regum
   omnibus Gortyniaco nec tecta per arbiter fingant.

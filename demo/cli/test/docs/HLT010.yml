@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 3.2
 links:
-- HLR009
-- HLR017
-- HLR081
-- HLR084
-- HLR087
+- HLR009: 6da8ed61c313b1482bdb6da89d007eac
+- HLR017: 7c34babb079cf13f34cc6379f6d62f8e
+- HLR081: f85cc275a9545dc4ae6cc142fa5385fb
+- HLR084: cd3a142af5aa32c38ba5338b919257fb
+- HLR087: 9af49b45e12f3a85eaee83259d295f4e
 normative: true
 ref: ''
+reviewed: 576b766e48ab236ee321ebf00fa5e9d6
 text: |
   Verify lorem markdownum daedalus torta rubescere opifex pereat, celebrant
   tangit duo gurgite defuit *vides*, gnato, luebat.

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.246
 links:
-- LLR109
-- LLR123
-- LLR159
-- LLR186
+- LLR109: 1cef49a5b9cffec7552b4d2ddb016d2b
+- LLR123: a8e74604b454b679ce1c9d6fb491ba29
+- LLR159: 235a7f9a3eee2d3c452eb7359bb224a6
+- LLR186: 51be15012cf97e83cbd386fbd0f0654e
 normative: true
 ref: ''
+reviewed: f7e20619491cc114304179b75bde21b3
 text: |
   Verify lorem markdownum dedere spumas non esset dracones repperit super luna
   spem.

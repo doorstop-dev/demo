@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.313
 links:
-- LLR040
-- LLR059
-- LLR178
+- LLR040: 7c58f17d672da5bb58f9df8234258da3
+- LLR059: 145aff24cbe27e19de98eb5c916e1bf1
+- LLR178: 2bca330709295894e37124d441e44856
 normative: true
 ref: ''
+reviewed: 7ddfcdcb68f8e8c80e6dfd260b91b689
 text: |
   Verify lorem markdownum inde, humo iugum vultus Epidaurius captum, aut.
   Genibus Aurora an captivarumque tepido, nam tibi cineres arbitrium quercus,

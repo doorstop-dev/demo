@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 12.1
 links:
-- HLR034
-- HLR067
-- HLR073
-- HLR097
+- HLR034: 87889aab3af013c2c6700993f82c1984
+- HLR067: 9d79eff61851f166e5b50b1101749942
+- HLR073: f1399f4ebb54c6d8ad15181b5218d154
+- HLR097: 9c167b955cc3e7cb92dcfdd46066a1d5
 normative: true
 ref: ''
+reviewed: ca0cc5f13eeb29bdd140be38c536e71c
 text: |
   Lorem markdownum **SHALL** fortissimus, videre dea versarunt pater tibi:
   neget rore parente deceperat paelice Thracesque.

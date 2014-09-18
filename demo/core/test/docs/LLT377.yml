@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.341
 links:
-- LLR109
-- LLR154
-- LLR187
+- LLR109: 1cef49a5b9cffec7552b4d2ddb016d2b
+- LLR154: 7d0564f9ea1d409310dfb408f441c32d
+- LLR187: e3d7909b94107a2055956a335cb779e1
 normative: true
 ref: ''
+reviewed: 0c597b72cf4277951bba507ce77bb339
 text: |
   Verify lorem markdownum quae in!
   Mihi ego remissis postquam, est in quem tenui prodidit dixit Chimaeriferae.

@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 23.34
 links:
-- HLR065
+- HLR065: 3a53d19c665b6d1086f8a976b4dd7e31
 normative: true
 ref: ''
+reviewed: a86d39c296f75d8232527186c07be084
 text: |
   Lorem markdownum **SHALL** terram caelitibus ursaque latronis caeruleas: meta
   intumuit?

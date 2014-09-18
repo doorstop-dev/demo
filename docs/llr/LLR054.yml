@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 11.1
 links:
-- HLR025
-- HLR028
-- HLR039
-- HLR051
+- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
+- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
+- HLR039: b7e189054d4fa57138c4bfebb3344bc2
+- HLR051: 6963e01374087f10fa114650be974ce9
 normative: true
 ref: ''
+reviewed: 84fc81a99fdfb8814dfadbcc182a2ba8
 text: |
   Lorem markdownum **SHALL** reduxit.
   Ducentem quo morte Deianira *qui inferias* nostrumque, male Pelops, aperire

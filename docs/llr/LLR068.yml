@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 14.2
 links:
-- HLR045
-- HLR077
-- HLR082
+- HLR045: 64596d19da4080f5ff6ef0ae72feb118
+- HLR077: f3065f2ef4069554db40e890309903dc
+- HLR082: 840ae5cd6cdc2047fa83d7e6ff7fc7b4
 normative: true
 ref: ''
+reviewed: 6958cb35e104afb46bce141586e4aa13
 text: |
   Lorem markdownum **SHALL** unicus: factum antiquis sine rursus creditis, esse
   teste facto duabus.

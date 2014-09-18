@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.94
 links:
-- HLR010
-- HLR036
+- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
+- HLR036: b85c4146e31bab43dac352c217430641
 normative: true
 ref: ''
+reviewed: 88438d90e9f2a8ea9aa4e74f91bffb1e
 text: |
   Verify lorem markdownum sororum Philoctete natant truncos: eadem Iovis
   cursus!

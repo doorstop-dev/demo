@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.364
 links:
-- LLR030
-- LLR064
+- LLR030: 283fba5a9ccda802096ce549c4d65987
+- LLR064: d530ba92beaa7a27879f36994c6764bb
 normative: true
 ref: ''
+reviewed: 3035f10de62939fa46be4879ea81fe6e
 text: |
   Verify lorem markdownum ardet, **magis**, ubi vis fuisses licet in, si.
   Tela perfide nihil dea in sciat ardent, habet temptarunt aut nescio dicta,

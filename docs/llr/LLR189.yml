@@ -2,10 +2,11 @@ active: true
 derived: false
 level: '23.50'
 links:
-- HLR024
-- HLR095
+- HLR024: 53137531d57b6e976f8bef6eacfcb46e
+- HLR095: 5c1e4086f2b6913304bca55a2ae3c065
 normative: true
 ref: ''
+reviewed: 1823565424a88d4f04a60893230d6f46
 text: |
   Lorem markdownum **SHALL** [feret](http://www.thesecretofinvisibility.com/)
   gnatae vel medii, innixus resolvit, cum **nefas cum**. Tota per harum quibus

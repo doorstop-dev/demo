@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 23.77
 links:
-- HLR077
-- HLR084
+- HLR077: f3065f2ef4069554db40e890309903dc
+- HLR084: cd3a142af5aa32c38ba5338b919257fb
 normative: true
 ref: ''
+reviewed: 8fe67f18bcab2257a107302f02959bd4
 text: |
   Lorem markdownum **SHALL** agros nec ignes providus; sed ire parente equorum.
   Est carebat tacito insequitur, si quam sanguine Palatia me vidit vitant

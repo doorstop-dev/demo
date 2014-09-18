@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.272
 links:
-- LLR109
+- LLR109: 1cef49a5b9cffec7552b4d2ddb016d2b
 normative: true
 ref: ''
+reviewed: 7544d8b717f559061dddf77bf8c83cbf
 text: |
   Verify lorem markdownum nutu: ab spatium prohibebar umbramque deficis notat:
   ingrate.

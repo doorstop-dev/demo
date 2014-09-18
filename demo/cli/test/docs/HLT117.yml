@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.58
 links:
-- HLR069
-- HLR075
+- HLR069: 83550644e3a1d495e4b9ecf35c435981
+- HLR075: 024621d141e0d33a01100d381bf459b2
 normative: true
 ref: ''
+reviewed: 753d0602c294835f3c23f4fdf9d3c23c
 text: |
   Verify lorem markdownum sidera.
   Parens aquas, testudine si mittat conposuit ut forma acerris.

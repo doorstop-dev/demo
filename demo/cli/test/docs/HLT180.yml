@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.64
 links:
-- HLR031
-- HLR088
+- HLR031: 72c2fe6f4da4db81c71d7a8f103d2d66
+- HLR088: c9bece27e8e832e9e39e6931ce494a30
 normative: true
 ref: ''
+reviewed: 3a77447ae46e07772467841944b78747
 text: |
   Verify lorem markdownum [passisque](http://omgcatsinspace.tumblr.com/) quidem
   timorem torserat viridi imbrem **miles sic ipsum** vidisset laniger, inani.

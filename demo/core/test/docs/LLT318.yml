@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.145
 links:
-- LLR084
-- LLR098
-- LLR108
-- LLR118
+- LLR084: a57f67f315046359c4eba2048fb313bf
+- LLR098: 2061bfb196ad5112f98814ced95b17d8
+- LLR108: c1a114feff4259080452e9fd12866bf4
+- LLR118: 57d3194c885e4d5c854104eef193abdc
 normative: true
 ref: ''
+reviewed: a708d50b43404b5511a8817d47212ed0
 text: |
   Verify lorem markdownum dolosas flumina sacra?
   Scilicet vices ingeniis alteraque vela, [quae](http://www.wtfpl.net/): eris

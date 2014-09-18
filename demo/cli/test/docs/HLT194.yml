@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.149
 links:
-- HLR002
-- HLR051
+- HLR002: f14b4e9918e03ec7d500120798e3378f
+- HLR051: 6963e01374087f10fa114650be974ce9
 normative: true
 ref: ''
+reviewed: 05ae0f8f0a562064f32cedef935a6576
 text: |
   Verify lorem markdownum prementem quod intortos pendet auctoribus puer
   ambustique aures: *ima*: premens qua color.

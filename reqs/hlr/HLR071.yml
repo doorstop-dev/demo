@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 7.24
 links:
-- SYS034
+- SYS034: 3f25eed559e4b59fd126dd72d9ef9c2e
 normative: true
 ref: ''
+reviewed: 26888b2f919637c5a967a24b389344cb
 text: |
   Lorem markdownum **SHALL** vocem **maiorque**; dextra erat submisso ripa
   facti; est alto est vocant?

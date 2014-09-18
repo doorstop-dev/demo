@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.241
 links:
-- LLR003
-- LLR058
-- LLR145
-- LLR155
+- LLR003: b554df6c2b0506c78205a619338ecbe5
+- LLR058: 0d5fd0c4a96904e1f3c60f7df851404c
+- LLR145: 124d6bdce14f146896308d25cbd52fb3
+- LLR155: c00f53b67654e5002aa552b308ae6de9
 normative: true
 ref: ''
+reviewed: 7614cd4cecf2dba4944c37f4cc0c10fb
 text: |
   Verify lorem markdownum tunc peragit meruit superi ego optandi suffusus
   sensi.

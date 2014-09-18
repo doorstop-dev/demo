@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.286
 links:
-- LLR024
-- LLR150
-- LLR182
-- LLR195
+- LLR024: 8c4767cb109a6d7a932f812958348234
+- LLR150: 2a668081167c38a07853ab8e9ebdb0ba
+- LLR182: f0730680dde484a18434a42036c292d6
+- LLR195: 06d28a52996a572fd292f5a13241ef8e
 normative: true
 ref: ''
+reviewed: 008f163bb1fb2da9c5ae3e746b9d68f8
 text: |
   Verify lorem markdownum color succedere *Dolopum loqui*; quae comites
   turpiter.

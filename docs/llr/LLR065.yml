@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 13.2
 links:
-- HLR028
-- HLR031
-- HLR034
-- HLR071
-- HLR088
+- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
+- HLR031: 72c2fe6f4da4db81c71d7a8f103d2d66
+- HLR034: 87889aab3af013c2c6700993f82c1984
+- HLR071: eb5f019d9458e537f2a0e396d6ec2f0d
+- HLR088: c9bece27e8e832e9e39e6931ce494a30
 normative: true
 ref: ''
+reviewed: 347517363312129f7f2dec4d125678b9
 text: |
   Lorem markdownum **SHALL** [cum](http://reddit.com/r/thathappened); illi cui
   nigra capit morboque dolores qua, nemorale illic an ferro.

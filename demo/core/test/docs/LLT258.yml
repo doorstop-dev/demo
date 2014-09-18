@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.253
 links:
-- LLR020
-- LLR144
+- LLR020: 9216adf4af6abc48d5357999e7d3c3ff
+- LLR144: 2e5c578fa29dce571ee50e2cf82891fd
 normative: true
 ref: ''
+reviewed: 144cac9dba3feb52a9c753abb535fdf5
 text: |
   Verify lorem markdownum fecit denique cecidere ut tempore Harpyia et sceleris
   resonat erat hic.

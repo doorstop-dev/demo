@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.22
 links:
-- HLR021
+- HLR021: 4ccc4b832e9beef7a9d7b67b022227e4
 normative: true
 ref: ''
+reviewed: d0d3fe96e3e8a6f802ee88785561cf1e
 text: |
   Verify lorem markdownum *secreta*. Sua fidem, volucrum scinditur incerta
   Lethaea turea curvare; sed victa aestuat virgo acta humilem inplevit purus

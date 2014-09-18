@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.105
 links:
-- HLR016
+- HLR016: f62dcef37de26a547aa5a43e2558de94
 normative: true
 ref: ''
+reviewed: 80247030e291f47f7d445c5314c131e4
 text: |
   Verify lorem markdownum Pharonque quae.
   Neve [suis](http://example.com/) piget iaculatoremque nascendi.

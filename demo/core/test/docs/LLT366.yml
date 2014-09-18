@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.49
 links:
-- LLR097
-- LLR154
-- LLR156
+- LLR097: 1711ce591f6615e4ea9dc3d37fd18b43
+- LLR154: 7d0564f9ea1d409310dfb408f441c32d
+- LLR156: 2c168e16e9b45bc376b0c7ae743bcae8
 normative: true
 ref: ''
+reviewed: 3fdddd359a500898f8955854f2147c37
 text: |
   Verify lorem markdownum cantato speravit, at pius quanta sitim conceptaque
   odoribus acer praestet tollens.

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.3
 links:
-- LLR102
-- LLR104
-- LLR122
-- LLR160
-- LLR165
+- LLR102: 836dd3bdc538192d71fca514ccc5c83a
+- LLR104: f99d532ca0fd3848201ec86b50dfff79
+- LLR122: 4db1890247d75c45f8a1c7325844fc66
+- LLR160: f517facbd8725c3a5815ad9539659e78
+- LLR165: e4f67093a6a3fcaec6187b4d36e3d600
 normative: true
 ref: ''
+reviewed: 787b75e9a92913c2b7118b422a1a2fd9
 text: |
   Verify lorem markdownum inque iam genetrix haberent?
   Consumpserat esse decursus Tyrrhena parvo ausorum, inbellemque denos, est

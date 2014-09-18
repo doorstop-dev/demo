@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 23.73
 links:
-- HLR011
-- HLR097
+- HLR011: fb47d13ca2bcd7c22beff68af53ef365
+- HLR097: 9c167b955cc3e7cb92dcfdd46066a1d5
 normative: true
 ref: ''
+reviewed: b8f1c7725df0309f973112142d537b34
 text: |
   Lorem markdownum **SHALL** clades graves corpora dextraque Dianae; nequit
   quae sacra se.

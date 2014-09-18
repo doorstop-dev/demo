@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.352
 links:
-- LLR094
-- LLR114
+- LLR094: 4d77690d451a667b63a0b0435f153f8c
+- LLR114: 20dd357661195c42ccbeac5351fcc491
 normative: true
 ref: ''
+reviewed: 7ada69b6355cf8abe7e5d144196d07cc
 text: |
   Verify lorem markdownum nostras, atque manu mittor facta terras, limosaque
   nec undas enim **radice divinante**; laniata, nisi. *Nymphae una*, non quoque

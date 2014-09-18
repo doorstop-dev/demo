@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.47
 links:
-- LLR154
+- LLR154: 7d0564f9ea1d409310dfb408f441c32d
 normative: true
 ref: ''
+reviewed: ae0704185c00fd8de5c66a1ce8f4475e
 text: |
   *Lorem* markdownum stagnum labuntur artus adopertaque tanta timide Minervae
   alvum: omnes deorum, Cycladas aera Danaen illo ille illa!

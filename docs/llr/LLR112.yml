@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 22.7
 links:
-- HLR061
-- HLR066
-- HLR081
-- HLR093
+- HLR061: 21d47aa8307e87377b55817212beae08
+- HLR066: 28e63ccca90b062ccfdc3c168cc3369b
+- HLR081: f85cc275a9545dc4ae6cc142fa5385fb
+- HLR093: 8c277eeda417521852a9051e6a58907d
 normative: true
 ref: ''
+reviewed: 6e4be8e47b450198d72ad7424f8a8743
 text: |
   Lorem *markdownum illa* Iuppiter obicit recingor, ignaram proripit venenum.
   Lilia luce lacrimaeque purpura nondum terras est insula habebas cortice

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.351
 links:
-- LLR011
-- LLR034
-- LLR143
-- LLR177
-- LLR181
+- LLR011: 8e3f74964883fbffaf5595ce5c966a57
+- LLR034: 0e3b60ae07333c71b3ea2ae24637f32b
+- LLR143: 06de9a20b56b2148f372cc08d11cb614
+- LLR177: 58c096994f29519d6018bea199aced66
+- LLR181: e613d7310ec84c7e1f1bd0e63f8ad9a6
 normative: true
 ref: ''
+reviewed: 4064f59605c76683f2e24c4f1bdebbe2
 text: |
   Verify lorem markdownum fuerat.
   Dat nocet videt parva comitata, inventum Achivi consequitur ista lintea

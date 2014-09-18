@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 2.1
 links:
-- HLR017
-- HLR035
-- HLR084
-- HLR097
-- HLR098
+- HLR017: 7c34babb079cf13f34cc6379f6d62f8e
+- HLR035: c16bb23865576b4a8c7b4da3a1c2c04e
+- HLR084: cd3a142af5aa32c38ba5338b919257fb
+- HLR097: 9c167b955cc3e7cb92dcfdd46066a1d5
+- HLR098: 42a0dc5551d1fb162523da962f4761e9
 normative: true
 ref: ''
+reviewed: 1fd8455e5130bb69d3f1d51ad41bd628
 text: |
   **Verify lorem markdownum** atram tu exclamat armatosque oscula habet sive
   praeter Cinyran quam inter barbae removit.

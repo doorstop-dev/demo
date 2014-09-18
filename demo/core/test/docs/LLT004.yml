@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 1.3
 links:
-- LLR037
-- LLR080
-- LLR166
-- LLR186
+- LLR037: c9c3f63de803a8a1a2306defd87835fb
+- LLR080: 482743e766909835fff69356a23d54a3
+- LLR166: 1db2c528f73fa1d4a4d5405549a199fc
+- LLR186: 51be15012cf97e83cbd386fbd0f0654e
 normative: true
 ref: ''
+reviewed: 22d2c8b24b2b6677f41d2154d53d081a
 text: |
   Verify lorem markdownum moriens protinus fuga transcribere venata, Achivi
   optare [blandita Thermodontiaco](http://zombo.com/).

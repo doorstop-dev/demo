@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.233
 links:
-- LLR067
-- LLR121
-- LLR172
-- LLR187
+- LLR067: 2ac99d34e042e4f33fe3e247eaff1b7e
+- LLR121: c5dad8c6cadfc70e8cdff8a8c8aecb42
+- LLR172: 33a373dea41ffe2357849b534436fbc6
+- LLR187: e3d7909b94107a2055956a335cb779e1
 normative: true
 ref: ''
+reviewed: 365cd1ad9563606eaf3b9cdb195963a5
 text: |
   Verify lorem markdownum Epidauria deus femineae Proca amari trahens, parabat.
   Fama et tandem, seque gener ter, habentem somnique quidem parvis serpente et

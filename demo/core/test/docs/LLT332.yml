@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.336
 links:
-- LLR059
-- LLR153
-- LLR195
+- LLR059: 145aff24cbe27e19de98eb5c916e1bf1
+- LLR153: 9975d2b0e7a843f90720b0accd67cd46
+- LLR195: 06d28a52996a572fd292f5a13241ef8e
 normative: true
 ref: ''
+reviewed: 9f9f3eb226c02b4b039c0640469796d2
 text: |
   Verify lorem markdownum umeris Parthaoniae **Peloro ceris**, citi alios,
   bella dum tam at Cupidinis parente vidit?

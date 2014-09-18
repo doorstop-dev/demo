@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.37
 links:
-- LLR122
+- LLR122: 4db1890247d75c45f8a1c7325844fc66
 normative: true
 ref: ''
+reviewed: 6e6f9bcf12a5502c5f341ca518013d3d
 text: |
   Verify lorem markdownum respiciens patrios cuius nulla [heros
   coniugis](http://omgcatsinspace.tumblr.com/); luctatusque natis.

@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 3.3
 links:
-- HLR036
+- HLR036: b85c4146e31bab43dac352c217430641
 normative: true
 ref: ''
+reviewed: ec2e30812970c0cad28569118b0b2c5e
 text: |
   Lorem markdownum **SHALL** deficiunt cinctam furtique, dum **nostrum Ilion**
   suo quoque cogit sustinuit adest domus puppi tot Belides victima, *fovet*.

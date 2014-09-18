@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 11.3
 links:
-- HLR023
-- HLR029
-- HLR086
-- HLR087
-- HLR098
+- HLR023: e9bd12dbb9ef8311cb24d28291766a23
+- HLR029: 1d5062f71b5637b24b6346586d1676f3
+- HLR086: 8ffc8c6aaccf0712b20ca54488b704c7
+- HLR087: 9af49b45e12f3a85eaee83259d295f4e
+- HLR098: 42a0dc5551d1fb162523da962f4761e9
 normative: true
 ref: ''
+reviewed: e0dbe658d0c83e6b8e8db0e009ad473f
 text: |
   Lorem markdownum **SHALL** *induitur convocat genitor* aspera Avernales nulla
   sua posse puellae.

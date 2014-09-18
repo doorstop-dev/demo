@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 7.1
 links:
-- HLR003
-- HLR063
-- HLR080
+- HLR003: cc852012ad2f6c8ad8503f5d8b6290ad
+- HLR063: b1b6217c7cf6d7be814389b1bdadedc2
+- HLR080: 299534fd5a7eca46f589c6322b659423
 normative: true
 ref: ''
+reviewed: 06e6e96f8280f320c8ea4f62a2fdfcee
 text: |
   Lorem markdownum **SHALL** **expers** intima nec et abripit femina: et latet
   vulnera non erat et.

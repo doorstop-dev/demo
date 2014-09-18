@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.261
 links:
-- LLR002
-- LLR138
+- LLR002: 946302ba227fbe738e398b635e961a55
+- LLR138: 7287219bdd9f445b3f3650b766fc037f
 normative: true
 ref: ''
+reviewed: 7916be0f5a09f6ec9359563313b18e66
 text: |
   Verify lorem markdownum intercipit inquit parares captatam regia, fit caelo
   trahit, siccaverat mota.

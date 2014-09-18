@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 22.3
 links:
-- HLR002
-- HLR012
-- HLR029
+- HLR002: f14b4e9918e03ec7d500120798e3378f
+- HLR012: cfa33cbcb685a3d18af2bd8304c76784
+- HLR029: 1d5062f71b5637b24b6346586d1676f3
 normative: true
 ref: ''
+reviewed: 948ad037c44dd69412eab45746813c11
 text: |
   Lorem markdownum **SHALL** flammaeque lunae longo.
   Sibi vultus, quoque ignes ad ara animos repellit ad tamen corpus.

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.147
 links:
-- HLR009
-- HLR040
-- HLR052
-- HLR073
-- HLR084
+- HLR009: 6da8ed61c313b1482bdb6da89d007eac
+- HLR040: 6deccb32d8c2be5a7b69b0447c3f78ab
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
+- HLR073: f1399f4ebb54c6d8ad15181b5218d154
+- HLR084: cd3a142af5aa32c38ba5338b919257fb
 normative: true
 ref: ''
+reviewed: 83e71156628340917f586505a8b70f28
 text: |
   Verify lorem markdownum longe.
   Sive volucrem procorum, prius postquam vidit meritis virgineo hosti.

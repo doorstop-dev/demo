@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.85
 links:
-- HLR056
-- HLR070
+- HLR056: 3d664384d81be055e722570cbd7c225f
+- HLR070: 4c5aec0fe1ce73b50af82540fa165e66
 normative: true
 ref: ''
+reviewed: f180dc91a5e60520da807ad7858dbc07
 text: |
   Verify lorem markdownum adsiduis humum iactor recens cornum, sed, **fontibus
   rapit abdiderat** tener potuit virorum.

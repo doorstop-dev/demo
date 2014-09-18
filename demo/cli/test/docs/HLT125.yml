@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.43
 links:
-- HLR017
-- HLR046
+- HLR017: 7c34babb079cf13f34cc6379f6d62f8e
+- HLR046: 816db4153bde67375509bac7fd4c998a
 normative: true
 ref: ''
+reviewed: 41a2f58a3e0b1b3476dd4a46ca486ae6
 text: |
   Verify lorem markdownum polluit eurus erit armenti tabo et tenues dea,
   repetatne iuveni tollentes et habet.

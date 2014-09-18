@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.49
 links:
-- HLR027
-- HLR031
-- HLR051
-- HLR059
-- HLR094
+- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
+- HLR031: 72c2fe6f4da4db81c71d7a8f103d2d66
+- HLR051: 6963e01374087f10fa114650be974ce9
+- HLR059: 78b7ca6f523c75544862bbfa58942b37
+- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
 normative: true
 ref: ''
+reviewed: 8a30116ae3457684ea18a25ccba2bf2e
 text: |
   **Verify lorem markdownum** in [bis cetera petit](http://heeeeeeeey.com/)
   haberet imbrem.

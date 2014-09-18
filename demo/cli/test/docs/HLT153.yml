@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.11
 links:
-- HLR083
+- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
 normative: true
 ref: ''
+reviewed: 26dd8a50b9061ba63f2d4f9f59178760
 text: |
   Verify lorem markdownum suis, prole hastam, procul Circe; sub iam semel
   salutem numquam, nulli visus pomis.

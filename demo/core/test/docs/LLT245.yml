@@ -2,11 +2,12 @@ active: true
 derived: false
 level: '5.100'
 links:
-- LLR067
-- LLR119
-- LLR193
+- LLR067: 2ac99d34e042e4f33fe3e247eaff1b7e
+- LLR119: a7f4eace198800df898b434f6bf6a96e
+- LLR193: 4fef0018e0b9ff8b050310b680af4f5b
 normative: true
 ref: ''
+reviewed: 13c56817d41a2da7bb4bb04214505f07
 text: |
   Verify lorem markdownum vidit tellus voverat aspexit Epidaurius undas
   quotiensque talisque: spicula, Pharosque, fecunda.

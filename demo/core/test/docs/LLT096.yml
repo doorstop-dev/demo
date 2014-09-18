@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.42
 links:
-- LLR014
-- LLR187
+- LLR014: d595c1e73db339117a82cd6206a71a34
+- LLR187: e3d7909b94107a2055956a335cb779e1
 normative: true
 ref: ''
+reviewed: f295624a236a4620d25272866e6c1eab
 text: |
   Verify lorem markdownum, homine doceo tardarunt, sed illa Nesseis! *In mihi*
   appellare magno.

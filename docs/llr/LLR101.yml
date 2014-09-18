@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 21.1
 links:
-- HLR042
-- HLR043
-- HLR067
-- HLR076
-- HLR085
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR043: b0f3b0871e39677f58ef610fbdd81555
+- HLR067: 9d79eff61851f166e5b50b1101749942
+- HLR076: 62d8f849b82682833a2295608f3347b5
+- HLR085: 8f9bb7708fb44a90426d24efe969e48e
 normative: true
 ref: ''
+reviewed: 3a3eb8142da491f58aecaf5d59e776ee
 text: |
   Lorem markdownum **SHALL** *fistula*, iuvenes.
   Crepitante ea Ille patula infelix *consistere*? *Ore* hic cupidine Romule

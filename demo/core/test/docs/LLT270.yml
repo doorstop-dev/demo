@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.369
 links:
-- LLR141
-- LLR145
-- LLR156
+- LLR141: 63e106327494cd12077728e28c4a8595
+- LLR145: 124d6bdce14f146896308d25cbd52fb3
+- LLR156: 2c168e16e9b45bc376b0c7ae743bcae8
 normative: true
 ref: ''
+reviewed: a0978717f9c21d623eb483ff8da80929
 text: |
   Verify lorem markdownum incubuit *hos sibila vera* successus, secuti, Troiana
   motumque: facit ubi, hic.

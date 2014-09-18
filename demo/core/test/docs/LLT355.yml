@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.186
 links:
-- LLR041
-- LLR085
-- LLR141
-- LLR148
-- LLR198
+- LLR041: b737d4f290d904222a9c2f33f1831a10
+- LLR085: 111e608e5b4c2b2b2bb47662312bc752
+- LLR141: 63e106327494cd12077728e28c4a8595
+- LLR148: 35db560e103c5327c42f1665556a51dd
+- LLR198: b838b48fac441d782a269dc6d1cd5e42
 normative: true
 ref: ''
+reviewed: 1905a202533ce54b2eaa23cac12bed72
 text: |
   Verify lorem markdownum ignari?
   Patet *colat* successit serpentis albentes, quem cum vosne tutus natura

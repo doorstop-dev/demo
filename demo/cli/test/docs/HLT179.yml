@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.48
 links:
-- HLR017
-- HLR059
-- HLR060
+- HLR017: 7c34babb079cf13f34cc6379f6d62f8e
+- HLR059: 78b7ca6f523c75544862bbfa58942b37
+- HLR060: 85f748bf9edd302de65894924958c3c5
 normative: true
 ref: ''
+reviewed: 3d7176bb8055e6aa5ebee7b57d858570
 text: |
   Verify lorem markdownum imago alto dabitur abdidit mero portus [deducens
   fugam dentes](http://landyachtz.com/) ova undas est

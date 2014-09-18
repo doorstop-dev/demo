@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.174
 links:
-- LLR160
+- LLR160: f517facbd8725c3a5815ad9539659e78
 normative: true
 ref: ''
+reviewed: 8075af908a0d8ed5be4d9ec5521f3fa1
 text: |
   Verify lorem markdownum rigidum at *placui*, nisi facite multorum, sed, et.
   Deferre solvere castra, et orbe mox nam diversaque tamen ore: e florem,

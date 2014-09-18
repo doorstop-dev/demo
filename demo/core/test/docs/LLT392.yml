@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.228
 links:
-- LLR046
-- LLR050
-- LLR059
-- LLR072
+- LLR046: 92637661b5586866c199eb233ddfe721
+- LLR050: bfb3a23e87baa84cf112006321c9d67f
+- LLR059: 145aff24cbe27e19de98eb5c916e1bf1
+- LLR072: ba740b16a66fcd359aef605f7fba1e3b
 normative: true
 ref: ''
+reviewed: fe3635338fea3ad0e7b15e9590d007a2
 text: |
   Verify lorem markdownum, nec qui umbra lingua satis quidem ferrumque ambiguum
   euntes praecluditur nulla.

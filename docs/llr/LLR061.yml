@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 12.4
 links:
-- HLR013
-- HLR055
-- HLR058
-- HLR080
-- HLR096
+- HLR013: a08f2929dcca39e42a0270e8f7db581b
+- HLR055: 1984551a3ed8ff9a4827af2afc7467a9
+- HLR058: 4d68e2da5f4ace8317b50f88c9bfd46d
+- HLR080: 299534fd5a7eca46f589c6322b659423
+- HLR096: 106add8d49e2341dc81214cee7519924
 normative: true
 ref: ''
+reviewed: d0c3246ec9f9fa8e04004913c79b19cf
 text: |
   Lorem markdownum **SHALL** arbor. [Artus nil dentes](http://imgur.com/) natus
   crepuscula ea Iovem dedit credar illa.

@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.171
 links:
-- LLR018
-- LLR119
+- LLR018: 846a8efca093ea39a87ba9cc5fdd4a68
+- LLR119: a7f4eace198800df898b434f6bf6a96e
 normative: true
 ref: ''
+reviewed: f6757c760f5fb7f4c76e37ea9f689062
 text: |
   Verify lorem markdownum summis facies Calydonis admotam trahit Alcathoen
   herba: in.

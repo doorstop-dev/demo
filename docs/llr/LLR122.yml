@@ -2,11 +2,12 @@ active: true
 derived: false
 level: '23.80'
 links:
-- HLR042
-- HLR060
-- HLR082
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR060: 85f748bf9edd302de65894924958c3c5
+- HLR082: 840ae5cd6cdc2047fa83d7e6ff7fc7b4
 normative: true
 ref: ''
+reviewed: c4bc707839f968b0834ee22c4f00d561
 text: |
   Lorem markdownum **SHALL**, quotiensque saxum.
   Puer est dat eas illo durus putant, percussit inponere urbis occiduae unum

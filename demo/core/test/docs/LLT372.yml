@@ -2,13 +2,14 @@ active: true
 derived: false
 level: '5.150'
 links:
-- LLR016
-- LLR050
-- LLR109
-- LLR127
-- LLR138
+- LLR016: e590fd7e21f3430521005110a2e23c2c
+- LLR050: bfb3a23e87baa84cf112006321c9d67f
+- LLR109: 1cef49a5b9cffec7552b4d2ddb016d2b
+- LLR127: 50db07405dea712246fd51624c61d9ea
+- LLR138: 7287219bdd9f445b3f3650b766fc037f
 normative: true
 ref: ''
+reviewed: 6c8da4020b78290b569725e1abafcd8d
 text: |
   [Verify lorem markdownum](http://www.uselessaccount.com/) undas,
   praetemptatque turribus, saetiger.

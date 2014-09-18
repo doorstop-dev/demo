@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.78
 links:
-- LLR037
-- LLR074
-- LLR079
-- LLR168
-- LLR195
+- LLR037: c9c3f63de803a8a1a2306defd87835fb
+- LLR074: 56e69a375bcfccf5d22d5f3623f3e5f3
+- LLR079: cadc61aa41740969414acac66e599342
+- LLR168: 469349ad7aa47e997d3d9374cd5bdd8b
+- LLR195: 06d28a52996a572fd292f5a13241ef8e
 normative: true
 ref: ''
+reviewed: e6039363d1f4bee7187e30f6f8e02ed7
 text: |
   Verify lorem markdownum sanguinis unda, esse liber, hoc pendere monstro
   pollice lacrimavit, curvantem et ostendere laniato, rapto.

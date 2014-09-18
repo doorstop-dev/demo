@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 23.18
 links:
-- HLR002
+- HLR002: f14b4e9918e03ec7d500120798e3378f
 normative: true
 ref: ''
+reviewed: 20682cb5eccdc65de37ee3de57a93630
 text: |
   Lorem markdownum **SHALL** auctoribus utque lora serpens, dicta melius, et
   tuus cura: positoque veros, a Me?

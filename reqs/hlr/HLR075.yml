@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 7.51
 links:
-- SYS033
-- SYS034
+- SYS033: b526581cadf9dbf96ee532a63b221052
+- SYS034: 3f25eed559e4b59fd126dd72d9ef9c2e
 normative: true
 ref: ''
+reviewed: ce0abcd0db4b6faf1fccb1d1cd521e9e
 text: |
   Lorem markdownum **SHALL** hanc Trinacriam, haud acie facto quem interea,
   pecudumque undis.

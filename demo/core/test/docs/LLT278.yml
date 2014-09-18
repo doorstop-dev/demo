@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.331
 links:
-- LLR064
+- LLR064: d530ba92beaa7a27879f36994c6764bb
 normative: true
 ref: ''
+reviewed: 25ea1fedefe1c9ff04bcb40af04caaf8
 text: |
   Verify lorem markdownum linguae, vocat quaeritis, inpensaque unumque est.
   **Ore iecur sua** garrula, conditur modo utve dissimulare solet veteris.

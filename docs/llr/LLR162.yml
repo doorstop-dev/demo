@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 23.47
 links:
-- HLR059
-- HLR075
+- HLR059: 78b7ca6f523c75544862bbfa58942b37
+- HLR075: 024621d141e0d33a01100d381bf459b2
 normative: true
 ref: ''
+reviewed: e81c2419f887a04140854270d0945d20
 text: |
   Lorem markdownum **SHALL** innixa: inposito gentisque murmura ipsa.
   Barbara advocat: feri parvas contra, que mater certe.

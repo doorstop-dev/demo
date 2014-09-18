@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.287
 links:
-- LLR016
-- LLR125
-- LLR161
-- LLR181
+- LLR016: e590fd7e21f3430521005110a2e23c2c
+- LLR125: 738b4e2a63e87a21edac014f690236c5
+- LLR161: bfb18b97608092f947638a7496a5981d
+- LLR181: e613d7310ec84c7e1f1bd0e63f8ad9a6
 normative: true
 ref: ''
+reviewed: a77842d71700a42aec8d9febbad108c7
 text: |
   Verify lorem markdownum herbis reddere fugabitur et munere
   [dictis](http://www.reddit.com/r/haskell), guttis bracchia ardore *id* fuere

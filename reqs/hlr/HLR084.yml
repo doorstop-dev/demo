@@ -2,13 +2,14 @@ active: true
 derived: false
 level: '7.10'
 links:
-- SYS002
-- SYS007
-- SYS011
-- SYS013
-- SYS020
+- SYS002: d880b59c0bc5a060d41922110b833f3f
+- SYS007: 71f23c045fad13e41911a488c5341af7
+- SYS011: 656d2e888ee0f8a143538aa3bf1a2409
+- SYS013: fb115b2d9cf0be32d6404f10adb1ab45
+- SYS020: 0591e27f677d2720d15d143bbcc2883e
 normative: true
 ref: ''
+reviewed: 7eba0ba04d6f9f55a0881f40bc7a2924
 text: |
   Lorem markdownum **SHALL** manus emeritis omnibus, qui ex sim?
   Alis adhuc, tum summissoque aras crinibus aderat, sulcat non potuisse tinxit

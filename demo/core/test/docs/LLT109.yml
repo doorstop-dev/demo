@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.22
 links:
-- LLR101
+- LLR101: 1fd809376b6947b44fef89ea0f3e0b8a
 normative: true
 ref: ''
+reviewed: 4ee66c8fa6484d33ff92955aaae81721
 text: |
   Verify lorem markdownum in pressos tuendos excitus: duxit cum!
   Consolantia Athos; librat rogis ita **imminet** vocant esse, cortice

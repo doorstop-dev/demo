@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.1
 links:
-- HLR004
-- HLR024
-- HLR028
-- HLR075
+- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
+- HLR024: 53137531d57b6e976f8bef6eacfcb46e
+- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
+- HLR075: 024621d141e0d33a01100d381bf459b2
 normative: true
 ref: ''
+reviewed: 952f8f2069d2a04d39fb6f4b796cba6a
 text: |
   Lorem markdownum **SHALL** tamen pectora essent.
   Illa sacra peioris dolore transformata interea tellusAndros pars praecordia

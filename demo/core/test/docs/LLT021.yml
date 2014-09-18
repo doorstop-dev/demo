@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.34
 links:
-- LLR060
-- LLR093
+- LLR060: 043c258f9089b7d12cba69e292c5a7bc
+- LLR093: 80ed4575b30ded58c20cad5011feac3c
 normative: true
 ref: ''
+reviewed: 39d6a719989ffc6ccc261af706af92b6
 text: |
   Verify lorem markdownum haud, consequitur efferre pervia; et delicta.
   Dorso vides edita, sit vipereos at sororem septem quodque ereptus honores

@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.95
 links:
-- LLR059
-- LLR153
+- LLR059: 145aff24cbe27e19de98eb5c916e1bf1
+- LLR153: 9975d2b0e7a843f90720b0accd67cd46
 normative: true
 ref: ''
+reviewed: 9df37e35fbe4f4b86781a16ebf1a3f47
 text: |
   Verify lorem markdownum quid, *sibi quid gelida* Tanais, **flebile concipit
   litora**. Veri celeberrima bene exitus dederam certior; nec questa, est

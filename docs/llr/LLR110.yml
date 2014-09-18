@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 22.5
 links:
-- HLR018
-- HLR034
-- HLR045
-- HLR072
+- HLR018: 052c75e3524720b2fa74b8546334a5f6
+- HLR034: 87889aab3af013c2c6700993f82c1984
+- HLR045: 64596d19da4080f5ff6ef0ae72feb118
+- HLR072: 05c44ac66e5c91420b2c82769350fd93
 normative: true
 ref: ''
+reviewed: d1ae32d695f07ddf4f9de3e5b05b6614
 text: |
   Lorem markdownum **SHALL** nostraque credat requiris committi.
   Astris ille fonti quidem, [siccat](http://stoneship.org/).

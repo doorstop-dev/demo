@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.62
 links:
-- LLR043
+- LLR043: b2354770f51d1a4fd74ded3a65ece5ed
 normative: true
 ref: ''
+reviewed: 9889f150d7a39c2e8b02be2b5f476d47
 text: |
   Verify lorem markdownum carebis Cycnum, [unda](http://www.wtfpl.net/), male
   contemptor cunctis illic comes abdita pater posset nequiquam.

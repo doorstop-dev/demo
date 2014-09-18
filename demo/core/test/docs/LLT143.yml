@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.58
 links:
-- LLR149
+- LLR149: ad81416b24889e7f913ef56aac46dac7
 normative: true
 ref: ''
+reviewed: ce0ff68e75fdbc659bac8a0b7d47c047
 text: |
   Verify lorem markdownum addit usus fetum penetratque classem obstitit,
   telaque!

@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.269
 links:
-- LLR041
-- LLR114
+- LLR041: b737d4f290d904222a9c2f33f1831a10
+- LLR114: 20dd357661195c42ccbeac5351fcc491
 normative: true
 ref: ''
+reviewed: 98b16136185f3ead54fcdac63f9780de
 text: |
   Verify lorem markdownum maxime lugebitis foedera pater illa pervenit
   membrana, currus!

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.222
 links:
-- LLR054
-- LLR111
-- LLR122
-- LLR130
-- LLR134
+- LLR054: 0cd98c784f1946189eeda5baf3eac2f4
+- LLR111: 695a964ff264415f100ccaab614213a4
+- LLR122: 4db1890247d75c45f8a1c7325844fc66
+- LLR130: bd2f79e94a03cd0fbfe90c334da71a6c
+- LLR134: a179f64de404dc64da12b9e839c5df09
 normative: true
 ref: ''
+reviewed: 5ee514392444bb2a35b56d2aca97fadd
 text: |
   Verify lorem markdownum undis pictis certas et utque, ait nata gener vicem.
   Carpsit cum arces, fuerit tuis saliunt toto ille se pars solebat locutus;

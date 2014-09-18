@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.96
 links:
-- LLR002
-- LLR067
-- LLR081
+- LLR002: 946302ba227fbe738e398b635e961a55
+- LLR067: 2ac99d34e042e4f33fe3e247eaff1b7e
+- LLR081: a6e6601cdc9e9515b9963bebefd3b7bd
 normative: true
 ref: ''
+reviewed: cb42f9fe1800c7b6950ad84f0aa5b441
 text: |
   Verify lorem markdownum pignora facit.
   In unda; primitias linguaque vosne Talibus dea tertia obliquaque abscidit.

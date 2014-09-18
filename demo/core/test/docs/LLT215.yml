@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.325
 links:
-- LLR029
-- LLR047
-- LLR141
-- LLR171
-- LLR189
+- LLR029: 2c7fc2b06f5f75e7348bd91a4ed7d6b2
+- LLR047: a8366f4e5ae14c5bea674c526ec14e26
+- LLR141: 63e106327494cd12077728e28c4a8595
+- LLR171: 3a84775fe1db5e9baf4213faeecff9b8
+- LLR189: 61ca6ec606b991c45f35192812c87174
 normative: true
 ref: ''
+reviewed: 057978ec4505eb80fcee28c681006d53
 text: |
   Verify lorem markdownum vixque tempore, et vultus disces viveret nodosaque
   duraeque eodem.

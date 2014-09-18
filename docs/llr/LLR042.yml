@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.3
 links:
-- HLR002
-- HLR036
-- HLR053
-- HLR062
+- HLR002: f14b4e9918e03ec7d500120798e3378f
+- HLR036: b85c4146e31bab43dac352c217430641
+- HLR053: aca512755df1944bbde060425662d88e
+- HLR062: 57e206d85145b169a59ee9e5f4bc48cf
 normative: true
 ref: ''
+reviewed: 5d40f6b91c976ee031272033ed617fe4
 text: |
   Lorem markdownum **SHALL** miratur!
   Pennas vini dedit meorum, et est **pingue** Rutuli vias *metuendus*! Numquam

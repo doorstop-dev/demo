@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.294
 links:
-- LLR107
-- LLR163
-- LLR172
-- LLR191
+- LLR107: 0cd0c9beea240374f597fce6adaa27b2
+- LLR163: fcd4232addae4dcc40c922b89619799d
+- LLR172: 33a373dea41ffe2357849b534436fbc6
+- LLR191: 3609e58c2c304fc35bfbe74e6b6e08d5
 normative: true
 ref: ''
+reviewed: 222e1975c20ef204e1148cede889de13
 text: |
   Verify lorem markdownum facit gracili *aqua*. Pelasgas generis.

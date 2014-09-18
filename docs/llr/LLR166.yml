@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 23.84
 links:
-- HLR052
-- HLR093
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
+- HLR093: 8c277eeda417521852a9051e6a58907d
 normative: true
 ref: ''
+reviewed: 89e18e84a488b1f61b87ee76f3415f5e
 text: |
   Lorem markdownum **SHALL** in tibi tibi iuvere?
   Longo cepere serpens parmam tempora aequoris eripui coniuge flumina cingitur

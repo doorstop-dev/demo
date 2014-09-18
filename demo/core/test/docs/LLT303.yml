@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.257
 links:
-- LLR076
-- LLR160
+- LLR076: 0bbcf61d30aa067824559346ae25d650
+- LLR160: f517facbd8725c3a5815ad9539659e78
 normative: true
 ref: ''
+reviewed: b86eb2e98b6eb950116d4c7ac01583c2
 text: |
   Verify lorem markdownum.
   Inter ipse **medios Midan** possis tradere, *ut* quia Nelea, reliquerat, in

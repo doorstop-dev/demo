@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.75
 links:
-- HLR084
-- HLR096
+- HLR084: cd3a142af5aa32c38ba5338b919257fb
+- HLR096: 106add8d49e2341dc81214cee7519924
 normative: true
 ref: ''
+reviewed: d83dbddff4f65b494479abede228a549
 text: |
   Verify lorem markdownum et misistis margine Cerambi ossibus postquam petens
   properabat, mearum aerias remoretur matrem.

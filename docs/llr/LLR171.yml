@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 23.48
 links:
-- HLR013
-- HLR090
+- HLR013: a08f2929dcca39e42a0270e8f7db581b
+- HLR090: c054ce5e5cb3a312beafa71336371542
 normative: true
 ref: ''
+reviewed: bc2edf745d4ff8a605f3fe9f95ea2664
 text: |
   Lorem markdownum **SHALL** flebat spectante concita vatibus hic sibi
   anhelatos metues Solem [Scythiam Latreus](http://www.lipsum.com/).

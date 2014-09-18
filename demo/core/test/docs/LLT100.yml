@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.2
 links:
-- LLR137
+- LLR137: 0ab74dc529c959fc6f20f93b274a579b
 normative: true
 ref: ''
+reviewed: 53d153eab5832566c2ff7d1260744c90
 text: |
   Verify lorem markdownum animo *accipit* qui danda consulat utque harundine
   ossa.

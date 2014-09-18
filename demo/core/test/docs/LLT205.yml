@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.285
 links:
-- LLR013
-- LLR103
-- LLR118
-- LLR131
-- LLR156
+- LLR013: f7b387860a28bbdd1aac0c15cf3bd0b6
+- LLR103: 49d38e9df072843287984207cfdad546
+- LLR118: 57d3194c885e4d5c854104eef193abdc
+- LLR131: 34d163747a7d8ab6b875342193a6edef
+- LLR156: 2c168e16e9b45bc376b0c7ae743bcae8
 normative: true
 ref: ''
+reviewed: 519b750fd77cbf5a05752f6516c14d4a
 text: |
   Verify lorem markdownum nata quis nocte bos corpora quem.
   Nil ingemuit libebat sua vox aderamus et suarum Saturnus errant: sic fera

@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 9.2
 links:
-- HLR083
+- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
 normative: true
 ref: ''
+reviewed: 7673d4d39099504f639987c6f5449248
 text: |
   Lorem markdownum **SHALL** vires saepe potest, et fama quicquid, que, ni.
   Temptemus illius, Saturnia teque, quis natis spectarat oculos pectora urbis.

@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.148
 links:
-- HLR002
-- HLR028
-- HLR097
+- HLR002: f14b4e9918e03ec7d500120798e3378f
+- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
+- HLR097: 9c167b955cc3e7cb92dcfdd46066a1d5
 normative: true
 ref: ''
+reviewed: 2c0ecf902ffbadebaf652edf828bb862
 text: |
   Verify lorem markdownum patitur; bacaque fugitque, qua fontis violente.
   Te iusta se voluptas **flore Cithaeron lapsae** odioque quippe et agnovit

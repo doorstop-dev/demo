@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 2.6
 links:
-- SYS014
-- SYS017
-- SYS027
-- SYS036
-- SYS038
+- SYS014: 19c97732e34a0a8dafd81e6e0f633ad9
+- SYS017: c6373fac9b0b7f7a7404da3f2838a3d4
+- SYS027: e234a8b1eae0ac462268cf8f07ae1295
+- SYS036: bcd962aea4042735d5f7eed9da088978
+- SYS038: 5ea4bbd075c62c08d752df5ec44187e5
 normative: true
 ref: ''
+reviewed: dafb77f3bf6ba9f5fb70cee80f517c4e
 text: |
   Lorem markdownum **SHALL** fata.
   In non [ignis et](http://zeus.ugent.be/) toxea *columque fuerat* et, numinis

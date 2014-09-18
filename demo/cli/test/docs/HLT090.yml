@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.55
 links:
-- HLR013
-- HLR018
-- HLR062
+- HLR013: a08f2929dcca39e42a0270e8f7db581b
+- HLR018: 052c75e3524720b2fa74b8546334a5f6
+- HLR062: 57e206d85145b169a59ee9e5f4bc48cf
 normative: true
 ref: ''
+reviewed: 7bc93de7950a84ee179275fbb14e0c9a
 text: |
   Verify lorem markdownum tangunt nec attactu in omnes gaudia, quicquam;
   degravat eripuit metu.

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.126
 links:
-- HLR027
-- HLR047
-- HLR048
-- HLR056
-- HLR086
+- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
+- HLR047: f64502605f5781802a5de46f36e137d5
+- HLR048: 56aa735358f7210502ed2e7a7527fa22
+- HLR056: 3d664384d81be055e722570cbd7c225f
+- HLR086: 8ffc8c6aaccf0712b20ca54488b704c7
 normative: true
 ref: ''
+reviewed: fb176af8ec4b0e5d6c49327f09c95c81
 text: |
   Verify lorem markdownum Ennomon viribus poterat Babylonius draconem, [fateri
   ululatibus](http://example.com/) admonita sine illis, praetincta cur: cuius.

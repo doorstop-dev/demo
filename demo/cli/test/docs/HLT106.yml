@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.18
 links:
-- HLR048
+- HLR048: 56aa735358f7210502ed2e7a7527fa22
 normative: true
 ref: ''
+reviewed: b6a5f47e12b69d2eaf7c2c847c161f99
 text: |
   Verify lorem markdownum cives prospicit et frondes munere avoque memores
   Inarimen [sensit](http://www.lipsum.com/), primum senectae opiferque.

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 4.1
 links:
-- LLR064
-- LLR141
-- LLR169
-- LLR192
+- LLR064: d530ba92beaa7a27879f36994c6764bb
+- LLR141: 63e106327494cd12077728e28c4a8595
+- LLR169: 1d8bce98f2d7aac90f34a10971cc450a
+- LLR192: 30f1b6485cfc83f544a8f3088a73f7c4
 normative: true
 ref: ''
+reviewed: 18c6dc4160081abb14f598b75566a79f
 text: |
   Verify lorem markdownum totum, cum communia evanuit.
   Nisi *sed nodosaque tonso* nisi adsis, sed tu dicentem, in sedem te expendite

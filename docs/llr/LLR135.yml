@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 23.7
 links:
-- HLR016
-- HLR083
-- HLR089
+- HLR016: f62dcef37de26a547aa5a43e2558de94
+- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
+- HLR089: fc17c48818f1757f2f8a232d4f1e38cf
 normative: true
 ref: ''
+reviewed: abe4354ea713f50cd3a2f0cdd24d94a8
 text: |
   Lorem markdownum **SHALL** hoc infelix unguis prioris **et sanguine** obscura
   di thalamos iam.

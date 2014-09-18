@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 6.6
 links:
-- HLR005
-- HLR053
-- HLR094
+- HLR005: 782d35ca3637a2b49051cc44dc073f0a
+- HLR053: aca512755df1944bbde060425662d88e
+- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
 normative: true
 ref: ''
+reviewed: 6684c935be843a8ff91790ea6da857c2
 text: |
   Lorem markdownum **SHALL** dant Gorgoneis cultrosque placet verba lacertis
   Taenarius super ergo laevo vix. *Cursus se sed* plena, raptaeque rictuque

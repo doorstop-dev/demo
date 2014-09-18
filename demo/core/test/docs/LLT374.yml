@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.227
 links:
-- LLR003
-- LLR150
+- LLR003: b554df6c2b0506c78205a619338ecbe5
+- LLR150: 2a668081167c38a07853ab8e9ebdb0ba
 normative: true
 ref: ''
+reviewed: 8c686e01d793b6301b36a72c9789b8da
 text: |
   Verify lorem markdownum Latinas fas Minyeidas fratres.
   Se terris hi his tunc invenerit e pressit toto canes intabescere manes natus

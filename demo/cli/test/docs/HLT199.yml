@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.82
 links:
-- HLR002
-- HLR021
-- HLR052
-- HLR085
-- HLR098
+- HLR002: f14b4e9918e03ec7d500120798e3378f
+- HLR021: 4ccc4b832e9beef7a9d7b67b022227e4
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
+- HLR085: 8f9bb7708fb44a90426d24efe969e48e
+- HLR098: 42a0dc5551d1fb162523da962f4761e9
 normative: true
 ref: ''
+reviewed: ac5d5fb3e7b0d33abe10801efc69fd8b
 text: |
   Verify lorem markdownum condi.
   Primas partem claudit superas demittite orbem: est est porrigit, dum mortis,

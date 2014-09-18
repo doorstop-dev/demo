@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.21
 links:
-- LLR064
-- LLR171
-- LLR185
+- LLR064: d530ba92beaa7a27879f36994c6764bb
+- LLR171: 3a84775fe1db5e9baf4213faeecff9b8
+- LLR185: 8d7a3e7f9b754814a84c77745cf7494d
 normative: true
 ref: ''
+reviewed: 97a4df3952d15d4123e87d19398dedde
 text: |
   Verify lorem markdownum hunc; Bacchum vota: quod mediis perstat, quid futura
   artus: ut versis tempus.

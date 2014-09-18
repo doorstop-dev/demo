@@ -2,9 +2,10 @@ active: true
 derived: false
 level: '23.60'
 links:
-- HLR087
+- HLR087: 9af49b45e12f3a85eaee83259d295f4e
 normative: true
 ref: ''
+reviewed: c4eac803f89646e59c10feec8f799340
 text: |
   Lorem markdownum **SHALL** *iterum voces* necemque, illa aures **pulsat**:
   serpunt animasque demisit.

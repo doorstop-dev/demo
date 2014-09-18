@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.121
 links:
-- HLR012
-- HLR035
-- HLR060
-- HLR072
+- HLR012: cfa33cbcb685a3d18af2bd8304c76784
+- HLR035: c16bb23865576b4a8c7b4da3a1c2c04e
+- HLR060: 85f748bf9edd302de65894924958c3c5
+- HLR072: 05c44ac66e5c91420b2c82769350fd93
 normative: true
 ref: ''
+reviewed: 4a94ad403ebf5db6b1567875fe7b7a3e
 text: |
   Verify lorem markdownum pallam venit agmine removete, Achilles Babylonius
   Oeten.

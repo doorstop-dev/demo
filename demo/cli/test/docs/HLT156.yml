@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.111
 links:
-- HLR029
+- HLR029: 1d5062f71b5637b24b6346586d1676f3
 normative: true
 ref: ''
+reviewed: e6325379a543905ed15bd650a6e7463d
 text: |
   Verify lorem markdownum et *partem* repetitum aures iuventae nostri eventuque
   vagantur dicere secretaque frontem isque, in vicem gratamque longo, quae.

@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.116
 links:
-- LLR005
-- LLR126
-- LLR146
+- LLR005: 261dbaa845b7791b6747c1161c3a5f05
+- LLR126: 784b83868427a01f02b080c3d849117c
+- LLR146: d67cf5bfb3b4d0a1c51f8ea7ddef9976
 normative: true
 ref: ''
+reviewed: c7bc47b6cb27b1f76c1e4890f8113538
 text: |
   Verify lorem markdownum trahit ab [hic aves](http://news.ycombinator.com/) ad
   iamque Eurydicenque urbes retinebat.

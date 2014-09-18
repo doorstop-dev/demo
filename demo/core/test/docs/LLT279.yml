@@ -2,9 +2,10 @@ active: true
 derived: false
 level: '5.370'
 links:
-- LLR020
+- LLR020: 9216adf4af6abc48d5357999e7d3c3ff
 normative: true
 ref: ''
+reviewed: 1845e3e6ca95e1dda84f493d5dc4966f
 text: |
   Verify lorem markdownum carmen; innixus agros, celebrandaque erat incunabula
   temone ingenio et poenas bipennifer, possim rescindere ferar tempora.

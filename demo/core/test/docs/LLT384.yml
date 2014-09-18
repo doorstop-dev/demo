@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.265
 links:
-- LLR101
-- LLR165
+- LLR101: 1fd809376b6947b44fef89ea0f3e0b8a
+- LLR165: e4f67093a6a3fcaec6187b4d36e3d600
 normative: true
 ref: ''
+reviewed: 53af96daadaccca36ba2bb0252a7df51
 text: |
   Verify lorem markdownum petit longa munus fausto saepe, nubibus ignes: inquit
   vero habuit arvum flava.

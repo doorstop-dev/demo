@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 9.1
 links:
-- HLR012
-- HLR023
-- HLR047
+- HLR012: cfa33cbcb685a3d18af2bd8304c76784
+- HLR023: e9bd12dbb9ef8311cb24d28291766a23
+- HLR047: f64502605f5781802a5de46f36e137d5
 normative: true
 ref: ''
+reviewed: 4abd8f79d5175668473f5ad24b601490
 text: |
   Lorem markdownum **SHALL** canis, nec ait chrysolithi verba: Diam quoque,
   sermone *taciturna* non, Belides.

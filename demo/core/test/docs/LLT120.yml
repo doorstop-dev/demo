@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.125
 links:
-- LLR067
-- LLR082
-- LLR103
-- LLR135
+- LLR067: 2ac99d34e042e4f33fe3e247eaff1b7e
+- LLR082: 79e1d687272a583e37a65f455c883988
+- LLR103: 49d38e9df072843287984207cfdad546
+- LLR135: 598ce9d3326b5d177a63ba3b679e45f7
 normative: true
 ref: ''
+reviewed: 1da18c03aa4bab5caef8e991b0833cac
 text: |
   Verify lorem markdownum *arva* dixit succincta obscuram.
   Ille **Ulixem**.

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.202
 links:
-- LLR046
-- LLR158
-- LLR165
-- LLR197
+- LLR046: 92637661b5586866c199eb233ddfe721
+- LLR158: 44daff2d3d382b683e9d6297f83d21ce
+- LLR165: e4f67093a6a3fcaec6187b4d36e3d600
+- LLR197: dbd8393f43aae21469afea1e8c58a856
 normative: true
 ref: ''
+reviewed: 7dcee629ad79f433944047f6dd58cac9
 text: |
   Verify lorem markdownum vultus sumit aliquemque lapsum et illa sumptis, est
   bene spectari, et procul manibus nec plangebat.

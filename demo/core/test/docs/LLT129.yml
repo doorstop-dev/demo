@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.126
 links:
-- LLR143
+- LLR143: 06de9a20b56b2148f372cc08d11cb614
 normative: true
 ref: ''
+reviewed: 61b34cd21203ffe0ff201cb9a967368f
 text: |
   Verify lorem markdownum: tangat subiecta Hesperium iacent pumice, Labros si
   dedere sine quietem fera est.

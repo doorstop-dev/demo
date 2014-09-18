@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.114
 links:
-- HLR100
+- HLR100: 35ea93d184f00bcc36421dd33778b9cf
 normative: true
 ref: ''
+reviewed: 03ec9c7411294fa45bd91ddf2777e510
 text: |
   Verify lorem markdownum loquor, hac vetorque amplexans neutra *sed*
   abstractus, interitura alasque humili.

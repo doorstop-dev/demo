@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.374
 links:
-- LLR099
-- LLR180
+- LLR099: 2434eb70bf27e1e0e112725f4bd6bce2
+- LLR180: af7aa57e9f327874ab8675e7ea249209
 normative: true
 ref: ''
+reviewed: 01569aeaf08fe26581c2767747cb6d99
 text: |
   Verify lorem markdownum at occursu laetor: fecit, ille fremunt canos et tibi
   inferius; terruit **inpluit**. Nubibus nactusque illa, aer iuventam patre

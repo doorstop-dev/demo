@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.76
 links:
-- HLR016
-- HLR038
-- HLR049
-- HLR052
+- HLR016: f62dcef37de26a547aa5a43e2558de94
+- HLR038: 4448f4f157157ec1b7d88bbe03489064
+- HLR049: 50e773420310cdb95a966cd9292df8b4
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
 normative: true
 ref: ''
+reviewed: 6bfd1bade54556d553fd56c832d9a9bd
 text: |
   [Verify lorem markdownum](http://html9responsiveboilerstrapjs.com/),
   exstinctum totoque, despexit spectare aestibus.

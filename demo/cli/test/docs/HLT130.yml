@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.125
 links:
-- HLR024
-- HLR053
-- HLR078
-- HLR081
+- HLR024: 53137531d57b6e976f8bef6eacfcb46e
+- HLR053: aca512755df1944bbde060425662d88e
+- HLR078: 6ea8b59559dcdbc2e8b40f656f7a74af
+- HLR081: f85cc275a9545dc4ae6cc142fa5385fb
 normative: true
 ref: ''
+reviewed: 3668a7278d070d53d38f99acb8eabdc4
 text: |
   Verify lorem markdownum gloria senectam Iasonis.
   Pennas timidusque datura figuras mente seductaque vidit spatium, gravidis ubi

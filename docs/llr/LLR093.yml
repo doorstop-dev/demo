@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 19.1
 links:
-- HLR020
+- HLR020: aae8bd09715becc5a5a95d827d615ee8
 normative: true
 ref: ''
+reviewed: 5ad365447a9af0a1abdf87ff86c43fde
 text: |
   Lorem markdownum **SHALL** inplerat tritumque, hostesque virgo tradere
   tacuit, sic tamen tantum Achilles veniam lavet Scythicae, speravit et.

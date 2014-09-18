@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 4.2
 links:
-- SYS012
-- SYS043
+- SYS012: 073cd42571e2db10563a1ecd5a51bec7
+- SYS043: 09e6edfca1b7c96fc0daf7794cc76fc8
 normative: true
 ref: ''
+reviewed: 018e0ae3d4faa7a9802c05fb761049bc
 text: |
   Lorem markdownum **SHALL** Gorgoneum, tellus et tempore solita se obambulat
   [vinces](http://www.raynelongboards.com/).

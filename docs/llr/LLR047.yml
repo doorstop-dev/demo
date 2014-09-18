@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 9.3
 links:
-- HLR004
-- HLR016
-- HLR018
-- HLR024
-- HLR044
+- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
+- HLR016: f62dcef37de26a547aa5a43e2558de94
+- HLR018: 052c75e3524720b2fa74b8546334a5f6
+- HLR024: 53137531d57b6e976f8bef6eacfcb46e
+- HLR044: 17ba7dfa59a6605406dd7b30fecc1a7f
 normative: true
 ref: ''
+reviewed: 980ebf871da838983b6471e986c507f1
 text: |
   Lorem markdownum **SHALL** senis in, vera inde canebat miracula tamen nitorem
   dextera rata Theseos?

@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 2.3
 links:
-- HLR003
-- HLR067
+- HLR003: cc852012ad2f6c8ad8503f5d8b6290ad
+- HLR067: 9d79eff61851f166e5b50b1101749942
 normative: true
 ref: ''
+reviewed: b9fceb0c507e95beeaede4aac30e40fe
 text: |
   Lorem markdownum **SHALL** trahentem vestra.
   Si quo freta sub est currus ferax, in lapsus, ut unda nec medio, Stabiasque

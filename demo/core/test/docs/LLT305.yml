@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.334
 links:
-- LLR061
-- LLR123
-- LLR156
+- LLR061: 859707ced7980416fabb5007d6dafbeb
+- LLR123: a8e74604b454b679ce1c9d6fb491ba29
+- LLR156: 2c168e16e9b45bc376b0c7ae743bcae8
 normative: true
 ref: ''
+reviewed: 559a32c9f202ad8a18f57b0c0bd82603
 text: |
   Verify lorem markdownum se demum quo ieiunia fit **necetur** et mihi, non.
   Seditioque quod: amare, medeatur movent *lapis*, quo exempla, qui!

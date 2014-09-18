@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.127
 links:
-- HLR052
-- HLR087
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
+- HLR087: 9af49b45e12f3a85eaee83259d295f4e
 normative: true
 ref: ''
+reviewed: 3fb7d874602447daf634f90fba58a9e8
 text: |
   Verify lorem markdownum parvo.
   Patera sepulcrum amantes caeruleo recuset prensamque cornua repercussae

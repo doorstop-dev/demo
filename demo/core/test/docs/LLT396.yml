@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.381
 links:
-- LLR019
-- LLR026
-- LLR129
-- LLR143
+- LLR019: ec0d341b465b4a4dadb564a4e034a8d4
+- LLR026: 3dc958b925b2551871d4ce8884703ea6
+- LLR129: a60d078a8fd769126b5e843a5edb7b6b
+- LLR143: 06de9a20b56b2148f372cc08d11cb614
 normative: true
 ref: ''
+reviewed: d00353bcb88ba436441179cb0e9e0769
 text: |
   Lorem [markdownum](http://reddit.com/r/thathappened) dolorem.
   Manu die **ieiunia est colles** gramine quoque.

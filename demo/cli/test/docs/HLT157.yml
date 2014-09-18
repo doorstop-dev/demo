@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.128
 links:
-- HLR005
-- HLR029
-- HLR041
-- HLR062
-- HLR097
+- HLR005: 782d35ca3637a2b49051cc44dc073f0a
+- HLR029: 1d5062f71b5637b24b6346586d1676f3
+- HLR041: f42aec3f2f02f0642a0302c55af31291
+- HLR062: 57e206d85145b169a59ee9e5f4bc48cf
+- HLR097: 9c167b955cc3e7cb92dcfdd46066a1d5
 normative: true
 ref: ''
+reviewed: 19734577e5cbc5ca96b2ea41e113965e
 text: |
   Verify lorem markdownum fert honores dignior?
   Hac dixit dextris cum veniam gesserunt, carcere prima in cultu.

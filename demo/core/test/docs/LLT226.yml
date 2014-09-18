@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.46
 links:
-- LLR047
-- LLR054
-- LLR119
-- LLR144
-- LLR162
+- LLR047: a8366f4e5ae14c5bea674c526ec14e26
+- LLR054: 0cd98c784f1946189eeda5baf3eac2f4
+- LLR119: a7f4eace198800df898b434f6bf6a96e
+- LLR144: 2e5c578fa29dce571ee50e2cf82891fd
+- LLR162: b6928d10c6b24e2c84a7c41a20500749
 normative: true
 ref: ''
+reviewed: 7bb4c4ca7e49cdd0bced1d9749805615
 text: |
   Verify lorem markdownum subdita.
   Quod gelida, iuvenali, non novem sit Dianae, per Timoli, dies cum et tua

@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.135
 links:
-- HLR079
+- HLR079: d0976b23bdd14a4a47002c3a40b83f45
 normative: true
 ref: ''
+reviewed: db39c3c8ea39e2b29dcb8f8503a88323
 text: |
   Verify lorem markdownum concepta sic est litora patera supersunt [fluctus
   cursum](http://haskell.org/) hunc haec!

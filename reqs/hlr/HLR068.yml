@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 7.64
 links:
-- SYS011
-- SYS014
-- SYS039
-- SYS046
-- SYS050
+- SYS011: 656d2e888ee0f8a143538aa3bf1a2409
+- SYS014: 19c97732e34a0a8dafd81e6e0f633ad9
+- SYS039: f544502e654e3ad1584bdd777c736107
+- SYS046: 08a1f0ab5dcf1da0e7f49dcac8721bfc
+- SYS050: 96a0c02f1bdfb275773a6ce7f4e1a5aa
 normative: true
 ref: ''
+reviewed: 2128f2a67c05a08b8cb3a644bfac00e8
 text: |
   Lorem markdownum **SHALL** amori tacito bibat pax, ubi praemia adhaesit.
   **Magna quidem**: sed vetus labentibus gramine; vale funera aliisque.

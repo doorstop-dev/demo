@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.138
 links:
-- LLR009
-- LLR020
-- LLR072
-- LLR114
+- LLR009: 674e56f85ee0a6f6ac5e4e109e73a3bc
+- LLR020: 9216adf4af6abc48d5357999e7d3c3ff
+- LLR072: ba740b16a66fcd359aef605f7fba1e3b
+- LLR114: 20dd357661195c42ccbeac5351fcc491
 normative: true
 ref: ''
+reviewed: c53368eaa9102a1ff8b146567482d17d
 text: |
   Verify lorem markdownum, in dabat regna enixa est cortice fratrum et penna
   progeniem quidem atque temone in Niobe [iuncti](http://stoneship.org/).

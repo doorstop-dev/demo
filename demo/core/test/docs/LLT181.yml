@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.38
 links:
-- LLR042
-- LLR080
-- LLR082
-- LLR121
+- LLR042: 7f6ca9f79344a62d69e05976ad68216b
+- LLR080: 482743e766909835fff69356a23d54a3
+- LLR082: 79e1d687272a583e37a65f455c883988
+- LLR121: c5dad8c6cadfc70e8cdff8a8c8aecb42
 normative: true
 ref: ''
+reviewed: 2f4002eb88bb34a9e6a0bf67849275de
 text: |
   Verify lorem markdownum parentum Charybdin velle monitis, per qualem iuvenes
   quid.

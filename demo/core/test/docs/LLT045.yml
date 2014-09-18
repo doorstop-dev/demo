@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.346
 links:
-- LLR116
-- LLR147
-- LLR187
+- LLR116: 7dee84fcae76f2a049c29bad5cda9a02
+- LLR147: cc692ad88deeb478f1b5889de9a3e5bf
+- LLR187: e3d7909b94107a2055956a335cb779e1
 normative: true
 ref: ''
+reviewed: a8ef7c6d66b09f30e2bef9088dcbba80
 text: |
   Verify lorem markdownum, qua est, me solitas **talia invidiamque eheu**
   dilaniant pinum Amphrysi; et.

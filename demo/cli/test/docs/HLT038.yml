@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.133
 links:
-- HLR043
-- HLR045
-- HLR054
-- HLR067
+- HLR043: b0f3b0871e39677f58ef610fbdd81555
+- HLR045: 64596d19da4080f5ff6ef0ae72feb118
+- HLR054: b823705de2edb09151e0e5dba452a176
+- HLR067: 9d79eff61851f166e5b50b1101749942
 normative: true
 ref: ''
+reviewed: 8787c57b181a2214a8e72b48f8789e27
 text: |
   Verify lorem markdownum, quo vota et Coeranon maior super *arcum* uvis nos
   sic quod ter [lapsus dextra](http://www.thesecretofinvisibility.com/).

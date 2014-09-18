@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.14
 links:
-- LLR070
-- LLR108
-- LLR109
+- LLR070: e22cd6294e60376ee4036bfa3c0446ca
+- LLR108: c1a114feff4259080452e9fd12866bf4
+- LLR109: 1cef49a5b9cffec7552b4d2ddb016d2b
 normative: true
 ref: ''
+reviewed: e8a4471aac7eded3520280ec89157e76
 text: |
   Verify lorem markdownum caelum latet alto ait Poemenis iussit servatoque
   epulanda, me repetita cortice, caedis me quam!

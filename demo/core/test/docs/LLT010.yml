@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 2.2
 links:
-- LLR038
-- LLR145
+- LLR038: a10a0544be8ecc872b568a207600fcca
+- LLR145: 124d6bdce14f146896308d25cbd52fb3
 normative: true
 ref: ''
+reviewed: ab88b6f1e95703381f10ab960d7525e2
 text: |
   Verify lorem markdownum inmitibus uno, Iovi mandata dicta illi viseret
   caecae: pectora nunc est.

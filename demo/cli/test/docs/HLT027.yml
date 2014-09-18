@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 6.8
 links:
-- HLR039
-- HLR100
+- HLR039: b7e189054d4fa57138c4bfebb3344bc2
+- HLR100: 35ea93d184f00bcc36421dd33778b9cf
 normative: true
 ref: ''
+reviewed: 666e321a926cedb7db70ea103a3f16e5
 text: |
   Verify lorem markdownum lugebitis es opta.
   Suam tristi: dat, circa: voluere virtutis precor laetabile geminis florem

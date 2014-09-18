@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.91
 links:
-- HLR012
-- HLR014
-- HLR055
-- HLR062
-- HLR093
+- HLR012: cfa33cbcb685a3d18af2bd8304c76784
+- HLR014: 9f92692d382bfcf647ac097d27369c0a
+- HLR055: 1984551a3ed8ff9a4827af2afc7467a9
+- HLR062: 57e206d85145b169a59ee9e5f4bc48cf
+- HLR093: 8c277eeda417521852a9051e6a58907d
 normative: true
 ref: ''
+reviewed: 449b6d319cdcb3cd3b447d815ad140b1
 text: |
   Verify lorem markdownum fuit: manu acu petis, me deus mutat, portantes, nec
   quare flavescere.

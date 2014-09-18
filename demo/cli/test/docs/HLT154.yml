@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.78
 links:
-- HLR006
-- HLR046
-- HLR059
-- HLR061
+- HLR006: f2f526a9dbb2135b4611ec40e9911260
+- HLR046: 816db4153bde67375509bac7fd4c998a
+- HLR059: 78b7ca6f523c75544862bbfa58942b37
+- HLR061: 21d47aa8307e87377b55817212beae08
 normative: true
 ref: ''
+reviewed: 4f7bc4e9d0aa4e1e019b3e2327476a2f
 text: |
   Verify lorem markdownum lunae Arcas arcum nomine reos quaeque, nec precibus
   nunc siquem concipientibus.

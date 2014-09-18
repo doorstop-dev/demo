@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.98
 links:
-- LLR171
+- LLR171: 3a84775fe1db5e9baf4213faeecff9b8
 normative: true
 ref: ''
+reviewed: bf778fa555a35c801408401899088cd0
 text: |
   Verify lorem markdownum animam flendo [longoque](http://stoneship.org/)
   mugitus!

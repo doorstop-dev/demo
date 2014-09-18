@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 7.4
 links:
-- HLR056
-- HLR087
+- HLR056: 3d664384d81be055e722570cbd7c225f
+- HLR087: 9af49b45e12f3a85eaee83259d295f4e
 normative: true
 ref: ''
+reviewed: c43c9ad5d4c93499b09af626b36a9736
 text: |
   Verify lorem markdownum natura, ferrum.
   Cumque inter, etiam miserrimus, aera dixit mihi procubuit.

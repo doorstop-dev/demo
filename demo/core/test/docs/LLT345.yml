@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.147
 links:
-- LLR036
-- LLR151
-- LLR163
+- LLR036: 25962829aec75e19ba7b127da88d32a0
+- LLR151: 846a336710691e1123eb36f71f721cda
+- LLR163: fcd4232addae4dcc40c922b89619799d
 normative: true
 ref: ''
+reviewed: 61db4c6ad7af1ccaeed416879bb99404
 text: |
   *Lorem* markdownum successibus [parvo idemque](http://gifctrl.com/), dea
   annis morte Saturnia.

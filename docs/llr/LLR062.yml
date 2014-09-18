@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 12.5
 links:
-- HLR016
-- HLR060
-- HLR065
-- HLR097
+- HLR016: f62dcef37de26a547aa5a43e2558de94
+- HLR060: 85f748bf9edd302de65894924958c3c5
+- HLR065: 3a53d19c665b6d1086f8a976b4dd7e31
+- HLR097: 9c167b955cc3e7cb92dcfdd46066a1d5
 normative: true
 ref: ''
+reviewed: 8c3aa15430825453cdb9fb729553fba2
 text: |
   Lorem markdownum **SHALL** freta moenia imbres tactas iunctorum invita
   puellis tegumenque pro, orbum.

@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.204
 links:
-- LLR054
+- LLR054: 0cd98c784f1946189eeda5baf3eac2f4
 normative: true
 ref: ''
+reviewed: db41d6d60075d8bc177e353a33445593
 text: |
   Verify lorem markdownum potentia Scyllae litora ad violentique numquam pectus
   arbor et freta sic adfata, iactura, mihi in!

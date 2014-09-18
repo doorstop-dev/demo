@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.311
 links:
-- LLR025
-- LLR167
+- LLR025: 4e10453ab9200200dfc3c251c05d88ca
+- LLR167: de4a65a0cfeffc3059485ca836c2500a
 normative: true
 ref: ''
+reviewed: bd2822ffdfabb0ab5ab6ad768c2c52a2
 text: |
   Verify lorem markdownum tostae, geminat pampineae.
   Expositum silices in glaebis inpar arcitenens dissuaserat illius ut sit

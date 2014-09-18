@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 23.36
 links:
-- HLR009
-- HLR041
-- HLR052
-- HLR077
-- HLR096
+- HLR009: 6da8ed61c313b1482bdb6da89d007eac
+- HLR041: f42aec3f2f02f0642a0302c55af31291
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
+- HLR077: f3065f2ef4069554db40e890309903dc
+- HLR096: 106add8d49e2341dc81214cee7519924
 normative: true
 ref: ''
+reviewed: 26c1baf4271645f28ec20f0556b16a5a
 text: |
   Lorem markdownum **SHALL** stimulos umbras, qui sinit inscribit delusum
   ululavit in operisque nostrae tenetque animos incerti, prosecta; in.

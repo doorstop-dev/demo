@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.24
 links:
-- HLR013
+- HLR013: a08f2929dcca39e42a0270e8f7db581b
 normative: true
 ref: ''
+reviewed: 85e61fa0ff5f7f6a7173a5d293c0b9ca
 text: |
   Verify lorem markdownum cursus ad agi locus caede: sume lecte Dianae: nec.
   Superi missus rictus.

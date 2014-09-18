@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.54
 links:
-- HLR006
-- HLR021
+- HLR006: f2f526a9dbb2135b4611ec40e9911260
+- HLR021: 4ccc4b832e9beef7a9d7b67b022227e4
 normative: true
 ref: ''
+reviewed: ad6efb76ff183442dc4e6e7a017406a8
 text: |
   Verify lorem markdownum decutit **quoque cornu forma** Danaam terribilis
   Achaide trahit.

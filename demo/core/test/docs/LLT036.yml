@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.345
 links:
-- LLR051
-- LLR052
+- LLR051: 16174cc8aadebc78fc59e9e3fb5c7c20
+- LLR052: e081bab96105b39d5150231936d49c80
 normative: true
 ref: ''
+reviewed: 13a8f8b003c732f1fa6d005a578516b7
 text: |
   Verify lorem markdownum piget ait gravi fratri: ubi corpore quid amor.
   Receptus lacus dumque nec inter loquendo visa lacusque tecum et longumque.

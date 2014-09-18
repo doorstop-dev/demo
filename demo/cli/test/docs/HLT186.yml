@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.165
 links:
-- HLR036
-- HLR042
-- HLR044
+- HLR036: b85c4146e31bab43dac352c217430641
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR044: 17ba7dfa59a6605406dd7b30fecc1a7f
 normative: true
 ref: ''
+reviewed: 9c03b1c496875ffd4f677b71fc9564b4
 text: |
   **Verify lorem markdownum** dignior *dubitati et de* loquenti extremas et
   oblivia regia *Spartana* virginis ipsumque poeniceam caeli, victam.

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 18.4
 links:
-- HLR004
-- HLR009
-- HLR011
-- HLR053
-- HLR064
+- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
+- HLR009: 6da8ed61c313b1482bdb6da89d007eac
+- HLR011: fb47d13ca2bcd7c22beff68af53ef365
+- HLR053: aca512755df1944bbde060425662d88e
+- HLR064: 738b10155b97a5775f28bab75eb8c067
 normative: true
 ref: ''
+reviewed: d13717796e005114524c56276bc0236a
 text: |
   Lorem markdownum **SHALL** ocius, silentibus perstant parte et cedemus
   gentibus induitur, sed ite utilitas.

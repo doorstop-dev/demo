@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.52
 links:
-- LLR050
-- LLR158
+- LLR050: bfb3a23e87baa84cf112006321c9d67f
+- LLR158: 44daff2d3d382b683e9d6297f83d21ce
 normative: true
 ref: ''
+reviewed: b87600675931325ff60e9acd40b7c8d5
 text: |
   Verify lorem markdownum cava Caystros; Annus saepe, ora rege.
   Retenta Lampetide altera sublimia conorque aede Crocale prohibete pia

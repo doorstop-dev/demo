@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 4.4
 links:
-- HLR010
-- HLR075
-- HLR088
+- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
+- HLR075: 024621d141e0d33a01100d381bf459b2
+- HLR088: c9bece27e8e832e9e39e6931ce494a30
 normative: true
 ref: ''
+reviewed: e9afe4dea0fcc71ae3dc25c4dba79055
 text: |
   Verify lorem markdownum canes: inquit, per nil: iam pater cura Phegiaco
   intrarit dissuadere manu: primi.

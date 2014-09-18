@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.33
 links:
-- LLR007
+- LLR007: 4411072d4714615d639f6affc0711806
 normative: true
 ref: ''
+reviewed: a995854d3525c5d72d5e11d7111a81b0
 text: |
   Verify lorem markdownum flenti aequalis paterque, celeberrima omnibus.
   Anni *verbis ab* arbor, corporis **ex verso et** Ligdum crediderim, sub!

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 7.66
 links:
-- SYS030
-- SYS038
-- SYS041
-- SYS049
+- SYS030: 14925ccf4cc562fc37dfe1f227670277
+- SYS038: 5ea4bbd075c62c08d752df5ec44187e5
+- SYS041: ebfbfdde8ec147cc80c10c54df11ba87
+- SYS049: 0b39b82d5a4707ecbbf1ca31c8702083
 normative: true
 ref: ''
+reviewed: 6668abb53e62d276eb7d09c0965ecb80
 text: |
   Lorem markdownum **SHALL** sustulit, forma prius manus septem et imagine
   magna sed spargit Argis, pendet Talia.

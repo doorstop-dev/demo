@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 4.3
 links:
-- HLR005
-- HLR010
+- HLR005: 782d35ca3637a2b49051cc44dc073f0a
+- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
 normative: true
 ref: ''
+reviewed: a578e9fdd451c0a3aa3d4cd87b729461
 text: |
   Lorem markdownum **SHALL** in aera, foedari?
   Ruit *subolemque dira*: ora aliquis in dedit.

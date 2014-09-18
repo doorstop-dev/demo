@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.4
 links:
-- HLR028
-- HLR069
-- HLR096
+- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
+- HLR069: 83550644e3a1d495e4b9ecf35c435981
+- HLR096: 106add8d49e2341dc81214cee7519924
 normative: true
 ref: ''
+reviewed: fe6e2032f6834f5b4307247106048433
 text: |
   Verify lorem markdownum quamvis litem si diversa veniat orba sua, cum Iapeto
   paternis infectis mentae, rurisque polenta.

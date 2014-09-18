@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.13
 links:
-- HLR010
-- HLR021
-- HLR042
-- HLR050
-- HLR074
+- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
+- HLR021: 4ccc4b832e9beef7a9d7b67b022227e4
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR050: d965c6342dd432f6da29a07eab9ddc00
+- HLR074: 38c65f74794de9a94a7cfcf4c311f80b
 normative: true
 ref: ''
+reviewed: 33dfcdc1a4c62935c8bc3649ba701728
 text: |
   Lorem *markdownum* finem facies facit per [ora
   iterumque](http://news.ycombinator.com/) est ubi nostro mugitus corpus.

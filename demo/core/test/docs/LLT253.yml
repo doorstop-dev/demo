@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.53
 links:
-- LLR036
-- LLR197
+- LLR036: 25962829aec75e19ba7b127da88d32a0
+- LLR197: dbd8393f43aae21469afea1e8c58a856
 normative: true
 ref: ''
+reviewed: b97eba5f5968d5552ceb31e76db00fdc
 text: |
   Verify lorem markdownum mundus.
   Ultima Euryte qualem.

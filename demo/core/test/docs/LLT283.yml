@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.179
 links:
-- LLR054
-- LLR067
-- LLR081
-- LLR116
-- LLR152
+- LLR054: 0cd98c784f1946189eeda5baf3eac2f4
+- LLR067: 2ac99d34e042e4f33fe3e247eaff1b7e
+- LLR081: a6e6601cdc9e9515b9963bebefd3b7bd
+- LLR116: 7dee84fcae76f2a049c29bad5cda9a02
+- LLR152: 0f11739763e40f3e340ff4b3be842cda
 normative: true
 ref: ''
+reviewed: 73421e66edef8b3d7bc2da7fb2faed39
 text: |
   Verify lorem markdownum oculis, quod signat, totidem iam agros trepidum et
   torsi non, sic?

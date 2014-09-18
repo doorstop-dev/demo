@@ -2,12 +2,13 @@ active: true
 derived: false
 level: '5.110'
 links:
-- LLR015
-- LLR111
-- LLR152
-- LLR173
+- LLR015: 511daeb80400c3657cb4a79b719f702b
+- LLR111: 695a964ff264415f100ccaab614213a4
+- LLR152: 0f11739763e40f3e340ff4b3be842cda
+- LLR173: d71c5408387149097d82bb5865a863d8
 normative: true
 ref: ''
+reviewed: 9ea0272e9b76c3f57f49e881b46ab983
 text: |
   Verify lorem markdownum feriuntque laudatos super deus meae satyros.
   Metam in Paesti illum armorum ore placere inmensi, Thaumantidos tamen; deos

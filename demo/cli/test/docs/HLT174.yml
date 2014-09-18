@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.113
 links:
-- HLR021
-- HLR064
-- HLR096
+- HLR021: 4ccc4b832e9beef7a9d7b67b022227e4
+- HLR064: 738b10155b97a5775f28bab75eb8c067
+- HLR096: 106add8d49e2341dc81214cee7519924
 normative: true
 ref: ''
+reviewed: f7fcf832354c265099aa5b0225100000
 text: |
   Verify lorem markdownum fataliter [vulneris](http://zeus.ugent.be/) facta
   coniunx medii et vix patriumque flammam **talibus prohibent** raptam, quo

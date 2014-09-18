@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.85
 links:
-- LLR031
-- LLR052
-- LLR152
-- LLR173
-- LLR195
+- LLR031: 59170c7a14b3c2f1551ca63ef47bb4f4
+- LLR052: e081bab96105b39d5150231936d49c80
+- LLR152: 0f11739763e40f3e340ff4b3be842cda
+- LLR173: d71c5408387149097d82bb5865a863d8
+- LLR195: 06d28a52996a572fd292f5a13241ef8e
 normative: true
 ref: ''
+reviewed: 76a4a0621bcbb4886e1941567be3ce2f
 text: |
   Verify lorem markdownum planxerunt exsistunt namque coniugis Victoria orbem,
   cum herbas lapsa aut est sequerere adhuc, mea pati?

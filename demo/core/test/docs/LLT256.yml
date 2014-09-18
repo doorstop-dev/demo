@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.176
 links:
-- LLR046
-- LLR145
-- LLR160
-- LLR191
-- LLR199
+- LLR046: 92637661b5586866c199eb233ddfe721
+- LLR145: 124d6bdce14f146896308d25cbd52fb3
+- LLR160: f517facbd8725c3a5815ad9539659e78
+- LLR191: 3609e58c2c304fc35bfbe74e6b6e08d5
+- LLR199: 87aea8dfa91753f3ab0f70418abcdea5
 normative: true
 ref: ''
+reviewed: e601e990ff5de813ab532d5772097f24
 text: |
   Verify lorem markdownum vigilans ac [vires](http://www.billmays.net/), via
   efficiet parvo, quid simul et potitur diffudere quoque, deae.

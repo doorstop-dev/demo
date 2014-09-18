@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.32
 links:
-- HLR059
+- HLR059: 78b7ca6f523c75544862bbfa58942b37
 normative: true
 ref: ''
+reviewed: f44c93a1564bff7daf545e56f80412df
 text: |
   Verify lorem markdownum.
   Dryantis carcere aequatam, ignarus locorum inclusaque alii: accessit

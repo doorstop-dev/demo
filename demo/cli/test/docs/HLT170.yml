@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.47
 links:
-- HLR014
-- HLR037
+- HLR014: 9f92692d382bfcf647ac097d27369c0a
+- HLR037: 5594301e2db2b6d85bbb940a4010a550
 normative: true
 ref: ''
+reviewed: 526e5fa3d064c5f8bb5fc486bee8d1ab
 text: |
   Lorem [markdownum poena praetemptat](http://www.wedrinkwater.com/) neque
   dominumque rapui vocant fierent, dixit te vero ferox questus, spatio fallit

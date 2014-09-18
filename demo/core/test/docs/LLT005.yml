@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 1.4
 links:
-- LLR052
-- LLR076
-- LLR153
+- LLR052: e081bab96105b39d5150231936d49c80
+- LLR076: 0bbcf61d30aa067824559346ae25d650
+- LLR153: 9975d2b0e7a843f90720b0accd67cd46
 normative: true
 ref: ''
+reviewed: e615615eb5eb6b44d2395d6fb91ed0a4
 text: |
   [Verify lorem markdownum](http://twitter.com/search?q=haskell) contigit in
   Calydonides *tulit comitemque*, plangoris epulas oscula iaculum.

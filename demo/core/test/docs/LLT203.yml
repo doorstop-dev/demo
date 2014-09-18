@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.39
 links:
-- LLR009
-- LLR076
-- LLR087
-- LLR181
-- LLR193
+- LLR009: 674e56f85ee0a6f6ac5e4e109e73a3bc
+- LLR076: 0bbcf61d30aa067824559346ae25d650
+- LLR087: 202f04e3283bc4506eb2b88ecde7c38c
+- LLR181: e613d7310ec84c7e1f1bd0e63f8ad9a6
+- LLR193: 4fef0018e0b9ff8b050310b680af4f5b
 normative: true
 ref: ''
+reviewed: 98da92fb256edbcab38721b5bc939383
 text: |
   Verify lorem markdownum vacca.
   Dicione ait nymphae agros incunabula pectora me ecquid, propior non pectore

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.101
 links:
-- HLR003
-- HLR018
-- HLR023
-- HLR025
+- HLR003: cc852012ad2f6c8ad8503f5d8b6290ad
+- HLR018: 052c75e3524720b2fa74b8546334a5f6
+- HLR023: e9bd12dbb9ef8311cb24d28291766a23
+- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
 normative: true
 ref: ''
+reviewed: 03eaacdc8d050d1378d85e11b9431eb3
 text: |
   Verify lorem markdownum refero conterminus autumni tales molire, saxo *est*,
   cupiens est vidisse anno guttura Aurora.

@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 7.46
 links:
-- SYS022
-- SYS050
+- SYS022: f76f8b065ac3a3f606b8af6936c8f2c3
+- SYS050: 96a0c02f1bdfb275773a6ce7f4e1a5aa
 normative: true
 ref: ''
+reviewed: 3b4bf9ac22329069594dc3358005c2b7
 text: |
   Lorem markdownum **SHALL** roganti duri parili.
   Esse adhuc, atque contemptaque frater perspicuas, nuntiat vestras quidque,

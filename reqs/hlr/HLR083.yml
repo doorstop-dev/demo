@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 7.44
 links:
-- SYS003
-- SYS031
-- SYS046
-- SYS047
+- SYS003: 9c725636f8e3ec5bfccbac93d58817de
+- SYS031: 02110a2f5e4021cd6d9108ed20bfaf80
+- SYS046: 08a1f0ab5dcf1da0e7f49dcac8721bfc
+- SYS047: 4abb481caeaf5d092ad9483e46e4c162
 normative: true
 ref: ''
+reviewed: 94a66f3fe47d8936b9e578101efea1ae
 text: |
   Lorem markdownum **SHALL** parabant nostri complexa lapillos in illis
   colorque: nefanda.

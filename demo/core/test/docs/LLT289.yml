@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.59
 links:
-- LLR011
-- LLR165
+- LLR011: 8e3f74964883fbffaf5595ce5c966a57
+- LLR165: e4f67093a6a3fcaec6187b4d36e3d600
 normative: true
 ref: ''
+reviewed: 825a3176ff89e52031f4d5843ab58759
 text: |
   Verify lorem markdownum adhuc veniente, fuit coeunt, ergo ducumque *adest*;
   cui.

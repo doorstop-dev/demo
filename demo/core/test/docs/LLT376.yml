@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.302
 links:
-- LLR041
-- LLR052
-- LLR067
-- LLR093
-- LLR126
+- LLR041: b737d4f290d904222a9c2f33f1831a10
+- LLR052: e081bab96105b39d5150231936d49c80
+- LLR067: 2ac99d34e042e4f33fe3e247eaff1b7e
+- LLR093: 80ed4575b30ded58c20cad5011feac3c
+- LLR126: 784b83868427a01f02b080c3d849117c
 normative: true
 ref: ''
+reviewed: e506aa81e5cef96b6d80183a2165187c
 text: |
   Verify lorem markdownum quam vigor caesa serpentem cernimus inquit, agitantia
   simul Marmaridae quam, vultum procumbere corpora scilicet intrat

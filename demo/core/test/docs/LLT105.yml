@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.237
 links:
-- LLR049
+- LLR049: 1f7edd4a0e4d35d13ae112e9eecc39ce
 normative: true
 ref: ''
+reviewed: 51bf25324d06494337cd28c8714609c9
 text: |
   Verify lorem markdownum **aras**, circumdata tamen parentis quaque, ibi at
   auctor iamque dedit.

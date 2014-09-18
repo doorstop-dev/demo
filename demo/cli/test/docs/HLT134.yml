@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.7
 links:
-- HLR002
-- HLR011
-- HLR016
+- HLR002: f14b4e9918e03ec7d500120798e3378f
+- HLR011: fb47d13ca2bcd7c22beff68af53ef365
+- HLR016: f62dcef37de26a547aa5a43e2558de94
 normative: true
 ref: ''
+reviewed: 316653bde815d6b89a5eb55f9d566aeb
 text: |
   Verify lorem markdownum edax gurgite.
   Unum per adhaesit geminat sua odore quoque, pars, vos terra. *Suum* modo

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.109
 links:
-- HLR023
-- HLR024
-- HLR046
-- HLR083
+- HLR023: e9bd12dbb9ef8311cb24d28291766a23
+- HLR024: 53137531d57b6e976f8bef6eacfcb46e
+- HLR046: 816db4153bde67375509bac7fd4c998a
+- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
 normative: true
 ref: ''
+reviewed: 3a37ebb2649de39fc343bc528a014038
 text: |
   Verify lorem markdownum Epidauria herbae, erat domo multo Saturnus spem sede
   in genitor pendebat sic non in Arethusa fulmina.

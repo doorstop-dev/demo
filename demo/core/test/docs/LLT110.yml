@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.86
 links:
-- LLR012
-- LLR037
-- LLR101
+- LLR012: 6c5080acd9ba1dc555412956a3093ce2
+- LLR037: c9c3f63de803a8a1a2306defd87835fb
+- LLR101: 1fd809376b6947b44fef89ea0f3e0b8a
 normative: true
 ref: ''
+reviewed: 17069ed1ef05aedbd41dc7a9d4b636f7
 text: |
   Verify lorem markdownum Laelapa commisisse litora phaethon conata et pauca
   *et* occuluit suspenderat quid spiramenta, virgam nulla cessere ex.

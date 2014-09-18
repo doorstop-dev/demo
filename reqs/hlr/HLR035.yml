@@ -2,10 +2,11 @@ active: true
 derived: false
 level: '7.40'
 links:
-- SYS011
-- SYS040
+- SYS011: 656d2e888ee0f8a143538aa3bf1a2409
+- SYS040: 502a32c36bd50ff1c5e4089c3dcd91f1
 normative: true
 ref: ''
+reviewed: 91606d6f3db2458087c97b12b60bf075
 text: |
   Lorem markdownum **SHALL** aequore *descendit* erectos, lumina canum aliquid
   terra Procne, licet vates?

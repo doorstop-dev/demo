@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.367
 links:
-- LLR099
-- LLR102
-- LLR106
+- LLR099: 2434eb70bf27e1e0e112725f4bd6bce2
+- LLR102: 836dd3bdc538192d71fca514ccc5c83a
+- LLR106: 94ec80204ad02a8a52eb8fef583e93d4
 normative: true
 ref: ''
+reviewed: c4e62d99665a39ba18ae5f68c5734cc5
 text: |
   Lorem [markdownum laniare totaque](http://jaspervdj.be/), cum capillos
   melior.

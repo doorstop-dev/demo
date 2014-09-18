@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 14.1
 links:
-- HLR005
-- HLR062
-- HLR066
-- HLR092
+- HLR005: 782d35ca3637a2b49051cc44dc073f0a
+- HLR062: 57e206d85145b169a59ee9e5f4bc48cf
+- HLR066: 28e63ccca90b062ccfdc3c168cc3369b
+- HLR092: 1b72db6fd71c8ee1e44ee71a5c409173
 normative: true
 ref: ''
+reviewed: f815cfdaddefc71e90839d7e3685aa03
 text: |
   Lorem markdownum **SHALL** cinis luctantia et iugulum pro sic aeno: abest
   cura scitatur et oborto et mare.

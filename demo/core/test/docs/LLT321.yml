@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.259
 links:
-- LLR023
+- LLR023: b820cc292abd0e61ba438ac5a61d2913
 normative: true
 ref: ''
+reviewed: 9c7247bb2b9f35cebb205acfdef0ea3d
 text: |
   Verify lorem markdownum et soporem claro magis grani fletumque nec posuitque
   collabitur manus ibimus lugebat non; cum et cognovit vices.

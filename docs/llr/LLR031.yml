@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 6.4
 links:
-- HLR003
-- HLR008
-- HLR020
-- HLR025
-- HLR053
+- HLR003: cc852012ad2f6c8ad8503f5d8b6290ad
+- HLR008: 49a200ec0c1beeda9d14085a836a2b61
+- HLR020: aae8bd09715becc5a5a95d827d615ee8
+- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
+- HLR053: aca512755df1944bbde060425662d88e
 normative: true
 ref: ''
+reviewed: 3a704321eec9b4fd1e1e6f8ed84678d0
 text: |
   Lorem markdownum **SHALL** mira; duobus mille, facinus istis Helicen costis
   isdem.

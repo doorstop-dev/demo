@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.73
 links:
-- HLR022
-- HLR094
+- HLR022: d6337ec7821ed2c4a92c96fe40d7db8f
+- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
 normative: true
 ref: ''
+reviewed: c8005d07f6f5db70121013debf2192f3
 text: |
   Verify lorem markdownum insons.
   Sensit hiatu mihi est.

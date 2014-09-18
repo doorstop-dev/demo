@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 11.2
 links:
-- HLR018
-- HLR069
-- HLR084
-- HLR088
+- HLR018: 052c75e3524720b2fa74b8546334a5f6
+- HLR069: 83550644e3a1d495e4b9ecf35c435981
+- HLR084: cd3a142af5aa32c38ba5338b919257fb
+- HLR088: c9bece27e8e832e9e39e6931ce494a30
 normative: true
 ref: ''
+reviewed: bba5765cadbd91910ff7e5cd6be82b0b
 text: |
   Lorem markdownum **SHALL** modo mea concussit componit: rex
   [caros](http://jaspervdj.be/) virtute: certum in lumina rediit visus carmina

@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.43
 links:
-- LLR003
+- LLR003: b554df6c2b0506c78205a619338ecbe5
 normative: true
 ref: ''
+reviewed: 75d4d5d8d1b828bbf384e362dedd64ab
 text: |
   Verify lorem markdownum ille me instare.
   Soli quaesistis agros concursibus hasta et fatiferum crimenque quot.

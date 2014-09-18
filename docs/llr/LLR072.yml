@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 15.1
 links:
-- HLR017
-- HLR037
-- HLR040
+- HLR017: 7c34babb079cf13f34cc6379f6d62f8e
+- HLR037: 5594301e2db2b6d85bbb940a4010a550
+- HLR040: 6deccb32d8c2be5a7b69b0447c3f78ab
 normative: true
 ref: ''
+reviewed: 01d518efb1075bc0c6361c1f69e5c498
 text: |
   Lorem markdownum **SHALL** qualis in deiecerat aera.
   Nec filis pariter: oblita verumque fornace diu pondere deus dumque, ambrosiae

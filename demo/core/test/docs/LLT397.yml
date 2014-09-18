@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.77
 links:
-- LLR052
-- LLR056
+- LLR052: e081bab96105b39d5150231936d49c80
+- LLR056: 0af9260eba8bf9aec12fcdaf3f1a0057
 normative: true
 ref: ''
+reviewed: 23cd047eeea1b4b61883af3f560b6cd9
 text: |
   Verify lorem markdownum lumina.
   Tantaeque quoque piae Viderat consanguineas; et Amyclis agmen *flores vellet*

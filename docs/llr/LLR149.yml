@@ -2,13 +2,14 @@ active: true
 derived: false
 level: '23.10'
 links:
-- HLR012
-- HLR045
-- HLR047
-- HLR050
-- HLR086
+- HLR012: cfa33cbcb685a3d18af2bd8304c76784
+- HLR045: 64596d19da4080f5ff6ef0ae72feb118
+- HLR047: f64502605f5781802a5de46f36e137d5
+- HLR050: d965c6342dd432f6da29a07eab9ddc00
+- HLR086: 8ffc8c6aaccf0712b20ca54488b704c7
 normative: true
 ref: ''
+reviewed: d0042587fe4115eda1412043a29efec4
 text: |
   Lorem markdownum **SHALL** inque properant [diripuit](http://tumblr.com/)
   qui, **saxoque quin**, pharetramque tamen nupta secutus!

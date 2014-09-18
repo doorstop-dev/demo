@@ -2,11 +2,12 @@ active: true
 derived: false
 level: '5.70'
 links:
-- LLR106
-- LLR110
-- LLR189
+- LLR106: 94ec80204ad02a8a52eb8fef583e93d4
+- LLR110: d4f92b7addd2c1211ae448dda0778a71
+- LLR189: 61ca6ec606b991c45f35192812c87174
 normative: true
 ref: ''
+reviewed: 42c9f5c92f4e9c46f126d48105f37840
 text: |
   Verify lorem markdownum exhausta rupes canibus, metuenda clamore Ceycis
   creatus vada illic.

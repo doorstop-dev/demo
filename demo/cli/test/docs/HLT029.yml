@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 7.1
 links:
-- HLR008
-- HLR065
+- HLR008: 49a200ec0c1beeda9d14085a836a2b61
+- HLR065: 3a53d19c665b6d1086f8a976b4dd7e31
 normative: true
 ref: ''
+reviewed: cabe51fcf5f7ffcad3786d5340a15be4
 text: |
   *Verify lorem markdownum* opta terga.
   Sua maris esse Atrides, distantia terna.

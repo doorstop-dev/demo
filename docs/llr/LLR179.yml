@@ -2,10 +2,11 @@ active: true
 derived: false
 level: '23.40'
 links:
-- HLR057
-- HLR063
+- HLR057: 108e6d69b95a3929d748aafdd89297e7
+- HLR063: b1b6217c7cf6d7be814389b1bdadedc2
 normative: true
 ref: ''
+reviewed: b879998f1920febfb0488c09a8ba4e35
 text: |
   Lorem markdownum **SHALL** adfixa venenis et quartus sceleratae renovata
   falsa; sed metu.

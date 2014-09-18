@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 10.1
 links:
-- HLR041
-- HLR068
-- HLR074
-- HLR095
+- HLR041: f42aec3f2f02f0642a0302c55af31291
+- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
+- HLR074: 38c65f74794de9a94a7cfcf4c311f80b
+- HLR095: 5c1e4086f2b6913304bca55a2ae3c065
 normative: true
 ref: ''
+reviewed: 44c4dc7765697a8345021411c7688d14
 text: |
   Lorem markdownum **SHALL** petebatur nullaque sciret et, enim haec
   ingratasque sanguine poenae, humo festis **metuit**. Certamine flumine loqui

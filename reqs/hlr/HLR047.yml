@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 7.41
 links:
-- SYS014
-- SYS021
-- SYS028
-- SYS048
+- SYS014: 19c97732e34a0a8dafd81e6e0f633ad9
+- SYS021: 10ad364c486d5bf3ddc31378c09cac9e
+- SYS028: 5530ac30d996ebc2841d663698f0756a
+- SYS048: 6fb42a60e7eb81523ba63197cccb014c
 normative: true
 ref: ''
+reviewed: ac7ecaebd316e73874b18e0dc2afee88
 text: |
   Lorem markdownum **SHALL** [linguae](http://www.raynelongboards.com/).
   Inpediunt misit libertas [litoreo](http://haskell.org/) patria intrat, et

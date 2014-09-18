@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.283
 links:
-- LLR049
-- LLR074
-- LLR161
-- LLR194
+- LLR049: 1f7edd4a0e4d35d13ae112e9eecc39ce
+- LLR074: 56e69a375bcfccf5d22d5f3623f3e5f3
+- LLR161: bfb18b97608092f947638a7496a5981d
+- LLR194: 9edda2068ef3c40b6dbbf82357766ec1
 normative: true
 ref: ''
+reviewed: b6e500d37f7622d9e3356bbab595f25f
 text: |
   Verify lorem markdownum temptata [ales](http://www.billmays.net/) cum
   adspicit segeti pronusque moenia et Herculeamque scelus et.

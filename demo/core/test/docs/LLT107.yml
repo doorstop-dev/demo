@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.314
 links:
-- LLR064
-- LLR126
+- LLR064: d530ba92beaa7a27879f36994c6764bb
+- LLR126: 784b83868427a01f02b080c3d849117c
 normative: true
 ref: ''
+reviewed: dd92162027a8d4f7a1d754f985e93e60
 text: |
   Verify lorem markdownum ferat, fonti illi tactis, primum patrem!
   Vos suo: Haemonio adhuc, **volat** dilata, vos sponte, ferae potest solet

@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 23.57
 links:
-- HLR023
+- HLR023: e9bd12dbb9ef8311cb24d28291766a23
 normative: true
 ref: ''
+reviewed: 7032c1513c58e14a1ec9b89b82a6aaa1
 text: |
   Lorem markdownum **SHALL** et magni lutulenta cornua et caudaque monstris
   matris: quem.

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.144
 links:
-- LLR014
-- LLR062
-- LLR116
-- LLR137
-- LLR167
+- LLR014: d595c1e73db339117a82cd6206a71a34
+- LLR062: a9d09e38c5aa7250c9c48dc22aacbe35
+- LLR116: 7dee84fcae76f2a049c29bad5cda9a02
+- LLR137: 0ab74dc529c959fc6f20f93b274a579b
+- LLR167: de4a65a0cfeffc3059485ca836c2500a
 normative: true
 ref: ''
+reviewed: 4320f4a0c52741261466811c638b4804
 text: |
   Verify lorem markdownum fugit.
   Aris pennis inplent, parente candore dicere tecto imis plagas huic stratis

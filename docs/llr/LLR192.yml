@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 23.78
 links:
-- HLR004
-- HLR049
-- HLR050
-- HLR093
+- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
+- HLR049: 50e773420310cdb95a966cd9292df8b4
+- HLR050: d965c6342dd432f6da29a07eab9ddc00
+- HLR093: 8c277eeda417521852a9051e6a58907d
 normative: true
 ref: ''
+reviewed: 61e97c698c8b1fd008ea3e9731d3b968
 text: |
   Lorem markdownum **SHALL** volui femineo, si postquam comitesque et [tam
   labori](http://www.wedrinkwater.com/).

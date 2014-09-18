@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.356
 links:
-- LLR051
-- LLR179
-- LLR188
+- LLR051: 16174cc8aadebc78fc59e9e3fb5c7c20
+- LLR179: b3c4a24e62bff92ffd9cc3488f7bb1b1
+- LLR188: 5d39b205d1b9f469cbd3d65beebaeab2
 normative: true
 ref: ''
+reviewed: ed68c2b103c44ba648af894474495755
 text: |
   Verify lorem markdownum is lustrat rectior capillos *retices*, vos,
   *matutinaeque*, Cythereius suum.

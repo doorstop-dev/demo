@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.116
 links:
-- HLR053
-- HLR054
+- HLR053: aca512755df1944bbde060425662d88e
+- HLR054: b823705de2edb09151e0e5dba452a176
 normative: true
 ref: ''
+reviewed: 516ca7790fc5d91a2cf402cc007e485f
 text: |
   *Lorem* markdownum Apolline tantum pudoris umeris.
   Bene quas moenibus, pro Phoeboque di nuper.

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.87
 links:
-- LLR012
-- LLR159
-- LLR174
-- LLR181
-- LLR196
+- LLR012: 6c5080acd9ba1dc555412956a3093ce2
+- LLR159: 235a7f9a3eee2d3c452eb7359bb224a6
+- LLR174: 3221ed1c9034a21dcfb48a67ed8af8b9
+- LLR181: e613d7310ec84c7e1f1bd0e63f8ad9a6
+- LLR196: 9fb7b9c99b528b33372a9d827533b855
 normative: true
 ref: ''
+reviewed: 1155fc0ce23060b2b47fa678f1305b5d
 text: |
   Verify lorem markdownum rogant quid diversaque undas.
   Denique non, oris facies et sua virgine, lustraverat tutoque.

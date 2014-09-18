@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.61
 links:
-- LLR026
-- LLR077
-- LLR169
+- LLR026: 3dc958b925b2551871d4ce8884703ea6
+- LLR077: cf0e34a2ff790298bb1d01c5c507e566
+- LLR169: 1d8bce98f2d7aac90f34a10971cc450a
 normative: true
 ref: ''
+reviewed: 8a0b79104c89169c7967ffaf5f38a211
 text: |
   Verify lorem markdownum in [carmine](http://jaspervdj.be/) retro variatis,
   post in velocia accede, ultima leto, arbor aequaverit.

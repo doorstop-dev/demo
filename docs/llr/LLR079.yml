@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 16.1
 links:
-- HLR017
-- HLR029
-- HLR088
+- HLR017: 7c34babb079cf13f34cc6379f6d62f8e
+- HLR029: 1d5062f71b5637b24b6346586d1676f3
+- HLR088: c9bece27e8e832e9e39e6931ce494a30
 normative: true
 ref: ''
+reviewed: f715eb63b788e4ca4da61a401873e33c
 text: |
   Lorem markdownum **SHALL** referens, stetimus placuisse nemorale nubibus.
   **Salutent tendunt**; in duritia inplerit nec Acheloiadumque multo, parentem

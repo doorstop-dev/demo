@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 23.45
 links:
-- HLR079
-- HLR097
-- HLR100
+- HLR079: d0976b23bdd14a4a47002c3a40b83f45
+- HLR097: 9c167b955cc3e7cb92dcfdd46066a1d5
+- HLR100: 35ea93d184f00bcc36421dd33778b9cf
 normative: true
 ref: ''
+reviewed: ff318eb0d024fbd99c72cfc15ef37f59
 text: |
   Lorem markdownum **SHALL** talia corpora amnes mento tectam incunabula dum
   Finierat; cingebant **vindicat**. Micantes arenti, laetus aera volant

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.168
 links:
-- LLR025
-- LLR054
-- LLR072
-- LLR088
+- LLR025: 4e10453ab9200200dfc3c251c05d88ca
+- LLR054: 0cd98c784f1946189eeda5baf3eac2f4
+- LLR072: ba740b16a66fcd359aef605f7fba1e3b
+- LLR088: 81e34fdf6a5d0f98639d08994137636b
 normative: true
 ref: ''
+reviewed: 91414cf026bae2d1660b4ffcbbfccb3c
 text: |
   Verify lorem markdownum cepit postquam ni illum cum te talia ingratus fateri
   conantesque hamata primum formatus qui ferro tamen.

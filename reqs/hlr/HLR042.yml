@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 7.61
 links:
-- SYS012
-- SYS020
+- SYS012: 073cd42571e2db10563a1ecd5a51bec7
+- SYS020: 0591e27f677d2720d15d143bbcc2883e
 normative: true
 ref: ''
+reviewed: 7e10805233dbc6ee647e21cd0f2fa5c3
 text: |
   Lorem markdownum **SHALL** cunctis pennae, aut longo
   [nec](http://heeeeeeeey.com/) lacrimis potest ferunt.

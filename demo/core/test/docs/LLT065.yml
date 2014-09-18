@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.82
 links:
-- LLR019
-- LLR058
-- LLR122
-- LLR153
-- LLR186
+- LLR019: ec0d341b465b4a4dadb564a4e034a8d4
+- LLR058: 0d5fd0c4a96904e1f3c60f7df851404c
+- LLR122: 4db1890247d75c45f8a1c7325844fc66
+- LLR153: 9975d2b0e7a843f90720b0accd67cd46
+- LLR186: 51be15012cf97e83cbd386fbd0f0654e
 normative: true
 ref: ''
+reviewed: ed86fb9d06b634c166ae397036c50740
 text: |
   Verify lorem markdownum terras, nunc [favet terrae](http://www.lipsum.com/)
   nurusque fatebor profugaque statuit mea polenta verae tu mirantur precaris

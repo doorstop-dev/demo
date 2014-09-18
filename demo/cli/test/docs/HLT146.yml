@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.93
 links:
-- HLR016
-- HLR018
-- HLR054
-- HLR077
-- HLR083
+- HLR016: f62dcef37de26a547aa5a43e2558de94
+- HLR018: 052c75e3524720b2fa74b8546334a5f6
+- HLR054: b823705de2edb09151e0e5dba452a176
+- HLR077: f3065f2ef4069554db40e890309903dc
+- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
 normative: true
 ref: ''
+reviewed: 7743601952187b466d5cb63b22052624
 text: |
   Verify lorem markdownum, suo fratrum, deponunt Ulixem spes mira *Dryope
   dolorem nata*, callem.

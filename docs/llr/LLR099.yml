@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 20.3
 links:
-- HLR025
-- HLR048
-- HLR089
+- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
+- HLR048: 56aa735358f7210502ed2e7a7527fa22
+- HLR089: fc17c48818f1757f2f8a232d4f1e38cf
 normative: true
 ref: ''
+reviewed: de6ddcd3d41e3231090e2160bea73004
 text: |
   Lorem markdownum **SHALL** impleverat sorte **ore vulnus si** vela veterem ut
   sunt in, viae matre sidere, arces vecta.
