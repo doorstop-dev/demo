@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 23.55
 links:
-- HLR005
-- HLR036
-- HLR056
-- HLR062
-- HLR069
+- HLR005: 782d35ca3637a2b49051cc44dc073f0a
+- HLR036: b85c4146e31bab43dac352c217430641
+- HLR056: 3d664384d81be055e722570cbd7c225f
+- HLR062: 57e206d85145b169a59ee9e5f4bc48cf
+- HLR069: 83550644e3a1d495e4b9ecf35c435981
 normative: true
 ref: ''
+reviewed: 3e9cd16e0f79b8e51c6f987d26f721f7
 text: |
   Lorem markdownum **SHALL** arcus elige motu **tui loco post** Learchum
   feralia fluctus, Achaidas annos.

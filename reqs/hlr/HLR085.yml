@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 7.59
 links:
-- SYS050
+- SYS050: 96a0c02f1bdfb275773a6ce7f4e1a5aa
 normative: true
 ref: ''
+reviewed: fc8b97bf01d6ac0a64ec4e3f30cbb182
 text: |
   Lorem markdownum **SHALL**! Quam sibi quas [Stygiis
   mora](http://www.wedrinkwater.com/) vicimus quae posset diemque it contra

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.378
 links:
-- LLR104
-- LLR118
-- LLR129
-- LLR137
+- LLR104: f99d532ca0fd3848201ec86b50dfff79
+- LLR118: 57d3194c885e4d5c854104eef193abdc
+- LLR129: a60d078a8fd769126b5e843a5edb7b6b
+- LLR137: 0ab74dc529c959fc6f20f93b274a579b
 normative: true
 ref: ''
+reviewed: 3930347f3c71c16e7f0859f624f1ef32
 text: |
   Verify lorem markdownum certe longa in alligat Delosque tacito ab nec *esse
   convocat vulnera*, tulit; Phoeboque.

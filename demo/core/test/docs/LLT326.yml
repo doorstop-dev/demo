@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.108
 links:
-- LLR028
+- LLR028: 909f6cb75aedcb302a1c69e8947c5122
 normative: true
 ref: ''
+reviewed: 79a79d0345f9ec5963769f62db89d468
 text: |
   Verify lorem markdownum et medium hic, si cruorem subsidere sedere, pro est
   tamen.

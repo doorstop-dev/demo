@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.376
 links:
-- LLR022
-- LLR058
-- LLR152
+- LLR022: e1eb4a095115ae7f561055deb1fdcb78
+- LLR058: 0d5fd0c4a96904e1f3c60f7df851404c
+- LLR152: 0f11739763e40f3e340ff4b3be842cda
 normative: true
 ref: ''
+reviewed: 2897abbc2147b447e3a7553491a25b7d
 text: |
   Lorem *markdownum*: patrem opus, *Canenti cerno sibi* homini in edita
   maiores, hostem placet, agat glaebas tellus.

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.216
 links:
-- LLR088
-- LLR111
-- LLR185
-- LLR186
-- LLR199
+- LLR088: 81e34fdf6a5d0f98639d08994137636b
+- LLR111: 695a964ff264415f100ccaab614213a4
+- LLR185: 8d7a3e7f9b754814a84c77745cf7494d
+- LLR186: 51be15012cf97e83cbd386fbd0f0654e
+- LLR199: 87aea8dfa91753f3ab0f70418abcdea5
 normative: true
 ref: ''
+reviewed: 3ee08ad665d92824144adb87b3d7215f
 text: |
   Verify lorem markdownum petit, iactate est regnum?
   Corinthiaci tenui.

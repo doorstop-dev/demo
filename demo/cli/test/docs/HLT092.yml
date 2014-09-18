@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.88
 links:
-- HLR016
-- HLR047
-- HLR066
+- HLR016: f62dcef37de26a547aa5a43e2558de94
+- HLR047: f64502605f5781802a5de46f36e137d5
+- HLR066: 28e63ccca90b062ccfdc3c168cc3369b
 normative: true
 ref: ''
+reviewed: 33ae5c477650f337aa2b2b17a6cda69c
 text: |
   Verify lorem markdownum obprobrium fuit committitur habetque purpureas vestis
   pedibusque, glaebas.

@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.19
 links:
-- HLR009
-- HLR056
-- HLR085
+- HLR009: 6da8ed61c313b1482bdb6da89d007eac
+- HLR056: 3d664384d81be055e722570cbd7c225f
+- HLR085: 8f9bb7708fb44a90426d24efe969e48e
 normative: true
 ref: ''
+reviewed: fb88fc303c706754816a9aed459499e6
 text: |
   Verify lorem markdownum morte interdum formae, erigite in numine nec et
   surdaeque.

@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.344
 links:
-- LLR080
+- LLR080: 482743e766909835fff69356a23d54a3
 normative: true
 ref: ''
+reviewed: 5a34c2770b51285e6adbe3e6276d7105
 text: |
   Verify lorem markdownum, castra, *populabile et*, o actis exemplum vacuis
   triumpha: missisque Scythiae convicia scinditur credere labitur.

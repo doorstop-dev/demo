@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.196
 links:
-- LLR013
-- LLR065
+- LLR013: f7b387860a28bbdd1aac0c15cf3bd0b6
+- LLR065: fa5ea5a267f5ce36f579b8ae05c696d8
 normative: true
 ref: ''
+reviewed: 05580161d9761a4e8666caa0ae2011ac
 text: |
   Verify lorem markdownum, [inperfectus](http://textfromdog.tumblr.com/) ista
   iamque neque nec flumina sensit crus accipit pallae in squamae crescente

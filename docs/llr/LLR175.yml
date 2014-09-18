@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 23.85
 links:
-- HLR010
-- HLR040
-- HLR050
+- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
+- HLR040: 6deccb32d8c2be5a7b69b0447c3f78ab
+- HLR050: d965c6342dd432f6da29a07eab9ddc00
 normative: true
 ref: ''
+reviewed: 59bebe46eeda55687b9c13d5986b7be9
 text: |
   Lorem markdownum **SHALL** venturi mentem medio, hederae.
   Hanc aeno ne **mariti** fecit publica. **Eoo tanto iuvenum** ardet anili

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 23.72
 links:
-- HLR004
-- HLR057
-- HLR078
-- HLR088
-- HLR089
+- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
+- HLR057: 108e6d69b95a3929d748aafdd89297e7
+- HLR078: 6ea8b59559dcdbc2e8b40f656f7a74af
+- HLR088: c9bece27e8e832e9e39e6931ce494a30
+- HLR089: fc17c48818f1757f2f8a232d4f1e38cf
 normative: true
 ref: ''
+reviewed: 860348f6335154e7e66107b2a09f061a
 text: |
   Lorem markdownum **SHALL** humanum flumina, solito lusisse superstes est
   coepta *qua* pugnare vires? *Ambo prodidit quae* corpore [minanti

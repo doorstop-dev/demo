@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.9
 links:
-- LLR089
-- LLR094
-- LLR169
+- LLR089: fc9cd34652a6efec8a9bbc4c6f915210
+- LLR094: 4d77690d451a667b63a0b0435f153f8c
+- LLR169: 1d8bce98f2d7aac90f34a10971cc450a
 normative: true
 ref: ''
+reviewed: 43538e5078295cf6cc560bd0ee0f1457
 text: |
   Verify lorem markdownum regibus pallentia tu manus.
   Nec ut cuius, docuisse trita, faciem *aera* intrat; non **placidum**? Dumque

@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.124
 links:
-- LLR118
+- LLR118: 57d3194c885e4d5c854104eef193abdc
 normative: true
 ref: ''
+reviewed: d6b1afc8642296e8597b1f25fc13e487
 text: |
   Verify lorem markdownum spectabilis Pirithous dixit conscia angue.
   Quid locus vetusto.

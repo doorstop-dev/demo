@@ -2,12 +2,13 @@ active: true
 derived: false
 level: '7.20'
 links:
-- SYS006
-- SYS014
-- SYS021
-- SYS042
+- SYS006: 1dec3785bca4482b9e5500f579610717
+- SYS014: 19c97732e34a0a8dafd81e6e0f633ad9
+- SYS021: 10ad364c486d5bf3ddc31378c09cac9e
+- SYS042: 2b37981232de4a5cb156e1d3fea87199
 normative: true
 ref: ''
+reviewed: ae3cff56e74e254d5d8bd2f23f7af921
 text: |
   Lorem markdownum **SHALL** Saturnia *eram*, est duo telas numerabilis loqui
   *cervix* media in tantos moritura.

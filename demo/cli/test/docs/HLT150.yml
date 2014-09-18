@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.161
 links:
-- HLR027
-- HLR034
-- HLR068
+- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
+- HLR034: 87889aab3af013c2c6700993f82c1984
+- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
 normative: true
 ref: ''
+reviewed: d17b33822c6c1b4ebab6e40e555550fa
 text: |
   Verify lorem markdownum liquefaciunt victrix me fata.
   Qui rapitur omnes ut aliter inque illi habere, saepe valles ibat.

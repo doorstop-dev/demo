@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.151
 links:
-- HLR027
-- HLR029
-- HLR090
-- HLR095
+- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
+- HLR029: 1d5062f71b5637b24b6346586d1676f3
+- HLR090: c054ce5e5cb3a312beafa71336371542
+- HLR095: 5c1e4086f2b6913304bca55a2ae3c065
 normative: true
 ref: ''
+reviewed: 09284b92f3024034100fb556b637de47
 text: |
   Verify lorem markdownum virgis, ut cretus lumina intulerant latices currum
   *Corythumque*. Ista detinuit.

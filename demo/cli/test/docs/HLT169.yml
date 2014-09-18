@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.31
 links:
-- HLR018
-- HLR058
-- HLR091
+- HLR018: 052c75e3524720b2fa74b8546334a5f6
+- HLR058: 4d68e2da5f4ace8317b50f88c9bfd46d
+- HLR091: 8765565ca7cdf699477b763576a7432f
 normative: true
 ref: ''
+reviewed: 7740e039a9147e27440aafdd1d94ba87
 text: |
   Verify lorem markdownum Licha iubeatve reguntur geminos exanimata Nereis
   desierim: idque acumina dextraque enim Achaemeniden caeli decebat laedor.

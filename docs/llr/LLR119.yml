@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 23.52
 links:
-- HLR003
-- HLR039
-- HLR072
-- HLR095
+- HLR003: cc852012ad2f6c8ad8503f5d8b6290ad
+- HLR039: b7e189054d4fa57138c4bfebb3344bc2
+- HLR072: 05c44ac66e5c91420b2c82769350fd93
+- HLR095: 5c1e4086f2b6913304bca55a2ae3c065
 normative: true
 ref: ''
+reviewed: 10c4708f708f16ccff6916b136dcd402
 text: |
   Lorem markdownum **SHALL**, veteris: hoc sua sed artis narravit sermone ergo
   dea prohibetis tibi qualesque. [Cerae pereat](http://omfgdogs.com/).

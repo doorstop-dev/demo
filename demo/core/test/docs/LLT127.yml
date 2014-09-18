@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.27
 links:
-- LLR119
-- LLR136
-- LLR142
-- LLR169
+- LLR119: a7f4eace198800df898b434f6bf6a96e
+- LLR136: b82dde69854b106b388bcbd7fc4eb0d3
+- LLR142: f592ee43c463ee6eea4762e310dc8625
+- LLR169: 1d8bce98f2d7aac90f34a10971cc450a
 normative: true
 ref: ''
+reviewed: d8da894bb7c1a6dd1752b2ef43d3863c
 text: |
   Verify lorem markdownum vidit.
   Et iterum, tecum sine dixit, habitantem inque, in dignior exiguo.

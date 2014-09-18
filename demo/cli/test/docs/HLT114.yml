@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.158
 links:
-- HLR042
-- HLR053
-- HLR062
-- HLR068
-- HLR075
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR053: aca512755df1944bbde060425662d88e
+- HLR062: 57e206d85145b169a59ee9e5f4bc48cf
+- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
+- HLR075: 024621d141e0d33a01100d381bf459b2
 normative: true
 ref: ''
+reviewed: d318c43c2be1723f5ba7566755c43479
 text: |
   Verify lorem markdownum stellis omnia gradu primus figuras.
   Dixit nam fuit ille qui dum!

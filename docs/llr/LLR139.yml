@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 23.81
 links:
-- HLR032
+- HLR032: c5dc24fd573b5eeb3c174f7484889bef
 normative: true
 ref: ''
+reviewed: 3da6bd3bb3f5960d15894dc5293a2f17
 text: |
   Lorem markdownum **SHALL** ipsa! [Eget ut imitante](http://gifctrl.com/)
   auditque nescia, manus comes: induco est.

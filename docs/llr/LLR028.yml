@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 6.1
 links:
-- HLR067
-- HLR068
-- HLR077
+- HLR067: 9d79eff61851f166e5b50b1101749942
+- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
+- HLR077: f3065f2ef4069554db40e890309903dc
 normative: true
 ref: ''
+reviewed: e13229728ef7b13a36fefaf0132d7255
 text: |
   Lorem markdownum **SHALL** neque levat caput omnia negate est sum inque eras
   flectit tua mortalem.

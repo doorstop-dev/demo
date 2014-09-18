@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.42
 links:
-- HLR066
+- HLR066: 28e63ccca90b062ccfdc3c168cc3369b
 normative: true
 ref: ''
+reviewed: a0940fba1246f921af2bb363de5bd016
 text: |
   Verify lorem markdownum Festa receptis maligne fugiant.
   Morsibus recepit tenens angustum ferrumque novissima **legar fretum** tuti

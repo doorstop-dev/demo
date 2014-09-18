@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 22.2
 links:
-- HLR042
-- HLR080
-- HLR083
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR080: 299534fd5a7eca46f589c6322b659423
+- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
 normative: true
 ref: ''
+reviewed: bf07b673060d30b5d4e64eb0ef60a7d3
 text: |
   Lorem markdownum **SHALL** Euagrum **manifesta Hecabesque causa** equos
   pariterque subito ratae tepido?

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.35
 links:
-- HLR027
-- HLR042
-- HLR046
-- HLR073
+- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR046: 816db4153bde67375509bac7fd4c998a
+- HLR073: f1399f4ebb54c6d8ad15181b5218d154
 normative: true
 ref: ''
+reviewed: d05d18110b5154d5f73124213da45fa8
 text: |
   Verify lorem markdownum Tyrrhenus postulat nurusque verti est captus viscere
   *nudorum demittere nocte*. Fugiensque fontesque sed tuaque satus dare, castos

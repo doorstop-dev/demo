@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.16
 links:
-- HLR063
+- HLR063: b1b6217c7cf6d7be814389b1bdadedc2
 normative: true
 ref: ''
+reviewed: 3931cebb591a9c8764c7d512aca04246
 text: |
   Verify lorem markdownum Sicaniam fataliter, Thessalus sed aequor munere
   minorque tactosque.

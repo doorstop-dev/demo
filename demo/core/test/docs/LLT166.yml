@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.167
 links:
-- LLR018
-- LLR058
-- LLR102
-- LLR115
-- LLR195
+- LLR018: 846a8efca093ea39a87ba9cc5fdd4a68
+- LLR058: 0d5fd0c4a96904e1f3c60f7df851404c
+- LLR102: 836dd3bdc538192d71fca514ccc5c83a
+- LLR115: 43962294b00b7f8a135433e059b47731
+- LLR195: 06d28a52996a572fd292f5a13241ef8e
 normative: true
 ref: ''
+reviewed: e30993028718acf2a473a462fd1bcd5f
 text: |
   Verify lorem markdownum frequento mandabat lumina Syenites, et ab veste
   maculas tamen factisque nostris, Iuno illa praestent.

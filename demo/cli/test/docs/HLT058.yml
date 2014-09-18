@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.118
 links:
-- HLR022
-- HLR027
-- HLR083
-- HLR089
+- HLR022: d6337ec7821ed2c4a92c96fe40d7db8f
+- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
+- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
+- HLR089: fc17c48818f1757f2f8a232d4f1e38cf
 normative: true
 ref: ''
+reviewed: 21c2e843c3220e04daca73e6f037035e
 text: |
   Verify lorem markdownum securaque habet, ille suo aevi iubeatve sustulit, pro
   undas tum senex ista vetus poterunt munera laudatos.

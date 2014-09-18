@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.79
 links:
-- LLR037
-- LLR047
-- LLR149
-- LLR191
-- LLR193
+- LLR037: c9c3f63de803a8a1a2306defd87835fb
+- LLR047: a8366f4e5ae14c5bea674c526ec14e26
+- LLR149: ad81416b24889e7f913ef56aac46dac7
+- LLR191: 3609e58c2c304fc35bfbe74e6b6e08d5
+- LLR193: 4fef0018e0b9ff8b050310b680af4f5b
 normative: true
 ref: ''
+reviewed: 0cd7dd23b0af33864fed633b1d331e72
 text: |
   Verify lorem markdownum sinit venturi argentea finiat
   [nostris](http://www.raynelongboards.com/) aut cervi suum.

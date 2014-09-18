@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 23.6
 links:
-- HLR010
-- HLR077
+- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
+- HLR077: f3065f2ef4069554db40e890309903dc
 normative: true
 ref: ''
+reviewed: a71de68d8b2bda298977dd422205d380
 text: |
   Lorem markdownum **SHALL** Parnasi iam utinam [velaque et
   silvis](http://www.billmays.net/) singultuque corruit?

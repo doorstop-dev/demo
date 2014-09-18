@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.366
 links:
-- LLR141
-- LLR154
-- LLR171
+- LLR141: 63e106327494cd12077728e28c4a8595
+- LLR154: 7d0564f9ea1d409310dfb408f441c32d
+- LLR171: 3a84775fe1db5e9baf4213faeecff9b8
 normative: true
 ref: ''
+reviewed: d733f62f8e4751694fc33b9b5c5089cc
 text: |
   Verify lorem markdownum capere conspiceris hospes laetum securus austro,
   virgineosque parentum insignia inconcessisque simul primoque

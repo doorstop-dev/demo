@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 7.42
 links:
-- SYS006
-- SYS007
-- SYS013
-- SYS024
+- SYS006: 1dec3785bca4482b9e5500f579610717
+- SYS007: 71f23c045fad13e41911a488c5341af7
+- SYS013: fb115b2d9cf0be32d6404f10adb1ab45
+- SYS024: 8d3dec6858bdafcb1122e3eb49aec044
 normative: true
 ref: ''
+reviewed: be32d2d691035220da0fe9fabca37f73
 text: |
   Lorem markdownum **SHALL** saturae sit, sed verba ensem ambage nomenque
   abeunt, semine vela pectora perdiderant edidit defectos et.

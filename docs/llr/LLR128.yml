@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 23.62
 links:
-- HLR040
-- HLR042
-- HLR052
-- HLR081
-- HLR083
+- HLR040: 6deccb32d8c2be5a7b69b0447c3f78ab
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
+- HLR081: f85cc275a9545dc4ae6cc142fa5385fb
+- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
 normative: true
 ref: ''
+reviewed: e28f06165ea6e1848f6e992f6c3bb316
 text: |
   Lorem markdownum **SHALL** puer ignarus tempora quoque meritis corrigit, toto
   nova rogat.

@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.8
 links:
-- LLR025
+- LLR025: 4e10453ab9200200dfc3c251c05d88ca
 normative: true
 ref: ''
+reviewed: 12921a6ac176901a7bae6cfd73bb1663
 text: |
   Verify lorem markdownum amnes.
   Ora fata o virgo nomen Adonis dignus inposito, ad flores sanguine Tritonia

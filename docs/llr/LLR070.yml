@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 14.4
 links:
-- HLR009
-- HLR013
-- HLR039
-- HLR073
+- HLR009: 6da8ed61c313b1482bdb6da89d007eac
+- HLR013: a08f2929dcca39e42a0270e8f7db581b
+- HLR039: b7e189054d4fa57138c4bfebb3344bc2
+- HLR073: f1399f4ebb54c6d8ad15181b5218d154
 normative: true
 ref: ''
+reviewed: fbb85516853cbee1ed3a9e8e3e67633d
 text: |
   *Lorem markdownum **SHALL*** suggerit generosa dilectos digitoque et miserum
   quoque causamque quod [custode deum](http://zombo.com/) nullam, ubera, pro.

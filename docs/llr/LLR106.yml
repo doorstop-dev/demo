@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 22.1
 links:
-- HLR010
-- HLR073
-- HLR085
+- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
+- HLR073: f1399f4ebb54c6d8ad15181b5218d154
+- HLR085: 8f9bb7708fb44a90426d24efe969e48e
 normative: true
 ref: ''
+reviewed: 331c603fe467377aab786ee2373b650b
 text: |
   Lorem markdownum **SHALL** queant, nec ipsa errore Thermodontiaco dominum
   tergoque, vidit inplerunt ianua Aeacon nubila nutrit sonti, illa?

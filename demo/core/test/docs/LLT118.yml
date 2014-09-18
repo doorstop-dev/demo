@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.24
 links:
-- LLR042
+- LLR042: 7f6ca9f79344a62d69e05976ad68216b
 normative: true
 ref: ''
+reviewed: fd71405699a7ffab158a8eaa112bd43e
 text: |
   Lorem [markdownum Solis scelerata](http://www.thesecretofinvisibility.com/)
   referre animalia.

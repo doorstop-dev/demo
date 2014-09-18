@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.136
 links:
-- LLR054
-- LLR056
-- LLR149
-- LLR155
-- LLR158
+- LLR054: 0cd98c784f1946189eeda5baf3eac2f4
+- LLR056: 0af9260eba8bf9aec12fcdaf3f1a0057
+- LLR149: ad81416b24889e7f913ef56aac46dac7
+- LLR155: c00f53b67654e5002aa552b308ae6de9
+- LLR158: 44daff2d3d382b683e9d6297f83d21ce
 normative: true
 ref: ''
+reviewed: f17b156b7d0e85da66c5d6840c8f9a95
 text: |
   Verify lorem markdownum in amplexu privignae etiamnum ad forti.
   Et velum, Neretum date sed; dixere, sed nec est gaudent, accepisse a velatus

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: '5.140'
 links:
-- LLR007
-- LLR018
-- LLR042
-- LLR093
-- LLR133
+- LLR007: 4411072d4714615d639f6affc0711806
+- LLR018: 846a8efca093ea39a87ba9cc5fdd4a68
+- LLR042: 7f6ca9f79344a62d69e05976ad68216b
+- LLR093: 80ed4575b30ded58c20cad5011feac3c
+- LLR133: 2a984f8410a468e3eb6943b70c20b962
 normative: true
 ref: ''
+reviewed: 60fc550ac361f575657a209a8c3d732c
 text: |
   Verify lorem markdownum possit **primo siccatque ignem** ferro.
   Revulsus idcirco crimen os perire meique sit formosus **Thestias**, nasci

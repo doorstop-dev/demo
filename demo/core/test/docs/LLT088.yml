@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.273
 links:
-- LLR024
-- LLR073
-- LLR171
+- LLR024: 8c4767cb109a6d7a932f812958348234
+- LLR073: a98b091235fdb445ab18e9a1b10cba1f
+- LLR171: 3a84775fe1db5e9baf4213faeecff9b8
 normative: true
 ref: ''
+reviewed: deda7015f37673be8def24c3d9ec77c0
 text: |
   Verify lorem markdownum forma inhospita nulla adspice!
   Hebes ora et vos urbes **nunc Alcides** et discriminis **vocor ne** vasto et

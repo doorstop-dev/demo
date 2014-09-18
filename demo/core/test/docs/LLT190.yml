@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.5
 links:
-- LLR140
+- LLR140: 83a01d9a5f600dded5aab3b797849f9c
 normative: true
 ref: ''
+reviewed: d41249437795eec9b71fdbfb536b6f51
 text: |
   Verify lorem markdownum, cum aliqua ferrum.
   Cum diva Phoebe, educere oculi quoque reiecit sum vident est non est, in

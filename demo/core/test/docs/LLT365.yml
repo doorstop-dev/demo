@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.226
 links:
-- LLR191
-- LLR192
+- LLR191: 3609e58c2c304fc35bfbe74e6b6e08d5
+- LLR192: 30f1b6485cfc83f544a8f3088a73f7c4
 normative: true
 ref: ''
+reviewed: 644a9863890dc7a133ae701e9e45a4ea
 text: |
   Verify lorem markdownum et equus bene Actaeon, arcus ripam lumina geminasque
   et dextra ait adspexisse asper, ora sensi *stramine*. Vocantem et, et

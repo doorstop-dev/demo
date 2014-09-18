@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.106
 links:
-- HLR009
-- HLR011
-- HLR038
-- HLR043
-- HLR097
+- HLR009: 6da8ed61c313b1482bdb6da89d007eac
+- HLR011: fb47d13ca2bcd7c22beff68af53ef365
+- HLR038: 4448f4f157157ec1b7d88bbe03489064
+- HLR043: b0f3b0871e39677f58ef610fbdd81555
+- HLR097: 9c167b955cc3e7cb92dcfdd46066a1d5
 normative: true
 ref: ''
+reviewed: d5a7d5fa4599dc7d0f75f99d9a9658d6
 text: |
   Verify lorem markdownum non felix fecit dictis reppulit deponunt talibus
   Peleusque mori partibus saepe pater eminus alternaque haec, hic calidi.

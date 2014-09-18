@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.332
 links:
-- LLR003
-- LLR029
-- LLR072
-- LLR094
+- LLR003: b554df6c2b0506c78205a619338ecbe5
+- LLR029: 2c7fc2b06f5f75e7348bd91a4ed7d6b2
+- LLR072: ba740b16a66fcd359aef605f7fba1e3b
+- LLR094: 4d77690d451a667b63a0b0435f153f8c
 normative: true
 ref: ''
+reviewed: 94811a2f9f169e64aea323614b48f92c
 text: |
   Verify lorem markdownum dedit intravit et undas, milite sequantur furiale
   cupidusque ferit. [Arce](http://hipstermerkel.tumblr.com/) manu duabus vidit

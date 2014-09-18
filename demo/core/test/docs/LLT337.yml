@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.184
 links:
-- LLR040
-- LLR111
-- LLR112
-- LLR144
+- LLR040: 7c58f17d672da5bb58f9df8234258da3
+- LLR111: 695a964ff264415f100ccaab614213a4
+- LLR112: 765fe5cadc4233abcb7431bf57e6b91e
+- LLR144: 2e5c578fa29dce571ee50e2cf82891fd
 normative: true
 ref: ''
+reviewed: 7b9a916abcbdc8a4efe8b22d0535d6b6
 text: |
   Verify lorem markdownum tela; **deum ius terrenaque** quid, quae nec.
   Corpora pectoraque equis erat Cadmeida demptum mitte res *regnorum*, aversos

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.112
 links:
-- LLR042
-- LLR059
-- LLR175
-- LLR198
+- LLR042: 7f6ca9f79344a62d69e05976ad68216b
+- LLR059: 145aff24cbe27e19de98eb5c916e1bf1
+- LLR175: a79505d63c5c666e837f79e5a9350321
+- LLR198: b838b48fac441d782a269dc6d1cd5e42
 normative: true
 ref: ''
+reviewed: 5af6cd9da5868435dfbf7b63323efe3c
 text: |
   Verify lorem markdownum sumptis habes, candidus nec quod!
   Ante cedere coniurata inritans aerias errent amissae circumvolat nova

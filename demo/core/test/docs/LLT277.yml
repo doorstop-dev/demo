@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.292
 links:
-- LLR106
-- LLR173
+- LLR106: 94ec80204ad02a8a52eb8fef583e93d4
+- LLR173: d71c5408387149097d82bb5865a863d8
 normative: true
 ref: ''
+reviewed: 1faaefd836cc55657fb48dbf23e3ced4
 text: |
   Verify lorem markdownum oculis an segnior favilla crescunt sedem qui,
   patriaeque interdum aequora a et saepe pennis.

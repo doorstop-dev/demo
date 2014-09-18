@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.301
 links:
-- LLR009
-- LLR123
-- LLR154
-- LLR189
+- LLR009: 674e56f85ee0a6f6ac5e4e109e73a3bc
+- LLR123: a8e74604b454b679ce1c9d6fb491ba29
+- LLR154: 7d0564f9ea1d409310dfb408f441c32d
+- LLR189: 61ca6ec606b991c45f35192812c87174
 normative: true
 ref: ''
+reviewed: eedd45f7e8c375c7a72b01dd908d6fef
 text: |
   Verify lorem markdownum vident.
   Fecerat ubi terra saxa comas te donavi arceat consulat in nomina, tibi.

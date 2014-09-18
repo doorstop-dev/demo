@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.275
 links:
-- LLR070
-- LLR094
-- LLR178
+- LLR070: e22cd6294e60376ee4036bfa3c0446ca
+- LLR094: 4d77690d451a667b63a0b0435f153f8c
+- LLR178: 2bca330709295894e37124d441e44856
 normative: true
 ref: ''
+reviewed: 66cc8a53a84cec255d15f9c408be7ebb
 text: |
   Verify lorem markdownum mutare felix pendent tanto, ab matrem tantum e vires
   nec fallente posceret.

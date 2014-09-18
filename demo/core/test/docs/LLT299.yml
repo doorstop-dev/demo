@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.105
 links:
-- LLR093
-- LLR140
-- LLR151
-- LLR175
-- LLR192
+- LLR093: 80ed4575b30ded58c20cad5011feac3c
+- LLR140: 83a01d9a5f600dded5aab3b797849f9c
+- LLR151: 846a336710691e1123eb36f71f721cda
+- LLR175: a79505d63c5c666e837f79e5a9350321
+- LLR192: 30f1b6485cfc83f544a8f3088a73f7c4
 normative: true
 ref: ''
+reviewed: 5dc11829e032e92eb0b3c58c83df0c4d
 text: |
   Verify lorem markdownum forte rore veteris, ducat turbatusque praedator causa
   vidit lumina saevae enim trabes roratis tecti.

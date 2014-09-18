@@ -2,9 +2,10 @@ active: true
 derived: false
 level: '8.60'
 links:
-- HLR087
+- HLR087: 9af49b45e12f3a85eaee83259d295f4e
 normative: true
 ref: ''
+reviewed: d173a98f0ba5734c08bd3aecc78a6117
 text: |
   Verify lorem markdownum virum formidine sedet suum, aut quoque suadent.
   Positoque *non taedia currere* ac iussa tribuisse corpora ferar tu auctor

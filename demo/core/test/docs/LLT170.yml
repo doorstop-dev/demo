@@ -2,12 +2,13 @@ active: true
 derived: false
 level: '5.320'
 links:
-- LLR047
-- LLR062
-- LLR087
-- LLR125
+- LLR047: a8366f4e5ae14c5bea674c526ec14e26
+- LLR062: a9d09e38c5aa7250c9c48dc22aacbe35
+- LLR087: 202f04e3283bc4506eb2b88ecde7c38c
+- LLR125: 738b4e2a63e87a21edac014f690236c5
 normative: true
 ref: ''
+reviewed: 346ad7f68d5f7f469ac525baf489718a
 text: |
   Verify lorem markdownum aderat occallescere quam superest quae; patitur dicit
   patriae Laelapa; hi animam!

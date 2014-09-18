@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.108
 links:
-- HLR022
-- HLR028
-- HLR061
-- HLR075
+- HLR022: d6337ec7821ed2c4a92c96fe40d7db8f
+- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
+- HLR061: 21d47aa8307e87377b55817212beae08
+- HLR075: 024621d141e0d33a01100d381bf459b2
 normative: true
 ref: ''
+reviewed: e04728e35c1f6b33f7f43e44eeb5e4bf
 text: |
   Lorem *markdownum* potuit, ora tollens moribundo, fortis *quae*. Nunc
   sequiturque fluentum adparuit exacta per duro [prudentia sua

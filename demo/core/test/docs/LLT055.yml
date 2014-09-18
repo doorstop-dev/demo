@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.12
 links:
-- LLR038
-- LLR120
-- LLR183
-- LLR194
+- LLR038: a10a0544be8ecc872b568a207600fcca
+- LLR120: 38388486d3fde99693e6e8452ca172b6
+- LLR183: dea3d7fbf5bd854539505959d720c1c6
+- LLR194: 9edda2068ef3c40b6dbbf82357766ec1
 normative: true
 ref: ''
+reviewed: beaf70529904593f1f96601a3e9b8377
 text: |
   Verify lorem markdownum Tritonida plures.
   Se nisi regemque Iove.

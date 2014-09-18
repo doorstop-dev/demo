@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.67
 links:
-- LLR140
-- LLR146
-- LLR162
-- LLR192
+- LLR140: 83a01d9a5f600dded5aab3b797849f9c
+- LLR146: d67cf5bfb3b4d0a1c51f8ea7ddef9976
+- LLR162: b6928d10c6b24e2c84a7c41a20500749
+- LLR192: 30f1b6485cfc83f544a8f3088a73f7c4
 normative: true
 ref: ''
+reviewed: 6d6bfe54083e0c6a59ad9cb95b756a42
 text: |
   Verify lorem markdownum hasta ego, et declivia suum auditas rostrum.
   Muneribusque semina Pelea Aetne et posse caelum excoquit: habuit ursaeque

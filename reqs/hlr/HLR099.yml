@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 7.33
 links:
-- SYS002
-- SYS006
-- SYS044
+- SYS002: d880b59c0bc5a060d41922110b833f3f
+- SYS006: 1dec3785bca4482b9e5500f579610717
+- SYS044: c802e5041616d559eb6bae4bdeeb4742
 normative: true
 ref: ''
+reviewed: f64e77d0d513219cc942be0482c5bec2
 text: |
   Lorem markdownum **SHALL** [arbor](http://haskell.org/); terga haec ardua
   poscebat munere maerentes et.

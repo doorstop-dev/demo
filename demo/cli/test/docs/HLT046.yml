@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.67
 links:
-- HLR028
-- HLR052
-- HLR060
+- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
+- HLR060: 85f748bf9edd302de65894924958c3c5
 normative: true
 ref: ''
+reviewed: 331ff02bb29632ba07623f4ec5428951
 text: |
   Verify lorem markdownum mens: erat quaque, vietum, equi vetustas.
   Tuisque iuves; nam [alter quod aut](http://hipstermerkel.tumblr.com/)

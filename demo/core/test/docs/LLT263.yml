@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.17
 links:
-- LLR069
-- LLR093
-- LLR168
-- LLR187
+- LLR069: 9b382e037e222983b579ae1367cc9d98
+- LLR093: 80ed4575b30ded58c20cad5011feac3c
+- LLR168: 469349ad7aa47e997d3d9374cd5bdd8b
+- LLR187: e3d7909b94107a2055956a335cb779e1
 normative: true
 ref: ''
+reviewed: cda307a7dfbfef79260cf504aca0ae41
 text: |
   Verify lorem markdownum tempusque leves.
   Dum ictus *dixit liceat sumat*, non opem armenti quinta lupos pater illo

@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 7.6
 links:
-- SYS008
-- SYS010
-- SYS020
+- SYS008: 6a2015090c976f3aebaa431a7fdeda60
+- SYS010: 4afcecf637263f95a636a61d40408b99
+- SYS020: 0591e27f677d2720d15d143bbcc2883e
 normative: true
 ref: ''
+reviewed: c6cc60caab37838d62fef2730c1fd896
 text: |
   Lorem markdownum **SHALL** hanc.
   Est educat, et et furoris plebe, agentis excussum cruciataque!

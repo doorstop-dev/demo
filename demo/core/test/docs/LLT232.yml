@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.288
 links:
-- LLR067
-- LLR117
-- LLR169
+- LLR067: 2ac99d34e042e4f33fe3e247eaff1b7e
+- LLR117: d4de705321ada45b54713ab0f761b40a
+- LLR169: 1d8bce98f2d7aac90f34a10971cc450a
 normative: true
 ref: ''
+reviewed: f93324eaa9db327ae4dd5e66ffe927ee
 text: |
   Verify lorem markdownum nitorem fluctibus minatur actis, ore supplex abest
   noctis cava, vestrae probatque vatum statuam, umeros ipsa.

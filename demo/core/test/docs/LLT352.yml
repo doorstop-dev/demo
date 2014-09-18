@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.72
 links:
-- LLR148
-- LLR171
+- LLR148: 35db560e103c5327c42f1665556a51dd
+- LLR171: 3a84775fe1db5e9baf4213faeecff9b8
 normative: true
 ref: ''
+reviewed: 92a8450efcb49992b4e303030a6722a5
 text: |
   Lorem *markdownum* erubuit quas vires, imo enixa discenda cognitius.
   Nec si boves.

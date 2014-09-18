@@ -2,11 +2,12 @@ active: true
 derived: false
 level: '5.310'
 links:
-- LLR009
-- LLR142
-- LLR161
+- LLR009: 674e56f85ee0a6f6ac5e4e109e73a3bc
+- LLR142: f592ee43c463ee6eea4762e310dc8625
+- LLR161: bfb18b97608092f947638a7496a5981d
 normative: true
 ref: ''
+reviewed: 3e51a5e489d6c8b78d181a7df9974a04
 text: |
   Verify lorem markdownum vultus gracili, crurorem inmissos ventus temptaret
   vitreis, soceri Libys, passi est neve aestatem tum lenis.

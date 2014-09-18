@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.279
 links:
-- LLR002
-- LLR016
-- LLR037
-- LLR046
-- LLR098
+- LLR002: 946302ba227fbe738e398b635e961a55
+- LLR016: e590fd7e21f3430521005110a2e23c2c
+- LLR037: c9c3f63de803a8a1a2306defd87835fb
+- LLR046: 92637661b5586866c199eb233ddfe721
+- LLR098: 2061bfb196ad5112f98814ced95b17d8
 normative: true
 ref: ''
+reviewed: ce2408be3c1584664e27f9564e8b14ca
 text: |
   Verify lorem markdownum regale in dictis secundo.
   Natus tantum perspicuas adgrediare arma recentes sensit aquas nunc potes se

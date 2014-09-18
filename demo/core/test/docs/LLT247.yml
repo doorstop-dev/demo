@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.175
 links:
-- LLR109
-- LLR134
-- LLR187
+- LLR109: 1cef49a5b9cffec7552b4d2ddb016d2b
+- LLR134: a179f64de404dc64da12b9e839c5df09
+- LLR187: e3d7909b94107a2055956a335cb779e1
 normative: true
 ref: ''
+reviewed: 23112c5c1b72fa70ded12c06079508b5
 text: |
   Verify lorem markdownum agmine tellusque sanguine pondere utque indulgere
   pactaeque cauda: utrum sacerdotes Alcyone parte et metus.

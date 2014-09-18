@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.221
 links:
-- LLR030
-- LLR133
+- LLR030: 283fba5a9ccda802096ce549c4d65987
+- LLR133: 2a984f8410a468e3eb6943b70c20b962
 normative: true
 ref: ''
+reviewed: b34d509207f753f511440e2cc0c9f8b7
 text: |
   Verify lorem markdownum, parabam procorum Deiphobum sanguis melius Bactrius
   Lyciaeque satis redeuntem Lydas pereunt Horamque hoc.

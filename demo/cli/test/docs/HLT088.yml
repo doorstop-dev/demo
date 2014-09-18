@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.14
 links:
-- HLR020
-- HLR027
-- HLR059
+- HLR020: aae8bd09715becc5a5a95d827d615ee8
+- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
+- HLR059: 78b7ca6f523c75544862bbfa58942b37
 normative: true
 ref: ''
+reviewed: c21f2b4bc2f89e044dc54b1a64320da0
 text: |
   Verify lorem markdownum sanguine, aliter nexilibusque mihi, traxit, sidera
   Iano.

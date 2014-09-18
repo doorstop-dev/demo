@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.323
 links:
-- LLR013
-- LLR041
-- LLR131
+- LLR013: f7b387860a28bbdd1aac0c15cf3bd0b6
+- LLR041: b737d4f290d904222a9c2f33f1831a10
+- LLR131: 34d163747a7d8ab6b875342193a6edef
 normative: true
 ref: ''
+reviewed: 11356e012e3339b1f1f03d33a64c3cf7
 text: |
   Verify lorem markdownum omni.
   Nec attollo, quae leonem factaque umbra vultus: o illo turba sustinet

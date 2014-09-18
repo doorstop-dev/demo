@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.9
 links:
-- HLR046
-- HLR058
-- HLR074
+- HLR046: 816db4153bde67375509bac7fd4c998a
+- HLR058: 4d68e2da5f4ace8317b50f88c9bfd46d
+- HLR074: 38c65f74794de9a94a7cfcf4c311f80b
 normative: true
 ref: ''
+reviewed: 2231a2fcf36385a450bbeabd729220b0
 text: |
   Verify lorem markdownum sine salutant numero calet circumfusa, semine
   **exilium viris crebros**. Quoque sternit Narve per, distantia irae saepe

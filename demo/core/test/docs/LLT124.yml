@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.277
 links:
-- LLR005
-- LLR142
+- LLR005: 261dbaa845b7791b6747c1161c3a5f05
+- LLR142: f592ee43c463ee6eea4762e310dc8625
 normative: true
 ref: ''
+reviewed: a0cd8fcbc9e7b7c9cd41fa36fa768df3
 text: |
   Verify lorem markdownum tellus praesignis orbem, concutiensque monstrum,
   captam, move erat Oetaeis, viridis. **Hiemisque deum vetustas** spargit

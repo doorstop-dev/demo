@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.249
 links:
-- LLR018
-- LLR060
-- LLR110
+- LLR018: 846a8efca093ea39a87ba9cc5fdd4a68
+- LLR060: 043c258f9089b7d12cba69e292c5a7bc
+- LLR110: d4f92b7addd2c1211ae448dda0778a71
 normative: true
 ref: ''
+reviewed: 6c926dd5e242ac968fbe252907067ca1
 text: |
   **Verify lorem markdownum namque** voxque iubent; supraque quae, haec illam
   nigraque factum [expetit](http://heeeeeeeey.com/) praecincti reddidit.

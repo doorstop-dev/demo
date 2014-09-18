@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 7.3
 links:
-- HLR003
-- HLR006
-- HLR024
-- HLR043
-- HLR077
+- HLR003: cc852012ad2f6c8ad8503f5d8b6290ad
+- HLR006: f2f526a9dbb2135b4611ec40e9911260
+- HLR024: 53137531d57b6e976f8bef6eacfcb46e
+- HLR043: b0f3b0871e39677f58ef610fbdd81555
+- HLR077: f3065f2ef4069554db40e890309903dc
 normative: true
 ref: ''
+reviewed: 816ccb47b0fa2800be2b573c0891ea4f
 text: |
   Verify lorem markdownum adsistere tempora diversorum nulla supraque intumuit
   fueramque ipsa innubere: latet si opus, toto generi.

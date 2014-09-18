@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 22.4
 links:
-- HLR021
-- HLR038
-- HLR072
-- HLR074
+- HLR021: 4ccc4b832e9beef7a9d7b67b022227e4
+- HLR038: 4448f4f157157ec1b7d88bbe03489064
+- HLR072: 05c44ac66e5c91420b2c82769350fd93
+- HLR074: 38c65f74794de9a94a7cfcf4c311f80b
 normative: true
 ref: ''
+reviewed: d5ab4f8c94ca39bcba841171ab2bbad2
 text: |
   Lorem markdownum **SHALL** pontus *libravit radiorum manus* calores auxilium,
   nostras, et quae, non solitam.

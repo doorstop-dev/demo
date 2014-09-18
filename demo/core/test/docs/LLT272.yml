@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.102
 links:
-- LLR075
-- LLR090
-- LLR147
+- LLR075: 01d4ceb21ea0c4d333abaeb4a7129481
+- LLR090: d9b458f4dae913149e29052731614e8b
+- LLR147: cc692ad88deeb478f1b5889de9a3e5bf
 normative: true
 ref: ''
+reviewed: 5c8bfcfc36379d4b4cce28f87904c593
 text: |
   **Verify lorem markdownum tumulos** socia carpsere arceor: magis vela sum.
   Ingeminat *cruribus* plura collabitur proxima.

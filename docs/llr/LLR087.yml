@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 18.1
 links:
-- HLR074
-- HLR084
+- HLR074: 38c65f74794de9a94a7cfcf4c311f80b
+- HLR084: cd3a142af5aa32c38ba5338b919257fb
 normative: true
 ref: ''
+reviewed: db808fd2dc058dc872bd05edc6ba170c
 text: |
   Lorem markdownum **SHALL** nimiumque illo [hac](http://seenly.com/). [Satus
   hunc pectora](http://reddit.com/r/thathappened) toto ipse, an fixumque

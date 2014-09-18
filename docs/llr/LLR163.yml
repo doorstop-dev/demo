@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 23.56
 links:
-- HLR084
-- HLR090
-- HLR100
+- HLR084: cd3a142af5aa32c38ba5338b919257fb
+- HLR090: c054ce5e5cb3a312beafa71336371542
+- HLR100: 35ea93d184f00bcc36421dd33778b9cf
 normative: true
 ref: ''
+reviewed: dbbad47841fd3c3351aee5d8248fe932
 text: |
   Lorem markdownum **SHALL** sedes, nato dis eget.
   Dimovit aque et oculis fatigatum deosque poterat *latratu*, sex.

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 1.2
 links:
-- HLR028
-- HLR036
-- HLR093
-- HLR099
+- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
+- HLR036: b85c4146e31bab43dac352c217430641
+- HLR093: 8c277eeda417521852a9051e6a58907d
+- HLR099: 26e72fa3e3a95b20a96d530e001a4652
 normative: true
 ref: ''
+reviewed: 0f79daf02757d7dff48d073cbc785425
 text: |
   Lorem markdownum **SHALL** auctor; captam diu me per cernit litore!
   Quos apium infernum racemiferis quam suorum aperta prendique variat, neque

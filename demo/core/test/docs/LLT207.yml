@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.68
 links:
-- LLR050
-- LLR116
-- LLR148
-- LLR175
+- LLR050: bfb3a23e87baa84cf112006321c9d67f
+- LLR116: 7dee84fcae76f2a049c29bad5cda9a02
+- LLR148: 35db560e103c5327c42f1665556a51dd
+- LLR175: a79505d63c5c666e837f79e5a9350321
 normative: true
 ref: ''
+reviewed: 7e130e3c19a32b5afaddb423e3719429
 text: |
   Verify lorem markdownum dextra arbore.
   Anilem [sua](http://www.wedrinkwater.com/) intrata bacis amicitur restituit

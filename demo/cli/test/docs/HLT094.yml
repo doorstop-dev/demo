@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.122
 links:
-- HLR010
-- HLR072
+- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
+- HLR072: 05c44ac66e5c91420b2c82769350fd93
 normative: true
 ref: ''
+reviewed: a464646747d8a334ce270ba587ed46f3
 text: |
   Verify lorem markdownum adspexerit simul concilium medio an castris.
   Quem Agenore, sceptri est, et per dies et nec iusserat vocalis hostem.

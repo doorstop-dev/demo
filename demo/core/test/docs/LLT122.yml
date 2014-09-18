@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.201
 links:
-- LLR058
-- LLR157
-- LLR198
+- LLR058: 0d5fd0c4a96904e1f3c60f7df851404c
+- LLR157: 00ca8adaed558e2918fc545257544ba0
+- LLR198: b838b48fac441d782a269dc6d1cd5e42
 normative: true
 ref: ''
+reviewed: 632077ba73b26ee8cea4a29d53ac87be
 text: |
   Verify lorem markdownum. *Sociae paene fluctus*, ius lenis singula fretum.
   Pars altera?

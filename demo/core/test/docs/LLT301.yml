@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.181
 links:
-- LLR007
-- LLR011
-- LLR014
-- LLR160
-- LLR191
+- LLR007: 4411072d4714615d639f6affc0711806
+- LLR011: 8e3f74964883fbffaf5595ce5c966a57
+- LLR014: d595c1e73db339117a82cd6206a71a34
+- LLR160: f517facbd8725c3a5815ad9539659e78
+- LLR191: 3609e58c2c304fc35bfbe74e6b6e08d5
 normative: true
 ref: ''
+reviewed: 0104cede2ed3c647c9c46ca579dc53cf
 text: |
   Verify lorem markdownum suo sed versae iubar esse, sub dabat oportuit
   Tantalus.

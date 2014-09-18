@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.66
 links:
-- HLR005
-- HLR017
-- HLR093
-- HLR098
+- HLR005: 782d35ca3637a2b49051cc44dc073f0a
+- HLR017: 7c34babb079cf13f34cc6379f6d62f8e
+- HLR093: 8c277eeda417521852a9051e6a58907d
+- HLR098: 42a0dc5551d1fb162523da962f4761e9
 normative: true
 ref: ''
+reviewed: 32d6243a8ac99e51604df7b16601dd10
 text: |
   Verify lorem markdownum siccis dixit tetigere auro ne exercet senex
   pallebant.

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 13.1
 links:
-- HLR004
-- HLR014
-- HLR017
-- HLR040
-- HLR061
+- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
+- HLR014: 9f92692d382bfcf647ac097d27369c0a
+- HLR017: 7c34babb079cf13f34cc6379f6d62f8e
+- HLR040: 6deccb32d8c2be5a7b69b0447c3f78ab
+- HLR061: 21d47aa8307e87377b55817212beae08
 normative: true
 ref: ''
+reviewed: a62b57f0e175c45e0b7d95cad4b65dbc
 text: |
   Lorem markdownum **SHALL** lucifer socios ingemuit tumulus, enim his sanguis
   adnuit.

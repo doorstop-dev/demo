@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.123
 links:
-- HLR003
-- HLR032
-- HLR085
+- HLR003: cc852012ad2f6c8ad8503f5d8b6290ad
+- HLR032: c5dc24fd573b5eeb3c174f7484889bef
+- HLR085: 8f9bb7708fb44a90426d24efe969e48e
 normative: true
 ref: ''
+reviewed: 51fab5903bd2a8d8b8994b2fffe11cba
 text: |
   Verify lorem markdownum positum velim iterum; vis **voce tendo** facti album;
   metu dolor: quam.

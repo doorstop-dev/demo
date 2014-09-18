@@ -2,13 +2,14 @@ active: true
 derived: false
 level: '5.160'
 links:
-- LLR076
-- LLR081
-- LLR088
-- LLR150
-- LLR181
+- LLR076: 0bbcf61d30aa067824559346ae25d650
+- LLR081: a6e6601cdc9e9515b9963bebefd3b7bd
+- LLR088: 81e34fdf6a5d0f98639d08994137636b
+- LLR150: 2a668081167c38a07853ab8e9ebdb0ba
+- LLR181: e613d7310ec84c7e1f1bd0e63f8ad9a6
 normative: true
 ref: ''
+reviewed: fee08d6222156e5820c797dfbf1d3983
 text: |
   Verify lorem markdownum borea vidit in laeto deus est aliis Quas et locus
   mittantur *miserae*. Tum vera, armentaque tot est Diomedeos mecum candida

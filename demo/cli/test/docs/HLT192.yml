@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.115
 links:
-- HLR014
-- HLR048
-- HLR094
-- HLR096
+- HLR014: 9f92692d382bfcf647ac097d27369c0a
+- HLR048: 56aa735358f7210502ed2e7a7527fa22
+- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
+- HLR096: 106add8d49e2341dc81214cee7519924
 normative: true
 ref: ''
+reviewed: ae00f3a66efc092a5aecc1eda8eb25f3
 text: |
   Verify lorem markdownum; inviso qui nunc sublato crine.
   Iterum cadunt forma flectitque quaeritis hinc nova proelia inhospita capiebat

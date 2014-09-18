@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.271
 links:
-- LLR045
-- LLR046
-- LLR108
-- LLR145
-- LLR175
+- LLR045: 2b2bbd5d332cf39b8c0c79fc138bb541
+- LLR046: 92637661b5586866c199eb233ddfe721
+- LLR108: c1a114feff4259080452e9fd12866bf4
+- LLR145: 124d6bdce14f146896308d25cbd52fb3
+- LLR175: a79505d63c5c666e837f79e5a9350321
 normative: true
 ref: ''
+reviewed: e6f5c61bcdf50fdabfee56998994e603
 text: |
   Verify lorem markdownum exitus minimo aspera quondam, est verba; non.
   Graiae odiique: verum mentis stagnare scripto cruentat nitenti munus utiliter

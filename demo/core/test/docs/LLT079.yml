@@ -2,10 +2,11 @@ active: true
 derived: false
 level: '5.50'
 links:
-- LLR052
-- LLR055
+- LLR052: e081bab96105b39d5150231936d49c80
+- LLR055: 949555a50b6454ee210ce5e68b8cc832
 normative: true
 ref: ''
+reviewed: 29883b335ca784c3d4dde17784cf47dc
 text: |
   Verify lorem markdownum fugat.
   Phoebus modo madentes Iuppiter capillos constituis Peleu, aeternum montis:

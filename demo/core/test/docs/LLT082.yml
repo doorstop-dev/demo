@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.18
 links:
-- LLR022
-- LLR081
+- LLR022: e1eb4a095115ae7f561055deb1fdcb78
+- LLR081: a6e6601cdc9e9515b9963bebefd3b7bd
 normative: true
 ref: ''
+reviewed: 5b52361f2f101043a81721d665f06cb9
 text: |
   Verify lorem markdownum et atque ex et erit decidit repetam foresque aequore
   terraeque.

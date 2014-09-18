@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.244
 links:
-- LLR015
-- LLR103
-- LLR115
-- LLR182
-- LLR194
+- LLR015: 511daeb80400c3657cb4a79b719f702b
+- LLR103: 49d38e9df072843287984207cfdad546
+- LLR115: 43962294b00b7f8a135433e059b47731
+- LLR182: f0730680dde484a18434a42036c292d6
+- LLR194: 9edda2068ef3c40b6dbbf82357766ec1
 normative: true
 ref: ''
+reviewed: 1bbbb77656a09dd4fca3723eee54b887
 text: |
   Verify lorem markdownum coercebat praedae mixta ubi satis est.
   Prius ab Minervae, nocens classe poterat eburnea equorum, et gente *desinite*

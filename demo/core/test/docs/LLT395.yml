@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.343
 links:
-- LLR178
+- LLR178: 2bca330709295894e37124d441e44856
 normative: true
 ref: ''
+reviewed: 7e7b19f76afaa30fb4c67161f7fbc956
 text: |
   **Lorem** markdownum qualem, pietasque est ligari Marte, hac.
   Coniuge fuerunt nequiquam sequente uterque auras salus tamen insequitur

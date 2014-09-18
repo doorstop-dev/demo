@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 21.4
 links:
-- HLR073
-- HLR078
-- HLR097
+- HLR073: f1399f4ebb54c6d8ad15181b5218d154
+- HLR078: 6ea8b59559dcdbc2e8b40f656f7a74af
+- HLR097: 9c167b955cc3e7cb92dcfdd46066a1d5
 normative: true
 ref: ''
+reviewed: f436a02612514c78f13cf0a058e20301
 text: |
   Lorem markdownum **SHALL** succensaque leucada aderit caput copia per, omnia
   est, pellis, committere sibi clipeum silva Nycteida.

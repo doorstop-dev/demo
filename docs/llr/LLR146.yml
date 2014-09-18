@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 23.63
 links:
-- HLR057
-- HLR063
-- HLR097
+- HLR057: 108e6d69b95a3929d748aafdd89297e7
+- HLR063: b1b6217c7cf6d7be814389b1bdadedc2
+- HLR097: 9c167b955cc3e7cb92dcfdd46066a1d5
 normative: true
 ref: ''
+reviewed: 4ced3e7928d08e6a12e71aaf05167e31
 text: |
   Lorem markdownum **SHALL** damna, caput enim totum Atrides se vestra parabam
   Panopeusque forte [cedere mentis

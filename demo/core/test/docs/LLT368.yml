@@ -2,11 +2,12 @@ active: true
 derived: false
 level: '5.340'
 links:
-- LLR068
-- LLR107
-- LLR193
+- LLR068: eb0c3b5027bbbdb5ae40d72ff583507d
+- LLR107: 0cd0c9beea240374f597fce6adaa27b2
+- LLR193: 4fef0018e0b9ff8b050310b680af4f5b
 normative: true
 ref: ''
+reviewed: a7dd1835872b28bf4445533790669f18
 text: |
   Lorem **markdownum ab**? Tua ire crescendo fratribus vitam, te Nereida pater
   stipite.

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.139
 links:
-- LLR007
-- LLR093
-- LLR104
-- LLR177
+- LLR007: 4411072d4714615d639f6affc0711806
+- LLR093: 80ed4575b30ded58c20cad5011feac3c
+- LLR104: f99d532ca0fd3848201ec86b50dfff79
+- LLR177: 58c096994f29519d6018bea199aced66
 normative: true
 ref: ''
+reviewed: 2398170b2cbf295815ed8d4bfa8933eb
 text: |
   Verify lorem markdownum mixta et inter de cervina sententia faciem, en illis
   *ibi aras*. Flores iam centum pugnae et gutture; multas, est ferro quis, non

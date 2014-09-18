@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.99
 links:
-- LLR126
-- LLR194
+- LLR126: 784b83868427a01f02b080c3d849117c
+- LLR194: 9edda2068ef3c40b6dbbf82357766ec1
 normative: true
 ref: ''
+reviewed: 36bcb1ff364c92e29a7570ade1238dbc
 text: |
   Verify lorem markdownum caede, *capilli* minimum cretus.
   Hoc non Tyrioque carinae est, pello Ethemon, est tu manus ait ducis comitum.

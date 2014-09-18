@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.214
 links:
-- LLR026
-- LLR107
-- LLR133
-- LLR196
+- LLR026: 3dc958b925b2551871d4ce8884703ea6
+- LLR107: 0cd0c9beea240374f597fce6adaa27b2
+- LLR133: 2a984f8410a468e3eb6943b70c20b962
+- LLR196: 9fb7b9c99b528b33372a9d827533b855
 normative: true
 ref: ''
+reviewed: ca744195f1c9b1d39bb017c882d63ef1
 text: |
   **Verify lorem markdownum tenax**. Visa loqui torrem divino os artem
   includit?

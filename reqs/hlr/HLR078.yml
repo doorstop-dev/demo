@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 7.12
 links:
-- SYS030
-- SYS031
-- SYS038
-- SYS039
-- SYS041
+- SYS030: 14925ccf4cc562fc37dfe1f227670277
+- SYS031: 02110a2f5e4021cd6d9108ed20bfaf80
+- SYS038: 5ea4bbd075c62c08d752df5ec44187e5
+- SYS039: f544502e654e3ad1584bdd777c736107
+- SYS041: ebfbfdde8ec147cc80c10c54df11ba87
 normative: true
 ref: ''
+reviewed: 9de894c272d037536cbcf903c1a9b1fd
 text: |
   Lorem markdownum **SHALL** vultibus tempus; vix belli, relictus Neptunus est,
   cecidere.

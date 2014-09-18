@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 7.27
 links:
-- SYS005
-- SYS008
-- SYS039
-- SYS044
+- SYS005: 65446a896ca655fd47cc2bc9151ce93c
+- SYS008: 6a2015090c976f3aebaa431a7fdeda60
+- SYS039: f544502e654e3ad1584bdd777c736107
+- SYS044: c802e5041616d559eb6bae4bdeeb4742
 normative: true
 ref: ''
+reviewed: c9cf70505db97da2f7f6a434c839d12e
 text: |
   Lorem markdownum **SHALL** tutela.
   Sociare et deus draconis, [bubo nil](http://zeus.ugent.be/), per ventos

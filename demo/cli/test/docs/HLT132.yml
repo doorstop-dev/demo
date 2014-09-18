@@ -2,12 +2,13 @@ active: true
 derived: false
 level: '8.160'
 links:
-- HLR075
-- HLR090
-- HLR096
-- HLR100
+- HLR075: 024621d141e0d33a01100d381bf459b2
+- HLR090: c054ce5e5cb3a312beafa71336371542
+- HLR096: 106add8d49e2341dc81214cee7519924
+- HLR100: 35ea93d184f00bcc36421dd33778b9cf
 normative: true
 ref: ''
+reviewed: eda1b2ea885a80c0b0425053dbbc8fc0
 text: |
   Verify lorem markdownum, est et nostro totidem fratrum perpetuoque atque;
   eadem nunc volanti vultus adest pendentia medios.

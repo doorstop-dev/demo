@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.152
 links:
-- HLR021
-- HLR032
-- HLR064
+- HLR021: 4ccc4b832e9beef7a9d7b67b022227e4
+- HLR032: c5dc24fd573b5eeb3c174f7484889bef
+- HLR064: 738b10155b97a5775f28bab75eb8c067
 normative: true
 ref: ''
+reviewed: 5bf50aeb6531124445b12bcb2b8b73a5
 text: |
   Verify lorem markdownum carpit et do fidelius capitis, anguem funibus petit.
   Ora **quod auditaque** te urbes sed lentas iniuria extinctum quoque ora

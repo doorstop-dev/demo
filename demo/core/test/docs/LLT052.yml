@@ -2,9 +2,10 @@ active: true
 derived: false
 level: '5.270'
 links:
-- LLR037
+- LLR037: c9c3f63de803a8a1a2306defd87835fb
 normative: true
 ref: ''
+reviewed: 20de14ad005a2291011fff559312db5c
 text: |
   Verify lorem markdownum petis, secundi Minos, fato est et socer quos, vobis,
   in vatis canities Romana.

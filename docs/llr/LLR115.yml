@@ -2,13 +2,14 @@ active: true
 derived: false
 level: '23.70'
 links:
-- HLR035
-- HLR042
-- HLR056
-- HLR071
-- HLR094
+- HLR035: c16bb23865576b4a8c7b4da3a1c2c04e
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR056: 3d664384d81be055e722570cbd7c225f
+- HLR071: eb5f019d9458e537f2a0e396d6ec2f0d
+- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
 normative: true
 ref: ''
+reviewed: 5fbd71ff2055b50c4a459b6b171acf60
 text: |
   Lorem markdownum **SHALL** noctis vidisse parma pia quodque nymphae intendunt
   [orbem](http://haskell.org/).

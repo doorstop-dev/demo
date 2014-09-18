@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 23.49
 links:
-- HLR032
-- HLR040
-- HLR041
-- HLR058
-- HLR086
+- HLR032: c5dc24fd573b5eeb3c174f7484889bef
+- HLR040: 6deccb32d8c2be5a7b69b0447c3f78ab
+- HLR041: f42aec3f2f02f0642a0302c55af31291
+- HLR058: 4d68e2da5f4ace8317b50f88c9bfd46d
+- HLR086: 8ffc8c6aaccf0712b20ca54488b704c7
 normative: true
 ref: ''
+reviewed: 91c7a749a32707935965a42af668609e
 text: |
   Lorem markdownum **SHALL** silvas loquor videntur medicina in lusibus, non
   modo emittite durus ferro.

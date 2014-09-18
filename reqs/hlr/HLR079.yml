@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 7.18
 links:
-- SYS014
-- SYS020
-- SYS029
-- SYS032
+- SYS014: 19c97732e34a0a8dafd81e6e0f633ad9
+- SYS020: 0591e27f677d2720d15d143bbcc2883e
+- SYS029: 8eab84fc2e01cc95b1ea86297f47c58a
+- SYS032: d3d67136795247b45adc46ed15a18fa2
 normative: true
 ref: ''
+reviewed: d84cd310ef33de7a270306c6bb903718
 text: |
   Lorem markdownum **SHALL**. Mihi pudore et meum paterno, conspiceris
   permulcetque discordia patrias, ille quotiens aureus et iam eodem, manu.

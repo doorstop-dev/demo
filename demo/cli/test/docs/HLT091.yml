@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.71
 links:
-- HLR038
-- HLR041
-- HLR046
+- HLR038: 4448f4f157157ec1b7d88bbe03489064
+- HLR041: f42aec3f2f02f0642a0302c55af31291
+- HLR046: 816db4153bde67375509bac7fd4c998a
 normative: true
 ref: ''
+reviewed: 9afc8630f819b8b7430850903b70f1f0
 text: |
   Verify lorem markdownum poenas, aere sic obsequio!
   Sacrificos piae hominumque relicto Faunigenaeque donisque qui deae placet sum

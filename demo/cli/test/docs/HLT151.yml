@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.27
 links:
-- HLR040
+- HLR040: 6deccb32d8c2be5a7b69b0447c3f78ab
 normative: true
 ref: ''
+reviewed: ddad1ecb88be8fa4f963866f967de00f
 text: |
   Verify lorem markdownum fluminibus cera **non** est sanguine referente aurea,
   aut musco patria pontus.

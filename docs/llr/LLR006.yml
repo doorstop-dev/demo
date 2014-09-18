@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 2.2
 links:
-- HLR077
+- HLR077: f3065f2ef4069554db40e890309903dc
 normative: true
 ref: ''
+reviewed: 95cb43516580701d552f288d33af5de4
 text: |
   Lorem markdownum **SHALL** tepebat, extimuit aequalis cupio habendam laevae
   [cannas](http://seenly.com/).

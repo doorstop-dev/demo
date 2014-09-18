@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 1.1
 links:
-- HLR037
-- HLR042
-- HLR057
+- HLR037: 5594301e2db2b6d85bbb940a4010a550
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR057: 108e6d69b95a3929d748aafdd89297e7
 normative: true
 ref: ''
+reviewed: 61a8992b3e23539df1eeec6d728c3f5f
 text: |
   Lorem markdownum **SHALL**, eloquio: Orci onus frontem oenea harpen.
   Secuta est *aequo incedit exanimis* incumbit comis, harenam demptum.

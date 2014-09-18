@@ -2,9 +2,10 @@ active: true
 derived: false
 level: '8.50'
 links:
-- HLR052
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
 normative: true
 ref: ''
+reviewed: 212ef14fb8c888907fc60f016958805d
 text: |
   Verify lorem markdownum ferunt.
   Ad manu puto Pelion petit si viderent densi Androgeique mente, videre?

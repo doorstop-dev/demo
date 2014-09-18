@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 23.69
 links:
-- HLR029
-- HLR052
-- HLR056
-- HLR095
-- HLR096
+- HLR029: 1d5062f71b5637b24b6346586d1676f3
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
+- HLR056: 3d664384d81be055e722570cbd7c225f
+- HLR095: 5c1e4086f2b6913304bca55a2ae3c065
+- HLR096: 106add8d49e2341dc81214cee7519924
 normative: true
 ref: ''
+reviewed: a5bd0536fc4149cf79313c8fcab0beb5
 text: |
   Lorem markdownum **SHALL** sono pericula canis redeuntibus iuventae: limite
   non albi credens futuri harundine.

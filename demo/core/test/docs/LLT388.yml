@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.76
 links:
-- LLR052
-- LLR059
-- LLR106
-- LLR126
-- LLR188
+- LLR052: e081bab96105b39d5150231936d49c80
+- LLR059: 145aff24cbe27e19de98eb5c916e1bf1
+- LLR106: 94ec80204ad02a8a52eb8fef583e93d4
+- LLR126: 784b83868427a01f02b080c3d849117c
+- LLR188: 5d39b205d1b9f469cbd3d65beebaeab2
 normative: true
 ref: ''
+reviewed: 65d34ff755587411eed3783cab8629cd
 text: |
   Verify lorem markdownum vaccae candidioribus quibus arvis ullo si mille
   pietatis pendere aethere.

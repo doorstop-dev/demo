@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.135
 links:
-- LLR002
-- LLR111
-- LLR143
-- LLR178
+- LLR002: 946302ba227fbe738e398b635e961a55
+- LLR111: 695a964ff264415f100ccaab614213a4
+- LLR143: 06de9a20b56b2148f372cc08d11cb614
+- LLR178: 2bca330709295894e37124d441e44856
 normative: true
 ref: ''
+reviewed: 14eccceb96aea93859983cb925131ff7
 text: |
   Verify lorem markdownum, quemque percussa cumque eburnea in natarum curasque.
   Ferant pocula!

@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.317
 links:
-- LLR036
-- LLR115
+- LLR036: 25962829aec75e19ba7b127da88d32a0
+- LLR115: 43962294b00b7f8a135433e059b47731
 normative: true
 ref: ''
+reviewed: f889941f88e04c55050adcf084c90968
 text: |
   Verify lorem markdownum nomine iunxisse, infitiatur forma, fida est, ad albus
   vidit, et.

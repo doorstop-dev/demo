@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 18.2
 links:
-- HLR099
+- HLR099: 26e72fa3e3a95b20a96d530e001a4652
 normative: true
 ref: ''
+reviewed: b3599a67e68eb86a6cab2af6c1cc214b
 text: |
   Lorem **markdownum** virtute?
   Sic heu curasque ducit.

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.96
 links:
-- HLR006
-- HLR021
-- HLR042
-- HLR053
+- HLR006: f2f526a9dbb2135b4611ec40e9911260
+- HLR021: 4ccc4b832e9beef7a9d7b67b022227e4
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR053: aca512755df1944bbde060425662d88e
 normative: true
 ref: ''
+reviewed: 9f63e4d5ef7c12c17d59277bc0787e88
 text: |
   Verify lorem markdownum foret tegitur utque Iovis flores, Iuno haerent pueri,
   non Solem, Prytaninque.

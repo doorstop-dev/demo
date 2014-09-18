@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.215
 links:
-- LLR119
-- LLR132
-- LLR146
+- LLR119: a7f4eace198800df898b434f6bf6a96e
+- LLR132: 351c9bfbb049076fcb54dd9542a8c719
+- LLR146: d67cf5bfb3b4d0a1c51f8ea7ddef9976
 normative: true
 ref: ''
+reviewed: 8ebdf2c389ab72f360df0446388a6ffb
 text: |
   Verify lorem markdownum arboris quo quia classem recepit columbam ascendunt
   et adflat, ut altera o oculos.

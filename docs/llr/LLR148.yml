@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 23.82
 links:
-- HLR088
+- HLR088: c9bece27e8e832e9e39e6931ce494a30
 normative: true
 ref: ''
+reviewed: 1511d4d5e8a366fba00ff4051b0732ce
 text: |
   Lorem markdownum **SHALL** tuetur parce tunc praemia admonita est precor
   duxit sub *saepe exigua tenet*. Cum ab albentibus ire sit, verus iam, equina

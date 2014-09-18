@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 20.1
 links:
-- HLR059
+- HLR059: 78b7ca6f523c75544862bbfa58942b37
 normative: true
 ref: ''
+reviewed: 5441294d86820994bc32598c5abf49c7
 text: |
   Lorem markdownum **SHALL** fuisset talia rogat?
   Oculis *bene* nolet Error ferrum et linguam abstulit.

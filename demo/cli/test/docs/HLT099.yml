@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.56
 links:
-- HLR024
-- HLR051
-- HLR080
+- HLR024: 53137531d57b6e976f8bef6eacfcb46e
+- HLR051: 6963e01374087f10fa114650be974ce9
+- HLR080: 299534fd5a7eca46f589c6322b659423
 normative: true
 ref: ''
+reviewed: 64aaebb73eba5cd17a5fcf3e251b49b7
 text: |
   Verify lorem markdownum cuive, est iam est armata quaecumque luminis, vestrum
   dictis querorque nomina inprobe medullas cumque.

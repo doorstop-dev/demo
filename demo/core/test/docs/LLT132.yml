@@ -2,12 +2,13 @@ active: true
 derived: false
 level: '5.240'
 links:
-- LLR028
-- LLR075
-- LLR104
-- LLR131
+- LLR028: 909f6cb75aedcb302a1c69e8947c5122
+- LLR075: 01d4ceb21ea0c4d333abaeb4a7129481
+- LLR104: f99d532ca0fd3848201ec86b50dfff79
+- LLR131: 34d163747a7d8ab6b875342193a6edef
 normative: true
 ref: ''
+reviewed: 60334fe23975be1d0afc86722176bb3e
 text: |
   Verify lorem markdownum leves, coronas annum nutricibus arripit.
   Est coeptis, quondam **sponte** squalere desistunt perisset senem Alcyone,

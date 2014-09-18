@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 15.3
 links:
-- HLR046
-- HLR057
-- HLR061
+- HLR046: 816db4153bde67375509bac7fd4c998a
+- HLR057: 108e6d69b95a3929d748aafdd89297e7
+- HLR061: 21d47aa8307e87377b55817212beae08
 normative: true
 ref: ''
+reviewed: 8445ca8cf722a8e3cdc60fd28eb0827d
 text: |
   Lorem markdownum **SHALL** tantummodo deosque eminet
   [distantibus](http://www.lipsum.com/) noctem: hinnitus sunt tamen, et

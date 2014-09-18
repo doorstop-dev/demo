@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.282
 links:
-- LLR018
-- LLR026
-- LLR088
-- LLR136
-- LLR191
+- LLR018: 846a8efca093ea39a87ba9cc5fdd4a68
+- LLR026: 3dc958b925b2551871d4ce8884703ea6
+- LLR088: 81e34fdf6a5d0f98639d08994137636b
+- LLR136: b82dde69854b106b388bcbd7fc4eb0d3
+- LLR191: 3609e58c2c304fc35bfbe74e6b6e08d5
 normative: true
 ref: ''
+reviewed: 7e4f011cf006ded45db501dbd6ff4413
 text: |
   Verify lorem markdownum inque fabula, digitos.
   Ramis et oscula haud duxerat; quod arator opem tempora?

@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.104
 links:
-- LLR052
-- LLR118
-- LLR131
+- LLR052: e081bab96105b39d5150231936d49c80
+- LLR118: 57d3194c885e4d5c854104eef193abdc
+- LLR131: 34d163747a7d8ab6b875342193a6edef
 normative: true
 ref: ''
+reviewed: 349433aeeaad7feef5bfcd8f06fdd759
 text: |
   Verify lorem markdownum suae nec; poscunt Ceres, evicit redolentia mihi;
   ulciscere.

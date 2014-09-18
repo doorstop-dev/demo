@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.256
 links:
-- LLR036
-- LLR074
-- LLR138
-- LLR160
+- LLR036: 25962829aec75e19ba7b127da88d32a0
+- LLR074: 56e69a375bcfccf5d22d5f3623f3e5f3
+- LLR138: 7287219bdd9f445b3f3650b766fc037f
+- LLR160: f517facbd8725c3a5815ad9539659e78
 normative: true
 ref: ''
+reviewed: 442ccdfabdc9abfa8f0a5c2b9a4aefe2
 text: |
   Verify lorem markdownum.
   Iunci suis **vati Semeles** eundem.

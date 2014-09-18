@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 23.3
 links:
-- HLR013
-- HLR014
-- HLR047
-- HLR066
+- HLR013: a08f2929dcca39e42a0270e8f7db581b
+- HLR014: 9f92692d382bfcf647ac097d27369c0a
+- HLR047: f64502605f5781802a5de46f36e137d5
+- HLR066: 28e63ccca90b062ccfdc3c168cc3369b
 normative: true
 ref: ''
+reviewed: f70d110628bb01f1f343e2b710aafdc2
 text: |
   Lorem markdownum **SHALL** caput spectant
   [exierant](http://www.youtube.com/watch?v=MghiBW3r65M).

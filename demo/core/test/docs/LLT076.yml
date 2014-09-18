@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.158
 links:
-- LLR065
-- LLR075
-- LLR132
-- LLR158
-- LLR166
+- LLR065: fa5ea5a267f5ce36f579b8ae05c696d8
+- LLR075: 01d4ceb21ea0c4d333abaeb4a7129481
+- LLR132: 351c9bfbb049076fcb54dd9542a8c719
+- LLR158: 44daff2d3d382b683e9d6297f83d21ce
+- LLR166: 1db2c528f73fa1d4a4d5405549a199fc
 normative: true
 ref: ''
+reviewed: 766b7ed2423a8ed1241c839599eef013
 text: |
   Verify lorem markdownum Troiae!
   Tristique telum.

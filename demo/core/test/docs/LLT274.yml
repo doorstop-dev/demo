@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.178
 links:
-- LLR067
-- LLR121
+- LLR067: 2ac99d34e042e4f33fe3e247eaff1b7e
+- LLR121: c5dad8c6cadfc70e8cdff8a8c8aecb42
 normative: true
 ref: ''
+reviewed: d30283679c6731e5c4e30a8208718376
 text: |
   Verify lorem markdownum hanc credite, videre solus et feruntur et erant
   repandus fidumque superare, cum sit?

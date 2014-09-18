@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 7.56
 links:
-- SYS002
-- SYS008
-- SYS024
-- SYS033
-- SYS047
+- SYS002: d880b59c0bc5a060d41922110b833f3f
+- SYS008: 6a2015090c976f3aebaa431a7fdeda60
+- SYS024: 8d3dec6858bdafcb1122e3eb49aec044
+- SYS033: b526581cadf9dbf96ee532a63b221052
+- SYS047: 4abb481caeaf5d092ad9483e46e4c162
 normative: true
 ref: ''
+reviewed: 537645f9159c58d4baacfcc91f2412cf
 text: |
   Lorem markdownum **SHALL** Theseus.
   Quod amor trepida **me** pectus gemini ipsa sparsi gentibus Ampycus.

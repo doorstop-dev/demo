@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.355
 links:
-- LLR052
-- LLR166
+- LLR052: e081bab96105b39d5150231936d49c80
+- LLR166: 1db2c528f73fa1d4a4d5405549a199fc
 normative: true
 ref: ''
+reviewed: d88529e65e722ac5fba88a790d15b40a
 text: |
   Verify lorem markdownum in adde conveniunt mandata Iovem, Claros, erat sonat
   feris ipsum portae **parens** terras.

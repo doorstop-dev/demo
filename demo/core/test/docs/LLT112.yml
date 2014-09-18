@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.162
 links:
-- LLR069
-- LLR143
-- LLR149
-- LLR193
-- LLR194
+- LLR069: 9b382e037e222983b579ae1367cc9d98
+- LLR143: 06de9a20b56b2148f372cc08d11cb614
+- LLR149: ad81416b24889e7f913ef56aac46dac7
+- LLR193: 4fef0018e0b9ff8b050310b680af4f5b
+- LLR194: 9edda2068ef3c40b6dbbf82357766ec1
 normative: true
 ref: ''
+reviewed: 5e1addd40930483da887033f0f6e6204
 text: |
   Verify lorem markdownum quamquam, sermone, non non nostri es officium tradita
   lapsus antiquam sine.

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 23.42
 links:
-- HLR011
-- HLR016
-- HLR029
-- HLR046
-- HLR055
+- HLR011: fb47d13ca2bcd7c22beff68af53ef365
+- HLR016: f62dcef37de26a547aa5a43e2558de94
+- HLR029: 1d5062f71b5637b24b6346586d1676f3
+- HLR046: 816db4153bde67375509bac7fd4c998a
+- HLR055: 1984551a3ed8ff9a4827af2afc7467a9
 normative: true
 ref: ''
+reviewed: 36fff264c4e0ffe0e9272b6de4b634e2
 text: |
   Lorem markdownum **SHALL** inmania satis.
   Ita sum multae laedere quoque caeli inploravere neve liquidas dabat, nec si

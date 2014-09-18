@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.92
 links:
-- LLR030
-- LLR161
-- LLR164
-- LLR193
+- LLR030: 283fba5a9ccda802096ce549c4d65987
+- LLR161: bfb18b97608092f947638a7496a5981d
+- LLR164: 321f045ce0af86e5e8536f7835f52f34
+- LLR193: 4fef0018e0b9ff8b050310b680af4f5b
 normative: true
 ref: ''
+reviewed: 17ee608e8b0c25c6ceea4e6b6749fea9
 text: |
   Verify lorem markdownum aliena
   [excipit](http://en.wikipedia.org/wiki/Sterling_Archer) feruntur.

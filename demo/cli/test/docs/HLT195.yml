@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.166
 links:
-- HLR006
-- HLR046
-- HLR058
-- HLR076
+- HLR006: f2f526a9dbb2135b4611ec40e9911260
+- HLR046: 816db4153bde67375509bac7fd4c998a
+- HLR058: 4d68e2da5f4ace8317b50f88c9bfd46d
+- HLR076: 62d8f849b82682833a2295608f3347b5
 normative: true
 ref: ''
+reviewed: 0b7bdf63c83496c6885fe8b1c84bb769
 text: |
   Verify lorem markdownum enim non: umbras breviter eripiat, magni refers ferox
   et toto carmina domum **heros** accedat.

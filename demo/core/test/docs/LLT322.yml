@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.297
 links:
-- LLR031
-- LLR038
+- LLR031: 59170c7a14b3c2f1551ca63ef47bb4f4
+- LLR038: a10a0544be8ecc872b568a207600fcca
 normative: true
 ref: ''
+reviewed: 35f0d5ccfe50c2e06cfed900b651a1db
 text: |
   Verify lorem markdownum et aethere Emathion me vocem Atlas senex, quid, causa
   verso induat fera ignes servitii taurum eligit.

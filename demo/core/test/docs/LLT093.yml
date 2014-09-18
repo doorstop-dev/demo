@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.122
 links:
-- LLR011
-- LLR080
-- LLR090
+- LLR011: 8e3f74964883fbffaf5595ce5c966a57
+- LLR080: 482743e766909835fff69356a23d54a3
+- LLR090: d9b458f4dae913149e29052731614e8b
 normative: true
 ref: ''
+reviewed: 4cf30a16f9cd77d7adc490d752292ace
 text: |
   Verify lorem markdownum templo *nec quaeque* oculosque frustra, **alta
   Ioles** umquam versasque quae perspice murmura, matri sol perque.

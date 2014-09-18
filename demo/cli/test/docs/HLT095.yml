@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.139
 links:
-- HLR010
-- HLR018
-- HLR032
-- HLR086
+- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
+- HLR018: 052c75e3524720b2fa74b8546334a5f6
+- HLR032: c5dc24fd573b5eeb3c174f7484889bef
+- HLR086: 8ffc8c6aaccf0712b20ca54488b704c7
 normative: true
 ref: ''
+reviewed: a3af2379b1aefaddd950bc9223cfd5f5
 text: |
   Verify lorem markdownum gaudia mutata inveniesque boum silvasque **nondum**
   ego: ab?

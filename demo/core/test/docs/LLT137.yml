@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.89
 links:
-- LLR076
-- LLR085
+- LLR076: 0bbcf61d30aa067824559346ae25d650
+- LLR085: 111e608e5b4c2b2b2bb47662312bc752
 normative: true
 ref: ''
+reviewed: 6a59de3692df243b85deaf0b177b1272
 text: |
   Verify lorem markdownum conpellat
   [iubete](http://en.wikipedia.org/wiki/Sterling_Archer), qui et servitii

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 23.44
 links:
-- HLR012
-- HLR065
-- HLR069
-- HLR099
+- HLR012: cfa33cbcb685a3d18af2bd8304c76784
+- HLR065: 3a53d19c665b6d1086f8a976b4dd7e31
+- HLR069: 83550644e3a1d495e4b9ecf35c435981
+- HLR099: 26e72fa3e3a95b20a96d530e001a4652
 normative: true
 ref: ''
+reviewed: bad812db6c10977ac5ea4b54aa1d9eea
 text: |
   Lorem markdownum **SHALL** dolet constituunt [videndi fratremque
   imagine](http://news.ycombinator.com/) fuimus, egentes flores Laelapa premit,

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.361
 links:
-- LLR062
-- LLR088
-- LLR099
-- LLR146
+- LLR062: a9d09e38c5aa7250c9c48dc22aacbe35
+- LLR088: 81e34fdf6a5d0f98639d08994137636b
+- LLR099: 2434eb70bf27e1e0e112725f4bd6bce2
+- LLR146: d67cf5bfb3b4d0a1c51f8ea7ddef9976
 normative: true
 ref: ''
+reviewed: 1a3288471ff36349a2e8048be385412c
 text: |
   Verify lorem markdownum oblitus, mortalia, resuscitat ageret serpentibus
   movet attonitus expellitur omnis patefecit lacertis; ferens pallet.

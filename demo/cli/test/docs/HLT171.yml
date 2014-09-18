@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.63
 links:
-- HLR012
-- HLR058
-- HLR062
-- HLR064
-- HLR094
+- HLR012: cfa33cbcb685a3d18af2bd8304c76784
+- HLR058: 4d68e2da5f4ace8317b50f88c9bfd46d
+- HLR062: 57e206d85145b169a59ee9e5f4bc48cf
+- HLR064: 738b10155b97a5775f28bab75eb8c067
+- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
 normative: true
 ref: ''
+reviewed: e7ea21f685f4afa5f7fa1b58d0c4a377
 text: |
   Verify lorem markdownum.
   Sustulit arbore.

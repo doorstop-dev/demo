@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.68
 links:
-- HLR014
-- HLR022
-- HLR043
+- HLR014: 9f92692d382bfcf647ac097d27369c0a
+- HLR022: d6337ec7821ed2c4a92c96fe40d7db8f
+- HLR043: b0f3b0871e39677f58ef610fbdd81555
 normative: true
 ref: ''
+reviewed: fc42a1a72ae23fdf74949c41e51b32e5
 text: |
   Lorem *markdownum ante mactatarumque* formae es ponto, tela cadet cicuta iam
   velit puellas adpositis passim squamosos.

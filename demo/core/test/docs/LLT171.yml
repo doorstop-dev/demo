@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.359
 links:
-- LLR020
-- LLR030
+- LLR020: 9216adf4af6abc48d5357999e7d3c3ff
+- LLR030: 283fba5a9ccda802096ce549c4d65987
 normative: true
 ref: ''
+reviewed: 221ec1934d5c349fe4c414cee314e599
 text: |
   Lorem [markdownum satis nitidissima](http://seenly.com/) tenuit fuit
   auditaque quae.

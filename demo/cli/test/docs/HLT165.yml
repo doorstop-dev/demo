@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.112
 links:
-- HLR005
-- HLR020
-- HLR035
-- HLR045
-- HLR058
+- HLR005: 782d35ca3637a2b49051cc44dc073f0a
+- HLR020: aae8bd09715becc5a5a95d827d615ee8
+- HLR035: c16bb23865576b4a8c7b4da3a1c2c04e
+- HLR045: 64596d19da4080f5ff6ef0ae72feb118
+- HLR058: 4d68e2da5f4ace8317b50f88c9bfd46d
 normative: true
 ref: ''
+reviewed: 61959440a452ce96ae7e13485ca07b2b
 text: |
   Verify lorem markdownum et quid, haut tua canum duritia quia Boreas tantae
   aequora inque!

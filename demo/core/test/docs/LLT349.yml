@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.57
 links:
-- LLR050
-- LLR077
+- LLR050: bfb3a23e87baa84cf112006321c9d67f
+- LLR077: cf0e34a2ff790298bb1d01c5c507e566
 normative: true
 ref: ''
+reviewed: f737bed2957eabc47a38dcf0f7132515
 text: |
   Verify lorem markdownum et audax erat rugae terrenae cratem?
   Per cur aut; das illis fovit et Caeneus restabat in periuria, foret flava,

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.28
 links:
-- LLR085
-- LLR135
-- LLR136
-- LLR164
-- LLR194
+- LLR085: 111e608e5b4c2b2b2bb47662312bc752
+- LLR135: 598ce9d3326b5d177a63ba3b679e45f7
+- LLR136: b82dde69854b106b388bcbd7fc4eb0d3
+- LLR164: 321f045ce0af86e5e8536f7835f52f34
+- LLR194: 9edda2068ef3c40b6dbbf82357766ec1
 normative: true
 ref: ''
+reviewed: b70b52a8430135b2abbf9e34c5fb81da
 text: |
   Verify lorem markdownum moratus tortum pectore quietem mare vince, sublimia
   noctis dubio corpus etiamnum ut auditos belua.

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.153
 links:
-- LLR082
-- LLR091
-- LLR103
-- LLR138
+- LLR082: 79e1d687272a583e37a65f455c883988
+- LLR091: d08b9261428d4aaa731ddf3988c54610
+- LLR103: 49d38e9df072843287984207cfdad546
+- LLR138: 7287219bdd9f445b3f3650b766fc037f
 normative: true
 ref: ''
+reviewed: b2576dded32d1ca313d2f04f4396bd59
 text: |
   Verify lorem markdownum plura, curasque et forma parte velantibus multo quam
   fugam et conditor longum viret.

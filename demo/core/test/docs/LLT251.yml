@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.328
 links:
-- LLR036
-- LLR193
+- LLR036: 25962829aec75e19ba7b127da88d32a0
+- LLR193: 4fef0018e0b9ff8b050310b680af4f5b
 normative: true
 ref: ''
+reviewed: fc7b32372c83a3d63a933d79dc59a836
 text: |
   **Lorem** markdownum sermone, excipit solo secreta, remittant abdita invita,
   leves, sed! *Undae desere ipsius* nemus odoro innumerasque Helles pestiferos

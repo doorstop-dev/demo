@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 7.17
 links:
-- SYS026
+- SYS026: 0371315d31b6634743677887951544f4
 normative: true
 ref: ''
+reviewed: acc0baa7143d4929f16a26a728f3986b
 text: |
   Lorem markdownum **SHALL** splendida quidem rectumque propiora pignora, in
   sub esto terribili, mora inultam, sit tamen, memorabile.

@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 3.4
 links:
-- HLR059
-- HLR065
-- HLR093
+- HLR059: 78b7ca6f523c75544862bbfa58942b37
+- HLR065: 3a53d19c665b6d1086f8a976b4dd7e31
+- HLR093: 8c277eeda417521852a9051e6a58907d
 normative: true
 ref: ''
+reviewed: 198b16d6f744a6aa5c0b71384ce5374e
 text: |
   Lorem markdownum **SHALL** in queri, iam primus *invidit*. A paelex sparsit
   terras umeris abstulit absumere, mei quae infelix fide frugum, et securi

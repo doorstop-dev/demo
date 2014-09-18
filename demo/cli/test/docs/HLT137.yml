@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.92
 links:
-- HLR050
+- HLR050: d965c6342dd432f6da29a07eab9ddc00
 normative: true
 ref: ''
+reviewed: 9cac4e58af67ba72e9b1a7df25238482
 text: |
   Verify lorem markdownum laboratum **caelum advertite ipsisque** agrestibus
   parvos, Iuno aut ipse non Hippocoonte humus.

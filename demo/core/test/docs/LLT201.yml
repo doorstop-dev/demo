@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.133
 links:
-- LLR068
-- LLR160
-- LLR163
-- LLR198
+- LLR068: eb0c3b5027bbbdb5ae40d72ff583507d
+- LLR160: f517facbd8725c3a5815ad9539659e78
+- LLR163: fcd4232addae4dcc40c922b89619799d
+- LLR198: b838b48fac441d782a269dc6d1cd5e42
 normative: true
 ref: ''
+reviewed: 585aeeea4bc6b81bb4eae98e0302c719
 text: |
   Verify lorem markdownum manu totoque.
   Nunc Thracum illa decor suo.

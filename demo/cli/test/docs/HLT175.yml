@@ -2,10 +2,11 @@ active: true
 derived: false
 level: '8.130'
 links:
-- HLR064
-- HLR093
+- HLR064: 738b10155b97a5775f28bab75eb8c067
+- HLR093: 8c277eeda417521852a9051e6a58907d
 normative: true
 ref: ''
+reviewed: 75894f47e193609511579d632b259800
 text: |
   [Verify lorem markdownum](http://www.wtfpl.net/) dixit.
   Tibi sub aequor, reddebant, quod qui utque ut facit officio nec, corpora his

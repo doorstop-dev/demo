@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 23.58
 links:
-- HLR048
-- HLR067
-- HLR089
+- HLR048: 56aa735358f7210502ed2e7a7527fa22
+- HLR067: 9d79eff61851f166e5b50b1101749942
+- HLR089: fc17c48818f1757f2f8a232d4f1e38cf
 normative: true
 ref: ''
+reviewed: 54dd7c9b745674cd01c3ef6367f16b0f
 text: |
   Lorem markdownum **SHALL** eadem lassatis ima, et vulnere navale timide
   **fixis**; huic mansit irae nisi mole vota aspicit.

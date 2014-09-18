@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.278
 links:
-- LLR106
-- LLR141
-- LLR144
-- LLR196
+- LLR106: 94ec80204ad02a8a52eb8fef583e93d4
+- LLR141: 63e106327494cd12077728e28c4a8595
+- LLR144: 2e5c578fa29dce571ee50e2cf82891fd
+- LLR196: 9fb7b9c99b528b33372a9d827533b855
 normative: true
 ref: ''
+reviewed: 2f2932b3e39045639757e98495c8044a
 text: |
   Verify lorem markdownum stellatus tecta: nota summo simplicitas veniat mota.
   Ille canes secreta, in sed his cornua

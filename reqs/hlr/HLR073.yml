@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 7.36
 links:
-- SYS024
-- SYS027
-- SYS035
+- SYS024: 8d3dec6858bdafcb1122e3eb49aec044
+- SYS027: e234a8b1eae0ac462268cf8f07ae1295
+- SYS035: 9c75f52600639bd63f862f24179e5e02
 normative: true
 ref: ''
+reviewed: 34a7a84a67fe29806c68a47d544a28df
 text: |
   Lorem markdownum **SHALL** cremat.
   Altera ipse vana propioris *laqueoque sensi pia*, oritur, unum.

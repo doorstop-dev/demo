@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.195
 links:
-- LLR020
-- LLR091
-- LLR107
-- LLR185
-- LLR190
+- LLR020: 9216adf4af6abc48d5357999e7d3c3ff
+- LLR091: d08b9261428d4aaa731ddf3988c54610
+- LLR107: 0cd0c9beea240374f597fce6adaa27b2
+- LLR185: 8d7a3e7f9b754814a84c77745cf7494d
+- LLR190: bc7c0aee59b03c7afbf2b20b6171021c
 normative: true
 ref: ''
+reviewed: 85c155dd0cb4fa2cd9710f8dd102b799
 text: |
   Verify lorem markdownum aqua recessit patriam longa, est et inguine tales,
   premens.

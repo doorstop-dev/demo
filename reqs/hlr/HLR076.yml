@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 7.58
 links:
-- SYS018
-- SYS026
-- SYS043
+- SYS018: e513797ecc3d28a54a26b776a4edfad1
+- SYS026: 0371315d31b6634743677887951544f4
+- SYS043: 09e6edfca1b7c96fc0daf7794cc76fc8
 normative: true
 ref: ''
+reviewed: 3ddbe1e6694d61f872596d034c57c554
 text: |
   Lorem markdownum **SHALL** saepe, haut mihi; secuta cum litora est vestrum
   orbem velis quoque in morari, Smilace?

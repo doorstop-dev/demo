@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.263
 links:
-- LLR032
-- LLR054
-- LLR110
-- LLR159
+- LLR032: 7fb560f0389fe75fdc6bbd3ebbce29ef
+- LLR054: 0cd98c784f1946189eeda5baf3eac2f4
+- LLR110: d4f92b7addd2c1211ae448dda0778a71
+- LLR159: 235a7f9a3eee2d3c452eb7359bb224a6
 normative: true
 ref: ''
+reviewed: 0a007023a8330a679c8ca276a1be457e
 text: |
   *Verify lorem markdownum*, conspiceris ensis iamque palmas nunc, hortaturque
   queri aera rediit stant.

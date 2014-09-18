@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.121
 links:
-- LLR002
-- LLR175
-- LLR197
+- LLR002: 946302ba227fbe738e398b635e961a55
+- LLR175: a79505d63c5c666e837f79e5a9350321
+- LLR197: dbd8393f43aae21469afea1e8c58a856
 normative: true
 ref: ''
+reviewed: 16890ab8da475aede5c7665f0c193fe0
 text: |
   Verify lorem markdownum ingrederis platanus feres, in dei non corpora atque
   deus.

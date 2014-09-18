@@ -2,13 +2,14 @@ active: true
 derived: false
 level: '8.10'
 links:
-- HLR029
-- HLR052
-- HLR054
-- HLR067
-- HLR086
+- HLR029: 1d5062f71b5637b24b6346586d1676f3
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
+- HLR054: b823705de2edb09151e0e5dba452a176
+- HLR067: 9d79eff61851f166e5b50b1101749942
+- HLR086: 8ffc8c6aaccf0712b20ca54488b704c7
 normative: true
 ref: ''
+reviewed: 2b28fffbb9d77fd06febcac1f2524508
 text: |
   Verify lorem markdownum dedi madent, potuit hic fateor arma heu nec per
   pronuba dixit: litatis ubi mihi **totum**. Inmitem ergo suam.

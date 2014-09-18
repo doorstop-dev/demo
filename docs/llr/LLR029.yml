@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 6.2
 links:
-- HLR004
-- HLR021
-- HLR048
-- HLR062
-- HLR079
+- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
+- HLR021: 4ccc4b832e9beef7a9d7b67b022227e4
+- HLR048: 56aa735358f7210502ed2e7a7527fa22
+- HLR062: 57e206d85145b169a59ee9e5f4bc48cf
+- HLR079: d0976b23bdd14a4a47002c3a40b83f45
 normative: true
 ref: ''
+reviewed: f210bf4089353ce3c72a0cdd7c3a0fc1
 text: |
   Lorem markdownum **SHALL** huic Scylla suae tellure ponto quo.
   Obliqua Leucothoe totum pumice facto cum ieiunia oculis.

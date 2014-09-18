@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.379
 links:
-- LLR024
-- LLR080
+- LLR024: 8c4767cb109a6d7a932f812958348234
+- LLR080: 482743e766909835fff69356a23d54a3
 normative: true
 ref: ''
+reviewed: 1bbbf7ec26e034babb6442edda957151
 text: |
   Verify lorem markdownum [ictu trahebat](http://example.com/).
   Milia fugit lanas dabat manet Diomede.

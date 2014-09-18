@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.159
 links:
-- HLR043
-- HLR048
-- HLR063
-- HLR089
+- HLR043: b0f3b0871e39677f58ef610fbdd81555
+- HLR048: 56aa735358f7210502ed2e7a7527fa22
+- HLR063: b1b6217c7cf6d7be814389b1bdadedc2
+- HLR089: fc17c48818f1757f2f8a232d4f1e38cf
 normative: true
 ref: ''
+reviewed: 09f99e03817def4e4b578c07f62a5606
 text: |
   Verify lorem markdownum corpore generis liceret cervi, non annos.
   Notus sed forma vero spe usa, in tempus vulgusque utero linguam *ore*

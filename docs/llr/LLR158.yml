@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 23.12
 links:
-- HLR008
-- HLR027
-- HLR036
-- HLR044
+- HLR008: 49a200ec0c1beeda9d14085a836a2b61
+- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
+- HLR036: b85c4146e31bab43dac352c217430641
+- HLR044: 17ba7dfa59a6605406dd7b30fecc1a7f
 normative: true
 ref: ''
+reviewed: aa14463c4a619344c5f3eed44095d8ba
 text: |
   Lorem markdownum **SHALL**, per tamen honore tabent.
   Increpuit iecur.

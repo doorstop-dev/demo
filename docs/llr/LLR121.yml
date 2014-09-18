@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 23.71
 links:
-- HLR004
-- HLR029
-- HLR043
-- HLR082
+- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
+- HLR029: 1d5062f71b5637b24b6346586d1676f3
+- HLR043: b0f3b0871e39677f58ef610fbdd81555
+- HLR082: 840ae5cd6cdc2047fa83d7e6ff7fc7b4
 normative: true
 ref: ''
+reviewed: fdde4561049db44c6862ccbc399b8120
 text: |
   Lorem markdownum **SHALL** picto.
   Insidias quaeque respicio perdam.

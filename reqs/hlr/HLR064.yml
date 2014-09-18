@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 7.35
 links:
-- SYS023
-- SYS037
+- SYS023: 7979ac1472a37ed6a263169649018754
+- SYS037: f64207efa0f6975ff4f39ba22c9c7796
 normative: true
 ref: ''
+reviewed: a27d99a8eccbf6c2d27396067dee8e39
 text: |
   Lorem markdownum **SHALL** fugit, ut duce [confinia
   et](http://www.wtfpl.net/) et conciderant omnes proximitas sublimis lumina.

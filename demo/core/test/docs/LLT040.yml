@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.155
 links:
-- LLR009
-- LLR055
-- LLR081
-- LLR116
-- LLR161
+- LLR009: 674e56f85ee0a6f6ac5e4e109e73a3bc
+- LLR055: 949555a50b6454ee210ce5e68b8cc832
+- LLR081: a6e6601cdc9e9515b9963bebefd3b7bd
+- LLR116: 7dee84fcae76f2a049c29bad5cda9a02
+- LLR161: bfb18b97608092f947638a7496a5981d
 normative: true
 ref: ''
+reviewed: 0a692e8ea5c1653864312b91dc0703c3
 text: |
   Verify lorem markdownum et terra, vota, veloxque et addit pars optet, *et*
   pretium!

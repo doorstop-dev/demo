@@ -2,12 +2,13 @@ active: true
 derived: false
 level: '5.290'
 links:
-- LLR045
-- LLR076
-- LLR099
-- LLR114
+- LLR045: 2b2bbd5d332cf39b8c0c79fc138bb541
+- LLR076: 0bbcf61d30aa067824559346ae25d650
+- LLR099: 2434eb70bf27e1e0e112725f4bd6bce2
+- LLR114: 20dd357661195c42ccbeac5351fcc491
 normative: true
 ref: ''
+reviewed: 25bae2b267ceb00979b7775a1941c4eb
 text: |
   Verify lorem markdownum Rhodanumque ignes et mihi, occidimus, aequora secto
   infligitque ausus hostis adsumpserat **nisi**; sic.

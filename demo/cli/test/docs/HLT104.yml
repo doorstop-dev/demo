@@ -2,13 +2,14 @@ active: true
 derived: false
 level: '8.140'
 links:
-- HLR028
-- HLR052
-- HLR056
-- HLR058
-- HLR078
+- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
+- HLR056: 3d664384d81be055e722570cbd7c225f
+- HLR058: 4d68e2da5f4ace8317b50f88c9bfd46d
+- HLR078: 6ea8b59559dcdbc2e8b40f656f7a74af
 normative: true
 ref: ''
+reviewed: bed4ee489fc1b8e74acd94056303cc68
 text: |
   Verify lorem markdownum ipse arboribus motu, abstemius retro ille consilii
   saevit.

@@ -2,9 +2,10 @@ active: true
 derived: false
 level: '8.40'
 links:
-- HLR077
+- HLR077: f3065f2ef4069554db40e890309903dc
 normative: true
 ref: ''
+reviewed: 5a5df5ceae84205cf09d73e5ae851164
 text: |
   Verify lorem markdownum milia curae populorum telis armiferos vobis
   tribulique summa. [Periuria in](http://tumblr.com/) addit naris

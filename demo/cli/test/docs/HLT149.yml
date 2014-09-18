@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.144
 links:
-- HLR040
+- HLR040: 6deccb32d8c2be5a7b69b0447c3f78ab
 normative: true
 ref: ''
+reviewed: 97acefbb25a4960ce9bcc7fb207fecce
 text: |
   Verify lorem markdownum *primique virum*; et mira nata media quo lignum.
   Barba vicimus, Exigit, poma tum visa sideraque sono.

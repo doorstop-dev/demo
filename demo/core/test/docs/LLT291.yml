@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.142
 links:
-- LLR005
-- LLR033
-- LLR064
-- LLR128
+- LLR005: 261dbaa845b7791b6747c1161c3a5f05
+- LLR033: f6afbea1c6aac72ab4b32b427d53e681
+- LLR064: d530ba92beaa7a27879f36994c6764bb
+- LLR128: 45be0b407e8f027157d64cfe52022d41
 normative: true
 ref: ''
+reviewed: 637599bc3f9aa7df32469a0a1aa7819e
 text: |
   Verify lorem markdownum, aliquid linquendus at fuit Armeniae motis ait inane
   deorum.

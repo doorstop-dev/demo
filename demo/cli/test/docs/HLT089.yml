@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.39
 links:
-- HLR039
-- HLR080
+- HLR039: b7e189054d4fa57138c4bfebb3344bc2
+- HLR080: 299534fd5a7eca46f589c6322b659423
 normative: true
 ref: ''
+reviewed: 9ecf0e78dd552ed27119ed254694bce5
 text: |
   Verify lorem markdownum scrobibus longa in aevo, est splendidior neque
   Troius. [Pectora in ponti](http://www.raynelongboards.com/); munusque [manus

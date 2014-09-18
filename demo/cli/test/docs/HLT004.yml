@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 1.3
 links:
-- HLR005
+- HLR005: 782d35ca3637a2b49051cc44dc073f0a
 normative: true
 ref: ''
+reviewed: dde13c57473e9244f4564f63009f7ae0
 text: |
   Verify lorem markdownum frustra super et *habent penates*, nisi placidis
   manus putat mentis?

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 23.76
 links:
-- HLR014
-- HLR031
-- HLR032
-- HLR050
-- HLR089
+- HLR014: 9f92692d382bfcf647ac097d27369c0a
+- HLR031: 72c2fe6f4da4db81c71d7a8f103d2d66
+- HLR032: c5dc24fd573b5eeb3c174f7484889bef
+- HLR050: d965c6342dd432f6da29a07eab9ddc00
+- HLR089: fc17c48818f1757f2f8a232d4f1e38cf
 normative: true
 ref: ''
+reviewed: e1581001b5c40da6d075cd2842b3308a
 text: |
   Lorem markdownum **SHALL** tinxit stringite exiguus merito!
   Nec qua constabat sacra, fonte, precatur tibi, toto vestri.

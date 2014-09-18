@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 19.2
 links:
-- HLR047
-- HLR068
-- HLR072
-- HLR093
-- HLR094
+- HLR047: f64502605f5781802a5de46f36e137d5
+- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
+- HLR072: 05c44ac66e5c91420b2c82769350fd93
+- HLR093: 8c277eeda417521852a9051e6a58907d
+- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
 normative: true
 ref: ''
+reviewed: 813b7e586291b1464109480bb31118ee
 text: |
   Lorem markdownum **SHALL** quoniam incessere, vestes aether ductae dum Cancri
   metuunt, fistula virum!

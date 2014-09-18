@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.157
 links:
-- LLR040
-- LLR138
-- LLR154
+- LLR040: 7c58f17d672da5bb58f9df8234258da3
+- LLR138: 7287219bdd9f445b3f3650b766fc037f
+- LLR154: 7d0564f9ea1d409310dfb408f441c32d
 normative: true
 ref: ''
+reviewed: 513fb987d8cb919ddecb6ea4eaa45167
 text: |
   Verify lorem markdownum visa incursat habuere Apollineas carens consilium
   resumpta perpetimur et Phoebus murice vix.

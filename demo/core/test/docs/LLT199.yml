@@ -2,11 +2,12 @@ active: true
 derived: false
 level: '5.40'
 links:
-- LLR030
-- LLR065
-- LLR101
+- LLR030: 283fba5a9ccda802096ce549c4d65987
+- LLR065: fa5ea5a267f5ce36f579b8ae05c696d8
+- LLR101: 1fd809376b6947b44fef89ea0f3e0b8a
 normative: true
 ref: ''
+reviewed: 07fd798b54ef566e183cfa35614d3a7e
 text: |
   Verify lorem markdownum patri esset servat crimen; nec cum exstabant Aurora
   periuria simul nulla.

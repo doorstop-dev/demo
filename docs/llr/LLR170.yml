@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 23.39
 links:
-- HLR028
-- HLR052
-- HLR079
-- HLR082
+- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
+- HLR079: d0976b23bdd14a4a47002c3a40b83f45
+- HLR082: 840ae5cd6cdc2047fa83d7e6ff7fc7b4
 normative: true
 ref: ''
+reviewed: a7ef67ccaf2ca9bb06c837c911020b86
 text: |
   Lorem markdownum **SHALL** ne mutanda rictus die subiere, mihi haud; iugo
   alii oscula et ab his.

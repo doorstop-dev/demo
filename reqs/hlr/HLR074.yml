@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 7.43
 links:
-- SYS047
+- SYS047: 4abb481caeaf5d092ad9483e46e4c162
 normative: true
 ref: ''
+reviewed: 35551086ed69bb809fe1df9d5018fc18
 text: |
   Lorem markdownum **SHALL** glomerata **mota** pependit, armatur nec molimine
   auctor monstrum flerunt, iamdudum pietatis proculcat sub omnes.

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.6
 links:
-- LLR011
-- LLR018
-- LLR054
-- LLR137
+- LLR011: 8e3f74964883fbffaf5595ce5c966a57
+- LLR018: 846a8efca093ea39a87ba9cc5fdd4a68
+- LLR054: 0cd98c784f1946189eeda5baf3eac2f4
+- LLR137: 0ab74dc529c959fc6f20f93b274a579b
 normative: true
 ref: ''
+reviewed: 7cabfd84dbcad58083f52f8b90086bdc
 text: |
   Verify lorem markdownum adverso sentit Atalanta; neu quicquid ab negat
   tectus.

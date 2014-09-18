@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.114
 links:
-- LLR045
-- LLR103
-- LLR164
-- LLR189
+- LLR045: 2b2bbd5d332cf39b8c0c79fc138bb541
+- LLR103: 49d38e9df072843287984207cfdad546
+- LLR164: 321f045ce0af86e5e8536f7835f52f34
+- LLR189: 61ca6ec606b991c45f35192812c87174
 normative: true
 ref: ''
+reviewed: 3aa878b6bc44af307f9756a663ec214c
 text: |
   Verify lorem markdownum oscula [sequerere
   pavet](http://html9responsiveboilerstrapjs.com/), sed **gladii**? In magnis

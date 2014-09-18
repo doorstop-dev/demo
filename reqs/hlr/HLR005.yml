@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 1.4
 links:
-- SYS003
-- SYS021
+- SYS003: 9c725636f8e3ec5bfccbac93d58817de
+- SYS021: 10ad364c486d5bf3ddc31378c09cac9e
 normative: true
 ref: ''
+reviewed: 5f1117eb1e35e0351a802cdb396f1859
 text: |
   Lorem markdownum **SHALL** sectamque tali fata pectore tyranni.
   Ergo neque conplecti discedentem vidit sorores curru concipit meque is forti

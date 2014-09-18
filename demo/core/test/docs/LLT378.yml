@@ -2,12 +2,13 @@ active: true
 derived: false
 level: '5.380'
 links:
-- LLR070
-- LLR082
-- LLR094
-- LLR125
+- LLR070: e22cd6294e60376ee4036bfa3c0446ca
+- LLR082: 79e1d687272a583e37a65f455c883988
+- LLR094: 4d77690d451a667b63a0b0435f153f8c
+- LLR125: 738b4e2a63e87a21edac014f690236c5
 normative: true
 ref: ''
+reviewed: 4483dcc94ee7dbccba331b1898ceeaf9
 text: |
   Verify lorem markdownum debeat heres, unusque nomina pedes, animam retinebat
   Thyneius non faciemque Lycopen; sub est.

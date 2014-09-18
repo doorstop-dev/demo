@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.81
 links:
-- LLR005
-- LLR019
-- LLR024
-- LLR043
-- LLR154
+- LLR005: 261dbaa845b7791b6747c1161c3a5f05
+- LLR019: ec0d341b465b4a4dadb564a4e034a8d4
+- LLR024: 8c4767cb109a6d7a932f812958348234
+- LLR043: b2354770f51d1a4fd74ded3a65ece5ed
+- LLR154: 7d0564f9ea1d409310dfb408f441c32d
 normative: true
 ref: ''
+reviewed: abf1726a96d71210388a62aa11e33e46
 text: |
   Verify lorem markdownum ille, dis flumine ad **praebet**: redimebat sidere.
   Tactusque felicior *tenuere*; et sine semianimesque tardatus duro.

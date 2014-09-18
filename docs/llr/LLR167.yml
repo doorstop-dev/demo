@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 23.14
 links:
-- HLR016
-- HLR075
-- HLR099
+- HLR016: f62dcef37de26a547aa5a43e2558de94
+- HLR075: 024621d141e0d33a01100d381bf459b2
+- HLR099: 26e72fa3e3a95b20a96d530e001a4652
 normative: true
 ref: ''
+reviewed: 8d974d11471f0d245ed842c06da54f9c
 text: |
   Lorem markdownum **SHALL** sacra, reliquit.
   Quam dona meditata transcribere est ibi prius superare atque in probes

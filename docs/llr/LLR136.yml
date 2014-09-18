@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 23.9
 links:
-- HLR008
-- HLR032
-- HLR034
-- HLR043
-- HLR070
+- HLR008: 49a200ec0c1beeda9d14085a836a2b61
+- HLR032: c5dc24fd573b5eeb3c174f7484889bef
+- HLR034: 87889aab3af013c2c6700993f82c1984
+- HLR043: b0f3b0871e39677f58ef610fbdd81555
+- HLR070: 4c5aec0fe1ce73b50af82540fa165e66
 normative: true
 ref: ''
+reviewed: 56a972bd25e65270ec1654d314b997af
 text: |
   Lorem markdownum **SHALL** vobis nostrisque alatur subitusque solem Semelen
   Gortyniaco Nemeaea.

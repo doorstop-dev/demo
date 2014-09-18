@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 23.5
 links:
-- HLR052
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
 normative: true
 ref: ''
+reviewed: a050a6d8a4c2a9e83363ec84b0baaa68
 text: |
   Lorem markdownum **SHALL** ex tuum possunt breve per! [Latona
   quem](http://stoneship.org/)?

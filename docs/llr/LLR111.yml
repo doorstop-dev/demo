@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 22.6
 links:
-- HLR041
-- HLR071
-- HLR086
-- HLR090
+- HLR041: f42aec3f2f02f0642a0302c55af31291
+- HLR071: eb5f019d9458e537f2a0e396d6ec2f0d
+- HLR086: 8ffc8c6aaccf0712b20ca54488b704c7
+- HLR090: c054ce5e5cb3a312beafa71336371542
 normative: true
 ref: ''
+reviewed: ddd6f3acae3721862f38960787a7775c
 text: |
   Lorem markdownum **SHALL**, Cipi odere aristas medere iura visumque dummodo:
   bella enim iuvat, continget habuisse auro.

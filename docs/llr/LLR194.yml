@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 23.2
 links:
-- HLR024
-- HLR027
-- HLR049
-- HLR083
+- HLR024: 53137531d57b6e976f8bef6eacfcb46e
+- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
+- HLR049: 50e773420310cdb95a966cd9292df8b4
+- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
 normative: true
 ref: ''
+reviewed: 991a854d1c76f3f616fcf19185f8303f
 text: |
   Lorem markdownum **SHALL** falcatus, patulas si inpatiens iubebat, illa veni
   matutinaeque.

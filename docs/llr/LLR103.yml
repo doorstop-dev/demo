@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 21.3
 links:
-- HLR023
-- HLR025
-- HLR068
+- HLR023: e9bd12dbb9ef8311cb24d28291766a23
+- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
+- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
 normative: true
 ref: ''
+reviewed: c91dc0f4d92e2f3cd0b37d71f574c462
 text: |
   Lorem markdownum **SHALL** imagine [nullum](http://imgur.com/) urbem mecum
   sopor sequitur coniecit, illis usum flumine?

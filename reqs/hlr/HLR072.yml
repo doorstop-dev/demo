@@ -2,9 +2,10 @@ active: true
 derived: false
 level: '7.30'
 links:
-- SYS039
+- SYS039: f544502e654e3ad1584bdd777c736107
 normative: true
 ref: ''
+reviewed: 4b7ed052fd91217548aa7b6ff13ad88a
 text: |
   Lorem markdownum **SHALL** futurum inductus Farfarus *fulva nec* ore, haec
   missa dedit, sui Ausonias legem.

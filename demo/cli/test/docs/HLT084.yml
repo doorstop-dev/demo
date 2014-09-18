@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.104
 links:
-- HLR040
+- HLR040: 6deccb32d8c2be5a7b69b0447c3f78ab
 normative: true
 ref: ''
+reviewed: dda2ae890579ad607ebcc934d838b3d1
 text: |
   Verify lorem markdownum pectoraque et **quos** dea cruentas fibula
   Caucasiumque sanguine reddat ante Hesperio alto aut superari **fecundo**;

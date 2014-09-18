@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.223
 links:
-- LLR060
-- LLR129
-- LLR193
+- LLR060: 043c258f9089b7d12cba69e292c5a7bc
+- LLR129: a60d078a8fd769126b5e843a5edb7b6b
+- LLR193: 4fef0018e0b9ff8b050310b680af4f5b
 normative: true
 ref: ''
+reviewed: 93203cc8f618ab22874f982b8601f734
 text: |
   Verify lorem markdownum tutior solum, in ferenda passis hominum **germanam
   aquas adiutrixque** germanae baculum soror forte dea!

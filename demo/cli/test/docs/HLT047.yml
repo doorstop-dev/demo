@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.83
 links:
-- HLR028
+- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
 normative: true
 ref: ''
+reviewed: d521fb8bf8dff0bbb73d8fc1fc7819eb
 text: |
   **Lorem** markdownum factum illum armisque vestem, subitarum deae. *Vellem
   me* bulla effuge Ulixes reclusa excussa Protesilae coniunx carchesia restare,

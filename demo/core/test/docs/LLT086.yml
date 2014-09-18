@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.198
 links:
-- LLR090
-- LLR093
+- LLR090: d9b458f4dae913149e29052731614e8b
+- LLR093: 80ed4575b30ded58c20cad5011feac3c
 normative: true
 ref: ''
+reviewed: 8c5248b3f175a5d775ff540d2efa086a
 text: |
   Verify lorem markdownum seque avidus, ecce autem munimine dixit, ulnas ducens
   lunaribus videre monstri exclamant sublato Titanida. *Ne aures suspiria*,

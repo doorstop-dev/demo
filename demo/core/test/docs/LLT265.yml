@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.177
 links:
-- LLR062
-- LLR099
-- LLR135
-- LLR137
+- LLR062: a9d09e38c5aa7250c9c48dc22aacbe35
+- LLR099: 2434eb70bf27e1e0e112725f4bd6bce2
+- LLR135: 598ce9d3326b5d177a63ba3b679e45f7
+- LLR137: 0ab74dc529c959fc6f20f93b274a579b
 normative: true
 ref: ''
+reviewed: 6b4e77b5efc2c4b2fcd0351131d88569
 text: |
   Verify lorem markdownum, nec vapore parabant iugulo Polydecta iuvencum habet,
   **Fando** Byblida finibus, duplici Aegides.

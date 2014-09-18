@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.52
 links:
-- HLR045
-- HLR056
-- HLR074
-- HLR086
-- HLR090
+- HLR045: 64596d19da4080f5ff6ef0ae72feb118
+- HLR056: 3d664384d81be055e722570cbd7c225f
+- HLR074: 38c65f74794de9a94a7cfcf4c311f80b
+- HLR086: 8ffc8c6aaccf0712b20ca54488b704c7
+- HLR090: c054ce5e5cb3a312beafa71336371542
 normative: true
 ref: ''
+reviewed: 5d69c806fc50cd6853627e081a88865b
 text: |
   Verify lorem markdownum Solis meis, coloribus alterno.
   Crinis date foedantem avidos ad esse devastata exitium.

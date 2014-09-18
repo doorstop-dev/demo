@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.291
 links:
-- LLR067
+- LLR067: 2ac99d34e042e4f33fe3e247eaff1b7e
 normative: true
 ref: ''
+reviewed: 1ac707f35efcdc062742876be17b9b58
 text: |
   Verify lorem markdownum tuli!
   Saevo manifesta malo fugit expugnacior elusam, putat in fortissime plangoris

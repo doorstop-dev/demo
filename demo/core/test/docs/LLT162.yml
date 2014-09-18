@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.358
 links:
-- LLR120
+- LLR120: 38388486d3fde99693e6e8452ca172b6
 normative: true
 ref: ''
+reviewed: 735f1b80bb205a035592570f66b9cd7e
 text: |
   Verify lorem markdownum amisso; tuta erat operum murram [se
   non](http://textfromdog.tumblr.com/).

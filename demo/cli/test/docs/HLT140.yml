@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.143
 links:
-- HLR009
-- HLR021
-- HLR028
-- HLR068
-- HLR070
+- HLR009: 6da8ed61c313b1482bdb6da89d007eac
+- HLR021: 4ccc4b832e9beef7a9d7b67b022227e4
+- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
+- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
+- HLR070: 4c5aec0fe1ce73b50af82540fa165e66
 normative: true
 ref: ''
+reviewed: 4f7f6b158ebfca984922041d1e99591a
 text: |
   Verify lorem markdownum canibus summa: sua quanto orbataque pendens dona, cum
   fugam novemque [castra](http://hipstermerkel.tumblr.com/), Actoridaeque?

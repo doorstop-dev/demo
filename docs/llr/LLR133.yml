@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 23.27
 links:
-- HLR025
-- HLR065
-- HLR074
-- HLR077
+- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
+- HLR065: 3a53d19c665b6d1086f8a976b4dd7e31
+- HLR074: 38c65f74794de9a94a7cfcf4c311f80b
+- HLR077: f3065f2ef4069554db40e890309903dc
 normative: true
 ref: ''
+reviewed: 5d559a9380b87271b2f44c2a8f7f6864
 text: |
   Lorem markdownum **SHALL** modo.
   Mutat sibi color mediis *ab carmen*! Una illa supersint artes heros cum

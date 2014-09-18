@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.188
 links:
-- LLR072
+- LLR072: ba740b16a66fcd359aef605f7fba1e3b
 normative: true
 ref: ''
+reviewed: ee8b04358b87ac13dd889770d406fc7b
 text: |
   Verify lorem markdownum spectat coercuerat venatum.
   Epidauria calcata aquae: tibi reclusa nutrix ex tunc, Tellus gravitate.

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.2
 links:
-- HLR037
-- HLR045
-- HLR047
-- HLR094
-- HLR095
+- HLR037: 5594301e2db2b6d85bbb940a4010a550
+- HLR045: 64596d19da4080f5ff6ef0ae72feb118
+- HLR047: f64502605f5781802a5de46f36e137d5
+- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
+- HLR095: 5c1e4086f2b6913304bca55a2ae3c065
 normative: true
 ref: ''
+reviewed: 12dc3a223629f30f7ad576fbf74264ff
 text: |
   Verify lorem markdownum exclamat paro.
   Adhaesit parilesque alto visurus consumpserat iuvenem Medon et hanc modo

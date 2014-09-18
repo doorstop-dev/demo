@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.87
 links:
-- HLR014
-- HLR073
+- HLR014: 9f92692d382bfcf647ac097d27369c0a
+- HLR073: f1399f4ebb54c6d8ad15181b5218d154
 normative: true
 ref: ''
+reviewed: 5b80b2a0f3161dfc3989ca3b67229efa
 text: |
   Verify lorem markdownum pennis, lac vetat, fuit nova.
   Ab paratu Somne cruore.

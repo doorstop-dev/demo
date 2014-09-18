@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.375
 links:
-- LLR022
-- LLR056
-- LLR080
-- LLR135
+- LLR022: e1eb4a095115ae7f561055deb1fdcb78
+- LLR056: 0af9260eba8bf9aec12fcdaf3f1a0057
+- LLR080: 482743e766909835fff69356a23d54a3
+- LLR135: 598ce9d3326b5d177a63ba3b679e45f7
 normative: true
 ref: ''
+reviewed: a26b42ce0a6cc5db5bcb0ef8aeb658e9
 text: |
   Lorem **markdownum territa discedentem** altera femori et an viscera horum
   regina iniustaque festinat, dedit dextras laevum quos habet vidit.

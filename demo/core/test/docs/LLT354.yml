@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.148
 links:
-- LLR038
-- LLR188
+- LLR038: a10a0544be8ecc872b568a207600fcca
+- LLR188: 5d39b205d1b9f469cbd3d65beebaeab2
 normative: true
 ref: ''
+reviewed: 61394cc3341281456e15edb9c4ce3bf3
 text: |
   Verify lorem markdownum adest discite precibus ut reddit animorum caeruleum
   adfixa nebulas piumque colitur vetat [lexque concipit in](http://zombo.com/)

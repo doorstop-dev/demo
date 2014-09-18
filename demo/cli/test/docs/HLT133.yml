@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.23
 links:
-- HLR025
+- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
 normative: true
 ref: ''
+reviewed: 3dacb3095fbc8250d026d03f1503b8cf
 text: |
   Verify lorem markdownum [sinu et](http://www.lipsum.com/) est vellet paene,
   naides, sed recentes incedere furtoque pater **et focus**. Caelum per rotae

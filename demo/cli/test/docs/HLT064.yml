@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.69
 links:
-- HLR042
-- HLR067
-- HLR094
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR067: 9d79eff61851f166e5b50b1101749942
+- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
 normative: true
 ref: ''
+reviewed: 3effc45bb897c385f9aa63b503f26d6a
 text: |
   Lorem [markdownum](http://www.mozilla.org/) inops, ille caeruleaeque summum
   positis vos supplex cecidit tecta loco.

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 23.59
 links:
-- HLR038
-- HLR043
-- HLR068
-- HLR076
-- HLR096
+- HLR038: 4448f4f157157ec1b7d88bbe03489064
+- HLR043: b0f3b0871e39677f58ef610fbdd81555
+- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
+- HLR076: 62d8f849b82682833a2295608f3347b5
+- HLR096: 106add8d49e2341dc81214cee7519924
 normative: true
 ref: ''
+reviewed: 81d4916dd339fb4c3ccccb1c9de198ac
 text: |
   Lorem markdownum **SHALL** ab cruores vacant Latonae gurgite pertulit: vomens
   a aetas revelli tempus.

@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.151
 links:
-- LLR038
-- LLR157
-- LLR189
+- LLR038: a10a0544be8ecc872b568a207600fcca
+- LLR157: 00ca8adaed558e2918fc545257544ba0
+- LLR189: 61ca6ec606b991c45f35192812c87174
 normative: true
 ref: ''
+reviewed: c8e6ab058122e70209904785fae31a5f
 text: |
   Verify lorem markdownum [conscius silvae](http://imgur.com/) restantem
   ossibus iussit, dei arcus, aere.

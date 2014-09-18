@@ -2,10 +2,11 @@ active: true
 derived: false
 level: '8.90'
 links:
-- HLR064
-- HLR096
+- HLR064: 738b10155b97a5775f28bab75eb8c067
+- HLR096: 106add8d49e2341dc81214cee7519924
 normative: true
 ref: ''
+reviewed: 268f8bc92835c1ed909134f451247e82
 text: |
   Verify lorem markdownum passu nitidaque quoque.
   Est teneraque adspicit *maiorque*. Iam est ludit petii, uno tunc, Ammon nam

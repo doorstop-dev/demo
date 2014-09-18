@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 23.41
 links:
-- HLR040
+- HLR040: 6deccb32d8c2be5a7b69b0447c3f78ab
 normative: true
 ref: ''
+reviewed: 38049653bd9ca90859bc907b4d297764
 text: |
   Lorem markdownum **SHALL** Aeetias, regna nec iuncosaque date cernit, nec
   nuper tortilis!

@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.156
 links:
-- LLR032
-- LLR144
+- LLR032: 7fb560f0389fe75fdc6bbd3ebbce29ef
+- LLR144: 2e5c578fa29dce571ee50e2cf82891fd
 normative: true
 ref: ''
+reviewed: 2f4af80b2e79774014bf3ff700b81b63
 text: |
   Verify lorem markdownum facis: sitim nati fovi Dictaei!
   Densi iaculoque repugnat: rectorque quatiatur at hosti: terrae et sine caput.

@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.103
 links:
-- HLR024
-- HLR036
-- HLR076
+- HLR024: 53137531d57b6e976f8bef6eacfcb46e
+- HLR036: b85c4146e31bab43dac352c217430641
+- HLR076: 62d8f849b82682833a2295608f3347b5
 normative: true
 ref: ''
+reviewed: ac74b811fbf723d9f21c3709f4b777e7
 text: |
   Verify lorem markdownum aurem, meos, quem [quondam](http://www.wtfpl.net/)
   repugnat.

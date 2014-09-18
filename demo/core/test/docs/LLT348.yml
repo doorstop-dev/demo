@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.262
 links:
-- LLR012
-- LLR114
-- LLR155
+- LLR012: 6c5080acd9ba1dc555412956a3093ce2
+- LLR114: 20dd357661195c42ccbeac5351fcc491
+- LLR155: c00f53b67654e5002aa552b308ae6de9
 normative: true
 ref: ''
+reviewed: ff76c0f4fe8e100b07937651349a87da
 text: |
   Verify lorem markdownum, sua illa utrumque puer tibi ambo Iris. *Lacrimarum*
   si quam arce iam vipereas quattuor Cnosius Aphareia matrona, ipsam cingo

@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.45
 links:
-- HLR017
-- HLR025
-- HLR044
-- HLR081
+- HLR017: 7c34babb079cf13f34cc6379f6d62f8e
+- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
+- HLR044: 17ba7dfa59a6605406dd7b30fecc1a7f
+- HLR081: f85cc275a9545dc4ae6cc142fa5385fb
 normative: true
 ref: ''
+reviewed: 2807bb3cc0b676d763872620d2d1836b
 text: |
   Verify lorem markdownum occidit ratem quibus illo.
   Complexa o viret [fidem lingua](http://www.billmays.net/) mitte sinu Acasto

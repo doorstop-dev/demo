@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 8.86
 links:
-- HLR023
-- HLR050
-- HLR062
-- HLR075
-- HLR084
+- HLR023: e9bd12dbb9ef8311cb24d28291766a23
+- HLR050: d965c6342dd432f6da29a07eab9ddc00
+- HLR062: 57e206d85145b169a59ee9e5f4bc48cf
+- HLR075: 024621d141e0d33a01100d381bf459b2
+- HLR084: cd3a142af5aa32c38ba5338b919257fb
 normative: true
 ref: ''
+reviewed: 87fe9b6f691c693b720bd199d8db3557
 text: |
   Verify lorem markdownum vultus obversus figuras cuti obtulit, involvitur
   levati gemuere sedibus; perisset triumphos. **Coniugis motaeque consequitur**

@@ -2,9 +2,10 @@ active: true
 derived: false
 level: '8.30'
 links:
-- HLR076
+- HLR076: 62d8f849b82682833a2295608f3347b5
 normative: true
 ref: ''
+reviewed: 493eada2d437d71a1ea614e24997d5e4
 text: |
   Verify lorem markdownum magnum concrevit versus est partes vertit nec
   [habebat](http://gifctrl.com/), veluti notavi postquam, replet cupidine

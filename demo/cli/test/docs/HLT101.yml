@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.17
 links:
-- HLR072
-- HLR087
+- HLR072: 05c44ac66e5c91420b2c82769350fd93
+- HLR087: 9af49b45e12f3a85eaee83259d295f4e
 normative: true
 ref: ''
+reviewed: b1013f6b30aa5edd5ec8ba7250e6f930
 text: |
   *Verify lorem markdownum* Circaea conata, a spectantur, ante propius, semper.
   A gradus terramque submovet nullos, si fabula Carpathius deum recurva. [Amas

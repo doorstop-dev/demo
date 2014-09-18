@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 23.37
 links:
-- HLR048
-- HLR076
+- HLR048: 56aa735358f7210502ed2e7a7527fa22
+- HLR076: 62d8f849b82682833a2295608f3347b5
 normative: true
 ref: ''
+reviewed: e8e205686a524d44229e82caa9114f92
 text: |
   Lorem markdownum **SHALL**, conditus et deus, huic artes?
   Retinete vix sacros candida fontis guttas ponti.

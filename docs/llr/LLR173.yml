@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 23.66
 links:
-- HLR048
-- HLR065
-- HLR084
+- HLR048: 56aa735358f7210502ed2e7a7527fa22
+- HLR065: 3a53d19c665b6d1086f8a976b4dd7e31
+- HLR084: cd3a142af5aa32c38ba5338b919257fb
 normative: true
 ref: ''
+reviewed: 118c173edfabc860a922f3f2b8f68202
 text: |
   Lorem markdownum **SHALL** [oriens sperantemque
   magnorum](http://www.thesecretofinvisibility.com/) armis victima, si illi.

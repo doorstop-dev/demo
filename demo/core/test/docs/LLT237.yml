@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.137
 links:
-- LLR003
-- LLR010
-- LLR050
-- LLR167
+- LLR003: b554df6c2b0506c78205a619338ecbe5
+- LLR010: 80e3652b8e28776fa952445d7fbd2398
+- LLR050: bfb3a23e87baa84cf112006321c9d67f
+- LLR167: de4a65a0cfeffc3059485ca836c2500a
 normative: true
 ref: ''
+reviewed: c1c5f861aeb166816d7a0b5ec2aec0cf
 text: |
   Verify lorem markdownum Sospite Argos crescit.
   Visa hanc Pelides fictus?

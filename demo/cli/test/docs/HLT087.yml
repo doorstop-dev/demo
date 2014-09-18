@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.155
 links:
-- HLR014
-- HLR038
-- HLR057
-- HLR070
+- HLR014: 9f92692d382bfcf647ac097d27369c0a
+- HLR038: 4448f4f157157ec1b7d88bbe03489064
+- HLR057: 108e6d69b95a3929d748aafdd89297e7
+- HLR070: 4c5aec0fe1ce73b50af82540fa165e66
 normative: true
 ref: ''
+reviewed: a759efebb077edae2ddcb4748ac5750c
 text: |
   Verify lorem markdownum interea de, videtur varias.
   Usque hunc at una mea, si dixit adstitit fuerat, tum?

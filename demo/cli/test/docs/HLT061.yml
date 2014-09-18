@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.8
 links:
-- HLR058
-- HLR061
-- HLR084
+- HLR058: 4d68e2da5f4ace8317b50f88c9bfd46d
+- HLR061: 21d47aa8307e87377b55817212beae08
+- HLR084: cd3a142af5aa32c38ba5338b919257fb
 normative: true
 ref: ''
+reviewed: 529c806f60c784b6b0b9bf30953673b8
 text: |
   Verify lorem markdownum plebs, scinditur aversata meruit vulnere alta
   innuptaeque nominis somnusque umbras.

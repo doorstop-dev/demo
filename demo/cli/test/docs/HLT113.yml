@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.141
 links:
-- HLR011
+- HLR011: fb47d13ca2bcd7c22beff68af53ef365
 normative: true
 ref: ''
+reviewed: bf034264792e7de9946554a16c5dfcf1
 text: |
   Lorem **markdownum serviet** iuvenes, [meam magni](http://zeus.ugent.be/)
   coniuge!

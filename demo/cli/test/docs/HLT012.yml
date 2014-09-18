@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 4.1
 links:
-- HLR014
-- HLR052
+- HLR014: 9f92692d382bfcf647ac097d27369c0a
+- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
 normative: true
 ref: ''
+reviewed: e4ca2ea38f18e9da19efbf387929d8cc
 text: |
   Verify lorem markdownum requiem in iusserat minister volucrisque septem
   sororque in est vestro, undas nunc cupiens hasta!

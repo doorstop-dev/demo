@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 23.25
 links:
-- HLR031
-- HLR048
-- HLR065
+- HLR031: 72c2fe6f4da4db81c71d7a8f103d2d66
+- HLR048: 56aa735358f7210502ed2e7a7527fa22
+- HLR065: 3a53d19c665b6d1086f8a976b4dd7e31
 normative: true
 ref: ''
+reviewed: 78dc48ddf104e86c8220963cb5244cca
 text: |
   Lorem markdownum **SHALL** messes nocendo vagos, nec optavit pallae; qui ire,
   ut quotiens abstulerit studioque.

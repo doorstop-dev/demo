@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.5
 links:
-- HLR034
-- HLR056
+- HLR034: 87889aab3af013c2c6700993f82c1984
+- HLR056: 3d664384d81be055e722570cbd7c225f
 normative: true
 ref: ''
+reviewed: 1d61af0e21996c77793f8e0b104a411e
 text: |
   Lorem markdownum **SHALL** Aglauros ab magni, et visa, crescitque interdum
   nec coniunx.

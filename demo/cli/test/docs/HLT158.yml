@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.145
 links:
-- HLR004
-- HLR046
-- HLR057
+- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
+- HLR046: 816db4153bde67375509bac7fd4c998a
+- HLR057: 108e6d69b95a3929d748aafdd89297e7
 normative: true
 ref: ''
+reviewed: a0f11ba56a97aa119817562baff9352f
 text: |
   Verify lorem markdownum austroque stupet ambrosiam, coetus?
   Et et erat Ophias et aliquid est pronuba tantum numine occidit quoque in

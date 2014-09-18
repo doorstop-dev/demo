@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.21
 links:
-- HLR051
+- HLR051: 6963e01374087f10fa114650be974ce9
 normative: true
 ref: ''
+reviewed: b4e21c131925f8a64dec84c406202e04
 text: |
   Verify lorem markdownum sinit *aetherios dolore constitit* Marte, mea quid te
   signum!

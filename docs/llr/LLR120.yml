@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 23.61
 links:
-- HLR004
-- HLR039
-- HLR050
-- HLR089
+- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
+- HLR039: b7e189054d4fa57138c4bfebb3344bc2
+- HLR050: d965c6342dd432f6da29a07eab9ddc00
+- HLR089: fc17c48818f1757f2f8a232d4f1e38cf
 normative: true
 ref: ''
+reviewed: 739e5d546d9134663210c096a235e0d5
 text: |
   Lorem markdownum **SHALL** etiam fecisse verba, non dea in quoque ea, tollens
   non.

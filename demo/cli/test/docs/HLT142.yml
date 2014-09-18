@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.25
 links:
-- HLR003
-- HLR022
-- HLR047
+- HLR003: cc852012ad2f6c8ad8503f5d8b6290ad
+- HLR022: d6337ec7821ed2c4a92c96fe40d7db8f
+- HLR047: f64502605f5781802a5de46f36e137d5
 normative: true
 ref: ''
+reviewed: dc84bef22b51773a11007d0d26781f09
 text: |
   Verify lorem markdownum moribunda Iuppiter saevis nec at ulla claudor crimina
   fidem murmure dominoque canoro pondere; sit illi simili atque.

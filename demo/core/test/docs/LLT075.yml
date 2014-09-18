@@ -2,12 +2,13 @@ active: true
 derived: false
 level: '5.120'
 links:
-- LLR115
-- LLR124
-- LLR152
-- LLR177
+- LLR115: 43962294b00b7f8a135433e059b47731
+- LLR124: f1b8624c05c94dd7c461377c74389fa1
+- LLR152: 0f11739763e40f3e340ff4b3be842cda
+- LLR177: 58c096994f29519d6018bea199aced66
 normative: true
 ref: ''
+reviewed: d61867920972ae6ec733078a34028951
 text: |
   Verify lorem markdownum clausit mugitus dubites at totosque Atridae collis
   cuspis.

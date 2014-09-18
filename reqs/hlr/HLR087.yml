@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 7.13
 links:
-- SYS046
+- SYS046: 08a1f0ab5dcf1da0e7f49dcac8721bfc
 normative: true
 ref: ''
+reviewed: d3519d5dc4592a3bab01dc2708f27a2e
 text: |
   Lorem markdownum **SHALL** iungitur tendentes verum.
   Molire sanguine [priori tota](http://www.reddit.com/r/haskell) sidereis

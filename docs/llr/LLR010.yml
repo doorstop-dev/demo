@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 3.2
 links:
-- HLR034
-- HLR040
-- HLR046
-- HLR082
+- HLR034: 87889aab3af013c2c6700993f82c1984
+- HLR040: 6deccb32d8c2be5a7b69b0447c3f78ab
+- HLR046: 816db4153bde67375509bac7fd4c998a
+- HLR082: 840ae5cd6cdc2047fa83d7e6ff7fc7b4
 normative: true
 ref: ''
+reviewed: 9522fb8126842f081e4ca4a0e6be8855
 text: |
   Lorem markdownum **SHALL** reliquerat clamare byblis ac e gradus fuerant
   piscis.

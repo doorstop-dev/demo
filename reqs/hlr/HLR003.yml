@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 1.2
 links:
-- SYS002
-- SYS008
-- SYS028
+- SYS002: d880b59c0bc5a060d41922110b833f3f
+- SYS008: 6a2015090c976f3aebaa431a7fdeda60
+- SYS028: 5530ac30d996ebc2841d663698f0756a
 normative: true
 ref: test_tutorial.py
+reviewed: 6fc06b5807481efef80ab361d1f196f1
 text: |
   Foo SHALL bar.

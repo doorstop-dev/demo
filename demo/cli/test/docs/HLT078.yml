@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 8.154
 links:
-- HLR045
+- HLR045: 64596d19da4080f5ff6ef0ae72feb118
 normative: true
 ref: ''
+reviewed: 144434922835de236ff8d922eb0ce624
 text: |
   Verify lorem markdownum sanguine **a** longe praedae, dominatur, tuos
   [Panaque](http://kimjongunlookingatthings.tumblr.com/).

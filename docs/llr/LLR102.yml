@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 21.2
 links:
-- HLR009
-- HLR011
-- HLR016
-- HLR036
-- HLR093
+- HLR009: 6da8ed61c313b1482bdb6da89d007eac
+- HLR011: fb47d13ca2bcd7c22beff68af53ef365
+- HLR016: f62dcef37de26a547aa5a43e2558de94
+- HLR036: b85c4146e31bab43dac352c217430641
+- HLR093: 8c277eeda417521852a9051e6a58907d
 normative: true
 ref: ''
+reviewed: 779432e3111a68d7352b8f67ebc5e5a2
 text: |
   Lorem markdownum **SHALL** incipit dissuaserat lenius!
   Lassa enim diuque ut miratur secundi ineamus piceis, novi rediit.

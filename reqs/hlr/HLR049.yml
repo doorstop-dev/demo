@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 7.55
 links:
-- SYS007
-- SYS028
+- SYS007: 71f23c045fad13e41911a488c5341af7
+- SYS028: 5530ac30d996ebc2841d663698f0756a
 normative: true
 ref: ''
+reviewed: e99cec7e73b9d20756e2382f93d0ae0f
 text: |
   Lorem markdownum **SHALL** ministros lentae *prosit vestis*, ut audenti,
   certe.

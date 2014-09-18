@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 10.4
 links:
-- HLR013
-- HLR057
-- HLR098
+- HLR013: a08f2929dcca39e42a0270e8f7db581b
+- HLR057: 108e6d69b95a3929d748aafdd89297e7
+- HLR098: 42a0dc5551d1fb162523da962f4761e9
 normative: true
 ref: ''
+reviewed: a1aef336afd7a2ecac8e803264fb0e96
 text: |
   Lorem markdownum **SHALL** error in Cycneia, et lumina Tritonia
   **aestusque**. Glaebis clamor huic equis fixit celebrandaque humus gravidis

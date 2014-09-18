@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.141
 links:
-- LLR012
-- LLR199
+- LLR012: 6c5080acd9ba1dc555412956a3093ce2
+- LLR199: 87aea8dfa91753f3ab0f70418abcdea5
 normative: true
 ref: ''
+reviewed: d6dcb36d5a974b4863f10e032eabd043
 text: |
   Verify lorem markdownum.
   Transfert fronte, **morti** tuae dis erant, oculos, ossa.

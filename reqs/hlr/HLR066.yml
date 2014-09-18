@@ -2,11 +2,12 @@ active: true
 derived: false
 level: '7.50'
 links:
-- SYS015
-- SYS032
-- SYS048
+- SYS015: 54dd82ab5a405510ea51a604f91a4ead
+- SYS032: d3d67136795247b45adc46ed15a18fa2
+- SYS048: 6fb42a60e7eb81523ba63197cccb014c
 normative: true
 ref: ''
+reviewed: 46d526d9e15840a810246096ddf513ad
 text: |
   Lorem markdownum **SHALL** fontis.
   Nomen quaeri magna, bello ebeno **rictus** prior certans!

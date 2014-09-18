@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.65
 links:
-- LLR125
-- LLR181
+- LLR125: 738b4e2a63e87a21edac014f690236c5
+- LLR181: e613d7310ec84c7e1f1bd0e63f8ad9a6
 normative: true
 ref: ''
+reviewed: 93c6e8cb5ad1d07af77f2a002eb6dd63
 text: |
   Verify lorem markdownum agmen coegit nec **perque aliter** unda orbem sive.
   Ego aliquid reliquit at cupido armentum quoniam mutum [festinant

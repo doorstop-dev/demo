@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 8.89
 links:
-- HLR023
-- HLR073
-- HLR085
-- HLR091
+- HLR023: e9bd12dbb9ef8311cb24d28291766a23
+- HLR073: f1399f4ebb54c6d8ad15181b5218d154
+- HLR085: 8f9bb7708fb44a90426d24efe969e48e
+- HLR091: 8765565ca7cdf699477b763576a7432f
 normative: true
 ref: ''
+reviewed: 4cf83ffc71adf8c962f9374cf3d40a69
 text: |
   Verify lorem markdownum extremos si vetus Hercule abire mihi, iam amor,
   **adductaque** facundia veteris patris.

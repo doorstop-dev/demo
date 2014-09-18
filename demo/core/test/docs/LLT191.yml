@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.94
 links:
-- LLR075
+- LLR075: 01d4ceb21ea0c4d333abaeb4a7129481
 normative: true
 ref: ''
+reviewed: 823c8e55849d8030b3daac2c68c751a5
 text: |
   **Verify lorem markdownum** adesse misso.
   Sororis si mihi inplet ossa **ergo tamen ruit** dummodo fecisse dolor

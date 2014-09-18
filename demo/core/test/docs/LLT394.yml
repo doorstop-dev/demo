@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.304
 links:
-- LLR153
-- LLR167
+- LLR153: 9975d2b0e7a843f90720b0accd67cd46
+- LLR167: de4a65a0cfeffc3059485ca836c2500a
 normative: true
 ref: ''
+reviewed: 1ed4c371e369753117be119ac5be8a3b
 text: |
   Verify lorem markdownum quam; fui Iovi pavit, longo oscula nomina corpora
   tristis rigidos.

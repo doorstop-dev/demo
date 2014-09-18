@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.113
 links:
-- LLR120
-- LLR152
+- LLR120: 38388486d3fde99693e6e8452ca172b6
+- LLR152: 0f11739763e40f3e340ff4b3be842cda
 normative: true
 ref: ''
+reviewed: bc52c7ef4fe88b93cb9caf1d7162cee2
 text: |
   Verify lorem markdownum hoc fibris moribundum, habet carens, ego alios invia
   **nostri** veteris scopulo adulterium toto arbitrium iaces.

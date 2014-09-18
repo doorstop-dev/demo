@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 23.35
 links:
-- HLR005
-- HLR013
-- HLR042
-- HLR048
-- HLR076
+- HLR005: 782d35ca3637a2b49051cc44dc073f0a
+- HLR013: a08f2929dcca39e42a0270e8f7db581b
+- HLR042: f7b518368c519ccc517951252e013f1b
+- HLR048: 56aa735358f7210502ed2e7a7527fa22
+- HLR076: 62d8f849b82682833a2295608f3347b5
 normative: true
 ref: ''
+reviewed: 60747eb1b3c951125ed7ccf79e07aae2
 text: |
   Lorem markdownum **SHALL**, est quid gaudia illa dicta Cinyras caeleste
   stupuit.

@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 6.7
 links:
-- HLR004
-- HLR027
-- HLR053
-- HLR057
-- HLR078
+- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
+- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
+- HLR053: aca512755df1944bbde060425662d88e
+- HLR057: 108e6d69b95a3929d748aafdd89297e7
+- HLR078: 6ea8b59559dcdbc2e8b40f656f7a74af
 normative: true
 ref: ''
+reviewed: bfa4f4b7bb7d8dac2968c6f4ab37fe43
 text: |
   Verify lorem markdownum sublime **Elymumque** dies quaerenti fronte.
   Agreste quae regnum animoque laetis stagnumque canis effecisse traxit.

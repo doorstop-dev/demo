@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 23.4
 links:
-- HLR005
-- HLR021
-- HLR059
+- HLR005: 782d35ca3637a2b49051cc44dc073f0a
+- HLR021: 4ccc4b832e9beef7a9d7b67b022227e4
+- HLR059: 78b7ca6f523c75544862bbfa58942b37
 normative: true
 ref: ''
+reviewed: 162ba0efd308011553329ad41ca87d45
 text: |
   Lorem markdownum **SHALL** alta amorem ambierantque rubor et e ne te
   crepitantia clamore oscula patrem; [liceret](http://www.lipsum.com/)!

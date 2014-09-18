@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 7.3
 links:
-- HLR045
-- HLR048
-- HLR068
-- HLR096
+- HLR045: 64596d19da4080f5ff6ef0ae72feb118
+- HLR048: 56aa735358f7210502ed2e7a7527fa22
+- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
+- HLR096: 106add8d49e2341dc81214cee7519924
 normative: true
 ref: ''
+reviewed: 436d700385758b675111cfa4a3152c06
 text: |
   Lorem markdownum **SHALL** limoso Romulus: labuntur est: et vacent notam,
   celeberrimus quoque Notum.

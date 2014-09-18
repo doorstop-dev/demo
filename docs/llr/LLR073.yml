@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 15.2
 links:
-- HLR010
+- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
 normative: true
 ref: ''
+reviewed: cb920b94ea23fc038e0c119343e7e5ed
 text: |
   Lorem markdownum **SHALL** colle infera, quos, ripa Troica ut.
   Montanum forte animum, est fervet respicit deos, iam curaeque versum diu

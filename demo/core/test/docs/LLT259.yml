@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 5.54
 links:
-- LLR067
-- LLR088
-- LLR123
-- LLR173
-- LLR193
+- LLR067: 2ac99d34e042e4f33fe3e247eaff1b7e
+- LLR088: 81e34fdf6a5d0f98639d08994137636b
+- LLR123: a8e74604b454b679ce1c9d6fb491ba29
+- LLR173: d71c5408387149097d82bb5865a863d8
+- LLR193: 4fef0018e0b9ff8b050310b680af4f5b
 normative: true
 ref: ''
+reviewed: c80937320ffddbd554b6f9c1afb6820f
 text: |
   Verify lorem markdownum novi fugaverat amore mentis torvi mora hosti
   palluerat renasci deseruitque mille, terris post exstinctos Oechalia quosque.

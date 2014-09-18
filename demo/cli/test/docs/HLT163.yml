@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 8.79
 links:
-- HLR047
-- HLR059
+- HLR047: f64502605f5781802a5de46f36e137d5
+- HLR059: 78b7ca6f523c75544862bbfa58942b37
 normative: true
 ref: ''
+reviewed: 51e12e7cc8b550e1ea10560e8f309969
 text: |
   Verify lorem markdownum limen confer cacumine serrae Propoetides luce?
   Das quam venit, an acri qui quaesita Pandione, tamen illa sol admonitu primi.

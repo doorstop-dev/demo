@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 4.5
 links:
-- SYS017
-- SYS019
-- SYS048
+- SYS017: c6373fac9b0b7f7a7404da3f2838a3d4
+- SYS019: 67ddf03fcbadc20bc0e49bf4909c5bb8
+- SYS048: 6fb42a60e7eb81523ba63197cccb014c
 normative: true
 ref: ''
+reviewed: fc28d66a0d0f99008a81ce6904f60b3f
 text: |
   Lorem markdownum **SHALL** priorem qui tertius barbam.
   Ora omnes; spectans fui natura ictae pretium, miserisque dixit.

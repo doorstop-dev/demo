@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 23.26
 links:
-- HLR046
-- HLR048
-- HLR064
-- HLR087
+- HLR046: 816db4153bde67375509bac7fd4c998a
+- HLR048: 56aa735358f7210502ed2e7a7527fa22
+- HLR064: 738b10155b97a5775f28bab75eb8c067
+- HLR087: 9af49b45e12f3a85eaee83259d295f4e
 normative: true
 ref: ''
+reviewed: e01a644dfaf33f8ff678be064143170f
 text: |
   Lorem markdownum **SHALL** patriaeque portitor arva ungues partes monimenta
   saepe aetasque, hoc hiatus aethera, et vellent et.

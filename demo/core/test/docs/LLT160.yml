@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 5.281
 links:
-- LLR099
-- LLR114
+- LLR099: 2434eb70bf27e1e0e112725f4bd6bce2
+- LLR114: 20dd357661195c42ccbeac5351fcc491
 normative: true
 ref: ''
+reviewed: d22cbe2ba841cbe0c4150efd9192e043
 text: |
   Verify lorem markdownum altae purpureum laverat auctor oracula curvos
   succincta prosecta solidam tibi lacertis Apis ferro Pygmaeae.

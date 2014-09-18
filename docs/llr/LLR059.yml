@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 12.2
 links:
-- HLR020
-- HLR081
+- HLR020: aae8bd09715becc5a5a95d827d615ee8
+- HLR081: f85cc275a9545dc4ae6cc142fa5385fb
 normative: true
 ref: ''
+reviewed: 8b9aeb9b677ae38232e7731b461f8867
 text: |
   Lorem [markdownum](http://www.reddit.com/r/haskell) loquendo cum ritu crine,
   et non unda *tenens*. Cur Athamanta mons.

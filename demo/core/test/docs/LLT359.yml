@@ -2,9 +2,10 @@ active: true
 derived: false
 level: 5.339
 links:
-- LLR140
+- LLR140: 83a01d9a5f600dded5aab3b797849f9c
 normative: true
 ref: ''
+reviewed: 6e9abe5c5377db66ecda34289203c6ac
 text: |
   Verify lorem markdownum tellus [omnes tamen](http://imgur.com/), qui puer.
   Inmisitque donec desit nequit potentia et parvo, **oscula tenus murmura**

@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.319
 links:
-- LLR030
-- LLR115
-- LLR175
+- LLR030: 283fba5a9ccda802096ce549c4d65987
+- LLR115: 43962294b00b7f8a135433e059b47731
+- LLR175: a79505d63c5c666e837f79e5a9350321
 normative: true
 ref: ''
+reviewed: 3761e3706e1e21f38be530050d8d7b34
 text: |
   Verify lorem markdownum celsior, expetitur. *Tauri brevissimus licet*. Dea
   anni; sunt vincis harum.

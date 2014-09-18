@@ -2,12 +2,13 @@ active: true
 derived: false
 level: 5.365
 links:
-- LLR022
-- LLR054
-- LLR065
-- LLR181
+- LLR022: e1eb4a095115ae7f561055deb1fdcb78
+- LLR054: 0cd98c784f1946189eeda5baf3eac2f4
+- LLR065: fa5ea5a267f5ce36f579b8ae05c696d8
+- LLR181: e613d7310ec84c7e1f1bd0e63f8ad9a6
 normative: true
 ref: ''
+reviewed: ef76320c1ff413e00fa53eedfd936b46
 text: |
   Verify lorem markdownum querella alium herede effecisse cubito nullus
   eloquitur Pelides.

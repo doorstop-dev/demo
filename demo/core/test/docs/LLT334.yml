@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 5.69
 links:
-- LLR005
-- LLR036
-- LLR084
+- LLR005: 261dbaa845b7791b6747c1161c3a5f05
+- LLR036: 25962829aec75e19ba7b127da88d32a0
+- LLR084: a57f67f315046359c4eba2048fb313bf
 normative: true
 ref: ''
+reviewed: 2cdaffee798b4d580d02da17e6135e71
 text: |
   Verify lorem markdownum Hectoris rerum constituis **magnis**. Fraterna alto
   tamen adituque artus somniferam, intrat dedit saecula movit tertius.

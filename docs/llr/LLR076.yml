@@ -2,10 +2,11 @@ active: true
 derived: false
 level: 15.5
 links:
-- HLR004
-- HLR063
+- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
+- HLR063: b1b6217c7cf6d7be814389b1bdadedc2
 normative: true
 ref: ''
+reviewed: 2afecd346be16c755a1e0b66d5e966a3
 text: |
   Lorem markdownum **SHALL** dicentum, numina quae, omnipotens fit mihi terras
   victus; vestes, coit.

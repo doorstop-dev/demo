@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 6.3
 links:
-- HLR006
-- HLR009
-- HLR029
-- HLR039
-- HLR065
+- HLR006: f2f526a9dbb2135b4611ec40e9911260
+- HLR009: 6da8ed61c313b1482bdb6da89d007eac
+- HLR029: 1d5062f71b5637b24b6346586d1676f3
+- HLR039: b7e189054d4fa57138c4bfebb3344bc2
+- HLR065: 3a53d19c665b6d1086f8a976b4dd7e31
 normative: true
 ref: ''
+reviewed: fd9a70489ce694df2f39eb816816e13f
 text: |
   **Lorem markdownum **SHALL**** nam sequente omnia intrarant poplite.
   Ora matri gurgite quos nudum saltuque poenam reluxit: pro manu erat, erat

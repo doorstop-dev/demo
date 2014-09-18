@@ -2,13 +2,14 @@ active: true
 derived: false
 level: 7.7
 links:
-- SYS010
-- SYS025
-- SYS033
-- SYS038
-- SYS044
+- SYS010: 4afcecf637263f95a636a61d40408b99
+- SYS025: 547d68e839d55f8d3ac4ec8549cf8855
+- SYS033: b526581cadf9dbf96ee532a63b221052
+- SYS038: 5ea4bbd075c62c08d752df5ec44187e5
+- SYS044: c802e5041616d559eb6bae4bdeeb4742
 normative: true
 ref: ''
+reviewed: 64249dfa5d20d735a1854edb7adb2b4d
 text: |
   Lorem markdownum **SHALL** horas digitos subii se vosque, in aer caesarumque
   inmenso.

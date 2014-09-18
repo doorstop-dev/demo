@@ -2,11 +2,12 @@ active: true
 derived: false
 level: 8.57
 links:
-- HLR016
-- HLR043
-- HLR078
+- HLR016: f62dcef37de26a547aa5a43e2558de94
+- HLR043: b0f3b0871e39677f58ef610fbdd81555
+- HLR078: 6ea8b59559dcdbc2e8b40f656f7a74af
 normative: true
 ref: ''
+reviewed: 71a6c1b45e94e9e10eca7e94593f4a2c
 text: |
   Verify lorem markdownum custos ne et potest tori actis illo *aeternum apium*!
   Aliqua iacuit aequor, quaeris incidit; puniceo iuverat locus rapta lustratum
