@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 6.2
 links:
-- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
-- HLR017: 7c34babb079cf13f34cc6379f6d62f8e
-- HLR073: f1399f4ebb54c6d8ad15181b5218d154
-- HLR098: 42a0dc5551d1fb162523da962f4761e9
+- HLR010: x6PYorHyquWLqHItGKAZC1K-FQ5mgSidrO7f4xC595c=
+- HLR017: xuwV5I1hq-BD4jWAbz2eZD8JE5cDZWK_TJcN9jkbvqk=
+- HLR073: 7AajvOZjVLA-Wcohh6rZGva7KjFD9UjppEu4DPhHke0=
+- HLR098: tCZgH4_wgbCXZvsWsE7nKUkTnsgXltkhQFyc7jQtwCE=
 normative: true
 ref: ''
-reviewed: e3f5a52c36b76caa6ae63f979ca34d78
+reviewed: SPvUafmwDsmd1bSbqdNWkQNkQEAL-TOfT8RcKPaPGA8=
 text: |
   Verify lorem markdownum sanguine lacrimae in acuto: certa quae
   [redditque](http://www.wtfpl.net/).

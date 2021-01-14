@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: '23.30'
 links:
-- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
-- HLR014: 9f92692d382bfcf647ac097d27369c0a
-- HLR080: 299534fd5a7eca46f589c6322b659423
-- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
+- HLR010: x6PYorHyquWLqHItGKAZC1K-FQ5mgSidrO7f4xC595c=
+- HLR014: R07WUgiu8vp7bTheoiwa5SBEVLOoKiliG9vWlGz6yPo=
+- HLR080: 9ToBnnt_u1-ixxt_HMbqrrZaWDm0R7twCMpQkze5WRk=
+- HLR083: EI38qwAZYnmD6j6Q2Xqpa2pmbXv6fC059iOdIONSvls=
 normative: true
 ref: ''
-reviewed: 083eac9adc29d8fd6c26083dc3abe2dc
+reviewed: h9vUMrgW6JYQdmSJny6rp2QR40VNA6XZw83eLsZGyc0=
 text: |
   Lorem markdownum **SHALL** operique et numquam Libys, quoque frontis, eminus
   dixit in similis quaeras quem sibila si.

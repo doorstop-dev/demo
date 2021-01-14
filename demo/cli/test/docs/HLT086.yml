@@ -1,12 +1,13 @@
 active: true
 derived: false
+header: ''
 level: 8.138
 links:
-- HLR057: 108e6d69b95a3929d748aafdd89297e7
-- HLR069: 83550644e3a1d495e4b9ecf35c435981
+- HLR057: mPvUWWYpyEi5WXD6zT9VuPpDeiSNmTnWeN4J3iE9rWY=
+- HLR069: vqzznF97ESalhq54WAQDLygGPtaYfT4wtGvvGF9SYCg=
 normative: true
 ref: ''
-reviewed: 7f45608bba82f80f48f744cea958ea90
+reviewed: dGvCivN8f0rZCMKZHnmGNgUu0khhAbtS1nK1fi8tOLE=
 text: |
   Verify lorem markdownum manusque illa patent fervet tuta; aegre que: ad.
   Omnemque verte: cursus pro terris satiata huc Ditis Phaethon os Hector alite;

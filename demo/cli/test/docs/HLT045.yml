@@ -1,12 +1,13 @@
 active: true
 derived: false
+header: ''
 level: 8.51
 links:
-- HLR011: fb47d13ca2bcd7c22beff68af53ef365
-- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
+- HLR011: CXAnr18_wKhSdoV7eggkbgY5D61zGsFdUXD9Zrh6RxU=
+- HLR083: EI38qwAZYnmD6j6Q2Xqpa2pmbXv6fC059iOdIONSvls=
 normative: true
 ref: ''
-reviewed: 6ee49a64d4baeb073d0cf522647f2815
+reviewed: AU_R9On-n1MiT9JPHbQeULUNgskCdVRMp_4WzhoK3g8=
 text: |
   Verify lorem markdownum mare bracchia, lunae excipiunt aequor fuerat Cepheni
   et remittis.

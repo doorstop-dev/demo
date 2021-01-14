@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 5.363
 links:
-- LLR059: 145aff24cbe27e19de98eb5c916e1bf1
-- LLR127: 50db07405dea712246fd51624c61d9ea
-- LLR195: 06d28a52996a572fd292f5a13241ef8e
+- LLR059: ycbNcV0Z90hJzgTliTKFJXtw1Rw-DcAP5FrxG6qN9ek=
+- LLR127: -xW0IwEr5X-sHEUji0aDntZ9QylZRShBDT9ZB1Wp5ZU=
+- LLR195: 8KZvXfPlW6D28-DX80bNjg64UI-8jG3zHQXYNZci0CE=
 normative: true
 ref: ''
-reviewed: 7ba43dfdc529c71c247215e5707b9bac
+reviewed: ZcZA_5MDwQ5diZBAsUiTNDi7sGfmMimhlf2g6CLgJAg=
 text: |
   Lorem *markdownum artes* quicquid mittam, sic multa navita metuitque!
   Capite huc viribus quem regione etiam, quid nec petatur Graium da.

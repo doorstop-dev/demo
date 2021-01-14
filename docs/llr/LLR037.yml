@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: 7.2
 links:
-- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
-- HLR006: f2f526a9dbb2135b4611ec40e9911260
-- HLR029: 1d5062f71b5637b24b6346586d1676f3
-- HLR087: 9af49b45e12f3a85eaee83259d295f4e
-- HLR096: 106add8d49e2341dc81214cee7519924
+- HLR004: 49DZfQwjcIEn5M1S5HEyON39Bt30qY57RMvF8mpZTmY=
+- HLR006: j5_FIn8eTb9QwOmfMfvwoZuZrbrOeUoDOsg8-yDZuFY=
+- HLR029: DbObUc_gpUCyAwDK9a3iYG5LBq6a8nxoschJu1T6apI=
+- HLR087: _dUwrA0qzykVv7agjM3kjO8ruS34qqjBcJKhnbzT0uE=
+- HLR096: j_gt8e2YIOq6lk3XZHeBYW5bmseaeOckcj2BPx9emTw=
 normative: true
 ref: ''
-reviewed: 149436815889dcd86c41009baf927fd7
+reviewed: 5dvs72HpkFwOhdtBeO8ZByDSmGIY5P3ka0pzpapp1mU=
 text: |
   Lorem markdownum **SHALL** *nymphas exululat Phocus* vinctoque ipsosque
   aptabat numinis tumida.

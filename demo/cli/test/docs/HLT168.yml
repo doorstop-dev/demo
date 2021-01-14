@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 8.163
 links:
-- HLR031: 72c2fe6f4da4db81c71d7a8f103d2d66
-- HLR047: f64502605f5781802a5de46f36e137d5
-- HLR070: 4c5aec0fe1ce73b50af82540fa165e66
+- HLR031: LhOxsutAqRruFByxLYXhOexi--_6RUN7hubHwmAlfxw=
+- HLR047: ncIH2qekNGCGpk8qQlaIoBlEPQWY47MPMWzoDyxdnZc=
+- HLR070: 3JH9asSAk2ABiheRI2B9IcDQF47s_in0-r4odbzToQo=
 normative: true
 ref: ''
-reviewed: 4a33a512a54aa6be6ddccfdec0735e62
+reviewed: EHfbSjlINVFAy5nK0unA0FywGPu_6VwMe5jReiD8GjU=
 text: |
   Verify lorem markdownum Amphiona mille; hasta aquas satam laeta Antimachumque
   data marmoreis hunc capit?

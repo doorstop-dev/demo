@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 5.19
 links:
-- LLR102: 836dd3bdc538192d71fca514ccc5c83a
-- LLR173: d71c5408387149097d82bb5865a863d8
-- LLR187: e3d7909b94107a2055956a335cb779e1
+- LLR102: MSrNAKFLdUiii4pRTjCkN-RRD4FW2JD919pnisMWPy8=
+- LLR173: UYcLQrePB7XfyQVh9jxcfk9_-vmt9uk6MKYMey0ZFSw=
+- LLR187: mitBLsehedPjCgZxF6d4EV8Wr9j5n9nCGaXH10faphU=
 normative: true
 ref: ''
-reviewed: 7166abf4d5f1e3b4bff7d284b4bc6f62
+reviewed: w3EETFLkhHK3JFjnk3Z7q8RQu1x4W7hXRChdI1MkWMU=
 text: |
   *Verify lorem markdownum paulatim* finge; dederis et quoque **exercetque
   sed** malis.

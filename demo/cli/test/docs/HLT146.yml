@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: 8.93
 links:
-- HLR016: f62dcef37de26a547aa5a43e2558de94
-- HLR018: 052c75e3524720b2fa74b8546334a5f6
-- HLR054: b823705de2edb09151e0e5dba452a176
-- HLR077: f3065f2ef4069554db40e890309903dc
-- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
+- HLR016: z3BzSXQAvav940JVsERgmVhRmLoHm6ATwUIe3NFS9io=
+- HLR018: LCkpKbaiu7TP4_8HSdoQoBjLkDpN6rEDO_YyLgbh698=
+- HLR054: GGJ--YUCVG3ASJfoI54XT_1YlabEf6WfYe-qi0keGiA=
+- HLR077: 4qU-Be2MsrWVhRcT951-8xhqnNVxOVolynqG1AkmcUY=
+- HLR083: EI38qwAZYnmD6j6Q2Xqpa2pmbXv6fC059iOdIONSvls=
 normative: true
 ref: ''
-reviewed: 7743601952187b466d5cb63b22052624
+reviewed: VFnvMBv69V1LRtFmpqBAQZsngRIV3lEvAnfy3VGcZo8=
 text: |
   Verify lorem markdownum, suo fratrum, deponunt Ulixem spes mira *Dryope
   dolorem nata*, callem.

@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 11.1
 links:
-- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
-- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
-- HLR039: b7e189054d4fa57138c4bfebb3344bc2
-- HLR051: 6963e01374087f10fa114650be974ce9
+- HLR025: hauM67QBCEHVbdeDyigs81NQkIvXmSfCdlVmHEA0v4Y=
+- HLR028: hgXmy-Gaq8eMnrWY5rk2HzlnQGTZliEVyu3j04IQ1vM=
+- HLR039: Nk80VY1aUFfaBzOeF9V1QZY7IIo7_aL0239VoOaDkWM=
+- HLR051: AH9tVxmZzb2hErCg4U0t5mNJFZh9gUYb9MlV1ettoNc=
 normative: true
 ref: ''
-reviewed: 84fc81a99fdfb8814dfadbcc182a2ba8
+reviewed: G5yLxsgvRE6BhL8r3Vbx-4GFTxS8mVWdrtKX22-M_YQ=
 text: |
   Lorem markdownum **SHALL** reduxit.
   Ducentem quo morte Deianira *qui inferias* nostrumque, male Pelops, aperire

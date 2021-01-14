@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 8.59
 links:
-- HLR013: a08f2929dcca39e42a0270e8f7db581b
-- HLR016: f62dcef37de26a547aa5a43e2558de94
-- HLR084: cd3a142af5aa32c38ba5338b919257fb
+- HLR013: dg8Pkbtox6W1XVMBDzL99_9s_IMsgXwPjbWTomLrza8=
+- HLR016: z3BzSXQAvav940JVsERgmVhRmLoHm6ATwUIe3NFS9io=
+- HLR084: VG4G6AZr0yQywd9LIDNvzZK-q_uHu8j5WcUR1efb4Lc=
 normative: true
 ref: ''
-reviewed: 861f9f153f23359e8918662cb8944a98
+reviewed: vgR659eClv80zu8NU6qhQPyVT6yHcNurAxKmyyVZcjA=
 text: |
   Lorem *markdownum madidisque* tamen, Lapitharum laetis cuius, redde.
   Maxima et firmat dixit securibus habebat nigra nec incognita!

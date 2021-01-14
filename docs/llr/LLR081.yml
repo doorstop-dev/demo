@@ -1,12 +1,13 @@
 active: true
 derived: false
+header: ''
 level: 16.3
 links:
-- HLR010: 1e8e9c9cca77ea05af8c444e7ec6b4f1
-- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
+- HLR010: x6PYorHyquWLqHItGKAZC1K-FQ5mgSidrO7f4xC595c=
+- HLR094: sqkSw5AHyhHRR0Wj6aZEQXZl78-frrtpvlPy9Fu03to=
 normative: true
 ref: ''
-reviewed: 604b3f0e526b92f6ebdd616b1e16e0dd
+reviewed: zeZrxlvg2xEK3VM0OjGdH6hjEPWqYGRtlWE7XXCgjws=
 text: |
   Lorem markdownum **SHALL** [dextroque corque](http://imgur.com/); a Baccho
   lenta Lyciae lucis et cepit Alemonides quod haeret.

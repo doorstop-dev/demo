@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 8.72
 links:
-- HLR014: 9f92692d382bfcf647ac097d27369c0a
-- HLR044: 17ba7dfa59a6605406dd7b30fecc1a7f
-- HLR079: d0976b23bdd14a4a47002c3a40b83f45
-- HLR095: 5c1e4086f2b6913304bca55a2ae3c065
+- HLR014: R07WUgiu8vp7bTheoiwa5SBEVLOoKiliG9vWlGz6yPo=
+- HLR044: DZJw4GHbDvqZ2eZQdtortZolTRcPXJDwAsOnNknOrSc=
+- HLR079: ZSzSPqSqcBcn2LfBoisaE_EnKXVxMVhqsyxLwefU5JQ=
+- HLR095: rO91mitPRUhHa1e1_C2FtB_6fCOH89fy_f52KZcxnpU=
 normative: true
 ref: ''
-reviewed: 2ae343e7a59d0272b2988e9a87cd8844
+reviewed: kWMavQ1M10mBN35DonqUQpHBk16SZpxTel9p-Q78-a4=
 text: |
   Verify lorem markdownum ossa; iam mensura occuluere ambage velociter gravior
   hospes moti nunc limina paciscitur.

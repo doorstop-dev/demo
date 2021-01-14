@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 23.63
 links:
-- HLR057: 108e6d69b95a3929d748aafdd89297e7
-- HLR063: b1b6217c7cf6d7be814389b1bdadedc2
-- HLR097: 9c167b955cc3e7cb92dcfdd46066a1d5
+- HLR057: mPvUWWYpyEi5WXD6zT9VuPpDeiSNmTnWeN4J3iE9rWY=
+- HLR063: 3uopQiNTmNdNuFvc6MaxuPSFYV8Lznn6Q6ftADHmJi4=
+- HLR097: kXG7fOjMCe56Zq_Mxoi-EfRe9RIho4kIUPcJbDHODfs=
 normative: true
 ref: ''
-reviewed: 4ced3e7928d08e6a12e71aaf05167e31
+reviewed: PTmw47LR366OAhAQ4s5UiXM3U3qvhVFxkB0_naFgzf4=
 text: |
   Lorem markdownum **SHALL** damna, caput enim totum Atrides se vestra parabam
   Panopeusque forte [cedere mentis

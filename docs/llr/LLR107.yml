@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 22.2
 links:
-- HLR042: f7b518368c519ccc517951252e013f1b
-- HLR080: 299534fd5a7eca46f589c6322b659423
-- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
+- HLR042: NZmkcP7oELe8MDlcUQSBXhsB3WHJpoZT3mXjUkF5DnI=
+- HLR080: 9ToBnnt_u1-ixxt_HMbqrrZaWDm0R7twCMpQkze5WRk=
+- HLR083: EI38qwAZYnmD6j6Q2Xqpa2pmbXv6fC059iOdIONSvls=
 normative: true
 ref: ''
-reviewed: bf07b673060d30b5d4e64eb0ef60a7d3
+reviewed: L7sSUHOa-p4h0dHGHJU_DbS0ab6Z3zM64jbQCBDWCEo=
 text: |
   Lorem markdownum **SHALL** Euagrum **manifesta Hecabesque causa** equos
   pariterque subito ratae tepido?

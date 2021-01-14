@@ -1,12 +1,13 @@
 active: true
 derived: false
+header: ''
 level: 23.37
 links:
-- HLR048: 56aa735358f7210502ed2e7a7527fa22
-- HLR076: 62d8f849b82682833a2295608f3347b5
+- HLR048: C6TrsUDGY_t_45jsxclK263msyKeOxQ84kO3T8lrB3M=
+- HLR076: _uqqv1f1IVqCRkQ_zBGm9v9p1OomXFFPRwE0AXaE2Vg=
 normative: true
 ref: ''
-reviewed: e8e205686a524d44229e82caa9114f92
+reviewed: RahDTXhsxAYQMEZc7fvpRwhA0rAZFhTsjt7Xjp-ftq0=
 text: |
   Lorem markdownum **SHALL**, conditus et deus, huic artes?
   Retinete vix sacros candida fontis guttas ponti.

@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 20.3
 links:
-- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
-- HLR048: 56aa735358f7210502ed2e7a7527fa22
-- HLR089: fc17c48818f1757f2f8a232d4f1e38cf
+- HLR025: hauM67QBCEHVbdeDyigs81NQkIvXmSfCdlVmHEA0v4Y=
+- HLR048: C6TrsUDGY_t_45jsxclK263msyKeOxQ84kO3T8lrB3M=
+- HLR089: Dsna6heZpcRTGPy2x2wtfNpbZE42xsGsYvjYNpU1lhg=
 normative: true
 ref: ''
-reviewed: de6ddcd3d41e3231090e2160bea73004
+reviewed: Mb-TgxG706FSrxIPIhSMke8k9bu1OpH6iGfzeMyQDBc=
 text: |
   Lorem markdownum **SHALL** impleverat sorte **ore vulnus si** vela veterem ut
   sunt in, viae matre sidere, arces vecta.

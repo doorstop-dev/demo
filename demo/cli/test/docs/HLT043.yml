@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 8.151
 links:
-- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
-- HLR029: 1d5062f71b5637b24b6346586d1676f3
-- HLR090: c054ce5e5cb3a312beafa71336371542
-- HLR095: 5c1e4086f2b6913304bca55a2ae3c065
+- HLR027: NEDTLsqwgKFvgVmnx9JA6DwiC71FaZoJXfby9ew3K4U=
+- HLR029: DbObUc_gpUCyAwDK9a3iYG5LBq6a8nxoschJu1T6apI=
+- HLR090: nXV8TD823pgipsjNnoCo9NyjbINEwZW6l2Xd2Bk6M4M=
+- HLR095: rO91mitPRUhHa1e1_C2FtB_6fCOH89fy_f52KZcxnpU=
 normative: true
 ref: ''
-reviewed: 09284b92f3024034100fb556b637de47
+reviewed: 4SPNalOJqddSVZRSAcYY2eTlZkeL6mHqrci2deIAuZ4=
 text: |
   Verify lorem markdownum virgis, ut cretus lumina intulerant latices currum
   *Corythumque*. Ista detinuit.

@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 8.19
 links:
-- HLR009: 6da8ed61c313b1482bdb6da89d007eac
-- HLR056: 3d664384d81be055e722570cbd7c225f
-- HLR085: 8f9bb7708fb44a90426d24efe969e48e
+- HLR009: -fOEEh5cYguLabkEXxGqM0p5iDz88T8FrgiChwrBJEA=
+- HLR056: LSd2QG2E_OqG2DX6Z_TzOoNajQs2MOqyFnh7tn3Qld0=
+- HLR085: r_HElYavYz2IROZ-lVZkgeJlvkLbcdWNKuoX-DKKx2Q=
 normative: true
 ref: ''
-reviewed: fb88fc303c706754816a9aed459499e6
+reviewed: jOmBdTsD81R6rNzmQRKeliyL8wYRiuu2oyjanODcwBs=
 text: |
   Verify lorem markdownum morte interdum formae, erigite in numine nec et
   surdaeque.

@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 8.77
 links:
-- HLR024: 53137531d57b6e976f8bef6eacfcb46e
-- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
-- HLR084: cd3a142af5aa32c38ba5338b919257fb
+- HLR024: AE6lDQmyOsI7bOYh3fa7w7ecX7g6K4vIh-JsMuqE-1M=
+- HLR027: NEDTLsqwgKFvgVmnx9JA6DwiC71FaZoJXfby9ew3K4U=
+- HLR084: VG4G6AZr0yQywd9LIDNvzZK-q_uHu8j5WcUR1efb4Lc=
 normative: true
 ref: ''
-reviewed: af967355dbb8b5758f4288bd0d79e077
+reviewed: owUk0ZoPVyB9SbEaMRBFvDkYzKgxcUm4VakNGSHRUxQ=
 text: |
   Verify lorem markdownum praepetibus ligno, fas rex qui facta: delabitur.
   Sinebat amorem si caeli semesaque volucer ait in referam melioribus te sono.

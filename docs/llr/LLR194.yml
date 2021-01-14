@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 23.2
 links:
-- HLR024: 53137531d57b6e976f8bef6eacfcb46e
-- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
-- HLR049: 50e773420310cdb95a966cd9292df8b4
-- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
+- HLR024: AE6lDQmyOsI7bOYh3fa7w7ecX7g6K4vIh-JsMuqE-1M=
+- HLR027: NEDTLsqwgKFvgVmnx9JA6DwiC71FaZoJXfby9ew3K4U=
+- HLR049: YwT6yWn6i7WNE9TdzVhKQLkw-TFfPW4uXLvQk9j_aAk=
+- HLR083: EI38qwAZYnmD6j6Q2Xqpa2pmbXv6fC059iOdIONSvls=
 normative: true
 ref: ''
-reviewed: 991a854d1c76f3f616fcf19185f8303f
+reviewed: 4XVY05snVYrNAbFS5SR8Kdde6BIRaUz_ysl9XhouJBc=
 text: |
   Lorem markdownum **SHALL** falcatus, patulas si inpatiens iubebat, illa veni
   matutinaeque.

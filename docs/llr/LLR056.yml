@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: 11.3
 links:
-- HLR023: e9bd12dbb9ef8311cb24d28291766a23
-- HLR029: 1d5062f71b5637b24b6346586d1676f3
-- HLR086: 8ffc8c6aaccf0712b20ca54488b704c7
-- HLR087: 9af49b45e12f3a85eaee83259d295f4e
-- HLR098: 42a0dc5551d1fb162523da962f4761e9
+- HLR023: LAd0nttPAsYbYWOyTt6CBQKk57q_n4gcFC-Yb20l8Co=
+- HLR029: DbObUc_gpUCyAwDK9a3iYG5LBq6a8nxoschJu1T6apI=
+- HLR086: _s2nOL4xuCs-TgLJDgjcUdLzRxHmsjGB5hxnogYTSCE=
+- HLR087: _dUwrA0qzykVv7agjM3kjO8ruS34qqjBcJKhnbzT0uE=
+- HLR098: tCZgH4_wgbCXZvsWsE7nKUkTnsgXltkhQFyc7jQtwCE=
 normative: true
 ref: ''
-reviewed: e0dbe658d0c83e6b8e8db0e009ad473f
+reviewed: HYlnEqrKjVejGKLwza3j11qnBvOi7QTMqoKKlInFj8c=
 text: |
   Lorem markdownum **SHALL** *induitur convocat genitor* aspera Avernales nulla
   sua posse puellae.

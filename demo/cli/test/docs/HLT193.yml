@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: 8.132
 links:
-- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
-- HLR050: d965c6342dd432f6da29a07eab9ddc00
-- HLR059: 78b7ca6f523c75544862bbfa58942b37
-- HLR062: 57e206d85145b169a59ee9e5f4bc48cf
-- HLR097: 9c167b955cc3e7cb92dcfdd46066a1d5
+- HLR027: NEDTLsqwgKFvgVmnx9JA6DwiC71FaZoJXfby9ew3K4U=
+- HLR050: iPmPJ6fUtcqmfHh55MFSx33dgQhXSRZ0CdSTSB8T4z4=
+- HLR059: N1o7YrmJ7kIgwo57Wa4654iediGTsP-xhvi5hmcQRME=
+- HLR062: CCugr1NuiKKPVB_89nGZ0ZzYUuFm0lY-PBEjm_kaBxU=
+- HLR097: kXG7fOjMCe56Zq_Mxoi-EfRe9RIho4kIUPcJbDHODfs=
 normative: true
 ref: ''
-reviewed: b6782fedb57792c783dc5dc4685ca658
+reviewed: sTSXXsEuA8kgPJu-EuDWwRjhCG_kT7IJcEx-H9XM-IU=
 text: |
   Verify lorem markdownum quamvis liquido, non sonus oculos labores fulmina
   perque conprensam illa Baucis vulgat errabant Amathunta.

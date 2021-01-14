@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 22.3
 links:
-- HLR002: f14b4e9918e03ec7d500120798e3378f
-- HLR012: cfa33cbcb685a3d18af2bd8304c76784
-- HLR029: 1d5062f71b5637b24b6346586d1676f3
+- HLR002: XJHGbLTTz4HJdpxQB_fboAP84fLmhnDNAOKhi5gEilU=
+- HLR012: MwIjxOZFuZEljJ2D3s0crWckTlw2hRInODCtXmKk4y4=
+- HLR029: DbObUc_gpUCyAwDK9a3iYG5LBq6a8nxoschJu1T6apI=
 normative: true
 ref: ''
-reviewed: 948ad037c44dd69412eab45746813c11
+reviewed: XnWYXraLb0DnupRf1izQSlw9F74Az_vXy80WBjwmPuU=
 text: |
   Lorem markdownum **SHALL** flammaeque lunae longo.
   Sibi vultus, quoque ignes ad ara animos repellit ad tamen corpus.

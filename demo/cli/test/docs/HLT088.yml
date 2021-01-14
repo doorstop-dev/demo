@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 8.14
 links:
-- HLR020: aae8bd09715becc5a5a95d827d615ee8
-- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
-- HLR059: 78b7ca6f523c75544862bbfa58942b37
+- HLR020: hpep00rQ8nAf3vh8CVM3BDP4wKudQCW23H-eXHS6Was=
+- HLR027: NEDTLsqwgKFvgVmnx9JA6DwiC71FaZoJXfby9ew3K4U=
+- HLR059: N1o7YrmJ7kIgwo57Wa4654iediGTsP-xhvi5hmcQRME=
 normative: true
 ref: ''
-reviewed: c21f2b4bc2f89e044dc54b1a64320da0
+reviewed: oNhewKwbc4AucXvrLH-nUw__YSaZObzpK7gqBw2HTKA=
 text: |
   Verify lorem markdownum sanguine, aliter nexilibusque mihi, traxit, sidera
   Iano.

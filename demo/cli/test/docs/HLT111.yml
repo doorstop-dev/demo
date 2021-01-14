@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 8.2
 links:
-- HLR029: 1d5062f71b5637b24b6346586d1676f3
-- HLR080: 299534fd5a7eca46f589c6322b659423
-- HLR096: 106add8d49e2341dc81214cee7519924
+- HLR029: DbObUc_gpUCyAwDK9a3iYG5LBq6a8nxoschJu1T6apI=
+- HLR080: 9ToBnnt_u1-ixxt_HMbqrrZaWDm0R7twCMpQkze5WRk=
+- HLR096: j_gt8e2YIOq6lk3XZHeBYW5bmseaeOckcj2BPx9emTw=
 normative: true
 ref: ''
-reviewed: b5269a84cd9087dbc4029a19a8c5cec6
+reviewed: mQddfGZJAXbXkcsxCazek3jUMKLK69YKaL-fbTQodhU=
 text: |
   Verify lorem markdownum Lyncides inter coronat!
   Longis **undas**! Domito erat; luminis Pharsalia **perque** nequeam,

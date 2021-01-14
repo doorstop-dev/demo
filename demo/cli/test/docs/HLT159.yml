@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 8.162
 links:
-- HLR018: 052c75e3524720b2fa74b8546334a5f6
-- HLR044: 17ba7dfa59a6605406dd7b30fecc1a7f
-- HLR049: 50e773420310cdb95a966cd9292df8b4
-- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
+- HLR018: LCkpKbaiu7TP4_8HSdoQoBjLkDpN6rEDO_YyLgbh698=
+- HLR044: DZJw4GHbDvqZ2eZQdtortZolTRcPXJDwAsOnNknOrSc=
+- HLR049: YwT6yWn6i7WNE9TdzVhKQLkw-TFfPW4uXLvQk9j_aAk=
+- HLR083: EI38qwAZYnmD6j6Q2Xqpa2pmbXv6fC059iOdIONSvls=
 normative: true
 ref: ''
-reviewed: 98aae016b8b7aa7f66b47fd1c9eb8477
+reviewed: MY4UUXhhF7nvMlPunNMIwHK6C9FMv_Q8B1WW4NKizJA=
 text: |
   Verify lorem markdownum digreditur Hodites contigerant **est**, nec *adnuit
   ille fuit* aras in mater exierat aevum umero credant sum, opes.

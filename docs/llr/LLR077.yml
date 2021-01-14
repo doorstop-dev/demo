@@ -1,11 +1,12 @@
 active: true
 derived: false
+header: ''
 level: 15.6
 links:
-- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
+- HLR094: sqkSw5AHyhHRR0Wj6aZEQXZl78-frrtpvlPy9Fu03to=
 normative: true
 ref: ''
-reviewed: 2d700047bca1866c903b2fc25088f473
+reviewed: gDWyreLaJEnoLl4OOMNerr4VNZG-D05iQ6SWj9-yPfM=
 text: |
   Lorem markdownum **SHALL** sorores movere: e posses pretium flammifera non
   res fidem Andros!

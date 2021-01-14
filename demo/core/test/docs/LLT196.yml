@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 5.284
 links:
-- LLR024: 8c4767cb109a6d7a932f812958348234
-- LLR080: 482743e766909835fff69356a23d54a3
-- LLR097: 1711ce591f6615e4ea9dc3d37fd18b43
-- LLR187: e3d7909b94107a2055956a335cb779e1
+- LLR024: 9dnP3LXpnTuq10DjUd6FChgPYQyuCeQHrq2X-YFJX_s=
+- LLR080: p-1kzSFWEE97qme5VpKzEnEWjlVdhrV7rT77mZEZImA=
+- LLR097: XIOOe86D6SY79E5dB6FSGRitH8jlwJeG9H3_XmoOW4A=
+- LLR187: mitBLsehedPjCgZxF6d4EV8Wr9j5n9nCGaXH10faphU=
 normative: true
 ref: ''
-reviewed: 67d1d0099b2aedf952d73026194d770c
+reviewed: 78xEFrwFhsM7sjMZM40Uqt31aJQNZGCMFS2trI5Ze5w=
 text: |
   *Verify lorem markdownum Pallantias* quae virtutis verba; igni **tanta cum**
   totiens talia latratibus.

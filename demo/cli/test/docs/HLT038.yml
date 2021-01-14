@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 8.133
 links:
-- HLR043: b0f3b0871e39677f58ef610fbdd81555
-- HLR045: 64596d19da4080f5ff6ef0ae72feb118
-- HLR054: b823705de2edb09151e0e5dba452a176
-- HLR067: 9d79eff61851f166e5b50b1101749942
+- HLR043: RYq8bzzELCY3cLgX4qqin3md_7_WWgKnx-7Zb1at7N4=
+- HLR045: jtpqTR4QLG24JXIT-xsIfrs2YbDNnvQX_gvi2koWTHQ=
+- HLR054: GGJ--YUCVG3ASJfoI54XT_1YlabEf6WfYe-qi0keGiA=
+- HLR067: g4aVeAEVQg44ZTXKsVn1mgXwM-kEbO1AR6pyLVeaqfE=
 normative: true
 ref: ''
-reviewed: 8787c57b181a2214a8e72b48f8789e27
+reviewed: i2uL1qlP5KSVINKBDPWGutaFANE7JXxHUN-V6Rkik20=
 text: |
   Verify lorem markdownum, quo vota et Coeranon maior super *arcum* uvis nos
   sic quod ter [lapsus dextra](http://www.thesecretofinvisibility.com/).

@@ -1,12 +1,13 @@
 active: true
 derived: false
+header: ''
 level: 6.7
 links:
-- HLR061: 21d47aa8307e87377b55817212beae08
-- HLR065: 3a53d19c665b6d1086f8a976b4dd7e31
+- HLR061: 2rCc9u30Fpk_otgO_sb5j478h6z_wrfm3sJWU25OS0M=
+- HLR065: spsRe8NfG-aZzqVYHuC3YKNr0hCumCi2qySkeDjFYBY=
 normative: true
 ref: ''
-reviewed: 06feb8af8f7cc95bf8e1d25be65a749b
+reviewed: 8gGEB11bDWIl_GTe6jlK988_TXfv2s2pK5Yvxi8Ak3A=
 text: |
   [Lorem markdownum **SHALL** nulla](http://reddit.com/r/thathappened) et fidem
   exsecrantia trahit scilicet et his pavit adplicat, **per dolor**, cum sed.

@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: '8.70'
 links:
-- HLR016: f62dcef37de26a547aa5a43e2558de94
-- HLR022: d6337ec7821ed2c4a92c96fe40d7db8f
-- HLR031: 72c2fe6f4da4db81c71d7a8f103d2d66
-- HLR082: 840ae5cd6cdc2047fa83d7e6ff7fc7b4
+- HLR016: z3BzSXQAvav940JVsERgmVhRmLoHm6ATwUIe3NFS9io=
+- HLR022: WLGUXIJh7Oj_5ERr8jMbW5XYKblF9PiDgX9EmDnAnrw=
+- HLR031: LhOxsutAqRruFByxLYXhOexi--_6RUN7hubHwmAlfxw=
+- HLR082: rVABpFMbB7g95CCEMAsw1XA0pTsKSTkedq_AiAI7_3E=
 normative: true
 ref: ''
-reviewed: 79376b16a6ffc39d388c81a40edf8966
+reviewed: XZmk-r8S1gyPk5y0uUY6vC4pKJvLO3LZLNt8XV-SJjE=
 text: |
   [Lorem](http://landyachtz.com/) markdownum Tempe vestigia, Rhamnusia nulla!
   Noctis est erat quaeque locus pariterque venit.

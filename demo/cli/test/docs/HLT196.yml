@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: 8.34
 links:
-- HLR003: cc852012ad2f6c8ad8503f5d8b6290ad
-- HLR042: f7b518368c519ccc517951252e013f1b
-- HLR066: 28e63ccca90b062ccfdc3c168cc3369b
-- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
-- HLR093: 8c277eeda417521852a9051e6a58907d
+- HLR003: WvHGEJD-E3331OPcuYntln1YDjCa12RcIUOp8xB3Vio=
+- HLR042: NZmkcP7oELe8MDlcUQSBXhsB3WHJpoZT3mXjUkF5DnI=
+- HLR066: 7Qnz0dk6m3Jsv06xpc8EgFx3X31r6kDiDrKg4cblKAc=
+- HLR068: -ZQTpCqslvyhsOWsngZ2uLEkb7Uddi-ohAAbRhTg3Ew=
+- HLR093: 1NO6GnnOnNbTmj6atYyCWyUOI4QaWTSY3XhlR0hv0nI=
 normative: true
 ref: ''
-reviewed: 987821a526b235bd7ca7141afeb5dadc
+reviewed: jlMqGvfIkYTm58O-6HJXt2PFwzJGMpy8_RrHuttX6s4=
 text: |
   Lorem [markdownum petunt](http://haskell.org/) ac aevo tumulo [o
   flammae](http://news.ycombinator.com/) pericula Latonia **qui laedor**.

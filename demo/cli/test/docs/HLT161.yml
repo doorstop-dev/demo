@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: 8.46
 links:
-- HLR067: 9d79eff61851f166e5b50b1101749942
-- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
-- HLR076: 62d8f849b82682833a2295608f3347b5
-- HLR080: 299534fd5a7eca46f589c6322b659423
-- HLR089: fc17c48818f1757f2f8a232d4f1e38cf
+- HLR067: g4aVeAEVQg44ZTXKsVn1mgXwM-kEbO1AR6pyLVeaqfE=
+- HLR068: -ZQTpCqslvyhsOWsngZ2uLEkb7Uddi-ohAAbRhTg3Ew=
+- HLR076: _uqqv1f1IVqCRkQ_zBGm9v9p1OomXFFPRwE0AXaE2Vg=
+- HLR080: 9ToBnnt_u1-ixxt_HMbqrrZaWDm0R7twCMpQkze5WRk=
+- HLR089: Dsna6heZpcRTGPy2x2wtfNpbZE42xsGsYvjYNpU1lhg=
 normative: true
 ref: ''
-reviewed: 9a544aaabe55217ced8dd3b7173bb7e0
+reviewed: IsMwqg4IHrpQlag0Jv5l10boAAJSDJ3p-p3whLvLALM=
 text: |
   *Verify lorem markdownum* cubitique vatibus sollicita dextra, vix poteras
   virgo; ignavi movit; deus Mavors.

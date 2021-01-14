@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: 23.36
 links:
-- HLR009: 6da8ed61c313b1482bdb6da89d007eac
-- HLR041: f42aec3f2f02f0642a0302c55af31291
-- HLR052: fc06e2f743ae6e3c4bb29e4f92a671b5
-- HLR077: f3065f2ef4069554db40e890309903dc
-- HLR096: 106add8d49e2341dc81214cee7519924
+- HLR009: -fOEEh5cYguLabkEXxGqM0p5iDz88T8FrgiChwrBJEA=
+- HLR041: Crf3DTIh050rwK88iQOAi4rGjKJm1F-ZpIAnIG85sZo=
+- HLR052: vlndUUiBZ6uA3jlTPvldR7gx3F33MW3nTsa_iT0kjSE=
+- HLR077: 4qU-Be2MsrWVhRcT951-8xhqnNVxOVolynqG1AkmcUY=
+- HLR096: j_gt8e2YIOq6lk3XZHeBYW5bmseaeOckcj2BPx9emTw=
 normative: true
 ref: ''
-reviewed: 26c1baf4271645f28ec20f0556b16a5a
+reviewed: 8qilfAFis2PCKASHNWDvM6sqknx9U4W7TtrWjGYQz4c=
 text: |
   Lorem markdownum **SHALL** stimulos umbras, qui sinit inscribit delusum
   ululavit in operisque nostrae tenetque animos incerti, prosecta; in.

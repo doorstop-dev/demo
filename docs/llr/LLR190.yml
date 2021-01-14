@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: 23.59
 links:
-- HLR038: 4448f4f157157ec1b7d88bbe03489064
-- HLR043: b0f3b0871e39677f58ef610fbdd81555
-- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
-- HLR076: 62d8f849b82682833a2295608f3347b5
-- HLR096: 106add8d49e2341dc81214cee7519924
+- HLR038: HAs_mH0KKvqN8L9F80COdJh9A18kx8FZ5x6NfoNvG1c=
+- HLR043: RYq8bzzELCY3cLgX4qqin3md_7_WWgKnx-7Zb1at7N4=
+- HLR068: -ZQTpCqslvyhsOWsngZ2uLEkb7Uddi-ohAAbRhTg3Ew=
+- HLR076: _uqqv1f1IVqCRkQ_zBGm9v9p1OomXFFPRwE0AXaE2Vg=
+- HLR096: j_gt8e2YIOq6lk3XZHeBYW5bmseaeOckcj2BPx9emTw=
 normative: true
 ref: ''
-reviewed: 81d4916dd339fb4c3ccccb1c9de198ac
+reviewed: w1VJYzNbDqCEUlOaQOxjDeKXgzmr2mE8Bt6Gw5v5lUo=
 text: |
   Lorem markdownum **SHALL** ab cruores vacant Latonae gurgite pertulit: vomens
   a aetas revelli tempus.

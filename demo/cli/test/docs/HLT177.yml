@@ -1,12 +1,13 @@
 active: true
 derived: false
+header: ''
 level: 8.164
 links:
-- HLR043: b0f3b0871e39677f58ef610fbdd81555
-- HLR096: 106add8d49e2341dc81214cee7519924
+- HLR043: RYq8bzzELCY3cLgX4qqin3md_7_WWgKnx-7Zb1at7N4=
+- HLR096: j_gt8e2YIOq6lk3XZHeBYW5bmseaeOckcj2BPx9emTw=
 normative: true
 ref: ''
-reviewed: 157ed258eab61201543660812e43d6f6
+reviewed: 6Md7pAeqDP3NWz9Mq9aTnUn7UA-Ay_lObHqayIcxBmg=
 text: |
   Verify lorem markdownum, Cartheia **quamcumque templa**, annis undas precor
   factas suis modo.

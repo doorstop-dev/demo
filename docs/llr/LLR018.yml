@@ -1,11 +1,12 @@
 active: true
 derived: false
+header: ''
 level: 4.1
 links:
-- HLR044: 17ba7dfa59a6605406dd7b30fecc1a7f
+- HLR044: DZJw4GHbDvqZ2eZQdtortZolTRcPXJDwAsOnNknOrSc=
 normative: true
 ref: ''
-reviewed: 0a7c531bea91fcadee26a050338eae3d
+reviewed: -PKBdmYLz4jjopOZgLL-QcpHQ5io5rk4vbRrJZ9johU=
 text: |
   [Lorem markdownum **SHALL**](http://twitter.com/search?q=haskell): suas domos
   plangorem indignis stagno dixit, sed recurvo esse.

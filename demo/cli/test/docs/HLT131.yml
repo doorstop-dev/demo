@@ -1,12 +1,13 @@
 active: true
 derived: false
+header: ''
 level: 8.26
 links:
-- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
-- HLR051: 6963e01374087f10fa114650be974ce9
+- HLR027: NEDTLsqwgKFvgVmnx9JA6DwiC71FaZoJXfby9ew3K4U=
+- HLR051: AH9tVxmZzb2hErCg4U0t5mNJFZh9gUYb9MlV1ettoNc=
 normative: true
 ref: ''
-reviewed: 9e51a08f5295c0cb9b11bf02e29f46bb
+reviewed: LuqXIOGGnhn7KncWcDzmYHsEKjlWjW4iuvJoOzqAiyU=
 text: |
   Verify lorem markdownum mortale arte corpus, bisque pone ferrumque nexis
   adultera soceri corpora se et humus.

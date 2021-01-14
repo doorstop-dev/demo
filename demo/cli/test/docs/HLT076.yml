@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: '8.120'
 links:
-- HLR020: aae8bd09715becc5a5a95d827d615ee8
-- HLR034: 87889aab3af013c2c6700993f82c1984
-- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
-- HLR071: eb5f019d9458e537f2a0e396d6ec2f0d
-- HLR093: 8c277eeda417521852a9051e6a58907d
+- HLR020: hpep00rQ8nAf3vh8CVM3BDP4wKudQCW23H-eXHS6Was=
+- HLR034: WQFsjfb3fqFmDoATO7_EFfwHc8u1GhmDJBwpfG5apSI=
+- HLR068: -ZQTpCqslvyhsOWsngZ2uLEkb7Uddi-ohAAbRhTg3Ew=
+- HLR071: Rg6rpUCjvMNKCYgpAThGvguZM9JTtjD4ZYh4Y5eJeAc=
+- HLR093: 1NO6GnnOnNbTmj6atYyCWyUOI4QaWTSY3XhlR0hv0nI=
 normative: true
 ref: ''
-reviewed: d8e7c2c8e379a0811beab591884ee8fc
+reviewed: SNrBN5yKKYsGsev4nzhog9YHpm7oXUx354-ff-VV3sc=
 text: |
   Verify lorem markdownum parvo, rege rogumque gradibus inmergitque lepori
   quibus?

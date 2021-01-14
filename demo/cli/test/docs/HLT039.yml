@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: '8.150'
 links:
-- HLR055: 1984551a3ed8ff9a4827af2afc7467a9
-- HLR060: 85f748bf9edd302de65894924958c3c5
-- HLR072: 05c44ac66e5c91420b2c82769350fd93
-- HLR084: cd3a142af5aa32c38ba5338b919257fb
+- HLR055: 2PdTIfQFHKLtVn3Pqwm1ty40Vt9nDUT1AjsQ9M4hFEk=
+- HLR060: 11bC7Ad4i59NK245Lj4l7zt0-vy9fraJwYDtJVbAlSk=
+- HLR072: ZjWpFkbP-xZLULkCTCNxgkweZjYckv3dDHjAi4rZp3A=
+- HLR084: VG4G6AZr0yQywd9LIDNvzZK-q_uHu8j5WcUR1efb4Lc=
 normative: true
 ref: ''
-reviewed: abbc8762ca8017d0e629e480b127dac4
+reviewed: xXgZZrcUeZrW7Y9l8qGGZ9kOThQkxHFQJg3fvUheLZY=
 text: |
   Verify lorem markdownum lumen, sparsitque utque!
   Tenent dum, pictas iusserat fratrem plangi audet qualem me amplexa secuta

@@ -1,12 +1,13 @@
 active: true
 derived: false
+header: ''
 level: 8.136
 links:
-- HLR047: f64502605f5781802a5de46f36e137d5
-- HLR096: 106add8d49e2341dc81214cee7519924
+- HLR047: ncIH2qekNGCGpk8qQlaIoBlEPQWY47MPMWzoDyxdnZc=
+- HLR096: j_gt8e2YIOq6lk3XZHeBYW5bmseaeOckcj2BPx9emTw=
 normative: true
 ref: ''
-reviewed: dda888595c2b30bf74b90e2f3d6072bc
+reviewed: eLgMoxbHVUfvsTqPIUHPvre0sDKgdR8TyAJ4ScUBGg8=
 text: |
   Verify lorem markdownum errabant pedum maternaque aliis securior utroque, est
   nitore [quidem cadit](http://zombo.com/) lectum.

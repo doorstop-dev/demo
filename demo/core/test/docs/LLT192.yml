@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 5.132
 links:
-- LLR052: e081bab96105b39d5150231936d49c80
-- LLR067: 2ac99d34e042e4f33fe3e247eaff1b7e
-- LLR102: 836dd3bdc538192d71fca514ccc5c83a
+- LLR052: 3Ky1beqCLLqINdpMCCcRTc4YYfspDQ-bBLMFY56ZaR8=
+- LLR067: 045YGVf9AOzq7pNfafALwzpnteKc8KWNDURlOSL_3ak=
+- LLR102: MSrNAKFLdUiii4pRTjCkN-RRD4FW2JD919pnisMWPy8=
 normative: true
 ref: ''
-reviewed: c00662b164e0f389f4abf2702ba832ff
+reviewed: L1O_FddH5E9Mh9nxMla0tGXfC-S7SH9k8rARk-CZ0Zw=
 text: |
   Lorem [markdownum](http://omfgdogs.com/) patriumque eligit, unum [haec
   quoque](http://html9responsiveboilerstrapjs.com/)! **In omnis quasque**

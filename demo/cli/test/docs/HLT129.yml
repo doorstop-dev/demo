@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 8.108
 links:
-- HLR022: d6337ec7821ed2c4a92c96fe40d7db8f
-- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
-- HLR061: 21d47aa8307e87377b55817212beae08
-- HLR075: 024621d141e0d33a01100d381bf459b2
+- HLR022: WLGUXIJh7Oj_5ERr8jMbW5XYKblF9PiDgX9EmDnAnrw=
+- HLR028: hgXmy-Gaq8eMnrWY5rk2HzlnQGTZliEVyu3j04IQ1vM=
+- HLR061: 2rCc9u30Fpk_otgO_sb5j478h6z_wrfm3sJWU25OS0M=
+- HLR075: -hdIaPXXS_4YQjutdghd1aXjoG0dt28Px8PZHk-QQlo=
 normative: true
 ref: ''
-reviewed: e04728e35c1f6b33f7f43e44eeb5e4bf
+reviewed: CBedeL9joUlA2m2_fHmINGh6I6J-o3BQj_bKbLTjU9g=
 text: |
   Lorem *markdownum* potuit, ora tollens moribundo, fortis *quae*. Nunc
   sequiturque fluentum adparuit exacta per duro [prudentia sua

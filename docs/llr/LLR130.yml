@@ -1,11 +1,12 @@
 active: true
 derived: false
+header: ''
 level: 23.15
 links:
-- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
+- HLR025: hauM67QBCEHVbdeDyigs81NQkIvXmSfCdlVmHEA0v4Y=
 normative: true
 ref: ''
-reviewed: c3125e768b809b41ed276edbbf621c9b
+reviewed: 8aNnCkgbQpETh9FHiTYMnJsXdsdi1eRcRt_FmE3JOUg=
 text: |
   Lorem markdownum **SHALL** erit; di hanc **quem inicere** aut.
   Pondere omnes ulva est, fui parente siqua alterius; prospiciens.

@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 8.103
 links:
-- HLR024: 53137531d57b6e976f8bef6eacfcb46e
-- HLR036: b85c4146e31bab43dac352c217430641
-- HLR076: 62d8f849b82682833a2295608f3347b5
+- HLR024: AE6lDQmyOsI7bOYh3fa7w7ecX7g6K4vIh-JsMuqE-1M=
+- HLR036: LetNx75MFFNcmz4m9HEPj5RYT-dzXmJV4z4NO53Psfc=
+- HLR076: _uqqv1f1IVqCRkQ_zBGm9v9p1OomXFFPRwE0AXaE2Vg=
 normative: true
 ref: ''
-reviewed: ac74b811fbf723d9f21c3709f4b777e7
+reviewed: xBd1JhOvbg_1LSKVMuoyQETXXc7HlYUj95wGcnZbwLA=
 text: |
   Verify lorem markdownum aurem, meos, quem [quondam](http://www.wtfpl.net/)
   repugnat.

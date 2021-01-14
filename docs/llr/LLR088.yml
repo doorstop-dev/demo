@@ -1,11 +1,12 @@
 active: true
 derived: false
+header: ''
 level: 18.2
 links:
-- HLR099: 26e72fa3e3a95b20a96d530e001a4652
+- HLR099: wDalC0RmAY5rFQWOnb0d-Qc1tXwPj01i1X8WQTwEtiQ=
 normative: true
 ref: ''
-reviewed: b3599a67e68eb86a6cab2af6c1cc214b
+reviewed: J4UXN762Ijt_UvFsKExouXa8evvREmqRLsldjiSu548=
 text: |
   Lorem **markdownum** virtute?
   Sic heu curasque ducit.

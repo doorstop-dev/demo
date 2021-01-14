@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 8.115
 links:
-- HLR014: 9f92692d382bfcf647ac097d27369c0a
-- HLR048: 56aa735358f7210502ed2e7a7527fa22
-- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
-- HLR096: 106add8d49e2341dc81214cee7519924
+- HLR014: R07WUgiu8vp7bTheoiwa5SBEVLOoKiliG9vWlGz6yPo=
+- HLR048: C6TrsUDGY_t_45jsxclK263msyKeOxQ84kO3T8lrB3M=
+- HLR094: sqkSw5AHyhHRR0Wj6aZEQXZl78-frrtpvlPy9Fu03to=
+- HLR096: j_gt8e2YIOq6lk3XZHeBYW5bmseaeOckcj2BPx9emTw=
 normative: true
 ref: ''
-reviewed: ae00f3a66efc092a5aecc1eda8eb25f3
+reviewed: NW_cVzFYI6rRvi_SXrsCY6K_VD-t6QnYrGGwGAWLUto=
 text: |
   Verify lorem markdownum; inviso qui nunc sublato crine.
   Iterum cadunt forma flectitque quaeritis hinc nova proelia inhospita capiebat

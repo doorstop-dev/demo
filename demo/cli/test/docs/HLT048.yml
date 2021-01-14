@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: '8.100'
 links:
-- HLR023: e9bd12dbb9ef8311cb24d28291766a23
-- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
-- HLR063: b1b6217c7cf6d7be814389b1bdadedc2
-- HLR071: eb5f019d9458e537f2a0e396d6ec2f0d
-- HLR072: 05c44ac66e5c91420b2c82769350fd93
+- HLR023: LAd0nttPAsYbYWOyTt6CBQKk57q_n4gcFC-Yb20l8Co=
+- HLR025: hauM67QBCEHVbdeDyigs81NQkIvXmSfCdlVmHEA0v4Y=
+- HLR063: 3uopQiNTmNdNuFvc6MaxuPSFYV8Lznn6Q6ftADHmJi4=
+- HLR071: Rg6rpUCjvMNKCYgpAThGvguZM9JTtjD4ZYh4Y5eJeAc=
+- HLR072: ZjWpFkbP-xZLULkCTCNxgkweZjYckv3dDHjAi4rZp3A=
 normative: true
 ref: ''
-reviewed: bb381b2f2d26b6a9a6aced637baf381a
+reviewed: JoI8ddpiGJf4DFW9o1v3jWgUHdofJEEFkqqWd3M9f8Y=
 text: |
   Verify lorem markdownum
   [adituque](http://kimjongunlookingatthings.tumblr.com/) iam; sibi tamen

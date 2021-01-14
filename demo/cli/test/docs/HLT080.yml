@@ -1,12 +1,13 @@
 active: true
 derived: false
+header: ''
 level: 8.38
 links:
-- HLR011: fb47d13ca2bcd7c22beff68af53ef365
-- HLR079: d0976b23bdd14a4a47002c3a40b83f45
+- HLR011: CXAnr18_wKhSdoV7eggkbgY5D61zGsFdUXD9Zrh6RxU=
+- HLR079: ZSzSPqSqcBcn2LfBoisaE_EnKXVxMVhqsyxLwefU5JQ=
 normative: true
 ref: ''
-reviewed: ff5f7577df84bd15ec88325c2cd3c8c5
+reviewed: GAHGC42c4CFIy5fUOhQvlVJPYk6L__hK6F3VWRaEis8=
 text: |
   Verify lorem markdownum [subiere Echo](http://www.mozilla.org/), huc mei
   precatur geminos dixerat. **Datur caelatus et** fugae captabat.

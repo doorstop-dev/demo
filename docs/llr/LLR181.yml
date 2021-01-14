@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 23.58
 links:
-- HLR048: 56aa735358f7210502ed2e7a7527fa22
-- HLR067: 9d79eff61851f166e5b50b1101749942
-- HLR089: fc17c48818f1757f2f8a232d4f1e38cf
+- HLR048: C6TrsUDGY_t_45jsxclK263msyKeOxQ84kO3T8lrB3M=
+- HLR067: g4aVeAEVQg44ZTXKsVn1mgXwM-kEbO1AR6pyLVeaqfE=
+- HLR089: Dsna6heZpcRTGPy2x2wtfNpbZE42xsGsYvjYNpU1lhg=
 normative: true
 ref: ''
-reviewed: 54dd7c9b745674cd01c3ef6367f16b0f
+reviewed: WBGi69OfyEVR-QfTFthRneAq6Xwmw-ZoZ-WWbWdbdgM=
 text: |
   Lorem markdownum **SHALL** eadem lassatis ima, et vulnere navale timide
   **fixis**; huic mansit irae nisi mole vota aspicit.

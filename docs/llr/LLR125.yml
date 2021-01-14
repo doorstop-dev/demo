@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: 23.35
 links:
-- HLR005: 782d35ca3637a2b49051cc44dc073f0a
-- HLR013: a08f2929dcca39e42a0270e8f7db581b
-- HLR042: f7b518368c519ccc517951252e013f1b
-- HLR048: 56aa735358f7210502ed2e7a7527fa22
-- HLR076: 62d8f849b82682833a2295608f3347b5
+- HLR005: JFRxIsDqYmLTnFihENQHb9GHUbXynFCjbVHzpjT8C7U=
+- HLR013: dg8Pkbtox6W1XVMBDzL99_9s_IMsgXwPjbWTomLrza8=
+- HLR042: NZmkcP7oELe8MDlcUQSBXhsB3WHJpoZT3mXjUkF5DnI=
+- HLR048: C6TrsUDGY_t_45jsxclK263msyKeOxQ84kO3T8lrB3M=
+- HLR076: _uqqv1f1IVqCRkQ_zBGm9v9p1OomXFFPRwE0AXaE2Vg=
 normative: true
 ref: ''
-reviewed: 60747eb1b3c951125ed7ccf79e07aae2
+reviewed: Vtch5cjSy49pWYoMbTyPTQMQk9p4-fjmkiO_HWy6u7U=
 text: |
   Lorem markdownum **SHALL**, est quid gaudia illa dicta Cinyras caeleste
   stupuit.

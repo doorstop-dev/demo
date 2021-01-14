@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 23.27
 links:
-- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
-- HLR065: 3a53d19c665b6d1086f8a976b4dd7e31
-- HLR074: 38c65f74794de9a94a7cfcf4c311f80b
-- HLR077: f3065f2ef4069554db40e890309903dc
+- HLR025: hauM67QBCEHVbdeDyigs81NQkIvXmSfCdlVmHEA0v4Y=
+- HLR065: spsRe8NfG-aZzqVYHuC3YKNr0hCumCi2qySkeDjFYBY=
+- HLR074: 4UAOZJ9dESOJs3mXtMVDlk15SbigbrHj8sTht91tkCc=
+- HLR077: 4qU-Be2MsrWVhRcT951-8xhqnNVxOVolynqG1AkmcUY=
 normative: true
 ref: ''
-reviewed: 5d559a9380b87271b2f44c2a8f7f6864
+reviewed: fdu8wfOCBy952oDl3AdShiX5Sy8mjCMw1sK0tBUHL_E=
 text: |
   Lorem markdownum **SHALL** modo.
   Mutat sibi color mediis *ab carmen*! Una illa supersint artes heros cum

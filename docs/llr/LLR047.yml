@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: 9.3
 links:
-- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
-- HLR016: f62dcef37de26a547aa5a43e2558de94
-- HLR018: 052c75e3524720b2fa74b8546334a5f6
-- HLR024: 53137531d57b6e976f8bef6eacfcb46e
-- HLR044: 17ba7dfa59a6605406dd7b30fecc1a7f
+- HLR004: 49DZfQwjcIEn5M1S5HEyON39Bt30qY57RMvF8mpZTmY=
+- HLR016: z3BzSXQAvav940JVsERgmVhRmLoHm6ATwUIe3NFS9io=
+- HLR018: LCkpKbaiu7TP4_8HSdoQoBjLkDpN6rEDO_YyLgbh698=
+- HLR024: AE6lDQmyOsI7bOYh3fa7w7ecX7g6K4vIh-JsMuqE-1M=
+- HLR044: DZJw4GHbDvqZ2eZQdtortZolTRcPXJDwAsOnNknOrSc=
 normative: true
 ref: ''
-reviewed: 980ebf871da838983b6471e986c507f1
+reviewed: tsOUgBm_JO2-nznu3fgeqa1lnIetrvI_nSp45qCxk1E=
 text: |
   Lorem markdownum **SHALL** senis in, vera inde canebat miracula tamen nitorem
   dextera rata Theseos?

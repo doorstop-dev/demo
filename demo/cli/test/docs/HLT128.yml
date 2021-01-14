@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: 8.91
 links:
-- HLR012: cfa33cbcb685a3d18af2bd8304c76784
-- HLR014: 9f92692d382bfcf647ac097d27369c0a
-- HLR055: 1984551a3ed8ff9a4827af2afc7467a9
-- HLR062: 57e206d85145b169a59ee9e5f4bc48cf
-- HLR093: 8c277eeda417521852a9051e6a58907d
+- HLR012: MwIjxOZFuZEljJ2D3s0crWckTlw2hRInODCtXmKk4y4=
+- HLR014: R07WUgiu8vp7bTheoiwa5SBEVLOoKiliG9vWlGz6yPo=
+- HLR055: 2PdTIfQFHKLtVn3Pqwm1ty40Vt9nDUT1AjsQ9M4hFEk=
+- HLR062: CCugr1NuiKKPVB_89nGZ0ZzYUuFm0lY-PBEjm_kaBxU=
+- HLR093: 1NO6GnnOnNbTmj6atYyCWyUOI4QaWTSY3XhlR0hv0nI=
 normative: true
 ref: ''
-reviewed: 449b6d319cdcb3cd3b447d815ad140b1
+reviewed: sUqNail95XR9wWeFds3qJhZPF_Mh97tPEQ41E9Nb8w8=
 text: |
   Verify lorem markdownum fuit: manu acu petis, me deus mutat, portantes, nec
   quare flavescere.

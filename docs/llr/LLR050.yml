@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 10.2
 links:
-- HLR064: 738b10155b97a5775f28bab75eb8c067
-- HLR068: 5f9d0cd1f99f10bb682f0d0af1422c54
-- HLR088: c9bece27e8e832e9e39e6931ce494a30
+- HLR064: u00X5KpYioz1bkV8e8lyf0E5l6Nx55Mps0w_KUpmTpk=
+- HLR068: -ZQTpCqslvyhsOWsngZ2uLEkb7Uddi-ohAAbRhTg3Ew=
+- HLR088: K10_36Jj5Kca80bonI73lNE-FQye1WT1idhmc2bJ7M0=
 normative: true
 ref: ''
-reviewed: 00a763d31d7d979f0ada60e837b775d7
+reviewed: bmZMtYz0bA2KeMrG-cjuQL9aimw3OF5phTfeTINQwfI=
 text: |
   Lorem markdownum **SHALL** Perimelen [qua](http://tumblr.com/) admoto timore
   vulnus.

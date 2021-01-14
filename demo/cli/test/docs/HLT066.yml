@@ -1,11 +1,12 @@
 active: true
 derived: false
+header: ''
 level: 8.102
 links:
-- HLR055: 1984551a3ed8ff9a4827af2afc7467a9
+- HLR055: 2PdTIfQFHKLtVn3Pqwm1ty40Vt9nDUT1AjsQ9M4hFEk=
 normative: true
 ref: ''
-reviewed: 2d4b9fc4d968fb41ac4251d641d56051
+reviewed: puLG2FKx0kadX1vN3vcPThn2q1F1Gaawjf94Aou0Uzo=
 text: |
   Verify lorem markdownum caecum dederunt cupidine nomine erit onus
   [resistite](http://haskell.org/) aethere?

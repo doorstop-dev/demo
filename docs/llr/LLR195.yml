@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 23.26
 links:
-- HLR046: 816db4153bde67375509bac7fd4c998a
-- HLR048: 56aa735358f7210502ed2e7a7527fa22
-- HLR064: 738b10155b97a5775f28bab75eb8c067
-- HLR087: 9af49b45e12f3a85eaee83259d295f4e
+- HLR046: Xr6MHhlM7p8P43MFhi5rji4ahirb8kC5Cdll72v0Ap4=
+- HLR048: C6TrsUDGY_t_45jsxclK263msyKeOxQ84kO3T8lrB3M=
+- HLR064: u00X5KpYioz1bkV8e8lyf0E5l6Nx55Mps0w_KUpmTpk=
+- HLR087: _dUwrA0qzykVv7agjM3kjO8ruS34qqjBcJKhnbzT0uE=
 normative: true
 ref: ''
-reviewed: e01a644dfaf33f8ff678be064143170f
+reviewed: K5rwi1SdAi4_oi9FubVCM1bn0QDJI1F7UWgANOxFNyc=
 text: |
   Lorem markdownum **SHALL** patriaeque portitor arva ungues partes monimenta
   saepe aetasque, hoc hiatus aethera, et vellent et.

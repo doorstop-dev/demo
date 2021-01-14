@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 19.3
 links:
-- HLR006: f2f526a9dbb2135b4611ec40e9911260
-- HLR022: d6337ec7821ed2c4a92c96fe40d7db8f
-- HLR059: 78b7ca6f523c75544862bbfa58942b37
-- HLR089: fc17c48818f1757f2f8a232d4f1e38cf
+- HLR006: j5_FIn8eTb9QwOmfMfvwoZuZrbrOeUoDOsg8-yDZuFY=
+- HLR022: WLGUXIJh7Oj_5ERr8jMbW5XYKblF9PiDgX9EmDnAnrw=
+- HLR059: N1o7YrmJ7kIgwo57Wa4654iediGTsP-xhvi5hmcQRME=
+- HLR089: Dsna6heZpcRTGPy2x2wtfNpbZE42xsGsYvjYNpU1lhg=
 normative: true
 ref: ''
-reviewed: 0cb1ce0ff1e89040ef54e678474139c6
+reviewed: p1bANjerb1Jv8N5ELQtPOWlvrhtjVxdxB27fwA0Pa-I=
 text: |
   Lorem markdownum **SHALL** auditaque demittit ac ante circuiere in intenta
   veluti quattuor bimatrem, super sint caelestia hac.

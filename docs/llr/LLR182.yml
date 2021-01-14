@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 23.67
 links:
-- HLR083: 305ce60932ad0c6f8a3827d6c9ab6674
-- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
-- HLR095: 5c1e4086f2b6913304bca55a2ae3c065
+- HLR083: EI38qwAZYnmD6j6Q2Xqpa2pmbXv6fC059iOdIONSvls=
+- HLR094: sqkSw5AHyhHRR0Wj6aZEQXZl78-frrtpvlPy9Fu03to=
+- HLR095: rO91mitPRUhHa1e1_C2FtB_6fCOH89fy_f52KZcxnpU=
 normative: true
 ref: ''
-reviewed: 5214c271895db295a0ac2f86b62b258d
+reviewed: 90AV1BkvoVU2KQhKhTK_Ka1cPrELT8i_CAas6h4zhm0=
 text: |
   Lorem markdownum **SHALL** verso, pervenit dum dixi pars cur capitis vulgata.
   Aliquid aut concipiunt eburnae facta.

@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 8.78
 links:
-- HLR006: f2f526a9dbb2135b4611ec40e9911260
-- HLR046: 816db4153bde67375509bac7fd4c998a
-- HLR059: 78b7ca6f523c75544862bbfa58942b37
-- HLR061: 21d47aa8307e87377b55817212beae08
+- HLR006: j5_FIn8eTb9QwOmfMfvwoZuZrbrOeUoDOsg8-yDZuFY=
+- HLR046: Xr6MHhlM7p8P43MFhi5rji4ahirb8kC5Cdll72v0Ap4=
+- HLR059: N1o7YrmJ7kIgwo57Wa4654iediGTsP-xhvi5hmcQRME=
+- HLR061: 2rCc9u30Fpk_otgO_sb5j478h6z_wrfm3sJWU25OS0M=
 normative: true
 ref: ''
-reviewed: 4f7bc4e9d0aa4e1e019b3e2327476a2f
+reviewed: 4z1PQBAoyyKeaufz_2J8IX3F6hW5x1e6Hve5YyiV4LU=
 text: |
   Verify lorem markdownum lunae Arcas arcum nomine reos quaeque, nec precibus
   nunc siquem concipientibus.

@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 23.74
 links:
-- HLR003: cc852012ad2f6c8ad8503f5d8b6290ad
-- HLR055: 1984551a3ed8ff9a4827af2afc7467a9
-- HLR085: 8f9bb7708fb44a90426d24efe969e48e
+- HLR003: WvHGEJD-E3331OPcuYntln1YDjCa12RcIUOp8xB3Vio=
+- HLR055: 2PdTIfQFHKLtVn3Pqwm1ty40Vt9nDUT1AjsQ9M4hFEk=
+- HLR085: r_HElYavYz2IROZ-lVZkgeJlvkLbcdWNKuoX-DKKx2Q=
 normative: true
 ref: ''
-reviewed: f153548d03db43f48dda2d5976579298
+reviewed: aVWREWRuOfi8Ywa72oVT-tbnoXjaAp0wVhjgfzgYOyw=
 text: |
   Lorem markdownum **SHALL** temptabimus, coryli mihi missae *confundant
   posset* Thessalidum.

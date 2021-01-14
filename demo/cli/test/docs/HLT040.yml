@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 8.4
 links:
-- HLR028: 9f56b2f8da9f4a004d2cd3e83e3da7c3
-- HLR069: 83550644e3a1d495e4b9ecf35c435981
-- HLR096: 106add8d49e2341dc81214cee7519924
+- HLR028: hgXmy-Gaq8eMnrWY5rk2HzlnQGTZliEVyu3j04IQ1vM=
+- HLR069: vqzznF97ESalhq54WAQDLygGPtaYfT4wtGvvGF9SYCg=
+- HLR096: j_gt8e2YIOq6lk3XZHeBYW5bmseaeOckcj2BPx9emTw=
 normative: true
 ref: ''
-reviewed: fe6e2032f6834f5b4307247106048433
+reviewed: sX1PTOn6daxSf7itzwO-7ce-wtqCnsnWaW39k1vciFw=
 text: |
   Verify lorem markdownum quamvis litem si diversa veniat orba sua, cum Iapeto
   paternis infectis mentae, rurisque polenta.

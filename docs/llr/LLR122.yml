@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: '23.80'
 links:
-- HLR042: f7b518368c519ccc517951252e013f1b
-- HLR060: 85f748bf9edd302de65894924958c3c5
-- HLR082: 840ae5cd6cdc2047fa83d7e6ff7fc7b4
+- HLR042: NZmkcP7oELe8MDlcUQSBXhsB3WHJpoZT3mXjUkF5DnI=
+- HLR060: 11bC7Ad4i59NK245Lj4l7zt0-vy9fraJwYDtJVbAlSk=
+- HLR082: rVABpFMbB7g95CCEMAsw1XA0pTsKSTkedq_AiAI7_3E=
 normative: true
 ref: ''
-reviewed: c4bc707839f968b0834ee22c4f00d561
+reviewed: 3xdGzsfyX5kwemMiDm41eEaIkdJHs3X5wsCsIpvoBqA=
 text: |
   Lorem markdownum **SHALL**, quotiensque saxum.
   Puer est dat eas illo durus putant, percussit inponere urbis occiduae unum

@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 8.166
 links:
-- HLR006: f2f526a9dbb2135b4611ec40e9911260
-- HLR046: 816db4153bde67375509bac7fd4c998a
-- HLR058: 4d68e2da5f4ace8317b50f88c9bfd46d
-- HLR076: 62d8f849b82682833a2295608f3347b5
+- HLR006: j5_FIn8eTb9QwOmfMfvwoZuZrbrOeUoDOsg8-yDZuFY=
+- HLR046: Xr6MHhlM7p8P43MFhi5rji4ahirb8kC5Cdll72v0Ap4=
+- HLR058: AbkeFjz4_a0QAV3j8c9YZ68pCv1eIQ6WQxKQKKW4N10=
+- HLR076: _uqqv1f1IVqCRkQ_zBGm9v9p1OomXFFPRwE0AXaE2Vg=
 normative: true
 ref: ''
-reviewed: 0b7bdf63c83496c6885fe8b1c84bb769
+reviewed: KAarum8bIWSQM6gDfxGCTXVD3Wh6nj6oanZU9vpc6XU=
 text: |
   Verify lorem markdownum enim non: umbras breviter eripiat, magni refers ferox
   et toto carmina domum **heros** accedat.

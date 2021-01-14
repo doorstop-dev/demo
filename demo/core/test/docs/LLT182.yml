@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 5.93
 links:
-- LLR013: f7b387860a28bbdd1aac0c15cf3bd0b6
-- LLR023: b820cc292abd0e61ba438ac5a61d2913
-- LLR122: 4db1890247d75c45f8a1c7325844fc66
+- LLR013: TLwProsNwsEyePXlbQGS1sCfYX_kELKiieBrhKZf2zw=
+- LLR023: 0VTkrBVoPyAO90HqC3_VUGCy7K8WRvbRzKiJ60rS1xE=
+- LLR122: pSGN2rMXHZp0PIKt6FMBfduRw1KhKzeAGtJjD1U7z3A=
 normative: true
 ref: ''
-reviewed: 68d993cb8dace860d4c71e2c2ed554fc
+reviewed: hTevApidb2H0afpRBZOCcQKHAIlsmLKpxbW0mWlwETo=
 text: |
   Verify lorem markdownum absens; dextera feci illo; occiduus discordia
   pascitur *obstiterit*? Securibus Solis.

@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 14.4
 links:
-- HLR009: 6da8ed61c313b1482bdb6da89d007eac
-- HLR013: a08f2929dcca39e42a0270e8f7db581b
-- HLR039: b7e189054d4fa57138c4bfebb3344bc2
-- HLR073: f1399f4ebb54c6d8ad15181b5218d154
+- HLR009: -fOEEh5cYguLabkEXxGqM0p5iDz88T8FrgiChwrBJEA=
+- HLR013: dg8Pkbtox6W1XVMBDzL99_9s_IMsgXwPjbWTomLrza8=
+- HLR039: Nk80VY1aUFfaBzOeF9V1QZY7IIo7_aL0239VoOaDkWM=
+- HLR073: 7AajvOZjVLA-Wcohh6rZGva7KjFD9UjppEu4DPhHke0=
 normative: true
 ref: ''
-reviewed: fbb85516853cbee1ed3a9e8e3e67633d
+reviewed: gaWyNWS2JvDVlGVzH7KDr1430EkwIP3xp-4Kkifvfck=
 text: |
   *Lorem markdownum **SHALL*** suggerit generosa dilectos digitoque et miserum
   quoque causamque quod [custode deum](http://zombo.com/) nullam, ubera, pro.

@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 8.45
 links:
-- HLR017: 7c34babb079cf13f34cc6379f6d62f8e
-- HLR025: 4f2c9dc4c2705f3ea0720712c3418a23
-- HLR044: 17ba7dfa59a6605406dd7b30fecc1a7f
-- HLR081: f85cc275a9545dc4ae6cc142fa5385fb
+- HLR017: xuwV5I1hq-BD4jWAbz2eZD8JE5cDZWK_TJcN9jkbvqk=
+- HLR025: hauM67QBCEHVbdeDyigs81NQkIvXmSfCdlVmHEA0v4Y=
+- HLR044: DZJw4GHbDvqZ2eZQdtortZolTRcPXJDwAsOnNknOrSc=
+- HLR081: ARW7zsmbb4i-Etk6rTtxYpbcgSxF8OhhUuZJG23Poow=
 normative: true
 ref: ''
-reviewed: 2807bb3cc0b676d763872620d2d1836b
+reviewed: muF1hTajZMHZ5jZpiqO-d3kQKleTruZ5qHkhyyi67RI=
 text: |
   Verify lorem markdownum occidit ratem quibus illo.
   Complexa o viret [fidem lingua](http://www.billmays.net/) mitte sinu Acasto

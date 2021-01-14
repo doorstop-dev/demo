@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 8.157
 links:
-- HLR034: 87889aab3af013c2c6700993f82c1984
-- HLR060: 85f748bf9edd302de65894924958c3c5
-- HLR075: 024621d141e0d33a01100d381bf459b2
-- HLR086: 8ffc8c6aaccf0712b20ca54488b704c7
+- HLR034: WQFsjfb3fqFmDoATO7_EFfwHc8u1GhmDJBwpfG5apSI=
+- HLR060: 11bC7Ad4i59NK245Lj4l7zt0-vy9fraJwYDtJVbAlSk=
+- HLR075: -hdIaPXXS_4YQjutdghd1aXjoG0dt28Px8PZHk-QQlo=
+- HLR086: _s2nOL4xuCs-TgLJDgjcUdLzRxHmsjGB5hxnogYTSCE=
 normative: true
 ref: ''
-reviewed: 8f66ad106ecf70f7be7f5f55b8610415
+reviewed: 1EJGoc_zT_DIJ5SiBvZZlMdQkvUOYrBgLLFBtW1HQdI=
 text: |
   Verify lorem markdownum multas *qui ille* fortuna removit vestra contentis
   quoque perveniunt vertice.

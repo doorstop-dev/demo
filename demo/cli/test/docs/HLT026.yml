@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: 6.7
 links:
-- HLR004: d2aa7bfe2a4fbbdeea5f1511a069d57d
-- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
-- HLR053: aca512755df1944bbde060425662d88e
-- HLR057: 108e6d69b95a3929d748aafdd89297e7
-- HLR078: 6ea8b59559dcdbc2e8b40f656f7a74af
+- HLR004: 49DZfQwjcIEn5M1S5HEyON39Bt30qY57RMvF8mpZTmY=
+- HLR027: NEDTLsqwgKFvgVmnx9JA6DwiC71FaZoJXfby9ew3K4U=
+- HLR053: 5vgBOjDRLw_lpNQ1sw9wEnIXX4t2bGTJ46EqGLU5y0U=
+- HLR057: mPvUWWYpyEi5WXD6zT9VuPpDeiSNmTnWeN4J3iE9rWY=
+- HLR078: f030NjazObS9SCVb1Z3ccX7AQZJFzE8kVtFY0GuBdb4=
 normative: true
 ref: ''
-reviewed: bfa4f4b7bb7d8dac2968c6f4ab37fe43
+reviewed: 6uieHb9eYUcSRFaPmO8d0H49wJQruqVuQ9chaHdGmI8=
 text: |
   Verify lorem markdownum sublime **Elymumque** dies quaerenti fronte.
   Agreste quae regnum animoque laetis stagnumque canis effecisse traxit.

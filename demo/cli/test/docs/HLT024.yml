@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 6.5
 links:
-- HLR011: fb47d13ca2bcd7c22beff68af53ef365
-- HLR076: 62d8f849b82682833a2295608f3347b5
-- HLR089: fc17c48818f1757f2f8a232d4f1e38cf
+- HLR011: CXAnr18_wKhSdoV7eggkbgY5D61zGsFdUXD9Zrh6RxU=
+- HLR076: _uqqv1f1IVqCRkQ_zBGm9v9p1OomXFFPRwE0AXaE2Vg=
+- HLR089: Dsna6heZpcRTGPy2x2wtfNpbZE42xsGsYvjYNpU1lhg=
 normative: true
 ref: ''
-reviewed: 6e6dd7ac7c382d71bea508695582be90
+reviewed: 4mzSWYXskfoT0G4GtxWWf0SQmah4gLSpWH01BEEE4DQ=
 text: |
   Verify lorem markdownum montes, vocesque ad sperat *studiisque Talibus*,
   pavefactaque natura moriri.

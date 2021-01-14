@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: 8.155
 links:
-- HLR014: 9f92692d382bfcf647ac097d27369c0a
-- HLR038: 4448f4f157157ec1b7d88bbe03489064
-- HLR057: 108e6d69b95a3929d748aafdd89297e7
-- HLR070: 4c5aec0fe1ce73b50af82540fa165e66
+- HLR014: R07WUgiu8vp7bTheoiwa5SBEVLOoKiliG9vWlGz6yPo=
+- HLR038: HAs_mH0KKvqN8L9F80COdJh9A18kx8FZ5x6NfoNvG1c=
+- HLR057: mPvUWWYpyEi5WXD6zT9VuPpDeiSNmTnWeN4J3iE9rWY=
+- HLR070: 3JH9asSAk2ABiheRI2B9IcDQF47s_in0-r4odbzToQo=
 normative: true
 ref: ''
-reviewed: a759efebb077edae2ddcb4748ac5750c
+reviewed: W8iEfgjkxv_dyGm7XCGIeGffuyD2_j8A7fpsRl10bVs=
 text: |
   Verify lorem markdownum interea de, videtur varias.
   Usque hunc at una mea, si dixit adstitit fuerat, tum?

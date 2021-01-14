@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 8.98
 links:
-- HLR023: e9bd12dbb9ef8311cb24d28291766a23
-- HLR092: 1b72db6fd71c8ee1e44ee71a5c409173
-- HLR099: 26e72fa3e3a95b20a96d530e001a4652
+- HLR023: LAd0nttPAsYbYWOyTt6CBQKk57q_n4gcFC-Yb20l8Co=
+- HLR092: Gy6G-tyuBbD_whYpuyhrVt6ZRUq5PidC0xxUNMd95I4=
+- HLR099: wDalC0RmAY5rFQWOnb0d-Qc1tXwPj01i1X8WQTwEtiQ=
 normative: true
 ref: ''
-reviewed: 6a2f5a6b1ccf03dfc8a5b578f603ead7
+reviewed: Mi_lYUqFZ9qG1CEQCyu62pZ86C-7SECne_0nkfT0oms=
 text: |
   Verify lorem markdownum Burin, eo sucus mentis tenuissima vastius dixit?
   Isto obruit et dicentem vultus Siculaeque ultima **dextra** laetabitur

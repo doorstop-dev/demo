@@ -1,11 +1,12 @@
 active: true
 derived: false
+header: ''
 level: 23.24
 links:
-- HLR094: 87b0d4e47ffb98bc2bd7918200948e42
+- HLR094: sqkSw5AHyhHRR0Wj6aZEQXZl78-frrtpvlPy9Fu03to=
 normative: true
 ref: ''
-reviewed: 4e5b33106804f3e2bf2826839b69dcbd
+reviewed: -RFMnXfPdofr7lkyMbWVow-jvYMgtTm54d-kuB165M8=
 text: |
   Lorem markdownum **SHALL** claudunt quicumque somnus.
   Est parte maneas novitasque noctes sideraque ego ad Cephaloque Troius

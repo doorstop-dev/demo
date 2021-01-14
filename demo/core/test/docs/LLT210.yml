@@ -1,11 +1,12 @@
 active: true
 derived: false
+header: ''
 level: 5.134
 links:
-- LLR060: 043c258f9089b7d12cba69e292c5a7bc
+- LLR060: xmMeEUPSBBLXqvRXZbqqXkieMSQ8lBr8zFOANBMCU0c=
 normative: true
 ref: ''
-reviewed: d3fb76d5a79b8ae5ddd983537c9e3642
+reviewed: vsunJIOXU7IYi194P2hz4ZCXAaRIxRvQTpBXAEhb2W0=
 text: |
   Verify lorem markdownum habitata [plus](http://twitter.com/search?q=haskell):
   non nataeque rapiunt aperto.

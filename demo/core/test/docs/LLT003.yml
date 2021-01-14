@@ -1,12 +1,13 @@
 active: true
 derived: false
+header: ''
 level: 1.2
 links:
-- LLR077: cf0e34a2ff790298bb1d01c5c507e566
-- LLR106: 94ec80204ad02a8a52eb8fef583e93d4
+- LLR077: dCKoWyxWcTJ3a-sUN6M9jT-OV1jvl6PYJqhAb3PbUP4=
+- LLR106: wDbiBTEmrmib9dOWKGMcVKx6oqUmsY7YplVM3YjsAyE=
 normative: true
 ref: ''
-reviewed: 936a95477f2127c654583b2d1eb831ab
+reviewed: IWL1Y06BGOMvLWLxCruGJ4nNp4yLqwAKiZcSpkBG_hw=
 text: |
   Verify lorem markdownum; posses **et humano incola** colonos fuit viri.
   Causa dolorque mirantia.

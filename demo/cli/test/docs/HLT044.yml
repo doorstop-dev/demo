@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 8.5
 links:
-- HLR017: 7c34babb079cf13f34cc6379f6d62f8e
-- HLR079: d0976b23bdd14a4a47002c3a40b83f45
-- HLR087: 9af49b45e12f3a85eaee83259d295f4e
+- HLR017: xuwV5I1hq-BD4jWAbz2eZD8JE5cDZWK_TJcN9jkbvqk=
+- HLR079: ZSzSPqSqcBcn2LfBoisaE_EnKXVxMVhqsyxLwefU5JQ=
+- HLR087: _dUwrA0qzykVv7agjM3kjO8ruS34qqjBcJKhnbzT0uE=
 normative: true
 ref: ''
-reviewed: 7453158d336902712c6dc14cc1a0be41
+reviewed: Ov89g-AM6hy8h14LsnsweQWsHfL8Tx0PyDkKbwvnyus=
 text: |
   Verify lorem markdownum totis, unguibus mittit manu, movent et gessit
   concidere aetheriis, **tendi**? Este iam corpus Pelasgos destruitis crimen

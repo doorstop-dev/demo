@@ -1,11 +1,12 @@
 active: true
 derived: false
+header: ''
 level: 23.32
 links:
-- HLR011: fb47d13ca2bcd7c22beff68af53ef365
+- HLR011: CXAnr18_wKhSdoV7eggkbgY5D61zGsFdUXD9Zrh6RxU=
 normative: true
 ref: ''
-reviewed: 84b7367d5f795ef2e6566af7b1bea69f
+reviewed: kyYfPzwio0aI-H7_jd5adWLhpi4Tzo7lwRFFBcu7avI=
 text: |
   Lorem markdownum **SHALL** *redit cum* undas illa, et video hoc refecta
   nullus male, fulgorem.

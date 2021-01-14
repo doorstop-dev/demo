@@ -1,14 +1,15 @@
 active: true
 derived: false
+header: ''
 level: '8.20'
 links:
-- HLR027: 2aa3fb8ba9e93b10665ac9de55084962
-- HLR066: 28e63ccca90b062ccfdc3c168cc3369b
-- HLR075: 024621d141e0d33a01100d381bf459b2
-- HLR097: 9c167b955cc3e7cb92dcfdd46066a1d5
+- HLR027: NEDTLsqwgKFvgVmnx9JA6DwiC71FaZoJXfby9ew3K4U=
+- HLR066: 7Qnz0dk6m3Jsv06xpc8EgFx3X31r6kDiDrKg4cblKAc=
+- HLR075: -hdIaPXXS_4YQjutdghd1aXjoG0dt28Px8PZHk-QQlo=
+- HLR097: kXG7fOjMCe56Zq_Mxoi-EfRe9RIho4kIUPcJbDHODfs=
 normative: true
 ref: ''
-reviewed: 1d3278d032ddc9b9a8b634c257ea645e
+reviewed: JLSYpl0kTGhT4rqTVO20igLgW_GUSIFwg0U1glNtY-4=
 text: |
   Verify lorem markdownum [tectus videtur admonitu](http://www.lipsum.com/).
   Genero hastilia iuris sine superis, ad *ramis* revolet ille sua.

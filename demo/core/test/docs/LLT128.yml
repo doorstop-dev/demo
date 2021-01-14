@@ -1,15 +1,16 @@
 active: true
 derived: false
+header: ''
 level: 5.88
 links:
-- LLR081: a6e6601cdc9e9515b9963bebefd3b7bd
-- LLR120: 38388486d3fde99693e6e8452ca172b6
-- LLR133: 2a984f8410a468e3eb6943b70c20b962
-- LLR171: 3a84775fe1db5e9baf4213faeecff9b8
-- LLR184: ffd8d7a7005ee3a0e037b8cf86d5aa0c
+- LLR081: RK2apaC2qfBSQJFGoWFIFeiaiNlw2zFim0yr4WTb2JM=
+- LLR120: YCPmYBRm_PfMK6jBCBL5nvLSuQYgCinuh6wE69YjRYE=
+- LLR133: y1fT-7iLFXLAaaPs9Vlc6LCVPIXUO4ssFfKycpB76jE=
+- LLR171: N2q9GA0likWSpgf7Hn5T9yrp6onuoT62CjyHzc_iv-4=
+- LLR184: pP6Or_vGx4iywnlk55DY_0RzIBNDR1lo1VbQ7hO14PY=
 normative: true
 ref: ''
-reviewed: 7b19837cf4239443e464f127762ba5e6
+reviewed: egStjg_CY0tbv_yjRb9jYdw0Ei_rrRUlVOsSRbvMQOg=
 text: |
   Verify lorem markdownum niveis maerenti retia; volantes baculum [quoque et
   pietate](http://www.reddit.com/r/haskell) imbres quantusque solet, illa.

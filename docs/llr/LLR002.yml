@@ -1,13 +1,14 @@
 active: true
 derived: false
+header: ''
 level: 1.1
 links:
-- HLR037: 5594301e2db2b6d85bbb940a4010a550
-- HLR042: f7b518368c519ccc517951252e013f1b
-- HLR057: 108e6d69b95a3929d748aafdd89297e7
+- HLR037: XB_DeUlNfINIzo_ClQvpqbrrqBEJvdYzpLmvx2v28Dk=
+- HLR042: NZmkcP7oELe8MDlcUQSBXhsB3WHJpoZT3mXjUkF5DnI=
+- HLR057: mPvUWWYpyEi5WXD6zT9VuPpDeiSNmTnWeN4J3iE9rWY=
 normative: true
 ref: ''
-reviewed: 61a8992b3e23539df1eeec6d728c3f5f
+reviewed: 98wsqjGMz95fDgsXcDKwVVFqvv1VIZ0zAawNtbjfSJM=
 text: |
   Lorem markdownum **SHALL**, eloquio: Orci onus frontem oenea harpen.
   Secuta est *aequo incedit exanimis* incumbit comis, harenam demptum.

@@ -1,11 +1,12 @@
 active: true
 derived: false
+header: ''
 level: '8.40'
 links:
-- HLR077: f3065f2ef4069554db40e890309903dc
+- HLR077: 4qU-Be2MsrWVhRcT951-8xhqnNVxOVolynqG1AkmcUY=
 normative: true
 ref: ''
-reviewed: 5a5df5ceae84205cf09d73e5ae851164
+reviewed: ZZnoQicNiC7fyfcT9d6MtnJvyJsqsGJBO2SCa-zjnvQ=
 text: |
   Verify lorem markdownum milia curae populorum telis armiferos vobis
   tribulique summa. [Periuria in](http://tumblr.com/) addit naris

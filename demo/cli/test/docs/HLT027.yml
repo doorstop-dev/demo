@@ -1,12 +1,13 @@
 active: true
 derived: false
+header: ''
 level: 6.8
 links:
-- HLR039: b7e189054d4fa57138c4bfebb3344bc2
-- HLR100: 35ea93d184f00bcc36421dd33778b9cf
+- HLR039: Nk80VY1aUFfaBzOeF9V1QZY7IIo7_aL0239VoOaDkWM=
+- HLR100: WLRxwnsTMYDSX-obKl3euP4rvvRMaZVW2jQRkvOL0_M=
 normative: true
 ref: ''
-reviewed: 666e321a926cedb7db70ea103a3f16e5
+reviewed: 70PPks5aOBz4haBFMCpWoxDfoDsBmps5lbYczb9ipbM=
 text: |
   Verify lorem markdownum lugebitis es opta.
   Suam tristi: dat, circa: voluere virtutis precor laetabile geminis florem
