@@ -44,5 +44,5 @@ setuptools.setup(
         'Topic :: Text Processing :: Markup',
     ],
 
-    install_requires=["PyYAML == 3.10", "Markdown == 2.3.1", "requests"],
+    install_requires=["PyYAML == 5.4", "Markdown == 2.3.1", "requests"],
 )
