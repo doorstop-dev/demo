@@ -47,7 +47,7 @@ Live Output
 
 Generated HTML:
 
-http://jacebrowning.github.io/doorstop-demo
+http://doorstop-dev.github.io/demo/
 
 Published by:
 
