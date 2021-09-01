@@ -51,4 +51,4 @@ http://doorstop-dev.github.io/demo/
 
 Published by:
 
-https://travis-ci.org/jacebrowning/doorstop-demo
+https://app.travis-ci.com/github/doorstop-dev/demo
